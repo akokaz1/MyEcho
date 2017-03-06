@@ -1,0 +1,17 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+16	University of Glasgow	546	4.52	3.21	99	100.0
+15	The University of Manchester	507	4.32	3.38	99	99.3
+14	Queen Mary, University of London	496	4.46	3.34	99	98.7
+13	Newcastle University	501	4.37	3.31	98	98.6
+12	King's College London	496	4.34	3.31	99	98.3
+11	Cardiff University	488	4.37	3.42	99	98.1
+10	University of Dundee	509	4.5	3.07	100	98.0
+9	University of Bristol	486	4.11	3.2	99	97.6
+8	University of Birmingham	487	4.52	3.29	100	97.4
+7	Queen's University, Belfast	471	4.83	2.89	98	97.0
+6	University of Leeds	468	4.37	3.27	98	96.9
+5	The University of Sheffield	460	4.44	3.21	99	96.4
+4	University of Liverpool	442	4.76	3.09	99	95.8
+3	University of Aberdeen	N/A	3.12	2.89	96	95.0
+2	University of Central Lancashire	N/A	4.08	2.63	100	94.8
+1	Plymouth University	463	4.66	2.58	100	94.6

@@ -1,0 +1,76 @@
+1	4	University of Stirling	461	4.11	3.01	81	100.0
+2	21	The University of Edinburgh	443	4.27	3.19	77	99.9
+3	1	Lancaster University	385	4.26	3.21	90	99.3
+4	5	University of Bath	403	4.23	3.23	84	98.5
+5	2	University of Birmingham	390	3.88	2.95	90	97.7
+6	10	University of the West of England	383	4.19	2.36	97	97.4
+7	8	Swansea University	 	3.96	3.07	97	96.4
+8	7	Robert Gordon University	365	4.10	2.44	90	96.2
+9	23	University of Kent	350	3.87	3.37	82	95.0
+10	9	Queen's University, Belfast	351	3.81	2.96	87	94.9
+11	15	The University of Warwick	 	4.18	2.76	 	94.8
+12	17	Glasgow Caledonian University	366	4.20	3.11	84	94.8
+13	14	University of Sussex	377	3.74	2.82	84	94.6
+14	20	University of Dundee	 	4.25	2.75	81	94.4
+15	27	Middlesex University	296	4.56	2.58	92	93.9
+16	19	Teesside University	334	4.27	2.99	85	93.9
+17	6	University of Strathclyde	393	4.03	2.94	67	93.5
+18	26	University of Huddersfield	348	4.11	2.83	80	92.5
+19	24	Keele University	304	4.03	2.86	85	92.3
+20	11	The University of Nottingham	357	3.38	3.13	 	92.2
+21	18	University of Portsmouth	308	4.09	2.33	89	91.8
+22	29	De Montfort University	341	4.08	2.55	79	91.7
+23	38	University of Salford	326	4.00	2.65	74	91.5
+24	28	University of Lincoln	338	4.00	2.45	83	91.5
+25	36	Liverpool Hope University	305	4.15	2.13	89	91.2
+26	30	Coventry University	336	4.29	2.01	77	91.0
+27	12	University of East Anglia (UEA)	 	4.10	3.38	63	90.8
+28	31	Ulster University	298	4.22	2.94	70	90.8
+29	25	Manchester Metropolitan University	354	4.15	2.64	70	90.7
+30	49	Goldsmiths, University of London	300	3.89	2.54	80	90.7
+31	44	London South Bank University	332	4.16	2.67	67	90.5
+32	58	University of West London	 	4.31	2.16	80	90.4
+33	13	University of Leeds	411	4.16	 	67	89.8
+34	33	University of Hull	291	3.95	2.58	80	89.4
+35	16	University of York	260	3.49	3.39	82	88.8
+36	37	Bournemouth University	286	4.51	2.56	72	88.7
+37	32	Oxford Brookes University	328	3.71	 	93	88.7
+38	34	Northumbria University	354	3.93	2.49	59	88.6
+39	41	University of the West of Scotland	273	4.16	2.23	78	88.5
+40	35	University Campus Suffolk	299	4.16	 	88	88.0
+41	66	University of Bedfordshire	222	4.10	3.05	85	87.9
+42	51	Kingston University and St George's, University of London	295	4.13	 	89	87.9
+43	42	University of Central Lancashire	314	4.04	2.58	63	87.6
+44	72	Wrexham Glyndwr University	 	4.08	1.78	70	87.6
+45	47	Birmingham City University	320	4.00	2.02	70	87.5
+46	39	Anglia Ruskin University	283	3.91	2.16	79	87.3
+47	68	Staffordshire University	317	3.90	 	83	87.1
+48	43	University of Bradford	311	3.72	2.86	65	86.7
+49	69	University of Brighton	324	4.03	2.60	56	86.6
+50	52	The University of Winchester	294	4.39	 	77	86.6
+51	50	University of Hertfordshire	316	3.78	 	83	86.6
+52	59	University of East London	297	3.86	2.64	66	86.5
+53	54	University of Sunderland	319	4.20	2.12	61	86.2
+54	40	University of South Wales	285	3.95	2.86	63	86.2
+55	57	University of Chester	291	4.11	1.25	79	86.1
+56	53	Plymouth University	281	3.60	2.77	69	85.9
+57	56	Sheffield Hallam University	304	3.80	 	82	85.9
+58	67	Leeds Beckett University	302	4.17	1.93	62	85.9
+59	48	Liverpool John Moores University	333	3.74	2.70	56	85.7
+60	46	Cardiff Metropolitan University	338	3.76	 	71	85.5
+61	45	Southampton Solent University	266	3.76	 	87	84.8
+62	62	University of Gloucestershire	290	3.87	 	77	84.6
+63	55	Nottingham Trent University	276	4.15	2.34	59	84.3
+64	64	University of Derby	293	4.20	 	68	84.3
+65	60	The University of Northampton	301	3.96	 	70	84.2
+66	75	Edge Hill University	321	4.17	2.03	44	83.6
+67	71	University of Chichester	294	4.11	 	63	83.1
+68	61	University of Greenwich	 	4.08	 	65	83.0
+69	65	Buckinghamshire New University	237	3.72	 	80	81.9
+70	63	London Metropolitan University	253	3.80	2.82	49	81.1
+71	77	University of Worcester	235	4.25	 	64	81.0
+72	74	University of Cumbria	253	4.08	 	58	80.1
+73	76	Canterbury Christ Church University	278	4.07	 	47	79.3
+74	-	Newman University	282	4.14	 	43	79.1
+75	73	University of Wales Trinity Saint David	238	4.34	 	46	78.2
+76	70	University of St Mark and St John	221	4.26	 	45	76.9

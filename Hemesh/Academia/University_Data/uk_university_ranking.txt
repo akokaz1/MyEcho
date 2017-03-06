@@ -1,0 +1,127 @@
+1  1  University of Cambridge  600  4.17  3.33  89.0  1000
+2  2  University of Oxford  574  4.17  3.34  86.7  998
+3  3  London School of Economics and Political Science  518  3.89  3.35  78.5  940  
+4  4  Imperial College London  567  4.15  3.36  90.8  938  
+5  5  University of St Andrews  520  4.23  3.13  83.2  927  
+6  5  Durham University  524  4.14  3.14  83.6  916  
+7  11  Loughborough University  410  4.26  2.95  83.6  897  
+8  7  The University of Warwick  485  4.09  3.22  79.5  889  
+9  9  Lancaster University  423  4.17  3.15  82.6  885  
+10  13  University College London  505  3.95  3.22  82.9  880  
+11  8  University of Surrey  431  4.31  2.98  78.7  870  
+11  11  University of Bath  478  4.18  3.17  85.1  870  
+13  10  University of Exeter  466  4.18  3.08  79.6  855  
+14  16  University of East Anglia (UEA)  423  4.17  3.11  70.1  841  
+15  18  University of Birmingham  423  4.08  3.07  86.5  832  
+16  19  University of Leeds  430  4.16  3.13  78.5  827  
+17  14  University of Southampton  417  4.08  3.15  77.9  821  
+18  21  University of Sussex  375  4.06  3.01  84.2  817  
+19  20  The University of Edinburgh  485  3.93  3.18  78.6  808  
+20  17  University of York  430  4.14  3.17  75.7  807  
+21  23  King's College London  462  3.91  3.23  85.7  799  
+21  25  The University of Nottingham  424  4.06  3.09  81.2  799  
+23  22  University of Kent  358  4.12  2.95  76.6  796  
+24  15  University of Bristol  476  3.96  3.18  79.5  791  
+25  28  The University of Manchester  433  4.05  3.16  78.4  773  
+25  26  Newcastle University  430  4.14  3.09  79.3  773  
+27  29  University of Reading  371  4.09  3.03  70.2  764  
+27  27  The University of Sheffield  415  4.14  3.17  75.5  764  
+29  30  University of Glasgow  467  4.12  3.10  79.5  762  
+30  32  Aston University  353  4.17  3.05  78.8  761  
+31  33  Queen Mary, University of London  404  4.12  3.18  73.0  756  
+32  24  University of Leicester  390  4.03  2.93  72.1  755  
+33  36  Queen's University, Belfast  385  4.13  2.99  78.4  754  
+34  37  Heriot-Watt University  406  4.12  3.06  77.9  751  
+35  31  Cardiff University  399  4.09  3.27  79.8  747  
+35  42  University of Dundee  426  4.19  3.03  79.9  747  
+37  34  Royal Holloway, University of London  402  4.15  3.09  62.4  743  
+38  39  University of Liverpool  383  4.01  3.06  75.8  742  
+39  47  University of Stirling  374  3.99  2.96  72.8  730  
+40  41  City University London  371  4.20  2.95  78.0  727  
+41  34  University of Essex  297  4.22  3.05  63.7  726  
+42  40  University of Aberdeen  441  4.00  2.97  76.0  718  
+43  43  The School of Oriental and African Studies, University of London  397  3.98  2.82  68.1  714  
+44  43  St George's, University of London  429  4.00  2.99  93.4  713  
+45  45  Swansea University  311  4.13  3.09  81.1  702  
+46  46  Keele University  350  4.28  2.88  75.6  691  
+46  60  Harper Adams University  338  4.11  2.66  73.7  691  
+48  38  University of Strathclyde  470  4.01  3.04  71.7  688  
+49  51  University of Lincoln  339  4.09  2.54  70.5  683  
+50  48  Coventry University  316  4.28  2.67  73.8  679  
+51  50  Goldsmiths, University of London  353  3.98  2.90  55.5  677  
+52  49  Brunel University London  349  4.06  2.67  63.0  672  
+53  63  University of Bradford  321  4.08  2.95  75.0  656  
+54  54  De Montfort University  292  4.14  2.67  76.8  648  
+55  69  The University of Buckingham  311  4.36    83.3  641  
+56  54  Bournemouth University  321  3.90  2.72  65.8  638  
+57  73  Manchester Metropolitan University  349  4.10  2.74  63.2  637  
+58  70  Falmouth University  310  4.14  2.04  73.5  634  
+59  60  Northumbria University  361  4.11  2.71  66.0  633  
+59  52  University for the Creative Arts  316  4.08  2.72  51.7  633  
+61  59  University of Portsmouth  321  4.14  2.75  66.8  631  
+62  58  Bangor University  342  4.26  2.99  67.2  629  
+63  53  Nottingham Trent University  305  4.15  2.59  66.3  627  
+64  63  Robert Gordon University  385  4.09  2.35  82.8  625  
+65  54  Oxford Brookes University  335  4.15  2.66  68.6  624  
+66  -  Norwich University of the Arts  343  4.15  2.69  63.1  621  
+67  62  University of the West of England  323  4.03  2.70  70.4  614  
+68  63  University of Hull  335  4.05  2.70  66.5  606  
+69  66  University of Roehampton  275  4.02  2.83  60.0  604  
+70  66  Ulster University  307  4.18  2.91  62.3  600  
+71  82  Edge Hill University  327  4.16  2.22  63.1  599  
+72  79  Cardiff Metropolitan University  315  4.03  3.00  59.0  598  
+72  72  Sheffield Hallam University  304  4.03  2.76  64.7  598  
+74  68  Liverpool John Moores University  342  4.12  2.79  63.0  596  
+74  86  The University of Winchester  293  4.17  2.32  60.5  596  
+76  70  Bath Spa University  321  4.20  2.52  54.5  586  
+76  57  Arts University Bournemouth  322  4.07  2.30  61.4  586  
+78  89  Middlesex University  297  4.02  2.58  64.7  580  
+79  75  University of Hertfordshire  302  4.01  2.61  74.7  577  
+80  77  University of Chichester  298  4.17  2.50  56.9  575  
+81  74  University of Huddersfield  331  4.13  2.65  73.6  572  
+82  83  Glasgow Caledonian University  385  3.98  2.67  70.1  568  
+83  97  Liverpool Hope University  307  4.28  2.21  53.4  567  
+84  90  Plymouth University  314  4.08  2.74  60.1  566  
+85  80  University of the Arts, London  314  3.92  3.12  59.0  561  
+86  95  Abertay University  338  4.04  2.16  65.6  557  
+87  86  Aberystwyth University  289  4.01  2.84  62.3  555  
+87  83  The University of Northampton  280  4.14  2.09  59.4  555  
+89  80  University of Gloucestershire  319  4.06  2.38  55.2  551  
+90  76  University of Brighton  301  4.00  2.84  66.6  550  
+91  94  University of Derby  302  4.16  2.07  59.1  546  
+92  92  Edinburgh Napier University  337  4.05  2.52  68.6  544  
+93  78  Queen Margaret University  350  4.02  2.65  58.2  540  
+94  93  University of Chester  303  4.12  2.08  63.1  539  
+95  96  University of Salford  316  4.05  2.54  59.2  535  
+95  88  Birmingham City University  316  3.96  2.64  64.3  535  
+97  105  University of Worcester  300  4.09  2.08  63.1  526  
+98  107  University of Greenwich  337  4.08  2.33  58.1  525  
+99  102  University of South Wales  321  3.97  2.51  58.4  515  
+99  91  University of Central Lancashire  317  4.06  2.51  62.3  515  
+101  103  Staffordshire University  274  4.11  2.20  57.7  506  
+102  100  University of Westminster  315  3.96  2.74  54.9  503  
+103  101  Leeds Trinity University  284  4.11  2.01  65.8  502  
+103  85  Royal Agricultural University  301  4.01  1.40  69.7  502  
+103  116  University of Sunderland  289  4.10  2.12  62.2  502  
+106  108  University of West London  301  3.99  1.92  60.0  498  
+107  99  York St John University  300  4.11  2.04  64.8  490  
+107  98  Teesside University  305  4.13  2.58  59.2  490  
+109  104  Kingston University  288  3.97  2.70  60.6  485  
+110  115  Anglia Ruskin University  254  4.14  2.37  64.7  483  
+110  118  University of the West of Scotland  316  4.08  2.36  65.1  483  
+112  106  Canterbury Christ Church University  270  4.02  2.38  57.6  475  
+113  113  Buckinghamshire New University  256  4.07  2.19  57.1  460  
+114  114  Leeds Beckett University  288  3.98  2.16  58.3  446  
+115  122  Southampton Solent University  275  4.02  1.63  54.1  443  
+115  119  London South Bank University  254  3.99  2.52  67.4  443  
+117  120  Newman University  298  4.15  2.13  52.6  442  
+118  109  St Mary's University, Twickenham  291  4.13  1.98  66.6  440  
+119  117  Bishop Grosseteste University  284  4.07  1.96  67.8  438  
+120  110  University of Bedfordshire  234  4.08  2.52  57.9  423  
+121  111  University of Cumbria  286  3.93  2.13  64.5  422  
+122  121  University of Bolton  283  4.10  2.04  59.9  406  
+123  125  University of Wales Trinity Saint David  284  3.99  2.39  50.2  397  
+124  112  University of St Mark and St John  288  3.92    60.5  379  
+125  123  Wrexham Glyndwr University  236  4.10  2.15  66.1  378  
+126  124  University of East London  277  3.93  2.71  45.2  376  
+127  126  London Metropolitan University  247  4.00  2.44  47.0  322  

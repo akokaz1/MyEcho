@@ -1,0 +1,14 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+13	University of Reading	393	4.03	3.22	95	100.0
+12	University of Aberdeen	N/A	3.92	3.23	N/A	97.6
+11	University of the West of England	N/A	4.38	2.71	N/A	97.4
+10	Ulster University	291	4.31	2.94	95	97.0
+9	Oxford Brookes University	333	4.1	2.89	N/A	96.6
+8	Sheffield Hallam University	275	4.28	3.13	90	95.2
+7	Northumbria University	N/A	4.11	2.52	N/A	94.7
+6	Nottingham Trent University	296	4.12	2.34	90	94.1
+5	Birmingham City University	N/A	4.08	2.66	80	93.8
+4	London South Bank University	N/A	4.15	1.83	N/A	93.2
+3	University of Bolton	N/A	3.88	1.38	N/A	90.6
+2	University of Greenwich	N/A	4.12	2.20	50	89.6
+1	University of Westminster	275	3.77	N/A	70	89.0

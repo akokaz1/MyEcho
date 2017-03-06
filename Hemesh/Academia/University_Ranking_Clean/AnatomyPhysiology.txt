@@ -1,0 +1,38 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+37	University of Cambridge	635	4.2	3.37	88	100.0
+36	University of Oxford	596	4.18	3.40	86	98.5
+35	University of Dundee	566	3.84	3.50	N/A	96.0
+34	University of East Anglia (UEA)	N/A	4.41	3.15	N/A	93.5
+33	University College London	499	4.08	3.25	76	93.4
+32	University of Glasgow	495	4.03	3.00	80	93.0
+31	University of Sussex	385	4.01	3.28	84	91.3
+30	Cardiff University	N/A	4.18	3.23	N/A	91.2
+29	Newcastle University	443	4.26	3.40	70	91.2
+28	Queen's University, Belfast	413	4.15	2.88	80	91.1
+27	University of Leeds	422	4.25	3.19	74	90.9
+26	King's College London	468	3.96	3.07	72	90.5
+25	University of Southampton	394	4.29	2.99	N/A	90.5
+24	University of Aberdeen	430	4.36	3.11	70	90.4
+23	St George's, University of London	366	3.63	2.95	94	90.0
+22	The University of Manchester	454	4.08	3.12	68	89.7
+21	Manchester Metropolitan University	346	4.32	2.88	84	89.3
+20	University of Huddersfield	362	4.35	N/A	98	89.3
+19	University of Birmingham	N/A	3.92	3.04	N/A	88.9
+18	Loughborough University	402	4.35	3.24	62	88.8
+17	University of Salford	316	4.42	2.63	86	88.2
+16	University of East London	340	4.09	3.05	82	88.0
+15	University of Bristol	443	3.82	3.16	62	87.8
+14	The University of Nottingham	414	4.2	2.88	66	87.8
+13	University of Liverpool	403	4.48	3.09	58	87.5
+12	The University of Edinburgh	N/A	3.99	3.35	62	87.4
+11	The University of Northampton	N/A	4.15	2.14	N/A	87.4
+10	Keele University	349	4.41	3.30	60	85.9
+9	University of the West of England	317	4.1	3.06	N/A	84.7
+8	Oxford Brookes University	320	4.01	2.67	66	84.3
+7	Ulster University	318	4.06	N/A	84	84.2
+6	University of Portsmouth	335	4.05	2.54	68	84.0
+5	Coventry University	290	4.58	3.14	60	83.9
+4	Plymouth University	356	4.14	2.58	62	83.6
+3	University of Central Lancashire	328	4.17	2.63	62	83.1
+2	University of Westminster	301	3.98	2.75	60	82.3
+1	Anglia Ruskin University	N/A	4.13	1.73	N/A	81.7

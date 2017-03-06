@@ -1,0 +1,26 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+25	University of Cambridge	574	4.45	3.41	84	100.0
+24	Durham University	557	4.3	3.29	76	96.1
+23	University of Oxford	544	4.18	3.26	78	95.8
+22	University of St Andrews	471	4.45	3.29	86	95.2
+21	University of Exeter	464	4.22	3.04	82	93.0
+20	The University of Warwick	421	4.35	3.08	72	90.5
+19	University College London	468	3.89	3.0	72	89.4
+18	Newcastle University	390	4.22	3.01	76	89.4
+17	University of Southampton	N/A	4.28	3.01	N/A	89.2
+16	King's College London	429	4.25	3.07	64	88.3
+15	University of Birmingham	398	3.88	3.18	76	87.8
+14	University of Bristol	459	3.75	3.06	68	87.8
+13	The University of Nottingham	383	4.15	3.14	62	87.0
+12	University of Glasgow	432	4.51	2.77	58	86.7
+11	University of Leeds	401	4.09	2.88	66	85.4
+10	The University of Manchester	366	4.19	2.87	64	84.1
+9	University of Reading	358	4.17	3.16	52	83.7
+8	Royal Holloway, University of London	404	4.5	2.6	60	83.7
+7	The University of Edinburgh	467	4.0	2.91	48	83.6
+6	University of Liverpool	362	4.18	2.79	58	82.4
+5	Swansea University	289	4.23	3.07	68	82.4
+4	University of Kent	317	4.28	2.86	58	82.2
+3	Cardiff University	361	3.95	3.19	48	80.4
+2	University of Wales Trinity Saint David	262	4.33	2.21	52	75.7
+1	University of Roehampton	252	4.36	2.7	38	74.6

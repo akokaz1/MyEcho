@@ -1,0 +1,293 @@
+City of Derby Academy
+Add City of Derby Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 151	Progress 8 score, description & confidence interval -0.79 
+Well below national average 
+(-0.97 to -0.61)	Attainment 8 score 34.1	Grade C or better in English & maths GCSEs 30%	Achieving the English Baccalaureate 7%	Entering the English Baccalaureate 38%	Staying in education or entering employment (2014 leavers) 86% 
+(160 of 186 pupils)
+Red House Academy
+Add Red House Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 115	Progress 8 score, description & confidence interval -0.80 
+Well below national average 
+(-0.99 to -0.61)	Attainment 8 score 40.8	Grade C or better in English & maths GCSEs 37%	Achieving the English Baccalaureate 10%	Entering the English Baccalaureate 17%	Staying in education or entering employment (2014 leavers) 90% 
+(103 of 115 pupils)
+Unity City Academy
+Add Unity City Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 147	Progress 8 score, description & confidence interval -0.80 
+Well below national average 
+(-0.98 to -0.62)	Attainment 8 score 32.7	Grade C or better in English & maths GCSEs 24%	Achieving the English Baccalaureate 3%	Entering the English Baccalaureate 32%	Staying in education or entering employment (2014 leavers) 81% 
+(112 of 139 pupils)
+Kirkby College
+Add Kirkby College to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 87	Progress 8 score, description & confidence interval -0.80 
+Well below national average 
+(-1.03 to -0.58)	Attainment 8 score 39.7	Grade C or better in English & maths GCSEs 43%	Achieving the English Baccalaureate 14%	Entering the English Baccalaureate 49%	Staying in education or entering employment (2014 leavers) 87% 
+(78 of 90 pupils)
+Discovery School
+Add Discovery School to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 63	Progress 8 score, description & confidence interval -0.80 
+Well below national average 
+(-1.07 to -0.54)	Attainment 8 score 45.6	Grade C or better in English & maths GCSEs 43%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 2%	Staying in education or entering employment (2014 leavers) NA
+Thomas Middlecott Academy
+Add Thomas Middlecott Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 106	Progress 8 score, description & confidence interval -0.81 
+Well below national average 
+(-1.03 to -0.59)	Attainment 8 score 35.6	Grade C or better in English & maths GCSEs 26%	Achieving the English Baccalaureate 3%	Entering the English Baccalaureate 24%	Staying in education or entering employment (2014 leavers) NA
+St Helens College
+Add St Helens College to compare basket
+Type of school College	Number of pupils at the end of key stage 4 41	Progress 8 score, description & confidence interval -0.81 
+Well below national average 
+(-1.14 to -0.49)	Attainment 8 score 37.4	Grade C or better in English & maths GCSEs 20%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) NA
+Wennington Hall School
+Add Wennington Hall School to compare basket
+Type of school Special School	Number of pupils at the end of key stage 4 15	Progress 8 score, description & confidence interval -0.81 
+Well below national average 
+(-1.39 to -0.24)	Attainment 8 score 26.0	Grade C or better in English & maths GCSEs 7%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 27%	Staying in education or entering employment (2014 leavers) 73% 
+(11 of 15 pupils)
+The West Grantham Academy St Hugh's
+Add The West Grantham Academy St Hugh's to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 99	Progress 8 score, description & confidence interval -0.81 
+Well below national average 
+(-1.03 to -0.59)	Attainment 8 score 35.0	Grade C or better in English & maths GCSEs 23%	Achieving the English Baccalaureate 1%	Entering the English Baccalaureate 17%	Staying in education or entering employment (2014 leavers) 91% 
+(110 of 121 pupils)
+Raine's Foundation School
+Add Raine's Foundation School to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 124	Progress 8 score, description & confidence interval -0.81 
+Well below national average 
+(-1.00 to -0.62)	Attainment 8 score 41.3	Grade C or better in English & maths GCSEs 35%	Achieving the English Baccalaureate 16%	Entering the English Baccalaureate 27%	Staying in education or entering employment (2014 leavers) 93% 
+(122 of 131 pupils)
+Clare Mount Specialist Sports College
+Add Clare Mount Specialist Sports College to compare basket
+Type of school Special School	Number of pupils at the end of key stage 4 32	Progress 8 score, description & confidence interval -0.81 
+Well below national average 
+(-1.18 to -0.44)	Attainment 8 score 14.3	Grade C or better in English & maths GCSEs 0%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 100% 
+(28 of 28 pupils)
+Bolton St Catherine's Academy
+Add Bolton St Catherine's Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 130	Progress 8 score, description & confidence interval -0.82 
+Well below national average 
+(-1.01 to -0.63)	Attainment 8 score 37.5	Grade C or better in English & maths GCSEs 19%	Achieving the English Baccalaureate 4%	Entering the English Baccalaureate 6%	Staying in education or entering employment (2014 leavers) 80% 
+(107 of 133 pupils)
+The Nuneaton Academy
+Add The Nuneaton Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 162	Progress 8 score, description & confidence interval -0.82 
+Well below national average 
+(-0.98 to -0.65)	Attainment 8 score 37.1	Grade C or better in English & maths GCSEs 36%	Achieving the English Baccalaureate 1%	Entering the English Baccalaureate 3%	Staying in education or entering employment (2014 leavers) 90% 
+(194 of 215 pupils)
+Rushden Community College
+Add Rushden Community College to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 171	Progress 8 score, description & confidence interval -0.82 
+Well below national average 
+(-0.98 to -0.66)	Attainment 8 score 42.2	Grade C or better in English & maths GCSEs 47%	Achieving the English Baccalaureate 20%	Entering the English Baccalaureate 47%	Staying in education or entering employment (2014 leavers) 90% 
+(143 of 159 pupils)
+The Telford Park School
+Add The Telford Park School to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 84	Progress 8 score, description & confidence interval -0.82 
+Well below national average 
+(-1.06 to -0.58)	Attainment 8 score 38.6	Grade C or better in English & maths GCSEs 24%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 87% 
+(79 of 91 pupils)
+St Matthias School
+Add St Matthias School to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 89	Progress 8 score, description & confidence interval -0.83 
+Well below national average 
+(-1.06 to -0.60)	Attainment 8 score 37.6	Grade C or better in English & maths GCSEs 47%	Achieving the English Baccalaureate 4%	Entering the English Baccalaureate 8%	Staying in education or entering employment (2014 leavers) 88% 
+(122 of 139 pupils)
+Lostock College
+Add Lostock College to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 44	Progress 8 score, description & confidence interval -0.83 
+Well below national average 
+(-1.17 to -0.49)	Attainment 8 score 37.9	Grade C or better in English & maths GCSEs 32%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 2%	Staying in education or entering employment (2014 leavers) 88% 
+(38 of 43 pupils)
+The Bemrose School
+Add The Bemrose School to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 116	Progress 8 score, description & confidence interval -0.84 
+Well below national average 
+(-1.05 to -0.63)	Attainment 8 score 32.5	Grade C or better in English & maths GCSEs 11%	Achieving the English Baccalaureate 3%	Entering the English Baccalaureate 5%	Staying in education or entering employment (2014 leavers) 85% 
+(101 of 119 pupils)
+The Lindfield School
+Add The Lindfield School to compare basket
+Type of school Special School
+Open help text for assocsch_5073b776 (opens a popup)
+Number of pupils at the end of key stage 4 17	Progress 8 score, description & confidence interval -0.84 
+Well below national average 
+(-1.34 to -0.33)	Attainment 8 score 8.6	Grade C or better in English & maths GCSEs 0%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 100% 
+(13 of 13 pupils)
+John Madejski Academy
+Add John Madejski Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 178	Progress 8 score, description & confidence interval -0.84 
+Well below national average 
+(-0.99 to -0.68)	Attainment 8 score 36.2	Grade C or better in English & maths GCSEs 33%	Achieving the English Baccalaureate 6%	Entering the English Baccalaureate 15%	Staying in education or entering employment (2014 leavers) 86% 
+(146 of 169 pupils)
+Farnborough Academy
+Add Farnborough Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 124	Progress 8 score, description & confidence interval -0.84 
+Well below national average 
+(-1.03 to -0.66)	Attainment 8 score 40.5	Grade C or better in English & maths GCSEs 35%	Achieving the English Baccalaureate 9%	Entering the English Baccalaureate 23%	Staying in education or entering employment (2014 leavers) NA
+Hameldon Community College
+Add Hameldon Community College to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 47	Progress 8 score, description & confidence interval -0.85 
+Well below national average 
+(-1.16 to -0.54)	Attainment 8 score 35.1	Grade C or better in English & maths GCSEs 30%	Achieving the English Baccalaureate 6%	Entering the English Baccalaureate 38%	Staying in education or entering employment (2014 leavers) 89% 
+(40 of 45 pupils)
+Houghton Regis Academy
+Add Houghton Regis Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 35	Progress 8 score, description & confidence interval -0.85 
+Well below national average 
+(-1.22 to -0.49)	Attainment 8 score 29.4	Grade C or better in English & maths GCSEs 23%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 34%	Staying in education or entering employment (2014 leavers) NA
+The ACE Academy
+Add The ACE Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 245	Progress 8 score, description & confidence interval -0.85 
+Well below national average 
+(-0.99 to -0.72)	Attainment 8 score 39.7	Grade C or better in English & maths GCSEs 39%	Achieving the English Baccalaureate 3%	Entering the English Baccalaureate 9%	Staying in education or entering employment (2014 leavers) 92% 
+(209 of 228 pupils)
+Hanson School
+Add Hanson School to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 270	Progress 8 score, description & confidence interval -0.87 
+Well below national average 
+(-1.00 to -0.74)	Attainment 8 score 37.3	Grade C or better in English & maths GCSEs 33%	Achieving the English Baccalaureate 4%	Entering the English Baccalaureate 9%	Staying in education or entering employment (2014 leavers) 85% 
+(252 of 296 pupils)
+RSA Academy
+Add RSA Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 171	Progress 8 score, description & confidence interval -0.87 
+Well below national average 
+(-1.03 to -0.71)	Attainment 8 score 42.2	Grade C or better in English & maths GCSEs 36%	Achieving the English Baccalaureate 5%	Entering the English Baccalaureate 16%	Staying in education or entering employment (2014 leavers) 90% 
+(156 of 173 pupils)
+Cedar Mount Academy
+Add Cedar Mount Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 96	Progress 8 score, description & confidence interval -0.87 
+Well below national average 
+(-1.11 to -0.62)	Attainment 8 score 34.6	Grade C or better in English & maths GCSEs 28%	Achieving the English Baccalaureate 2%	Entering the English Baccalaureate 10%	Staying in education or entering employment (2014 leavers) 85% 
+(130 of 153 pupils)
+The Newark Academy
+Add The Newark Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 136	Progress 8 score, description & confidence interval -0.87 
+Well below national average 
+(-1.05 to -0.69)	Attainment 8 score 42.0	Grade C or better in English & maths GCSEs 53%	Achieving the English Baccalaureate 7%	Entering the English Baccalaureate 35%	Staying in education or entering employment (2014 leavers) 90% 
+(161 of 178 pupils)
+Maghull High School
+Add Maghull High School to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 167	Progress 8 score, description & confidence interval -0.87 
+Well below national average 
+(-1.03 to -0.71)	Attainment 8 score 43.9	Grade C or better in English & maths GCSEs 49%	Achieving the English Baccalaureate 16%	Entering the English Baccalaureate 63%	Staying in education or entering employment (2014 leavers) 93% 
+(198 of 214 pupils)
+Darlington School of Maths and Science
+Add Darlington School of Maths and Science to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 98	Progress 8 score, description & confidence interval -0.88 
+Well below national average 
+(-1.09 to -0.66)	Attainment 8 score 42.1	Grade C or better in English & maths GCSEs 39%	Achieving the English Baccalaureate 22%	Entering the English Baccalaureate 36%	Staying in education or entering employment (2014 leavers) 87% 
+(80 of 92 pupils)
+The Baverstock Academy
+Add The Baverstock Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 115	Progress 8 score, description & confidence interval -0.88 
+Well below national average 
+(-1.09 to -0.68)	Attainment 8 score 33.6	Grade C or better in English & maths GCSEs 21%	Achieving the English Baccalaureate 1%	Entering the English Baccalaureate 5%	Staying in education or entering employment (2014 leavers) 85% 
+(164 of 194 pupils)
+Isle of Portland Aldridge Community Academy
+Add Isle of Portland Aldridge Community Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 109	Progress 8 score, description & confidence interval -0.88 
+Well below national average 
+(-1.08 to -0.68)	Attainment 8 score 39.8	Grade C or better in English & maths GCSEs 37%	Achieving the English Baccalaureate 10%	Entering the English Baccalaureate 36%	Staying in education or entering employment (2014 leavers) 89% 
+(123 of 138 pupils)
+Merchants' Academy
+Add Merchants' Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 143	Progress 8 score, description & confidence interval -0.89 
+Well below national average 
+(-1.07 to -0.72)	Attainment 8 score 38.8	Grade C or better in English & maths GCSEs 36%	Achieving the English Baccalaureate 4%	Entering the English Baccalaureate 58%	Staying in education or entering employment (2014 leavers) 87% 
+(125 of 143 pupils)
+The Harefield Academy
+Add The Harefield Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 134	Progress 8 score, description & confidence interval -0.89 
+Well below national average 
+(-1.07 to -0.70)	Attainment 8 score 40.7	Grade C or better in English & maths GCSEs 43%	Achieving the English Baccalaureate 7%	Entering the English Baccalaureate 21%	Staying in education or entering employment (2014 leavers) 93% 
+(124 of 133 pupils)
+UTC Cambridge
+Add UTC Cambridge to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 56	Progress 8 score, description & confidence interval -0.89 
+Well below national average 
+(-1.19 to -0.60)	Attainment 8 score 43.9	Grade C or better in English & maths GCSEs 61%	Achieving the English Baccalaureate 2%	Entering the English Baccalaureate 5%	Staying in education or entering employment (2014 leavers) NA
+St Dominic's School
+Add St Dominic's School to compare basket
+Type of school Special School	Number of pupils at the end of key stage 4 13	Progress 8 score, description & confidence interval -0.89 
+Well below national average 
+(-1.51 to -0.26)	Attainment 8 score 24.3	Grade C or better in English & maths GCSEs 15%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 100% 
+(17 of 17 pupils)
+Devon Studio School
+Add Devon Studio School to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 58	Progress 8 score, description & confidence interval -0.89 
+Well below national average 
+(-1.16 to -0.61)	Attainment 8 score 36.6	Grade C or better in English & maths GCSEs 33%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 2%	Staying in education or entering employment (2014 leavers) NA
+The Voyager Academy
+Add The Voyager Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 224	Progress 8 score, description & confidence interval -0.90 
+Well below national average 
+(-1.06 to -0.73)	Attainment 8 score 33.6	Grade C or better in English & maths GCSEs 22%	Achieving the English Baccalaureate 4%	Entering the English Baccalaureate 17%	Staying in education or entering employment (2014 leavers) 94% 
+(228 of 242 pupils)
+Netherwood Advanced Learning Centre
+Add Netherwood Advanced Learning Centre to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 210	Progress 8 score, description & confidence interval -0.90 
+Well below national average 
+(-1.05 to -0.76)	Attainment 8 score 40.6	Grade C or better in English & maths GCSEs 39%	Achieving the English Baccalaureate 8%	Entering the English Baccalaureate 18%	Staying in education or entering employment (2014 leavers) 90% 
+(231 of 258 pupils)
+Sunnydown School
+Add Sunnydown School to compare basket
+Type of school Special School	Number of pupils at the end of key stage 4 17	Progress 8 score, description & confidence interval -0.90 
+Well below national average 
+(-1.44 to -0.37)	Attainment 8 score 30.3	Grade C or better in English & maths GCSEs 24%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 100% 
+(21 of 21 pupils)
+The King's Church of England School
+Add The King's Church of England School to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 105	Progress 8 score, description & confidence interval -0.91 
+Well below national average 
+(-1.12 to -0.69)	Attainment 8 score 40.3	Grade C or better in English & maths GCSEs 39%	Achieving the English Baccalaureate 12%	Entering the English Baccalaureate 57%	Staying in education or entering employment (2014 leavers) 95% 
+(120 of 126 pupils)
+Hull College
+Add Hull College to compare basket
+Type of school College	Number of pupils at the end of key stage 4 93	Progress 8 score, description & confidence interval -0.92 
+Well below national average 
+(-1.15 to -0.70)	Attainment 8 score 34.6	Grade C or better in English & maths GCSEs 14%	Achieving the English Baccalaureate 1%	Entering the English Baccalaureate 9%	Staying in education or entering employment (2014 leavers) NA
+Enterprise South Liverpool Academy
+Add Enterprise South Liverpool Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 131	Progress 8 score, description & confidence interval -0.92 
+Well below national average 
+(-1.10 to -0.73)	Attainment 8 score 37.7	Grade C or better in English & maths GCSEs 31%	Achieving the English Baccalaureate 5%	Entering the English Baccalaureate 7%	Staying in education or entering employment (2014 leavers) 89% 
+(120 of 135 pupils)
+Hillsview Academy
+Add Hillsview Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 172	Progress 8 score, description & confidence interval -0.92 
+Well below national average 
+(-1.08 to -0.76)	Attainment 8 score 38.6	Grade C or better in English & maths GCSEs 48%	Achieving the English Baccalaureate 2%	Entering the English Baccalaureate 3%	Staying in education or entering employment (2014 leavers) NA
+Rosewood School
+Add Rosewood School to compare basket
+Type of school Special School	Number of pupils at the end of key stage 4 8	Progress 8 score, description & confidence interval -0.93 
+Well below national average 
+(-1.66 to -0.19)	Attainment 8 score 21.0	Grade C or better in English & maths GCSEs 0%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 67% 
+(10 of 15 pupils)
+Irlam and Cadishead College
+Add Irlam and Cadishead College to compare basket
+Type of school Maintained School	Number of pupils at the end of key stage 4 161	Progress 8 score, description & confidence interval -0.94 
+Well below national average 
+(-1.11 to -0.78)	Attainment 8 score 42.1	Grade C or better in English & maths GCSEs 44%	Achieving the English Baccalaureate 5%	Entering the English Baccalaureate 20%	Staying in education or entering employment (2014 leavers) 91% 
+(149 of 163 pupils)
+Springwell Special Academy
+Add Springwell Special Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 11	Progress 8 score, description & confidence interval -0.94 
+Well below national average 
+(-1.57 to -0.31)	Attainment 8 score 19.5	Grade C or better in English & maths GCSEs 0%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 55% 
+(6 of 11 pupils)
+St Aidan's Church of England Academy
+Add St Aidan's Church of England Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 121	Progress 8 score, description & confidence interval -0.94 
+Well below national average 
+(-1.13 to -0.75)	Attainment 8 score 37.9	Grade C or better in English & maths GCSEs 29%	Achieving the English Baccalaureate 7%	Entering the English Baccalaureate 9%	Staying in education or entering employment (2014 leavers) 93% 
+(129 of 139 pupils)
+Furness Academy
+Add Furness Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 186	Progress 8 score, description & confidence interval -0.94 
+Well below national average 
+(-1.10 to -0.79)	Attainment 8 score 39.9	Grade C or better in English & maths GCSEs 44%	Achieving the English Baccalaureate 6%	Entering the English Baccalaureate 9%	Staying in education or entering employment (2014 leavers) 90% 
+(235 of 261 pupils)
+Sherwood Academy
+Add Sherwood Academy to compare basket
+Type of school Academy	Number of pupils at the end of key stage 4 22	Progress 8 score, description & confidence interval -0.95 
+Well below national average 
+(-1.40 to -0.51)	Attainment 8 score 32.6	Grade C or better in English & maths GCSEs 32%	Achieving the English Baccalaureate 0%	Entering the English Baccalaureate 0%	Staying in education or entering employment (2014 leavers) 90% 
+(89 of 99 pupils)

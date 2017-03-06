@@ -1,0 +1,17 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+16	University of Reading	368	4.09	3.24	70	100.0
+15	Newcastle University	359	3.95	2.84	80	98.7
+14	Queen's University, Belfast	351	3.96	3.26	72	98.3
+13	Royal Veterinary College	400	4.15	3.11	48	97.9
+12	The University of Nottingham	390	4.05	3.12	56	97.4
+11	Bangor University	361	4.33	3.05	54	95.7
+10	University of Lincoln	377	3.73	3.07	66	95.5
+9	Harper Adams University	348	4.19	2.66	66	92.8
+8	Aberystwyth University	305	4.09	3.05	42	86.3
+7	Plymouth University	342	4.05	2.60	26	83.7
+6	University of the Highlands and Islands	N/A	4.2	N/A	48	82.2
+5	Royal Agricultural University	292	3.98	1.40	56	80.3
+4	Nottingham Trent University	306	4.33	N/A	40	79.6
+3	University of Wales Trinity Saint David	272	4.15	N/A	42	75.3
+2	University of Chester	345	3.76	N/A	20	74.3
+1	University of Cumbria	269	3.99	N/A	26	70.0

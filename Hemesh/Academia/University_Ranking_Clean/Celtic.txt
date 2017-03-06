@@ -1,0 +1,15 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+14	University of Cambridge	538	4.71	3.2	65	100.0
+13	Bangor University	417	4.72	3.13	85	97.2
+12	Cardiff University	399	4.42	3.21	80	94.5
+11	University of Glasgow	N/A	4.49	3.19	65	93.8
+10	Queen's University, Belfast	353	4.55	3.23	60	92.5
+9	University of Wales Trinity Saint David	N/A	4.33	2.85	N/A	91.7
+8	University of Oxford	N/A	4.18	3.07	N/A	91.1
+7	Swansea University	N/A	4.25	2.9	80	91.0
+6	University of the Highlands and Islands	N/A	4.25	2.83	70	90.9
+5	Aberystwyth University	387	4.36	2.56	85	90.7
+4	University of Liverpool	N/A	4.57	3.07	45	89.2
+3	The University of Edinburgh	N/A	3.93	2.96	N/A	87.1
+2	University of Aberdeen	N/A	4.05	2.71	N/A	85.8
+1	Ulster University	307	4.56	2.86	35	84.1

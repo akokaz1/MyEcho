@@ -1,0 +1,3400 @@
+SCHNAME	NFTYPE/FESITYPE	TALLPPE_ACAD_1618
+		32.11
+		30.63
+Consett Academy	AC	33.92
+Derwentside College	General Further Education College	SUPP
+Durham Community Business College for Technology and Enterprise	CY	SUPP
+Durham High School for Girls	IND	43
+Durham Johnston Comprehensive School	CY	40.98
+Durham School	IND	35.83
+Durham Sixth Form Centre	CY	31.9
+East Durham College	General Further Education College	19.79
+Framwellgate School Durham	ACC	33.29
+Apollo Studio Academy	FSS	SUPP
+The Hermitage Academy	ACC	29.02
+King James I Academy Bishop Auckland	ACC	27.99
+New College Durham	General Further Education College	23.93
+Barnard Castle School	IND	30.16
+North Durham Academy	AC	25.07
+Park View School	ACC	26.34
+St Bede's Catholic Comprehensive School and Byron College	VA	29.78
+"St Bede's Catholic Comprehensive School and Sixth Form College, Lanchester"	ACC	33.88
+St John's School & Sixth Form College - A Catholic Academy	ACC	30.64
+St Leonard's Roman Catholic Voluntary Aided Comprehensive School	VA	35.41
+Bishop Auckland College	General Further Education College	NE
+Teesdale School	ACC	31.98
+UTC South Durham	FUTC	
+Whitworth Park School and Sixth Form College	FD	24.38
+Wolsingham School	CY	22.39
+Woodham Academy	ACC	
+		31.41
+Darlington College	General Further Education College	SUPP
+Polam Hall School	F	25.33
+Queen Elizabeth Sixth Form College	Sixth Form College	31.88
+Carmel College	ACC	31.33
+		31.74
+Dyke House Sports and Technology College	AC	24.52
+The English Martyrs School and Sixth Form College	ACC	28.31
+Hartlepool College of Further Education	General Further Education College	10
+Hartlepool Sixth Form College	Sixth Form College	26.07
+		26.55
+Cleveland College of Art and Design	"Art, Design and Performing Arts College"	34.92
+The King's Academy	AC	34.18
+Macmillan Academy	AC	30.49
+Middlesbrough College	General Further Education College	22.57
+Trinity Catholic College	VA	26.58
+		27.44
+Freebrough Academy	AC	16.11
+Hillsview Academy	AC	21.65
+Nunthorpe Academy	ACC	35.01
+Redcar & Cleveland College	General Further Education College	NE
+		30.77
+Conyers School	ACC	31.97
+Egglescliffe School	CY	36.05
+Ingleby Manor Free School & Sixth Form	F	
+Red House School	IND	NE
+Stockton Riverside College	General Further Education College	26.52
+Teesside High School	IND	32.05
+Yarm School	IND	42.9
+		29.52
+Cottingham High School and Sixth Form College	ACC	32.96
+Driffield School and Sixth Form	CY	26.09
+East Riding College	General Further Education College	21.29
+Focus School - Cottingham Campus	IND	32.03
+Goole High School	ACC	12.14
+Headlands School	CY	27.15
+Hessle High School and Penshurst Primary	ACC	34.71
+Hornsea School and Language College	CY	28.98
+Hull Collegiate School	IND	34.63
+Longcroft School and Sixth Form College	CY	27.88
+Pocklington School	IND	37.72
+Beverley Grammar School	ACC	29.05
+Beverley High School	CY	30.95
+South Holderness Technology College	CY	27.35
+South Hunsley School and Sixth Form College	ACC	31.49
+Bishop Burton College	Agriculture and Horticulture College	SUPP
+Withernsea High School	CY	21.64
+Woldgate School and Sixth Form College	CY	30.92
+Wolfreton School and Sixth Form College	CY	29.93
+Bridlington School	VC	21.77
+		29.16
+Archbishop Sentamu Academy	AC	23.96
+Hull College	General Further Education College	16.73
+Hymers College	IND	39.5
+St Mary's College	VA	33.02
+Sirius Academy West	AC	13.64
+Wilberforce College	Sixth Form College	25.17
+Wyke Sixth Form College	Sixth Form College	28.58
+		28.33
+Franklin College	Sixth Form College	25.5
+Grimsby Institute of Further and Higher Education	General Further Education College	SUPP
+Havelock Academy	AC	17.38
+Oasis Academy Immingham	AC	12.56
+St James' School	IND	27.4
+Tollbar Academy	ACC	32.64
+		26.09
+Humber UTC	FUTC	NE
+John Leggott Sixth Form College	Sixth Form College	31.49
+North Lindsey College	General Further Education College	16.44
+Baysgarth School	CY	18.67
+Sir John Nelthorpe School	VC	25.02
+South Axholme Academy	ACC	NE
+The Vale Academy	ACC	22.24
+		30.15
+Craven College	General Further Education College	24.43
+Ampleforth College	IND	39.94
+Easingwold School	CY	28.89
+Ermysted's Grammar School	VA	36.72
+The Faculty of Queen Ethelburga's	IND	46.2
+Fyling Hall School	IND	33.56
+Giggleswick School	IND	35.33
+Harrogate Grammar School	ACC	32.67
+Harrogate High School	ACC	22
+Harrogate Ladies' College	IND	38.79
+Ashville College	IND	36.26
+King James's School	CY	32.11
+Lady Lumley's School	CY	27.37
+Malton School	CY	28.83
+Northallerton School & Sixth Form College	VC	32.7
+Norton College	ACC	30.2
+Outwood Academy Ripon	ACC	20.53
+Queen Ethelburga's College	IND	50.74
+Queen Margaret's School	IND	42.12
+Read School	IND	23.28
+Richmond School	CY	28.35
+Ripon Grammar School	CY	39.95
+Rossett School	ACC	29.47
+St Aidan's Church of England High School	ACC	31.49
+St John Fisher Catholic High School	VA	31.49
+Scarborough College	IND	30.33
+Scarborough Sixth Form College	Sixth Form College	32.2
+Scarborough University Technical College	FUTC	
+Selby College	General Further Education College	27.61
+Settle College	CY	33.26
+Sherburn High School	CY	23.97
+Skipton Girls' High School	ACC	36.45
+South Craven School	ACC	30
+Stokesley School	ACC	38.03
+Tadcaster Grammar School	CY	31.3
+Thirsk School & Sixth Form College	CY	27.32
+The Wensleydale School & Sixth Form	CY	23.95
+Boroughbridge High School	CY	19.49
+Caedmon College Whitby	CY	32.86
+		31.51
+All Saints RC School	VA	34.11
+"Focus School, York Campus"	IND	30.86
+Fulford School	CY	34.13
+Applefields School	CYS	NE
+"Archbishop Holgate's School, A Church of England Academy"	ACC	37.35
+Huntington School	CY	31.35
+Joseph Rowntree School	VC	28.94
+Askham Bryan College	Agriculture and Horticulture College	15
+The Mount School (York)	IND	38.89
+St Peter's School (Inc St Olaves and Clifton Pre-Prep)	IND	43.82
+Bootham School	IND	39.85
+York College	General Further Education College	32.15
+		32.63
+Beverley Joint Sixth		29.94
+St Aidans and St John Fisher Associated Sixth Form		31.49
+Barnsley Academy	AC	18.47
+Barnsley College	General Further Education College	25
+Penistone Grammar School	CY	30.05
+		26.37
+Darul Uloom Dawatul Imaan	IND	SUPP
+Dixons Allerton Academy	AC	18.69
+Dixons City Academy	AC	24.49
+Dixons McMillan Academy	F	
+Dixons Trinity Academy	F	
+Eternal Light Secondary School	IND	SUPP
+Feversham College	ACC	30.64
+Grange Technology College	ACC	16.8
+Appleton Academy	AC	19.67
+Hanson School	FD	21.6
+The Holy Family Catholic School	VA	24.59
+Ilkley Grammar School	ACC	34.9
+Immanuel College	VA	31.35
+Jaamiatul Imaam Muhammad Zakaria	IND	42
+Laisterdyke Business and Enterprise College	FD	18.37
+Laisterdyke Leadership Academy	AC	
+Oakbank School	FD	26.42
+Oakbank School	AC	
+Oasis Academy Lister Park	AC	23.18
+One In A Million Free School	F	
+Parkside School	FD	28.79
+Queensbury School	FD	20.89
+Queensbury School	AC	
+Beckfoot School	ACC	32.44
+Beckfoot Upper Heaton	AC	28.95
+St Bede's and St Joseph's Catholic College	VA	30.45
+Belle Vue Girls' School	ACC	24.03
+The Samuel Lister Academy	AC	21.17
+Bingley Grammar School	VA	28.05
+Shipley College	General Further Education College	15.49
+Titus Salt School	CY	32.14
+Tong High School	FD	23.51
+University Academy Keighley	AC	20.62
+Bradford Academy	AC	20.18
+Bradford College	General Further Education College	21.82
+Bradford Girls' Grammar School	F	29.13
+Bradford Grammar School	IND	42.06
+Bradford Studio School	FSS	15.88
+Buttershaw Business & Enterprise College Academy	AC	
+Buttershaw Business and Enterprise College	FD	26.08
+Carlton Bolling College	CY	24.91
+		26.93
+The Crossley Heath School	ACC	34.19
+"The Grammar School, Hipperholme"	IND	24.21
+Lightcliffe Academy	AC	27.37
+The Maltings College	F1619	NE
+The North Halifax Grammar School	ACC	33.81
+Rastrick High School	ACC	24.92
+Rishworth School	IND	30.63
+Ryburn Valley High School	ACC	27.56
+Sowerby Bridge High School	CY	7.37
+Todmorden High School	CY	30.5
+"Trinity Academy, Halifax"	AC	32.32
+Brighouse High School	ACC	27.65
+The Brooksbank School	ACC	26.66
+"Calder High School, A Specialist Technology College"	FD	26.49
+Calderdale College	General Further Education College	NE
+		30.04
+Danum Academy	ACC	28.55
+De Warenne Academy	AC	32.35
+Don Valley Academy and Performing Arts College	ACC	21.87
+Doncaster College	General Further Education College	20.37
+Hall Cross Academy	ACC	30.89
+The Hayfield School	ACC	31.93
+Armthorpe Academy	ACC	11
+Hill House School	IND	34.69
+Ash Hill Academy	AC	16
+Balby Carr Community Academy	AC	25.94
+The McAuley Catholic High School	ACC	28.79
+Mexborough Academy	AC	22.07
+Outwood Academy Adwick	AC	22.67
+Ridgewood School	ACC	31.1
+Rossington All Saints Academy	AC	24.94
+Sir Thomas Wharton Community College	ACC	22.49
+Trinity Academy	AC	28.28
+XP School	F	
+Campsmount (A Co-Operative Academy)	ACC	16.64
+		28.13
+Greenhead College	Sixth Form College	34.74
+Heckmondwike Grammar School	ACC	34.19
+Huddersfield New College	Sixth Form College	27.94
+Kirklees College	General Further Education College	5.26
+The Mirfield Free Grammar and Sixth Form	ACC	25.3
+Nether Hall Learning Campus High School	CY	SUPP
+Batley Girls High School	ACC	28.15
+Batley Grammar School	F	21.03
+St John Fisher Catholic Voluntary Academy	ACC	25.15
+Shelley College	ACC	26.35
+		31.78
+The Co-operative Academy of Leeds	AC	20
+Allerton Grange School	CY	25.9
+Allerton High School	CY	29.5
+Crawshaw Academy	AC	30.3
+David Young Community Academy	AC	18.47
+Elliott Hudson College	F1619	SUPP
+The Farnley Academy	AC	24.15
+Fulneck School	IND	29.41
+Garforth Academy	ACC	30.81
+Gateways School	IND	35.52
+The Grammar School At Leeds	IND	42.92
+Guiseley School	FD	27.11
+Horsforth School	ACC	30.81
+John Smeaton Academy	AC	19.54
+Lawnswood School	CY	25.05
+Leeds City College	General Further Education College	26.07
+Leeds College of Building	General Further Education College	NE
+Leeds East Academy	AC	SUPP
+Leeds Jewish Free School	F	
+Leeds West Academy	AC	24.35
+The Morley Academy	ACC	25.38
+Notre Dame Catholic Sixth Form College	Sixth Form College	27.29
+Otley Prince Henry's Grammar School Specialist Language College	ACC	33.12
+Priesthorpe School	FD	27.6
+Pudsey Grangefield School	FD	26.71
+Ralph Thoresby School	FD	25.93
+Rodillian Academy	ACC	29.28
+Roundhay School	CY	29.02
+Royds School	FD	20.47
+The Ruth Gorse Academy	F	
+Benton Park School	CY	27.51
+"St. Mary's Menston, a Catholic Voluntary Academy"	ACC	30.06
+South Leeds Academy	AC	22.49
+Swallow Hill Community College	AC	19.32
+Temple Moor High School Science College	FD	26.74
+University Technical College Leeds	FUTC	
+Wetherby High School	FD	24.75
+Woodhouse Grove School	IND	31.83
+Woodkirk Academy	ACC	29.21
+Boston Spa School	FD	30.54
+Abbey Grange Church of England Academy	ACC	32.27
+Brigshaw High School and Language College	FD	26.73
+"Carr Manor Community School, Specialist Sports College"	CY	NE
+		28.08
+Dearne Valley College	General Further Education College	NE
+Dinnington High School	ACC	23.73
+Focus School - Bramley Campus	IND	33.8
+Aston Academy	ACC	32.41
+Maltby Academy	AC	29.3
+RNN Group	General Further Education College	SUPP
+Swinton Community School	CY	24.84
+Thomas Rotherham College	Sixth Form College	28.35
+Wales High School	ACC	32.63
+Wath Comprehensive School : A Language College	FD	31.14
+Wickersley School and Sports College	ACC	27.34
+Brinsworth Academy	ACC	30.31
+		28.88
+Chapeltown Academy	F1619	30.07
+All Saints' Catholic High School	ACC	27.63
+Al-Mahad-Al-Islami	IND	SUPP
+Forge Valley School	AC	27.91
+High Storrs School	CY	33.98
+King Ecgbert School	ACC	35.97
+King Edward VII School	CY	29.74
+Longley Park Sixth Form College	Sixth Form College	23.17
+Meadowhead School Academy Trust	ACC	28.99
+Notre Dame High School	ACC	32.6
+The Sheffield College	General Further Education College	19.92
+Sheffield High School	IND	39.22
+Sheffield Park Academy	AC	27.7
+Sheffield Springs Academy	AC	26.55
+Silverdale School	ACC	36.22
+Birkdale School	IND	39.73
+Tapton School	ACC	37.53
+UTC Sheffield	FUTC	20.29
+UTC Sheffield Olympic Legacy Park	FUTC	
+Al Huda Academy (Jamia Al-Hudaa)	IND	NE
+Bradfield School	ACC	30.84
+		30.93
+Cathedral Academy	ACC	38.97
+De Lacy Academy	ACC	13.18
+Hemsworth Arts and Community Academy	AC	23.57
+Meadowcroft School	INDSPEC	NE
+"Minsthorpe Community College, A Specialist Science College"	ACC	25.53
+New College Pontefract	Sixth Form College	32.34
+Ackworth School	IND	32.57
+Ossett Academy and Sixth Form College	ACC	28.91
+Outwood Grange Academy	AC	30.31
+Queen Elizabeth Grammar School	IND	41.12
+St Wilfrid's Catholic High School & Sixth Form College: A Voluntary Academy	ACC	29.05
+Silcoates School	IND	35.88
+Wakefield College	General Further Education College	23.17
+Wakefield Girls' High School	IND	39.26
+Airedale Academy	ACC	NE
+Castleford Academy	ACC	NE
+		29.81
+Chellaston Academy	ACC	33.79
+Derby College	General Further Education College	23.75
+Derby Grammar School	IND	36.37
+Derby High School	IND	35.47
+Derby Manufacturing UTC	FUTC	NE
+Derby Moor Community Sports College	FD	25.07
+Landau Forte College	AC	30.79
+Lees Brook Community School	ACC	NE
+Littleover Community School	CY	34.57
+Merrill Academy	AC	23.66
+Noel-Baker School	FD	20.41
+"Saint Benedict, A Catholic Voluntary Academy"	ACC	28.34
+The Bemrose School	FD	11.57
+Woodlands School	ACC	28.93
+		28.67
+Chesterfield College	General Further Education College	19.86
+David Nieper Academy	AC	
+Dronfield Henry Fanshawe School	VC	31.1
+The Ecclesbourne School	ACC	32.87
+Eckington School	CY	27.99
+Anthony Gell School	VC	32.36
+Focus School - Long Eaton Campus	IND	31.56
+Friesland School	FD	25.65
+Glossopdale Community College	CY	28.91
+Abbotsholme School	IND	29.7
+Heanor Gate Science College	ACC	30.47
+Highfields School	CY	32.85
+Hope Valley College	ACC	SUPP
+John Port School	ACC	29.46
+Kirk Hallam Community Academy	ACC	27.09
+Lady Manners School	FD	32.99
+The Long Eaton School	ACC	22.51
+Mount St Mary's College	IND	30.25
+Netherthorpe School	ACC	24.88
+New Mills School & Sixth Form	CY	30.36
+Ockbrook School	IND	37.97
+Ormiston Ilkeston Enterprise Academy	AC	25.74
+Outwood Academy Newbold	AC	24.68
+The Pingle School	FD	26.99
+Queen Elizabeth's Grammar School	ACC	32.42
+Repton School	IND	43.7
+The Ripley Academy	ACC	22.77
+Belper School and Sixth Form Centre	FD	25.82
+"St Mary's Catholic High School, A Catholic Voluntary Academy"	ACC	37.92
+Swanwick Hall School	CY	25.6
+Trent College	IND	37.33
+Tupton Hall School	CY	28.29
+Wilsthorpe Community School	CY	29.73
+Brookfield Academy Trust	ACC	30.06
+Aldercar High School	CY	17.36
+Buxton Community School	VC	31.33
+Alfreton Grange Arts College	CY	10
+		29.33
+Djanogly City Academy	AC	11.11
+Jamia Al-Hudaa Residential College	IND	29.05
+New College Nottingham	General Further Education College	24.27
+Nottingham Academy	AC	24.33
+The Nottingham Emmanuel School	ACC	24.69
+Nottingham Free School	F	
+Nottingham Girls' Academy	AC	27.5
+Nottingham Girls' High School GDST	IND	42.47
+Nottingham High School	IND	45.66
+Nottingham University Academy of Science and Technology	F	35.04
+Nottingham University Samworth Academy	AC	NE
+Oak Field School and Specialist Sports College	CYS	NE
+Bilborough College	Sixth Form College	29.7
+Top Valley Academy	AC	NE
+The Trinity Catholic School A Voluntary Academy	ACC	30.52
+Bluecoat Academy	ACC	29.41
+The Bulwell Academy	AC	10
+		28.42
+Central College Nottingham	General Further Education College	31.18
+All Saints Catholic Voluntary Academy	ACC	31.52
+Chilwell School	FD	32.08
+Christ The King Voluntary Academy	ACC	24.25
+Colonel Frank Seely Comprehensive School	CY	29.28
+The Dukeries Academy	AC	21.69
+East Leake Academy	ACC	31.19
+The Elizabethan Academy	ACC	26.93
+Foxwood Academy	ACCS	NE
+Garibaldi College	CY	29.76
+George Spencer Academy and Technology College	ACC	31.46
+Hall Park Academy	AC	28.84
+Arnold Hill Academy	ACC	31.89
+Holgate Academy	AC	23.04
+Ashfield Comprehensive School	ACC	27.81
+Joseph Whitaker School	ACC	33.13
+The Kimberley School	ACC	28.41
+Kirkby College	ACC	15.66
+Lammas School	IND	SUPP
+Magnus Church of England Academy	AC	19.86
+The Manor Academy	ACC	28.03
+Meden School	AC	27.34
+Minster School	VA	32.51
+The National CofE Academy	ACC	31.18
+The Newark Academy	AC	23.09
+Outwood Academy Portland	AC	30.59
+Outwood Academy Valley	AC	30.58
+Quarrydale School	ACC	28.99
+Queen Elizabeth's Academy	AC	18.05
+The Becket School	ACC	33.69
+Redhill Academy	ACC	29.27
+Retford Oaks Academy	AC	23.24
+Rushcliffe School	ACC	34.18
+Samworth Church Academy	AC	27.12
+Selston High School	CY	NE
+Serlby Park Academy	AC	20.86
+South Nottinghamshire Academy	AC	24.02
+The South Wolds Academy & Sixth Form	ACC	32.33
+Sutton Community Academy	AC	21.81
+Toot Hill School	ACC	33.77
+Tuxford Academy	ACC	31.29
+Vision Studio School	FSS	NE
+Vision West Nottinghamshire College	General Further Education College	26.2
+The West Bridgford School	ACC	34.98
+Worksop College	IND	32.86
+The Brunts Academy	ACC	31.85
+Alderman White School	ACC	27.61
+Carlton Academy	AC	28.41
+Carlton le Willows Academy	ACC	33.96
+		30.47
+The City of Leicester College	CY	25.46
+Darul Uloom Leicester	IND	SUPP
+English Martyrs Catholic School	VA	30.94
+Gateway Sixth Form College	Sixth Form College	22.67
+Leicester College co Freemen's Park Campus	General Further Education College	21.38
+Leicester High School for Girls	IND	39.62
+New College Leicester	FD	SUPP
+Regent College	Sixth Form College	22.5
+Saint Paul's Catholic School	VA	25.65
+Wyggeston and Queen Elizabeth I College	Sixth Form College	28.75
+		27.51
+The Cedars Academy	ACC	29.62
+Charnwood College	AC	
+Charnwood College (Upper)	ACC	24.93
+Countesthorpe Community College	ACC	27.97
+De Lisle Catholic School Loughborough Leicestershire	ACC	27.17
+Dixie Grammar School	IND	33.9
+Groby Community College	ACC	27.35
+Heath Lane Academy	ACC	
+Hinckley Academy and John Cleveland Sixth Form Centre	ACC	34.19
+Hind Leys Community College	CY	27.2
+Ashby School	ACC	28.46
+John Ferneley College	ACC	NE
+King Edward VII Science and Sport College	ACC	26.42
+Leicester Grammar School Trust	IND	41.4
+Long Field Academy	ACC	
+Loughborough College	General Further Education College	24.11
+Loughborough Grammar School	IND	37.86
+Loughborough High School	IND	43.13
+Lutterworth College	ACC	28.13
+The Midland Studio College Hinckley	FSS	7.5
+Our Lady's Convent School	IND	35.81
+Beauchamp College	ACC	29.07
+Ratcliffe College	IND	38.8
+Rawlins Academy	ACC	29.33
+The Robert Smyth Academy	ACC	32.88
+Belvoir High School and Melton Vale Post 16 Centre	ACC	32.16
+Sir Frank Whittle Studio School	FSS	24.62
+Sketchley School	INDSPEC	NE
+Stephenson College	General Further Education College	SUPP
+Stephenson Studio School	FSS	18.48
+Twycross House School	IND	41.92
+"Welbeck, the Defence Sixth Form College"	MODFC	36.28
+Wigston College	ACC	24.88
+The William Bradford Academy	AC	37.06
+Bosworth Academy	ACC	30.37
+Wreake Valley Academy	ACC	28.1
+Brooke House College	IND	30.78
+Brooksby Melton College	Agriculture and Horticulture College	NE
+		28.59
+Cordeaux Academy	AC	20.67
+De Aston School	ACC	26.09
+The Deepings School	ACC	28.76
+The Giles Academy	ACC	21.29
+Grantham College	General Further Education College	20.26
+Kesteven and Grantham Girls' School	ACC	36.18
+Kesteven and Sleaford High School Selective Academy	ACC	35.37
+King Edward VI Grammar School	ACC	37.03
+"The King's School, Grantham"	ACC	34.1
+Kirkstone House School	IND	SUPP
+Lincoln Castle Academy	ACC	25.27
+Lincoln Christ's Hospital School	ACC	27.93
+Lincoln College	General Further Education College	22.31
+Lincoln Minster School	IND	34.08
+Lincoln UTC	FUTC	27.98
+Monks' Dyke Tennyson College	FD	21.09
+New College Stamford	General Further Education College	20.8
+North Kesteven School	ACC	26.12
+The Priory Academy LSST	AC	33.11
+The Priory City of Lincoln Academy	AC	21.94
+The Priory Ruskin Academy	AC	25.45
+The Priory Witham Academy	AC	27.83
+Queen Elizabeth's Grammar Alford - A Selective Academy	ACC	37.38
+"Queen Elizabeth's Grammar School, Horncastle"	ACC	35.25
+"The Queen Elizabeth's High School, Gainsborough"	CY	32.97
+Regents Academy	IND	NE
+St George's Academy	AC	26.87
+"St Peter and St Paul, Catholic Voluntary Academy"	ACC	25.4
+Sir John Gleed School	ACC	19.4
+Sir Robert Pattinson Academy	ACC	26.99
+"Sir William Robertson Academy, Welbourn"	ACC	25.57
+Skegness Academy	AC	21.59
+Skegness Grammar School	ACC	31.27
+Spalding Grammar School	ACC	30.51
+Spalding High School	CY	34.43
+Stamford High School	IND	40.99
+Stamford School	IND	36.23
+University Academy Holbeach	AC	22.23
+Walton Girls' High School & Sixth Form	ACC	26.54
+William Farr CofE Comprehensive School	ACC	32.43
+Boston College	General Further Education College	23.58
+The Boston Grammar School	ACC	27.69
+Boston High School	ACC	32.6
+Bourne Academy	ACC	27.07
+Bourne Grammar School	ACC	36.24
+Branston Community Academy	ACC	28.04
+Caistor Grammar School	ACC	36.34
+Carre's Grammar School	ACC	31.96
+		31.05
+Chenderit School	ACC	28.73
+Corby Business Academy	AC	25.78
+Corby Technical School	F	
+Daventry Hill School	FS	
+Daventry UTC	FUTC	SUPP
+DSLV E-ACT Academy	AC	22.69
+Abbeyfield School	AC	27.1
+The Duston School	ACC	29.33
+Elizabeth Woodville School	ACC	31.77
+The Ferrers School	ACC	25.39
+Guilsborough Academy	ACC	31.63
+Huxlow Science College	ACC	27.07
+Kettering Buccleuch Academy	AC	24.86
+Kettering Science Academy	AC	25.89
+Kingsthorpe College	ACC	22.26
+Kingswood Secondary Academy	AC	21.26
+The Latimer Arts College	FD	28.97
+Lodge Park Academy	AC	29.66
+Magdalen College School	ACC	27.14
+Malcolm Arnold Academy	AC	26.7
+Manor School Sports College	ACC	21.98
+Montsaye Academy	ACC	26.15
+Moulton College	Agriculture and Horticulture College	SUPP
+Moulton School and Science College	ACC	34.08
+Northampton Academy	AC	26.78
+Northampton College	General Further Education College	20.75
+Northampton High School	IND	42.61
+Northampton International Academy	F	
+Northampton School for Boys	ACC	31.28
+Northampton School for Girls	ACC	31.33
+Oundle School	IND	45.49
+Overstone Park School	IND	NE
+The Parker E-ACT Academy	AC	20.43
+Pitsford School	IND	37.69
+Prince William School	AC	31.14
+Quinton House School	IND	28.74
+Rushden Community College	AC	27.24
+St Andrew's College	IND	NE
+Silverstone UTC	FUTC	22.19
+Sir Christopher Hatton Academy	ACC	33.22
+Southfield School for Girls	ACC	29.9
+Sponne School	ACC	29.24
+Bishop Stopford School	ACC	32.11
+Thomas Becket Catholic School	VA	22.57
+Tresham College of Further and Higher Education	General Further Education College	22.19
+Weavers Academy	AC	23.2
+Wellingborough School	IND	36.55
+Weston Favell Academy	AC	22.16
+Wollaston School	CY	30.52
+Wootton Park School	F	
+Bosworth Independent College	IND	37.61
+Wren Spinney Community Special School	CYS	NE
+Wrenn School	AC	25.91
+Brooke Weston Academy	AC	31.27
+Campion School	ACC	29.63
+Caroline Chisholm School	ACC	32.55
+		28.18
+Harington School	F1619	NE
+Oakham School	IND	42.08
+Uppingham School	IND	39.69
+Casterton College Rutland	ACC	30.46
+		30.46
+North Hykeham Joint Sixth Form		26.53
+Sleaford Joint Sixth Form		29.95
+"The Community College, Bishop's Castle"	FD	NE
+Concord College	IND	51.16
+Ellesmere College	IND	30.75
+The Grove School	FD	26.2
+Idsall School	ACC	30.87
+The Marches School	ACC	28.58
+Moreton Hall School	IND	39.61
+North Shropshire College	General Further Education College	24.6
+Oldbury Wells School	ACC	24.8
+Oswestry School	IND	36.78
+Bedstone College	IND	27.32
+Adcote School for Girls	IND	33.57
+Shrewsbury Colleges Group	Sixth Form College	31.01
+Shrewsbury High School	IND	36.86
+Shrewsbury School	IND	41.14
+Sir John Talbot's Technology College	AC	24.26
+"The Thomas Adams School, Wem"	VC	28.1
+William Brookes School	ACC	26.5
+Bridgnorth Endowed School	ACC	25.49
+		29.52
+Chase Grammar School	IND	41.03
+Chase Grammar School International Study Centre	IND	25.77
+Chase Terrace Technology College	CY	29.25
+The Cheadle Academy	ACC	30.84
+Cheslyn Hay Sport and Community High School	CY	30.82
+Codsall Community High School	CY	28.54
+Alleyne's Academy	ACC	30.3
+The de Ferrers Academy	ACC	29.81
+Denstone College	IND	39.62
+Erasmus Darwin Academy	ACC	30.46
+Abbot Beyne School	VC	28.5
+Abbots Bromley School	IND	32.79
+The Friary School	CY	30.42
+Great Wyrley High School	CY	23.07
+Hagley Park Academy	AC	26.81
+The Hart School	AC	20.37
+The JCB Academy	FUTC	23.42
+John Taylor High School	ACC	33.89
+King Edward VI High School	CY	21.66
+King Edward VI School	CY	29.36
+The King's CofE (VA) School	VA	18.8
+Kingsmead School	ACC	26.62
+Kinver High School and Sixth Form	AC	28.67
+Landau Forte Academy Tamworth Sixth Form	AC1619	24.64
+Leek High Specialist Technology School	FD	21.83
+Lichfield Cathedral School	IND	33.27
+Martec Training	IND	NE
+Moorside High School	CY	30.84
+Nether Stowe School	CY	24.57
+Newcastle-under-Lyme College	General Further Education College	27.66
+Newcastle-under-Lyme School	IND	39.47
+Norton Canes High School	CY	23.95
+Ounsdale High School	AC	29.13
+Paget High School	CY	25.27
+Painsley Catholic College	ACC	30.84
+Paulet High School	CY	23.32
+The Rural Enterprise Academy	F	21.74
+St. Dominic's Brewood	IND	37.45
+St John Fisher Catholic College	ACC	26.57
+Biddulph High School	ACC	28.36
+Saxon Hill School	CYS	NE
+Sir Graham Balfour High School	CY	29.9
+South Staffordshire College	General Further Education College	SUPP
+Stafford Grammar School	IND	38.61
+Stafford Manor High School	FD	21.68
+Staffordshire University Academy	AC	23.65
+Thomas Alleyne's High School	CY	30.17
+University Academy Kidsgrove	ACC	25.12
+Walton High School	CY	29.7
+Blessed Robert Sutton Catholic Sports College	VA	18.8
+Blessed William Howard Catholic School	VA	26.92
+The Weston Road Academy	ACC	27.96
+Westwood College	FD	31.47
+Blythe Bridge High School	FD	20.3
+Wolgarston High School	CY	36.61
+Burton and South Derbyshire College	General Further Education College	20.09
+Cannock Chase High School	ACC	28.7
+Cardinal Griffin Catholic College	VA	27.52
+		27.9
+City of Stoke-on-Trent Sixth Form College	Sixth Form College	25.93
+Haywood Academy	ACC	SUPP
+Ormiston Horizon Academy	AC	8.75
+Ormiston Sir Stanley Matthews Academy	AC	20.68
+St Joseph's College	ACC	34.83
+St Margaret Ward Catholic Academy	ACC	26.33
+St Thomas More Catholic Academy	ACC	25.61
+Stoke Studio College for Construction and Building Excellence	FSS	NE
+Stoke Studio College for Manufacturing and Design Engineering	FSS	NE
+Stoke-on-Trent College	General Further Education College	15.71
+		28.79
+Holy Trinity School	VA	27.45
+Abraham Darby Academy	AC	19.33
+Madeley Academy	AC	35.57
+New College Telford	Sixth Form College	23.87
+Newport Girls' High School Academy Trust	ACC	39.85
+Adams' Grammar School	ACC	41.86
+Telford College of Arts and Technology	General Further Education College	21.74
+The Telford Park School	ACC	NE
+Thomas Telford School	CTC	39.04
+Wrekin College	IND	34
+The Burton Borough School	CY	
+		32.71
+The Moorlands Sixth Form College		30.84
+Earl Mortimer College and Sixth Form Centre	CY	6.36
+The Hereford Academy	AC	21.49
+Hereford Cathedral School	IND	39.41
+Hereford College of Arts	"Art, Design and Performing Arts College"	32.35
+Hereford Sixth Form College	Sixth Form College	31.41
+Herefordshire & Ludlow College	General Further Education College	27.79
+John Kyrle High School and Sixth Form Centre Academy	ACC	35.84
+John Masefield High School	ACC	32.71
+Lady Hawkins' School	ACC	30
+Lucton School	IND	26.44
+Robert Owen Academy	F	NE
+Wigmore School	ACC	
+		31.67
+The Chase	ACC	32.37
+Christopher Whitehead Language College	ACC	SUPP
+The De Montfort School	CY	19.4
+Droitwich Spa High School and Sixth Form Centre	ACC	28.24
+Dyson Perrins CofE Academy	ACC	21.63
+Hagley Catholic High School	ACC	29.84
+Hanley Castle High School	ACC	32.8
+Haybridge High School and Sixth Form	ACC	33.57
+Heart of Worcestershire College	General Further Education College	21.82
+Arrow Vale RSA Academy	AC	26.56
+Holy Trinity School	F	23.28
+King Charles I School	ACC	30.25
+The King's School	IND	40.24
+Madinatul Uloom Al Islamiya School	IND	18.67
+Malvern College	IND	42.15
+Malvern St James	IND	37.14
+North Bromsgrove High School	CY	26.49
+Baxter College	ACC	26.72
+Pershore High School	ACC	29.86
+Pitcheroak School	CYS	NE
+Prince Henry's High School	ACC	32.27
+Royal Grammar School Worcester	IND	40.5
+St Augustine's Catholic High School	ACC	29.19
+Saint Michael's College	IND	38.21
+The Bewdley School and Sixth Form Centre	FD	29.39
+Abbey College in Malvern	IND	SUPP
+South Bromsgrove High	ACC	31.42
+The Stourport High School and Sixth Form Centre	ACC	26.47
+Trinity High School and Sixth Form Centre	ACC	24.35
+Tudor Grange Academy Redditch	ACC	26.24
+Tudor Grange Academy Worcester	AC	26.5
+Waseley Hills High School	ACC	28.55
+Wolverley CofE Secondary School	VC	21.28
+Woodrush Community High School	ACC	26.28
+Worcester Sixth Form College	Sixth Form College	29.41
+Bredon School	IND	15
+Bromsgrove School	IND	43.26
+		29.27
+Cockshut Hill Technology College	CY	9.42
+Colmers School and Sixth Form College	FD	23.63
+Dame Elizabeth Cadbury Technology College	FD	SUPP
+"Eden Boys' School, Birmingham"	F	
+Edgbaston High School for Girls	IND	41.4
+Elmhurst School for Dance	IND	27.47
+Fairfax	ACC	24.91
+Fox Hollies School and Performing Arts College	CYS	NE
+George Dixon Academy	ACC	23.31
+Great Barr School	FD	24.23
+Green Heath School	IND	NE
+Greenwood Academy	AC	23.22
+Archbishop Ilsley Catholic School	VA	26.52
+Archway Academy	IND	NE
+Hamstead Hall Academy	ACC	24.8
+Handsworth Grammar School	VA	33.3
+Handsworth Wood Girls' Academy	ACC	18.34
+Harborne Academy	AC	20.42
+Ark Kings Academy	AC	
+Ark St Alban's Academy	AC	29.18
+Heartlands Academy	AC	25.23
+Highclare School	IND	27.9
+The Arthur Terry School	ACC	26.71
+Hillcrest School A Specialist Maths and Computing College and Sixth Form Centre	ACC	28.91
+Holte School	CY	19.81
+Holyhead School	ACC	27.28
+Jamia Islamia Birmingham	IND	NE
+John Willmott School	CY	23.88
+Joseph Chamberlain Sixth Form College	Sixth Form College	29.22
+King Edward VI Aston School	ACC	35.63
+King Edward VI Camp Hill School for Boys	ACC	44.96
+King Edward VI Camp Hill School for Girls	ACC	44
+King Edward VI Five Ways School	ACC	40.29
+King Edward VI Handsworth School	ACC	37.98
+King Edward VI High School for Girls	IND	46.53
+King Edward VI Sheldon Heath Academy	AC	30.87
+King Edward's School	IND	48.49
+King Solomon International Business School	F	
+King's Norton Boys' School	FD	21.47
+Kings Norton Girls' School	ACC	31.36
+Aston Manor Academy	ACC	24.58
+Aston University Engineering Academy	FUTC	17.87
+Avecinna Academy	IND	NE
+Lordswood Boys' School	ACC	NE
+Lordswood Girls' School and Sixth Form Centre	ACC	29.41
+Mander Portman Woodward Independent College	IND	39.88
+Moseley School	FD	27.04
+"Ninestiles, an Academy"	ACC	NE
+Nishkam High School	F	22
+North Birmingham Academy	AC	20.18
+The Baverstock Academy	ACC	17.17
+Perry Beeches II The Free School	F	30.15
+Perry Beeches III the Free School	F	NE
+Perry Beeches IV - The Free School	F	
+Perry Beeches V - The All Through Family School	F	
+Plantsbrook School	ACC	26.86
+The Priory School	IND	23.73
+Queensbury School	CYS	NE
+St Edmund Campion Catholic School & Sixth Form Centre	VA	25.06
+St George's School Edgbaston	IND	24.94
+St John Wall Catholic School	VA	17.38
+St Paul's School for Girls	VA	32.07
+St Thomas Aquinas Catholic School	ACC	30.16
+Selly Oak Trust School	FDS	SUPP
+Shenley Academy	AC	19.05
+Small Heath School	FD	19.7
+South and City College Birmingham	General Further Education College	29.17
+Birmingham Metropolitan College	General Further Education College	22.84
+Birmingham Ormiston Academy	AC	20.28
+Bishop Challoner Catholic College	VA	32.03
+Bishop Vesey's Grammar School	ACC	42.05
+Bishop Walsh Catholic School	ACC	30.32
+Sutton Coldfield Grammar School for Girls	ACC	41.86
+Swanshurst School	CY	28.49
+Turves Green Boys' School	CY	
+The University of Birmingham School	F	NE
+Ward End Community College	IND	NE
+Washwood Heath Academy	ACC	25.14
+Waverley School	ACC	23.54
+Waverley Studio College	FSS	SUPP
+Bordesley Green Girls' School & Sixth Form	CY	27.72
+Al Huda Girls' School	IND	NE
+Bournville College of Further Education	General Further Education College	21.16
+Bournville School and Sixth Form Centre	AC	28.93
+Broadway Academy	ACC	26.4
+Cadbury Sixth Form College	Sixth Form College	23.34
+		29.82
+City College Coventry	General Further Education College	22.5
+Coundon Court	ACC	27.84
+Eden Girls' School Coventry	F	
+Ernesford Grange Community Academy	AC	26.25
+Finham Park 2	F	
+Finham Park School	ACC	30.64
+Foxford School and Community Arts College	FD	24.35
+Grace Academy Coventry	AC	18.27
+Henley College Coventry	General Further Education College	27.84
+Hereward College of Further Education	General Further Education College	NE
+King Henry VIII School	IND	40.02
+Lyng Hall School	FD	19.3
+Bablake School	IND	40.28
+Barr's Hill School and Community College	FD	22.43
+Pattison College	IND	NE
+President Kennedy School Academy	ACC	28.97
+Sidney Stringer Academy	AC	31.47
+Stoke Park School and Community Technology College	FD	26.63
+Bishop Ullathorne Catholic School	VA	33.07
+Tile Hill Wood School and Language College	ACC	27.93
+Blue Coat Church of England School and Music College	ACC	30.28
+The Westwood Academy	ACC	24.96
+Whitley Academy	ACC	20.42
+WMG Academy for Young Engineers	FUTC	23.15
+Woodlands Academy	ACC	25.05
+Caludon Castle School	ACC	30.33
+Cardinal Newman Catholic School A Specialist Arts and Community College	VA	28.32
+Cardinal Wiseman Catholic School and Language College	AC	38.02
+		28.39
+Dudley College of Technology	General Further Education College	26.34
+Ellowes Hall Sports College	ACC	28.25
+Elmfield Rudolf Steiner School Limited	IND	NE
+Halesowen College	General Further Education College	25.53
+King Edward VI College Stourbridge	Sixth Form College	35.89
+Old Swinford Hospital	VA	30.73
+Bishop Milner Catholic College	ACC	24.91
+Windsor High School and Sixth Form	ACC	27.08
+		31.83
+George Salter Academy	AC	27.73
+Health Futures UTC	FUTC	NE
+Holly Lodge High School College of Science	FD	23.34
+The ACE Academy	AC	15.33
+Oldbury Academy	ACC	23.01
+Ormiston Forge Academy	AC	25.11
+Ormiston Sandwell Community Academy	AC	14.23
+Perryfields High School Specialist Maths and Computing College	CY	24.59
+The Phoenix Collegiate	FD	29.12
+Q3 Academy	AC	23.72
+Q3 Academy Langley	AC	
+RSA Academy	AC	30.12
+Sandwell Academy	AC	33.17
+Sandwell College	General Further Education College	24.47
+Shireland Collegiate Academy	AC	22.07
+Stuart Bathurst Catholic High School College of Performing Arts	VA	28.84
+The Westminster School	CYS	NE
+Wood Green Academy	ACC	27.88
+Bristnall Hall Academy	ACC	26.7
+		26.79
+CTC Kingshurst Academy	AC	28.21
+Grace Academy Solihull	AC	21.83
+Arden	ACC	32.91
+Heart of England School	ACC	30.66
+John Henry Newman Catholic College	AC	28.15
+Park Hall Academy	AC	26.28
+Saint Martin's School	IND	39.31
+St Peter's Catholic School and Specialist Science College	VA	31.51
+"The Sixth Form College, Solihull"	Sixth Form College	27.58
+Smith's Wood Sports College	CY	15
+Solihull College	General Further Education College	21.82
+Solihull School	IND	43.61
+"Tudor Grange Academy, Solihull"	ACC	34.36
+WMG Academy for Young Engineers (Solihull)	FUTC	
+Alderbrook School	ACC	NE
+		28.96
+Grace Academy Darlaston	AC	15.98
+Joseph Leckie Academy	ACC	26.92
+Mary Elliot School	CYS	NE
+Barr Beacon School	ACC	27.7
+Ormiston Shelfield Community Academy	AC	22.61
+Pool Hayes Arts and Community School	FD	25.52
+Queen Mary's Grammar School	ACC	39.01
+Queen Mary's High School	ACC	30.64
+St Francis of Assisi Catholic Technology College	VA	23.37
+"St Thomas More Catholic School, Willenhall"	VA	24.41
+Shire Oak Academy	ACC	26.27
+The Streetly Academy	ACC	32.2
+Walsall Academy	AC	32.24
+Walsall College	General Further Education College	20
+Walsall Studio School	FSS	24.29
+Bloxwich Academy	AC	20
+Blue Coat Church of England Academy	AC	22.35
+West Walsall E-ACT Academy	AC	21.48
+Willenhall E-ACT Academy	AC	14.33
+Brownhills School	FD	16.74
+Aldridge School - A Science College	ACC	30.27
+		28.29
+The Coleshill School	ACC	26.42
+Etone College	ACC	21.72
+Focus School - Coventry Campus	IND	32.3
+Arnold Lodge School	IND	SUPP
+Higham Lane School	ACC	
+Ash Green School	ACC	25.3
+Ashlawn School	ACC	31.58
+Kenilworth School and Sixth Form	FD	36.43
+Kineton High School	CY	26.83
+King Edward VI College Nuneaton	Sixth Form College	27.73
+King Edward VI School	ACC	43.96
+King's High School	IND	40.67
+The Kingsley School	IND	28.85
+Lawrence Sheriff School	ACC	38.51
+Aylesford School and Sixth Form College	ACC	29.07
+The Midland Studio College Nuneaton	FSS	NE
+Myton School	ACC	33.46
+Nicholas Chamberlaine Technology College	AC	25.34
+North Leamington School	CY	35.27
+North Warwickshire and South Leicestershire College	General Further Education College	24.5
+The Nuneaton Academy	AC	13.64
+The Polesworth School	ACC	32.8
+Princethorpe College	IND	34.3
+Rugby Free Secondary School	F	
+Rugby High School	ACC	39.4
+Rugby School	IND	44.05
+St Benedict's Catholic High School	VA	34.2
+St Thomas More Catholic School and Sixth Form College	ACC	35.76
+Bilton School	ACC	23.66
+Southam College	CY	35.63
+Stratford Girls' Grammar School	ACC	39.87
+Stratford Upon Avon School	ACC	27.91
+Stratford-upon-Avon College	General Further Education College	21.9
+Trinity Catholic School	VA	29.44
+Warwick School	IND	43.53
+Warwickshire College Group	General Further Education College	23.97
+Alcester Grammar School	ACC	36.8
+Campion School	ACC	38.65
+		32.65
+City of Wolverhampton College	General Further Education College	24.47
+Colton Hills Community School	CY	26.35
+Coppice Performing Arts School	CY	25.32
+Heath Park	ACC	29.81
+Highfields School	CY	30.73
+The King's Church of England School	VA	24.08
+Moreton Community School	CY	25.88
+Moseley Park	AC	25.79
+North East Wolverhampton Academy	AC	18.72
+Our Lady and St Chad Catholic Academy	ACC	20.9
+The Royal Wolverhampton School	IND	30.51
+St Edmunds Catholic Academy	ACC	24.09
+St.Peter's Collegiate Church of England School	ACC	27.19
+St Matthias School	CY	NE
+Smestow School	ACC	26.19
+South Wolverhampton and Bilston Academy	AC	23.7
+Tettenhall College Incorporated	IND	28.48
+Wednesfield High Specialist Engineering Academy	AC	26.98
+West Midlands Construction UTC	FUTC	NE
+Wolverhampton Girls' High School	ACC	39.08
+Wolverhampton Grammar School	IND	36.39
+The British Sikh School	F	
+Aldersley High School	ACC	26.58
+		29.01
+Central Learning Partnership		28.77
+Hastingsbury Business & Enterprise College	FD	26.14
+Kempston Challenger Academy	AC	
+Kimberley 16 - 19 Stem College	F1619	30.08
+KWS Educational Services	IND	NE
+Mark Rutherford School	ACC	29.7
+Bedford Academy	AC	24.32
+Bedford College	General Further Education College	24.76
+Bedford Girls' School	IND	39.08
+Bedford Modern School	IND	43.1
+Bedford School	IND	43.11
+St Thomas More Catholic School	ACC	28.23
+Biddenham Upper School and Sports College	FD	24.59
+Sharnbrook Upper School	ACC	29.69
+Wootton Upper School	ACC	27.03
+		27.93
+Comberton Village College	ACC	34.88
+Cottenham Village College	ACC	NE
+Cromwell Community College	ACC	29.44
+Ely College	ACC	15.79
+Ely College	ACC	
+Ernulf Academy	ACC	21.89
+Focus School - Cambridge Campus	IND	29.53
+Hills Road Sixth Form College	Sixth Form College	41.64
+Hinchingbrooke School	ACC	30.68
+Huntingdonshire Regional College	General Further Education College	SUPP
+Impington Village College	ACC	32.84
+Kimbolton School	IND	39.4
+The King's School Ely	IND	37.08
+The Leys School	IND	39.89
+Long Road Sixth Form College	Sixth Form College	26.25
+Longsands Academy	ACC	29.15
+Mander Portman Woodward	IND	38.37
+Neale-Wade Academy	AC	26.86
+The Netherhall School	AC	
+The Netherhall School	FD	27.96
+Parkside Community College	ACC	30.29
+The Perse School	IND	49.71
+St. Andrew's College Cambridge	IND	31.33
+Bellerbys College Cambridge	IND	43.2
+St Ivo School	ACC	29.63
+St Mary's School	IND	41.69
+Abbey College Cambridge	IND	44.35
+St Peter's School	ACC	25.35
+Sawtry Community College Academy	ACC	28.96
+Sir Harry Smith Community College	ACC	29.33
+The Stephen Perse Foundation	IND	49.68
+Tbap Unity Academy	ACS	
+Thomas Clarkson Academy	AC	18
+"Abbey College, Ramsey"	ACC	31.41
+UTC Cambridge	FUTC	17.79
+Wisbech Grammar School	IND	32.11
+Cambridge Arts and Sciences Sixth Form and Tutorial College	IND	37.6
+Cambridge Centre for Sixth Form Studies	IND	34.51
+Cambridge Regional College	General Further Education College	15.93
+		33.35
+Cedars Upper School	ACC	29.61
+Central Bedfordshire College	General Further Education College	SUPP
+Central Bedfordshire UTC	FUTC	25.85
+All Saints Academy Dunstable	AC	19.24
+Etonbury Academy	ACC	
+Focus School - Biggleswade Campus	IND	23.94
+Focus School - Dunstable Campus	IND	28.77
+Harlington Upper School	ACC	28.33
+Manshead School	VA	24.65
+Queensbury Academy	AC	24.31
+Redborne Upper School and Community College	ACC	33.85
+Samuel Whitbread Academy	ACC	29.33
+Sandy Upper School	FD	22.7
+Stratton Upper School	ACC	30.3
+Vandyke Upper School and Community College	ACC	30.84
+		29.03
+The Cavendish School	CY	29.23
+Chancellor's School	FD	32.5
+The Chauncy School	ACC	30.69
+Cheshunt School	FD	24.27
+The Da Vinci Studio School of Creative Enterprise	FSS	SUPP
+The Da Vinci Studio School of Science and Engineering	FSS	21.23
+Dame Alice Owen's School	ACC	43.3
+Egerton-Rothesay School	IND	SUPP
+The Elstree UTC	FUTC	24.62
+Fearnhill School	FD	27.29
+Francis Combe Academy	AC	22.75
+Freman College	ACC	29.24
+Goffs School	ACC	30.66
+Haberdashers' Aske's Boys' School	IND	50.28
+Haberdashers' Aske's School for Girls	IND	50.02
+Haileybury and Imperial Service College	IND	43.86
+Haileybury Turnford	AC	33
+The Hemel Hempstead School	FD	32.52
+Hertford Regional College	General Further Education College	SUPP
+The Hertfordshire & Essex High School and Science College	ACC	37.29
+Hertswood Academy	ACC	29.26
+The Highfield School	CY	28.57
+Hitchin Boys' School	ACC	31.85
+Hitchin Girls' School	ACC	36.58
+Hockerill Anglo-European College	ACC	41.48
+Immanuel College	IND	46.6
+Ashlyns School	FD	31.26
+John F Kennedy Catholic School	VA	30.52
+The John Henry Newman Catholic School	ACC	32.24
+The John Warner School	ACC	27.92
+Kings Langley School	ACC	28.9
+The Astley Cooper School	CY	18.12
+The Knights Templar School	ACC	35.37
+Leventhorpe	ACC	32.87
+Longdean School	ACC	27.07
+Loreto College	ACC	33.92
+The Marlborough Science Academy	ACC	27.58
+Marriotts School	CY	20.83
+Merchant Taylors' School	IND	47.09
+Meridian School	ACC	28.95
+Monk's Walk School	ACC	31.06
+Barclay School	CY	25.81
+Mount Grace School	ACC	18.18
+Nicholas Breakspear Catholic School	ACC	28.31
+The Nobel School	CY	33.15
+North Hertfordshire College	General Further Education College	SUPP
+Barnwell School	FD	26.79
+Oaklands College	General Further Education College	22.62
+Onslow St Audrey's School	ACC	26.11
+Parmiter's School	ACC	40.13
+Presdales School	ACC	35.17
+Princess Helena College	IND	31.94
+The Priory School	FD	33.16
+Purcell School	IND	35.4
+Beaumont School	ACC	35.75
+Queens' School	ACC	33.4
+Queenswood School	IND	40.64
+The Reach Free School	F	
+Richard Hale School	ACC	31.66
+Rickmansworth School	ACC	34.26
+Roundwood Park School	ACC	37.78
+Royal Masonic School for Girls	IND	41.31
+Rudolf Steiner School	IND	36.56
+St Albans Girls' School	ACC	36.36
+St Albans High School for Girls	IND	47.56
+St Albans Independent College	IND	33.16
+St Albans School	IND	46.89
+St Christopher School	IND	35.84
+St Clement Danes School	ACC	38.94
+St Columba's College	IND	36.17
+St Edmund's College	IND	36.83
+St Francis College	IND	43.16
+St George's School	ACC	37.96
+Saint Joan of Arc Catholic School	ACC	31.78
+St Margaret's School	IND	37.75
+St Mary's Catholic School	VA	33.9
+St Mary's Church of England High School (VA)	ACC	17.69
+Berkhamsted School	IND	41.69
+Adeyfield School	CY	22.77
+Saint Michael's Catholic High School	ACC	30.75
+Samuel Ryder Academy	AC	27.04
+Sandringham School	ACC	38.6
+The Sele School	ACC	21.86
+Sheredes School	AC	
+Sheredes School	CY	26.97
+Sherrardswood School	IND	31.92
+Simon Balle All-Through School	ACC	34.91
+Sir Frederic Osborn School	CY	23.19
+Birchwood High School	ACC	29.33
+Sir John Lawes School	ACC	38.3
+Stanborough School	ACC	28.82
+Stanborough Secondary School	IND	NE
+Bishop's Hatfield Girls' School	ACC	34.7
+Bishop's Stortford College	IND	43.34
+The Bishop's Stortford High School	FD	32.39
+The Thomas Alleyne School	AC	21.44
+Townsend CofE School	VA	22.18
+Tring Park School for the Performing Arts	IND	35.99
+Tring School	ACC	32.4
+Verulam School	ACC	29.78
+Watford Grammar School for Boys	ACC	41.4
+Watford Grammar School for Girls	ACC	41.55
+The Watford UTC	FUTC	23.12
+West Herts College	General Further Education College	27.78
+Westfield Academy	ACC	22.75
+Woodfield School	CYS	NE
+Yavneh College	ACC	42.18
+The Aldenham Foundation	IND	31.47
+The Broxbourne School	ACC	36.83
+The Bushey Academy	AC	27.43
+Bushey Meads School	ACC	30.21
+		33.56
+The Chalk Hills Academy	AC	21.42
+Luton Sixth Form College	Sixth Form College	27.23
+Barnfield College	General Further Education College	SUPP
+The Stockwood Park Academy	AC	18.62
+The Studio School Luton	FSS	NE
+Bury Park Educational Institute (Al - Hikmah Secondary School)	IND	28.89
+Cardinal Newman Catholic School A Specialist Science College	ACC	31.38
+		27.33
+City of Peterborough Academy	F	
+Greater Peterborough UTC	FUTC	
+Hampton College	ACC	24.82
+Arthur Mellows Village College	ACC	32.95
+Iqra Academy	IND	NE
+Jack Hunt School	FD	25.81
+Ken Stimpson Community School	CY	23.66
+The King's (The Cathedral) School	ACC	36.11
+Nene Park Academy	AC	22.16
+Ormiston Bushfield Academy	AC	25.5
+Peterborough Regional College	General Further Education College	SUPP
+The Peterborough School	IND	32.06
+St John Fisher Catholic High School	VA	23.54
+Stanground Academy	AC	27.33
+Thomas Deacon Academy	AC	29.11
+The Voyager Academy	AC	22.54
+		29.16
+Chelmer Valley High School	ACC	30.52
+Chelmsford College	General Further Education College	12.97
+Chelmsford County High School for Girls	ACC	42.05
+Chigwell School	IND	43.05
+Clacton Coastal Academy	AC	19.81
+Clacton County High School	ACC	28.72
+Colchester County High School for Girls	ACC	41.16
+Colchester High School	IND	SUPP
+Colchester Institute	General Further Education College	17.6
+Colchester Royal Grammar School	ACC	46.03
+Colne Community School and College	ACC	19.52
+Davenant Foundation School	ACC	33.25
+Debden Park High School	ACC	NE
+Anglo European School	ACC	34
+Epping Forest College	General Further Education College	26.91
+Epping St John's Church of England VC School	VC	NE
+Felsted School	IND	37.27
+The FitzWimarc School	ACC	NE
+Friends School	IND	31.54
+Gosfield School	IND	24.95
+Great Baddow High School	ACC	29.39
+The Appleton School	ACC	27.46
+Greensward Academy	AC	26.13
+Guru Gobind Singh Khalsa College	IND	20.51
+Harlow College	General Further Education College	30.52
+Harwich and Dovercourt High School	ACC	17.06
+Hedingham School and Sixth Form	ACC	24.8
+Helena Romanes School and Sixth Form Centre	ACC	21.27
+Hylands School	ACC	22.83
+"Joyce Frankland Academy, Newport"	ACC	22.17
+The King Edmund School	ACC	20.96
+"King Edward VI Grammar School, Chelmsford"	ACC	44.59
+The King John School	ACC	29.19
+Maltings Academy	AC	22.17
+Mayflower High School	ACC	32.11
+Moulsham High School	ACC	29.33
+New Campus Basildon Studio School	FSS	
+New Campus Basildon Studio School	FSS	SUPP
+New Hall School	IND	41.34
+New Rickstones Academy	AC	19.52
+Notley High School and Braintree Sixth Form	ACC	27.81
+The Ongar Academy	F	
+Ormiston Rivers Academy	AC	23.82
+The Basildon Upper Academy	AC	16.88
+Philip Morant School and College	ACC	25.14
+Plume School	ACC	27.53
+Beauchamps High School	FD	30.81
+Prospects College of Advanced Technology	General Further Education College	NE
+Becket Keys Church of England Free School	F	
+Roding Valley High School	CY	NE
+Saffron Walden County High School	ACC	36.44
+"St John Payne Catholic School, Chelmsford"	VA	32.03
+St Mark's West Essex Catholic School	ACC	22.24
+St Martin's School Brentwood	ACC	28.39
+The Sandon School	ACC	28.97
+The Billericay School	ACC	27.61
+SEEVIC College	General Further Education College	26.49
+Shenfield High School	ACC	32.61
+Sir Charles Kao Utc	FUTC	9.41
+The Sixth Form College Colchester	Sixth Form College	26.92
+The Sweyne Park School	ACC	23.94
+Tendring Enterprise Studio School	FSS	NE
+Tendring Technology College	ACC	27.7
+Thurstable School Sports College and Sixth Form Centre	ACC	24.52
+Trinity School	IND	29
+West Hatch High School	ACC	28.86
+William de Ferrers School	ACC	29.73
+The Boswells School	ACC	31.74
+Brentwood County High School	ACC	26.19
+Brentwood School	IND	41.56
+Brentwood Ursuline Convent High School	ACC	33.8
+The Bromfords School and Sixth Form College	ACC	24.59
+		30.08
+City Academy Norwich	AC	SUPP
+City of Norwich School	ACC	28.77
+The College of West Anglia	General Further Education College	22.34
+Dereham Neatherd High School	CY	29.35
+Diss High School	ACC	31.49
+Downham Market Academy	AC	25.26
+East Norfolk Sixth Form College	Sixth Form College	27.59
+Easton & Otley College	Agriculture and Horticulture College	SUPP
+Fakenham Academy	AC	28.38
+Focus School - Swaffham Campus	IND	29.61
+Great Yarmouth College	General Further Education College	NE
+Gresham's School	IND	37.41
+Hellesdon High School	ACC	31.87
+Hethersett Old Hall School	IND	28.48
+"The Hewett Academy, Norwich"	AC	32.27
+Iceni Academy	AC	14.06
+Jane Austen College	F	35.74
+King Edward VII Academy	AC	28.78
+Attleborough Academy Norfolk	ACC	22.19
+Langley School	IND	33
+The Nicholas Hamond Academy	AC	16.67
+Northgate High School	ACC	29.35
+Norwich City College of Further and Higher Education	General Further Education College	24.55
+Norwich High School for Girls GDST	IND	40.63
+Norwich School	IND	45.44
+"Notre Dame High School, Norwich"	ACC	34.13
+The Open Academy	AC	19.5
+Ormiston Victory Academy	AC	25.13
+Paston Sixth Form College	Sixth Form College	30.22
+Reepham High School and College	ACC	33.33
+Sewell Park Academy	AC	22.22
+Sheringham High School	ACC	31.51
+Sir Isaac Newton Sixth Form Free School	F1619	33.57
+Smithdon High School	CY	24.88
+Springwood High School	ACC	30.94
+Sprowston Community High School	CY	26.13
+Taverham High School	ACC	29.53
+The Thetford Academy	AC	21.75
+Thetford Grammar School	IND	38.56
+Thorpe St Andrew School and Sixth Form	CY	31.25
+Trafalgar College	F	
+University Technical College Norfolk	FUTC	10.26
+Wymondham College	ACC	34.55
+Wymondham High Academy Trust	ACC	32.63
+		29.33
+Cecil Jones Academy	AC	27.98
+Chase High School	AC	26.4
+Futures Community College	FD	NE
+Belfairs Academy	ACC	21.85
+St Bernard's High School	ACC	29.05
+St Thomas More High School	ACC	26.81
+Shoeburyness High School	ACC	24.64
+South Essex College of Further and Higher Education	General Further Education College	19.94
+Southend High School for Boys	ACC	40.17
+Southend High School for Girls	ACC	38.23
+Westcliff High School for Boys Academy	ACC	40.99
+Westcliff High School for Girls	ACC	39.96
+		32.81
+Copleston High School	ACC	28.3
+Culford School	IND	35.85
+Farlingaye High School	ACC	34.8
+Felixstowe Academy	AC	24.22
+Felixstowe International College	IND	29.11
+Finborough School	IND	18.32
+Focus School - Stoke by Nayland	IND	24.82
+Framlingham College	IND	32.22
+Hartismere School	ACC	30.7
+Ipswich Academy	AC	12.63
+Ipswich High School	IND	38.14
+Ipswich School	IND	41.48
+Kesgrave High School	ACC	28.62
+King Edward VI Church of England Voluntary Controlled Upper School	VC	31.48
+Lowestoft College	General Further Education College	NE
+Lowestoft Sixth Form College	Sixth Form College	27.81
+Mildenhall College Academy	ACC	27.37
+Newmarket Academy	AC	20.77
+Northgate High School	CY	30.87
+Ormiston Sudbury Academy	AC	24.44
+Royal Hospital School	IND	34.38
+St Alban's Catholic High School	ACC	28.95
+St Benedict's Catholic School	VA	36.59
+Saint Felix School	IND	33.9
+St Joseph's College	IND	30.08
+Samuel Ward Academy	ACC	30.83
+Sir John Leman High School	ACC	30.81
+Stowmarket High School	CY	28.14
+Stowupland High School	CY	25.94
+Suffolk New College	General Further Education College	17.51
+Suffolk One	ACC1619	31.05
+Summerhill School	IND	NE
+Thomas Gainsborough School	ACC	30.73
+Thomas Mills High School	ACC	29.68
+Thurston Community College	CY	32.68
+West Suffolk College	General Further Education College	25.63
+Woodbridge School	IND	36.11
+Alde Valley School	AC	22.59
+Bungay High School	ACC	31.56
+Bury St Edmunds County Upper School	ACC	34.18
+Castle Manor Academy	ACC	18.46
+		30.44
+Gable Hall School	ACC	26.3
+The Gateway Academy	AC	13.75
+Harris Academy Chafford Hundred	ACC	34.15
+The Ockendon Academy	ACC	22.07
+Ormiston Park Academy	AC	14.95
+Palmer's College	Sixth Form College	25.34
+		26.63
+Dereham Sixth Form College		29.35
+Emmanuel College	CTC	38.21
+Gateshead College	General Further Education College	23.6
+Heworth Grange Comprehensive School	CY	27.89
+Joseph Swan Academy	ACC	28.91
+Lord Lawson of Beamish Academy	ACC	31.1
+St Thomas More Catholic School	ACC	32.83
+Thorp Academy	AC	25.95
+Whickham School	ACC	30.66
+Cardinal Hume Catholic School	ACC	32.77
+		31.22
+Dame Allan's Senior School	IND	38.36
+Discovery School	F	19.77
+Excelsior Academy	AC	23.65
+Gosforth Academy	ACC	30.04
+Heaton Manor School	FD	30.49
+Kenton School	ACC	22.85
+NCG	General Further Education College	24.29
+Newcastle High School for Girls	IND	38.16
+Newcastle School for Boys	IND	33.23
+Royal Grammar School	IND	45.55
+Sacred Heart Catholic High School	ACC	36.35
+St Cuthbert's High School	ACC	33.8
+Benfield School	FD	26.11
+St Mary's Catholic School	ACC	32.72
+Studio West	FSS	15.25
+Trinity Solutions Academy	ACC	
+Walbottle Campus	CY	33.1
+Walker Technology College	FD	25.08
+Westfield School	IND	37.88
+		28.24
+Churchill Community College	FD	33.44
+George Stephenson High School	FD	32.41
+Kings Priory School	AC	32.25
+Longbenton High School	FD	28.46
+Monkseaton High School	FD	27.34
+St Thomas More Roman Catholic Academy	ACC	32.31
+"Seaton Burn College, A Specialist Business and Enterprise School"	FD	24.37
+Tyne Metropolitan College	General Further Education College	27.49
+Whitley Bay High School	FD	31.51
+Burnside Business and Enterprise College	CY	29.83
+		30.51
+Cramlington Learning Village	ACC	32.63
+The Duchess's Community High School	CY	30.74
+Haydon Bridge Community High School and Sports College	FD	30.4
+Ashington High School	FD	25.66
+James Calvert Spence College - Acklington Road	CY	20.9
+The King Edward VI Academy	ACC	31.94
+Astley Community High School	CY	23.95
+Longridge Towers School	IND	28.38
+Northumberland CofE Academy	AC	22.21
+Northumberland College	General Further Education College	SUPP
+Ponteland Community High School	CY	28.85
+Prudhoe Community High School	CY	29.5
+Queen Elizabeth High School	CY	35.89
+Bede Academy	AC	29.27
+Bedlingtonshire Community High School	CY	27.63
+St Benet Biscop Catholic Academy	ACC	30.38
+Berwick Academy	ACC	22.08
+The Blyth Academy	AC	17.32
+		30.16
+Harton Technology College	CY	31.89
+St Joseph's Catholic Academy	ACC	26.02
+St Wilfrid's RC College	VA	32.14
+South Tyneside College	General Further Education College	SUPP
+Whitburn Church of England Academy	ACC	NE
+		29.15
+City of Sunderland College	General Further Education College	23.54
+Grindon Hall Christian School	F	31.51
+St Aidan's Catholic Academy	ACC	25.51
+St Anthony's Girls' Catholic Academy	ACC	26.87
+St Robert of Newminster Roman Catholic School	VA	29.9
+Southmoor Academy	ACC	29.48
+		27.23
+CATS College London	IND	34.43
+Fine Arts College	IND	35.43
+Hampstead School	CY	23.55
+Haverstock School	CY	21.82
+La Sainte Union Catholic Secondary School	VA	28.91
+Maria Fidelis Roman Catholic Convent School FCJ	VA	26.02
+Acland Burghley School	CY	28.69
+Parliament Hill School	CY	30.39
+Regent High School	CY	21.38
+South Hampstead High School	IND	46.48
+The UCL Academy	AC	29
+University College School	IND	48.96
+William Ellis School	VA	24.58
+The WKCIC Group	General Further Education College	22.24
+The Working Men's College	Specialist Designated College	SUPP
+The Camden School for Girls	VA	40.37
+		28.8
+Central Foundation Boys' School	VA	29.22
+City of London Academy Islington	AC	24.65
+Highbury Fields School	CY	31.91
+Highbury Grove School	CY	23.91
+North Bridge House Senior Canonbury	IND	31.03
+St Aloysius RC College	VA	21.64
+St Mary Magdalene Academy	AC	36.63
+Tech City College	F1619	20.69
+		26.91
+Chelsea Academy	AC	30.7
+Collingham	IND	35.12
+David Game College	IND	32.92
+Duff Miller College	IND	33.36
+Holland Park School	ACC	40.41
+Ashbourne Independent School	IND	41.82
+Kensington Aldridge Academy	AC	
+Kensington and Chelsea College	General Further Education College	SUPP
+Lycee Francais Charles de Gaulle	IND	44.75
+Mander Portman Woodward School	IND	39.45
+More House School	IND	35.12
+Queen's Gate School	IND	42.21
+St Charles Catholic Sixth Form College	Sixth Form College	24.09
+Westminster Tutors	IND	35.47
+The Cardinal Vaughan Memorial RC School	ACC	43.27
+		32.33
+City Heights E-ACT Academy	AC	
+DLD College London	IND	37.99
+Dunraven School	ACC	33.01
+Durand Academy	ACC	
+The Elmgreen School	VC	26.29
+Archbishop Tenison's School	VA	22.61
+Ark Evelyn Grace Academy	AC	27.05
+King's College London Maths School	F1619	50.04
+La Retraite Roman Catholic Girls' School	VA	30.84
+Lambeth Academy	AC	25.35
+Lambeth College	General Further Education College	SUPP
+Lilian Baylis Technology School	CY	29.58
+London Nautical School	FD	24.22
+Norwood School	CY	24.81
+St Martin in the Fields High School for Girls	ACC	27.13
+South Bank Engineering UTC	FUTC	
+Bishop Thomas Grant Catholic Secondary School	VA	33.67
+Streatham and Clapham High School	IND	40.91
+Trinity Academy	F	
+Woodmansterne School	CY	
+		31.68
+The Charter School	ACC	37.37
+City of London Academy (Southwark)	AC	26.86
+Compass School Southwark	F	
+Alleyn's School	IND	48.41
+Dulwich College	IND	45.5
+Harris Academy Bermondsey	AC	23.21
+Harris Academy Peckham	AC	24.08
+Ark All Saints Academy	AC	
+Ark Globe Academy	AC	31.82
+Ark Walworth Academy	AC	20.83
+James Allen's Girls' School	IND	50.86
+Kingsdale Foundation School	ACC	34.37
+Bacon's College	AC	29.56
+Sacred Heart Catholic School	ACC	35.97
+St Michael's Catholic College	ACC	29.48
+St Saviour's and St Olave's Church of England School	VA	34.01
+The St Thomas the Apostle College	VA	NE
+Bosco Centre College	IND	NE
+		31.86
+Chestnut Grove School	ACC	30.32
+Emanuel School	IND	38.25
+Ernest Bevin College	CY	21.91
+Graveney School	ACC	34.69
+Harris Academy Battersea	AC	32.59
+Ark Bolingbroke Academy	F	
+Ark Putney Academy	ACC	27.5
+Ashcroft Technology Academy	AC	35.98
+Ibstock Place School	IND	43.84
+Nightingale Community Academy	ACS	
+Putney High School	IND	46.72
+Saint Cecilia's Church of England School	ACC	31.78
+St Francis Xavier Sixth Form College	Sixth Form College	24.35
+Saint John Bosco College	VA	19.92
+South Thames College	General Further Education College	23.18
+Southfields Academy	ACC	30.26
+Burntwood School	ACC	28.42
+		29.61
+City of Westminster College	General Further Education College	18.6
+Francis Holland School	IND	40.1
+Francis Holland School	IND	45.56
+The Grey Coat Hospital	ACC	36.52
+Harris Westminster Sixth Form	F1619	39.73
+Ark King Solomon Academy	AC	26.76
+Lansdowne College	IND	30.86
+Marylebone Boys' School	F	
+Bales College	IND	21.83
+Paddington Academy	AC	31.88
+Pimlico Academy	AC	35.59
+Portland Place School	IND	36.86
+Queen's College London	IND	43.11
+Quintin Kynaston	ACC	24.78
+St Augustine's CofE High School	VA	25.15
+St George's Catholic School	ACC	29.72
+The St Marylebone CofE School	ACC	36.59
+Westminster Academy	AC	34.85
+Westminster City School	ACC	28.79
+Westminster School	IND	53.15
+		31.86
+LaSWAP Sixth Form		28.33
+Islington Sixth Form Consortium		26.71
+City of London School	IND	47.71
+City of London School for Girls	IND	49.17
+		NE
+All Saints Catholic School and Technology College	VA	30.83
+Dagenham Park CofE School	VC	27.92
+Eastbrook School	CY	22.69
+Eastbury Community School	CY	28.86
+Elutec	FUTC	20.23
+Goresbrook School	F	
+Greatfields School	F	
+Jo Richardson Community School	CY	29.66
+"Barking Abbey School, A Specialist Sports and Humanities College"	CY	27.11
+Barking and Dagenham College	General Further Education College	22.17
+Riverside School	F	
+Robert Clack School	CY	31.76
+The Sydney Russell School	ACC	32.2
+The Warren School	AC	28.15
+		28.9
+Chislehurst and Sidcup Grammar School	ACC	35.28
+Cleeve Park School	ACC	21.42
+Erith Secondary School	ACC	25.18
+Haberdashers' Aske's Crayford Academy	AC	NE
+Beths Grammar School	ACC	31.76
+Bexley Grammar School	ACC	36.53
+Bexleyheath Academy	AC	22.57
+Blackfen School for Girls	ACC	25.84
+Townley Grammar School	ACC	37.32
+"Trinity Church of England School, Belvedere"	ACC	22.35
+Welling School	ACC	25.29
+The Business Academy Bexley	AC	14.86
+		31.49
+Colfes Junior School	IND	42.31
+Corelli College	ACC	23.5
+Eltham Hill School	CY	24.71
+The Greenwich Free School	F	
+Harris Academy Greenwich	AC	27.35
+International Academy of Greenwich	F	
+The John Roan School	VC	25.67
+Plumstead Manor School	CY	24.96
+Right Choice Independent Special School	IND	NE
+Riverston School	IND	SUPP
+Bellerbys College London	IND	38.22
+Saint Mary Magdalene Church of England All Through School	VA	
+Shooters Hill Post-16 Campus	ACC1619	25.02
+Stationers Crown Woods Academy	ACC	26.02
+Thomas Tallis School	CY	31.85
+Blackheath High School	IND	37.68
+Royal Greenwich Trust School Academy	F	16.19
+Woolwich Polytechnic School	ACC	31.3
+		26.97
+"The City Academy, Hackney"	AC	33.39
+Clapton Girls' Academy	ACC	31.87
+Hackney New School	F	
+Haggerston School	CY	24.53
+Lubavitch House School (Senior Girls)	VA	29.35
+Mossbourne Community Academy	AC	38.79
+Mossbourne Victoria Park Academy	AC	
+Our Lady's Convent Roman Catholic High School	VA	29.52
+The Petchey Academy	AC	32.61
+Beis Rochel d'Satmar Girls' School	IND	NE
+Skinners' Academy	AC	NE
+Stoke Newington School and Sixth Form	CY	31.54
+Tayyibah Girls' School	IND	24.25
+The Urswick School - A Church of England Secondary School	VA	24.41
+The Bridge Academy	AC	27.75
+The Brooke House Sixth Form College	Sixth Form College	21.34
+Cardinal Pole Roman Catholic School	VA	29.94
+		29.44
+The Coopers' Company and Coborn School	ACC	34.46
+Drapers' Academy	AC	25.65
+The Frances Bardsley Academy for Girls	ACC	28.95
+Havering College of Further and Higher Education	General Further Education College	28.64
+Havering Sixth Form College	Sixth Form College	24.19
+Sacred Heart of Mary Girls' School	ACC	31.44
+St Edward's Church of England School & Sixth Form College	ACC	27.64
+The Campion School	ACC	30.93
+		27.55
+Christ The King Sixth Form College	Sixth Form College	22.6
+Forest Hill School	CY	28.4
+Haberdashers' Aske's Hatcham College	AC	27.11
+Haberdashers' Aske's Knights Academy	AC	22.24
+LeSoCo	General Further Education College	23.33
+Marathon Science School	IND	28.64
+Prendergast School	VA	29.26
+St Dunstan's College	IND	39.47
+Addey and Stanhope School	VA	20.46
+Sedgehill School	CY	20.23
+Sydenham High School GDST	IND	39.21
+Sydenham School	CY	31.09
+		24.53
+Chobham Academy	AC	30.34
+East London Science School	F	
+London Academy of Excellence	F1619	42.62
+London Design and Engineering UTC	FUTC	
+Newham College of Further Education	General Further Education College	16.86
+Newham Sixth Form College	Sixth Form College	24.89
+St Angela's Ursuline School	VA	28.56
+St Bonaventure's RC School	VA	28.78
+School 21	F	
+Brampton Manor Academy	ACC	40.22
+		31.93
+Chadwell Heath Academy	ACC	28.61
+Forest Academy	AC	21.12
+Ark Isaac Newton Academy	AC	
+Ilford County High School	CY	35.08
+King Solomon High School	VA	29.35
+Atam Academy	F	
+Loxford School	ACC	27.48
+Mayfield School	FD	24.99
+Bancrofts School	IND	47.89
+Oaks Park High School	CY	29.56
+The Palmer Catholic Academy	ACC	29.45
+Beal High School	ACC	31.36
+Redbridge College	General Further Education College	SUPP
+Seven Kings School	CY	35.24
+Trinity Catholic High School	VA	31.17
+The Ursuline Academy Ilford	ACC	30.54
+Valentines High School	CY	30.35
+Wanstead High School	CY	29.83
+Woodbridge High School	CY	31.74
+Woodford County High School	CY	38.78
+Caterham High School	CY	21.87
+		30.84
+Central Foundation Girls' School	VA	28.2
+Darul Hadis Latifiah	IND	27.39
+East London Arts & Music	F1619	28.46
+George Green's School	VC	27.59
+Langdon Park Community School	CY	24.68
+Madani Secondary Girls' School	IND	SUPP
+Morpeth School	CY	29.21
+Mulberry School for Girls	CY	30.39
+Oaklands School	CY	30.17
+Raine's Foundation School	VA	25.07
+Bethnal Green Academy	ACC	28.81
+St Paul's Way Trust School	FD	31.37
+Sir John Cass Foundation and Redcoat Church of England Secondary School	VA	29.96
+Bishop Challoner Catholic Federations of Girls School	VA	25.12
+Stepney Green Mathematics and Computing College	CY	27.76
+Swanlea School	CY	32
+Tower Hamlets College	General Further Education College	21.7
+Bow School	CY	28.42
+Canary Wharf College 3	F	
+		28.08
+Sydenham and Forest Hill Sixth Form		29.81
+Southern Consortium Sixth Form		29.94
+Christ's College Finchley	ACC	25.43
+The Compton School	ACC	NE
+Copthall School	ACC	29.47
+Dwight School London	IND	27.28
+East Barnet School	ACC	33.17
+Finchley Catholic High School	VA	29.42
+Hasmonean High School	ACC	40.02
+Hendon School	ACC	28.12
+The Henrietta Barnett School	ACC	50.28
+Ashmole Academy	ACC	33.93
+JCoSS	VA	35.32
+The King Alfred School	IND	37.3
+London Academy	AC	23.33
+Ayesha Community School	IND	27.57
+Menorah Grammar School	IND	32.04
+Menorah High School for Girls	VA	
+Mill Hill County High School	ACC	32.92
+Mill Hill School Foundation	IND	40.31
+Barnet and Southgate College	General Further Education College	24.02
+Queen Elizabeth's Girls' School	ACC	31.12
+"Queen Elizabeth's School, Barnet"	ACC	50.32
+St Andrew the Apostle Greek Orthodox School	F	
+St James' Catholic High School	VA	30.25
+St Martha's School	IND	28.69
+St Mary's CofE High School	VA	SUPP
+St Michael's Catholic Grammar School	VA	40.24
+Beth Jacob Grammar School for Girls	IND	33.96
+Bishop Douglass School Finchley	VA	29.39
+The Totteridge Academy	ACC	8.48
+Wentworth Tutorial College	IND	32.15
+Whitefield School	ACC	23.35
+Woodhouse College	Sixth Form College	35.29
+Wren Academy	AC	32.66
+Brampton College	IND	43.24
+		34.1
+Chace Community School	CY	27.18
+Edmonton County School	CY	28.28
+Enfield County School	CY	28.61
+Enfield Grammar School	ACC	28.06
+Ark John Keats Academy	F	
+Heron Hall Academy	F	
+Highlands School	CY	27.61
+Kingsmead School	ACC	29.74
+The Latymer School	VA	44.41
+Lea Valley High School	CY	27.29
+Aylward Academy	AC	24.04
+Nightingale Academy	AC	16.67
+Oasis Academy Enfield	AC	27.19
+Oasis Academy Hadley	AC	24.76
+St Anne's Catholic High School for Girls	VA	27.91
+St Ignatius College	VA	28.3
+St John's Preparatory and Senior School	IND	35.52
+Southgate School	CY	31.1
+Bishop Stopford's School	VA	21.84
+West Lea School	CYS	NE
+Winchmore School	CY	25.33
+Broomfield School	FD	25.77
+Capel Manor College	Agriculture and Horticulture College	SUPP
+		30.36
+Channing School	IND	47.58
+"The College of Haringey, Enfield and North East London"	General Further Education College	27.73
+Fortismere School	FD	38.66
+Greig City Academy	AC	26.71
+Haringey Sixth Form Centre	ACC1619	27.26
+Harris Academy Tottenham	F	
+Highgate School	IND	46.17
+Highgate Wood Secondary School	CY	32.09
+Hornsey School for Girls	CY	29.16
+St Thomas More Catholic School	ACC	23.19
+Tottenham UTC	FUTC	7.62
+Alexandra Park School	ACC	32.95
+		32.32
+Chingford Foundation School	ACC	31.08
+Eden Girls' School Waltham Forest	F	
+Forest School	IND	42.89
+Heathcote School & Science College	CY	25.41
+Highams Park School	ACC	25.15
+Holy Family Catholic School	VA	29.3
+Kelmscott School	CY	NE
+Lammas School and Sixth Form	CY	NE
+Leyton Sixth Form College	Sixth Form College	26.63
+Norlington School and 6th Form	CY	NE
+Rushcroft Foundation School	AC	2.31
+Big Creative Academy	F1619	NE
+Sir George Monoux College	Sixth Form College	22.89
+Waltham Forest College	General Further Education College	SUPP
+Walthamstow Academy	AC	32.33
+Buxton School	FD	NE
+		26.08
+Charles Darwin School	ACC	25.29
+Chislehurst School for Girls	ACC	27.94
+Coopers School	ACC	27.42
+Darrick Wood School	ACC	30.45
+Darul Uloom London	IND	20.95
+Eltham College	IND	43.92
+Farringtons School	IND	28.81
+Harris Academy Orpington	AC	
+Hayes School	ACC	32.77
+Kemnal Technology College	ACC	16.08
+Kings London	IND	31.19
+Langley Park School for Boys	ACC	33.91
+Langley Park School for Girls	ACC	28.12
+London South East Colleges	General Further Education College	8.26
+Babington House School	IND	SUPP
+Newstead Wood School	ACC	43.69
+The Priory School	ACC	20.14
+Ravens Wood School	ACC	30.86
+The Ravensbourne School	ACC	28.7
+St Olave's and St Saviour's Grammar School	VA	48.03
+Bishop Challoner School	IND	33.23
+Bishop Justus CofE School	ACC	28.17
+Wickham Court School	IND	SUPP
+Bromley High School	IND	43.15
+Bullers Wood School	ACC	31.54
+		32.74
+Coloma Convent Girls' School	VA	37
+Coulsdon Sixth Form College	Sixth Form College	23.68
+Croydon College	General Further Education College	19.6
+Croydon High School	IND	40.26
+Croydon Metropolitan College	IND	41.26
+Edenham High School	AC	25.66
+Archbishop Tenison's CofE High School	VA	25.4
+Harris Academy Upper Norwood	AC	NE
+Harris Federation Post 16		28.42
+Harris Invictus Academy Croydon	F	
+John Ruskin College	Sixth Form College	20.82
+Meridian High School	AC	
+Norbury Manor Business and Enterprise College for Girls	ACC	26.83
+Oasis Academy Coulsdon	AC	22.5
+Oasis Academy Shirley Park	AC	20.62
+Old Palace of John Whitgift School	IND	42.08
+The Quest Academy	AC	32.5
+Riddlesdown Collegiate	ACC	29.58
+Royal Russell School	IND	38.66
+St Andrew's CofE Voluntary Aided High School	VA	23.14
+St Joseph's College	ACC	24.77
+St Mary's Catholic High School	VA	27.59
+Shirley High School Performing Arts College	ACC	30.14
+Thomas More Catholic School	VA	25.7
+Trinity School	IND	44.35
+Virgo Fidelis Convent Senior School	VA	18.42
+Whitgift School	IND	45.64
+Woodcote High School	ACC	29.45
+BRIT School for Performing Arts and Technology	CTC	29.7
+Cambridge Tutors College	IND	40.42
+		27.79
+Chessington Community College	CY	27.05
+Coombe Boys' School	ACC	12.73
+Coombe Girls' School	ACC	29.39
+The Hollyfield School and Sixth Form Centre	ACC	27.22
+The Holy Cross School	ACC	31.74
+The Kingston Academy	F	
+Kingston College	General Further Education College	20.36
+Kingston Grammar School	IND	45.8
+Richard Challoner School	ACC	32.85
+Southborough High School	ACC	29.42
+Surbiton High School	IND	43
+The Tiffin Girls' School	ACC	48.72
+Tiffin School	ACC	44.49
+Tolworth Girls' School and Sixth Form	ACC	28.12
+		34.9
+King's College School	IND	50.88
+Raynes Park High School	CY	26.91
+Ricards Lodge High School	CY	34.57
+Rutlish School	VC	34.01
+St Mark's Church of England Academy	AC	17.69
+Ursuline High School Wimbledon	VA	36.37
+Wimbledon College	VA	27.48
+Wimbledon High School	IND	46.81
+		30.29
+Christ's Church of England Comprehensive Secondary School	VA	31.06
+Grey Court School	ACC	33.75
+Hampton Academy	AC	23.7
+Hampton Court House	IND	SUPP
+Hampton School	IND	46.66
+The Harrodian School	IND	42.81
+The Lady Eleanor Holles School	IND	49.1
+Orleans Park School	ACC	32.39
+Radnor House	IND	30.5
+Richmond Adult Community College	General Further Education College	SUPP
+Richmond Park Academy	AC	27.3
+Richmond-upon-Thames College	General Further Education College	22.8
+The Royal Ballet School	IND	29.06
+St Catherine's School	IND	41.73
+St Paul's School	IND	51.77
+St Richard Reynolds Catholic High School	VA	
+Teddington School	ACC	30.65
+Turing House School	F	
+Twickenham Academy	AC	16.03
+Waldegrave School	ACC	40.51
+		27.83
+Cheam High School	ACC	30.58
+Focus School - Kenley & Carshalton Campus	IND	28.37
+Glenthorne High School	ACC	31.92
+Greenshaw High School	ACC	32.3
+The John Fisher School	VA	32.01
+Nonsuch High School for Girls	ACC	43.5
+Overton Grange School	ACC	27.91
+St Philomena's School	VA	35.38
+Stanley Park High School	CY	25.84
+Sutton Grammar School	ACC	44.41
+Sutton High School	IND	38.13
+Wallington County Grammar School	ACC	42.6
+Wallington High School for Girls	ACC	43.29
+Wilson's School	ACC	48.02
+Carshalton Boys Sports College	ACC	28.71
+Carshalton College	General Further Education College	SUPP
+Carshalton High School for Girls	ACC	30.73
+		37.75
+RR6		34.25
+Claremont High School	ACC	27.79
+The College of North West London	General Further Education College	14.4
+Convent of Jesus and Mary Language College	ACC	25.12
+The Crest Academies	AC	19.71
+Alperton Community School	ACC	26.85
+Ark Academy	AC	NE
+Ark Elvin Academy	AC	23.71
+JFS	VA	41.14
+Kingsbury High School	ACC	28.31
+Michaela Community School	F	
+Newman Catholic College	VA	17.27
+Preston Manor School	ACC	32.06
+Queens Park Community School	ACC	27.44
+St Gregory's Catholic Science College	VA	27.74
+The Swaminarayan School	IND	37.2
+Wembley High Technology College	ACC	34.69
+Capital City Academy	AC	22.65
+		30.82
+Dormers Wells High School	CY	29.07
+Drayton Manor High School	ACC	30.13
+Ealing Fields High School	F	
+Ealing Independent College	IND	29.77
+The Ellen Wilkinson School for Girls	FD	29.5
+Elthorne Park High School	CY	33.47
+Featherstone High School	ACC	30.49
+Greenford High School	FD	32.23
+King Fahad Academy	IND	27.77
+Ayesha Siddiqa Girls School	IND	SUPP
+Northolt High School	FD	22.89
+Notting Hill and Ealing High School	IND	47.89
+Acorn House College	IND	28.73
+Acton High School	CY	27.05
+St Augustine's Priory	IND	40.35
+St Benedict's School	IND	39.43
+Twyford Church of England High School	ACC	39.38
+Villiers High School	FD	25.96
+William Perkin Church of England High School	F	
+Brentside High School	FD	28.6
+Alec Reed Academy	AC	17.04
+The Cardinal Wiseman Catholic School	VA	31.11
+		31.78
+Chelsea Independent College	IND	28.79
+"Ealing, Hammersmith and West London College"	General Further Education College	17.98
+Fulham Boys School	F	
+Fulham College Boys' School	ACC	SUPP
+The Godolphin and Latymer School	IND	50.34
+Hammersmith Academy	AC	23.66
+Ark Burlington Danes Academy	AC	30.53
+Lady Margaret School	ACC	36.86
+Latymer Upper School	IND	49.56
+The London Oratory School	ACC	40.19
+Phoenix High School	AC	
+Phoenix High School	FD	17.59
+Sacred Heart High School	ACC	33.62
+St James Senior Girls' School	IND	43.42
+St Paul's Girls' School	IND	54.52
+TBAP 16-19 Academic AP Academy	F1619	
+West London Free School	F	
+William Morris Sixth Form	CY	25.49
+		29.43
+Harrow College	General Further Education College	19.56
+Harrow High School	ACC	25.06
+Harrow School	IND	46.24
+Hatch End High School	ACC	27.29
+The John Lyon School	IND	38.47
+Khalsa College London	IND	SUPP
+Avanti House School	F	
+North London Collegiate School	IND	51.03
+Nower Hill High School	ACC	32.72
+Park High School	ACC	27.85
+Pinner High School	F	
+Regent College	IND	30.89
+Rooks Heath College	ACC	25.84
+St Dominic's Sixth Form College	Sixth Form College	36.62
+Bentley Wood High School	ACC	30.11
+Salvatorian Roman Catholic College	ACC	NE
+Stanmore College	General Further Education College	20.76
+Whitmore High School	CY	30.8
+Canons High School	ACC	25.78
+		30.76
+De Salis Studio College	FSS	27.86
+The Douay Martyrs Catholic School	ACC	25.34
+Abbotsfield School	FD	30.48
+Guru Nanak Sikh Academy	ACC	27.02
+The Harefield Academy	AC	27.68
+Harlington School	FD	27.4
+Haydon School	ACC	29
+Heathrow Aviation Engineering UTC	FUTC	14.55
+Hewens College	ACC	21.8
+Meadow High School	CYS	SUPP
+Barnhill Community High School	ACC	21.42
+Northwood College for Girls	IND	37.86
+Northwood School	ACC	30
+Parkside Studio College	FSS	SUPP
+Pield Heath House RC School	NMSS	NE
+Queensmead School	ACC	32.33
+Rosedale College	ACC	21.86
+Ruislip High School	ACC	29.8
+St Helen's School	IND	43.71
+Stockley Academy	AC	25.06
+Bishop Ramsey Church of England School	ACC	31.86
+Swakeleys School for Girls	ACC	30.9
+Bishopshalt School	ACC	29.03
+Uxbridge College	General Further Education College	25.02
+Uxbridge High School	ACC	26.19
+Vyners School	ACC	32.25
+		28.23
+Chiswick School	ACC	32.05
+Cranford Community College	ACC	26.08
+The Eden School (SDA)	IND	SUPP
+Feltham Community College	ACC	28.37
+The Green School	ACC	30.71
+"Gumley House RC Convent School, FCJ"	ACC	31.42
+Gunnersbury Catholic School	VA	30.25
+The Heathland School	CY	29.88
+Heston Community School	ACC	29.58
+Arts Educational School	IND	34.73
+Isleworth and Syon School for Boys	ACC	29.66
+Kingsley Academy	AC	26.84
+Lampton Academy	ACC	31.07
+Logic Studio School	FSS	
+Nishkam School West London	F	
+Reach Academy Feltham	F	
+Rivers Academy West London	ACC	32.25
+St Mark's Catholic School	ACC	37.16
+Space Studio West London	FSS	NE
+West Thames College	General Further Education College	24.51
+Brentford School for Girls	ACC	26.59
+		30.24
+Harrow Collegiate		29.11
+Easthampstead Park Community School	CY	24.34
+Edgbarrow School	CY	34.84
+Garth Hill College	CY	28.21
+Heathfield School	IND	40.83
+LVS Ascot	IND	33.61
+Ranelagh School	ACC	32.39
+Sandhurst School	CY	24.92
+Wellington College	IND	47.19
+Bracknell and Wokingham College	General Further Education College	24.54
+The Brakenhale School	AC	
+The Brakenhale School	CY	20.13
+		29.15
+The Chalfonts Community College	ACC	25.26
+Chesham Grammar School	ACC	40.78
+Chiltern Hills Academy	AC	21.15
+The Cottesloe School	FD	25.39
+Cressex Community School	FD	NE
+Dr Challoner's Grammar School	ACC	43.33
+Dr Challoner's High School	ACC	43.05
+Amersham and Wycombe College	General Further Education College	18.67
+Amersham School	ACC	22.09
+The E-Act Burnham Park Academy	AC	8.65
+Focus School - Stoke Poges Campus	IND	28.62
+The Grange School	FD	23.8
+Great Marlow School	ACC	29.84
+Highcrest Academy	ACC	21.55
+Holmer Green Senior School	ACC	24.16
+John Colet School	ACC	25.93
+John Hampden Grammar School	ACC	38.55
+Khalsa Secondary Academy	F	
+Aylesbury College	General Further Education College	21.76
+Aylesbury Grammar School	ACC	40.62
+Aylesbury High School	ACC	39.87
+The Aylesbury Vale Academy	AC	21.27
+The Mandeville School	CY	7.83
+The Misbourne School	CY	29.27
+Beaconsfield High School	ACC	40.62
+The Beaconsfield School	ACC	24.56
+Pipers Corner School	IND	38.56
+Princes Risborough	ACC	26.61
+"The Royal Grammar School, High Wycombe"	ACC	40.72
+Royal Latin School	ACC	40.31
+St Mary's School	IND	35.84
+St Michael's Catholic School	VA	26.86
+Sir Henry Floyd Grammar School	ACC	38.24
+Sir Thomas Fremantle School	F	
+Sir William Borlase's Grammar School	ACC	41.52
+Sir William Ramsay School	ACC	21.51
+Stowe School	IND	35.8
+Waddesdon Church of England School	ACC	31.76
+Akeley Wood Senior School	IND	31.28
+Wycombe Abbey School	IND	51.69
+Wycombe High School	ACC	40.39
+Bourne End Academy	AC	24.62
+Buckingham School	CY	25.04
+Buckinghamshire UTC	FUTC	16.67
+Burnham Grammar School	ACC	35.8
+		36.45
+Denbigh School	ACC	30.22
+The Hazeley Academy	ACC	30.49
+Lord Grey School	FD	27.09
+The Milton Keynes Academy	AC	21.56
+Milton Keynes College	General Further Education College	20.42
+Oakgrove School	ACC	33.18
+Ousedale School	ACC	30.47
+The Radcliffe School	FD	24.38
+St Paul's Catholic School	VA	29.73
+Shenley Brook End School	ACC	29.72
+Sir Herbert Leon Academy	AC	14.48
+Slated Row School	CYS	NE
+Stantonbury Campus	FD	25.57
+Stantonbury Campus	AC	
+Walton High	ACC	28.93
+The Webber Independent School	IND	31.71
+		29.04
+Cheney School	ACC	32.28
+The Cherwell School	ACC	36.76
+Chipping Norton School	ACC	34.3
+Cokethorpe School	IND	37.75
+The Cooper School	ACC	27.77
+Didcot Girls' School	ACC	34.28
+d'Overbroeck's	IND	42.9
+Europa School Uk	F	
+Faringdon Community College	ACC	32.74
+Fitzharrys School	CY	23.8
+Abacus College	IND	SUPP
+Gosford Hill School	ACC	28
+Headington School	IND	47.23
+The Henley College	Sixth Form College	28.19
+The Henry Box School	ACC	31.81
+Heyford Park Free School	F	
+Abingdon and Witney College	General Further Education College	19.18
+Abingdon School	IND	42.88
+John Mason School	ACC	29.02
+King Alfred's	ACC	31.6
+Kingham Hill School	IND	37.43
+Kings Oxford	IND	37.31
+Larkmead School	CY	31.69
+Lord Williams's School	ACC	30.4
+Magdalen College School	IND	52.46
+The Marlborough Church of England School	ACC	30.16
+Matthew Arnold School	ACC	32.33
+Banbury Academy	AC	28.24
+North Oxfordshire Academy	AC	20.38
+Bartholomew School	ACC	34.5
+The Oratory School	IND	33.54
+Our Lady's Abingdon	IND	35.17
+The Oxford Academy	AC	15.71
+Oxford High School GDST	IND	47.48
+Oxford Spires Academy	AC	23.19
+Radley College	IND	48.71
+Rye St Antony School	IND	36.69
+Activate Learning	General Further Education College	23.54
+St Birinus School	ACC	28.99
+"St Clare's, Oxford"	IND	43.03
+Bellerbys College Oxford	IND	39.33
+St Edward's School	IND	40.42
+St Gregory the Great Catholic School	ACC	28.56
+St Helen and St Katharine	IND	46.8
+The Bicester School	AC	25.61
+Bicester Technology Studio	FSS	
+Shiplake College	IND	34.38
+Sibford School	IND	29
+Space Studio Banbury	FSS	24.28
+Tudor Hall School	IND	42.55
+UTC Oxfordshire	FUTC	NE
+Wallingford School	ACC	33.44
+Blessed George Napier Catholic School and Sports College	ACC	32.51
+The Warriner School	ACC	28.84
+Bloxham School	IND	33.66
+Wheatley Park School	ACC	29.1
+Wood Green School	CY	31.31
+Wychwood School	IND	38.69
+Burford School	ACC	33.52
+Carfax College	IND	SUPP
+Carterton Community College	CY	NE
+		30.32
+The Abbey School Reading	IND	46.34
+Highdown School and Sixth Form Centre	ACC	28.2
+John Madejski Academy	AC	19.08
+Kendrick School	ACC	46.62
+Leighton Park School	IND	37.53
+Prospect School	ACC	21.92
+Queen Anne's School	IND	36.97
+Reading Girls' School	FD	SUPP
+Reading School	ACC	46.67
+St Joseph's College	IND	34.58
+UTC Reading	FUTC	29.25
+Blessed Hugh Faringdon Catholic School	VA	23.47
+The WREN School	F	
+		38.73
+Ditton Park Academy	F	
+East Berkshire College	General Further Education College	19.69
+"Eden Girls' School, Slough"	F	
+Herschel Grammar School	ACC	35.5
+The Langley Academy	AC	24.32
+Langley Grammar School	ACC	38.74
+Lynch Hill Enterprise Academy	F	
+Baylis Court School	ACC	31.08
+Beechwood School	CY	19.32
+St Bernard's Catholic Grammar School	VA	37.39
+St Joseph's Catholic High School	VA	22.72
+Slough and Eton Church of England Business and Enterprise College	ACC	23.54
+Upton Court Grammar School	ACC	29.91
+The Westgate School	ACC	25.98
+Wexham School	CY	22.46
+		30.01
+Denefield School	ACC	29.9
+Downe House	IND	42.7
+The Downs School	FD	32.46
+John O'Gaunt School	CY	5.91
+Kennet School	ACC	32.74
+Little Heath School	VA	27.54
+Mary Hare School	NMSS	23.92
+Newbury College	General Further Education College	SUPP
+Newbury Hall School	IND	29
+Padworth College	IND	30.88
+Pangbourne College	IND	32.37
+Park House School	ACC	28.92
+St Bartholomew's School	ACC	32.23
+St Gabriel's School	IND	38.63
+Theale Green School	AC	28.59
+Trinity School	ACC	32.71
+The Willink School	CY	28.5
+Bradfield College	IND	39.19
+		30.45
+Charters School	ACC	32.95
+Churchmead Church of England (VA) School	VA	NE
+Claires Court Schools	IND	31.95
+Cox Green School	ACC	25.45
+Altwood CofE Secondary School	ACC	24.13
+Desborough College	AC	26.35
+Eton College	IND	50.62
+Furze Platt Senior School	ACC	29.75
+Holyport College	F	
+Hurst Lodge School	IND	33.41
+Marist Senior School	IND	37.59
+Newlands Girls' School	CY	35.68
+Redroofs School for the Performing Arts	IND	SUPP
+St George's School	IND	37.4
+Berkshire College of Agriculture	Agriculture and Horticulture College	24.28
+St Mary's School Ascot	IND	47.26
+The Windsor Boys' School	ACC	30.79
+Windsor Girls' School	ACC	28.26
+Brigidine School Windsor	IND	31.67
+		30.27
+The Emmbrook School	CY	30.06
+The Forest School	ACC	27.92
+The Holt School	ACC	33.46
+Luckley House School	IND	33.96
+Maiden Erlegh School	ACC	33.78
+The Piggott School	ACC	34.24
+Reading Blue Coat School	IND	40.56
+Reddam House Berkshire	IND	29.98
+St Crispin's School	CY	29.18
+Waingels College	ACC	32.18
+Bohunt School Wokingham	AC	
+The Bulmershe School	CY	27.77
+		31.66
+Didcot Sixth Form College		31.83
+16-19 Abingdon		28.32
+Churcher's College	IND	43.49
+Alton College	Sixth Form College	30.29
+Alton Convent School	IND	38.79
+Eastleigh College	General Further Education College	SUPP
+Fairways School	IND	NE
+Fareham College	General Further Education College	3.85
+Farnborough College of Technology	General Further Education College	21.32
+Farnborough Hill	IND	42.09
+Hampshire Collegiate School	IND	32.14
+Havant College	Sixth Form College	29.84
+The Arnewood School Academy	ACC	32.49
+Lord Wandsworth College	IND	34.98
+Meoncross School	IND	SUPP
+The New Forest Academy	AC	NE
+Oaklands Catholic School	ACC	28.52
+Barton Peveril Sixth Form College	Sixth Form College	30.69
+Basingstoke College of Technology	General Further Education College	0
+Bay House School	ACC	33.34
+Peter Symonds College	Sixth Form College	35.16
+Queen Mary's College	Sixth Form College	29.15
+Bedales School	IND	43.76
+Ringwood School Academy	ACC	33.72
+St Michael's School	IND	SUPP
+St Swithun's School	IND	45.66
+St Vincent College	Sixth Form College	24.46
+Salesian College	IND	40.26
+Sherfield School	IND	43.06
+The Sixth Form College Farnborough	Sixth Form College	35.19
+The South Downs College	General Further Education College	28.99
+Sparsholt College Hampshire	Agriculture and Horticulture College	28.95
+Totton College	Sixth Form College	17.93
+Winchester College	IND	48.22
+Yateley School	CY	27.7
+Brockenhurst College	General Further Education College	28.79
+Brockwood Park School	IND	SUPP
+The Burgate School and Sixth Form	ACC	28.8
+		31.88
+Christ The King College	VA	28.93
+Cowes Enterprise College	AC	25.45
+The Isle of Wight College	General Further Education College	27.22
+Isle of Wight Studio School	FSS	NE
+Medina College	FD	27.16
+Priory School	IND	SUPP
+Ryde Academy	AC	18.91
+Ryde School with Upper Chine	IND	39.7
+Sandown Bay Academy	AC	24.58
+Carisbrooke College	FD	25.88
+		26.48
+Ark Charter Academy	AC	SUPP
+Highbury College	General Further Education College	26.57
+Portsmouth College	Sixth Form College	26.75
+The Portsmouth Grammar School	IND	43.1
+Portsmouth High School	IND	40.64
+St John's College	IND	33.02
+		26.72
+Itchen College	Sixth Form College	27.5
+King Edward VI School	IND	43.62
+Richard Taunton Sixth Form College	Sixth Form College	24.41
+St Anne's Catholic School	ACC	24.53
+Southampton City College	General Further Education College	SUPP
+Bitterne Park School	CY	26.88
+		26.01
+Caterham School	IND	44.22
+All Hallows Catholic School	VA	35.37
+Charterhouse	IND	45.13
+"Christ's College, Guildford"	VA	22.88
+City of London Freemen's School	IND	44.56
+Claremont Fan Court School	IND	37.85
+Cobham Free School	F	
+Collingwood College	ACC	29.33
+Cranleigh School	IND	39.84
+Dunottar School	IND	33.91
+East Surrey College	General Further Education College	SUPP
+Epsom and Ewell High School	ACC	24.36
+Epsom College	IND	45.05
+Esher College	Sixth Form College	33.76
+Ewell Castle School	IND	27.19
+Focus School - Hindhead Campus	IND	28.76
+Frensham Heights School	IND	34.09
+Fullbrook School	ACC	31.07
+George Abbot School	ACC	34.05
+Glyn School	ACC	33.52
+Godalming College	Sixth Form College	33.87
+Gordon's School	ACC	40.95
+Greenacre School for Girls	IND	38.2
+Guildford College of Further and Higher Education	General Further Education College	27.4
+Guildford County School	ACC	34.55
+Guildford High School	IND	50.56
+Halliford School	IND	32.81
+Heathside School	ACC	35.65
+Hinchley Wood School	ACC	33.61
+Hoe Valley School	F	
+The Ashcombe School	CY	31.31
+Howard of Effingham School	ACC	32.89
+Hurtwood House School	IND	44.26
+King Edward's School Witley	IND	36.53
+Kings College Guildford	AC	13.24
+Lingfield Notre Dame	IND	40.86
+North East Surrey College of Technology	General Further Education College	SUPP
+Notre Dame Senior School	IND	37.32
+Oxted School	ACC	30.78
+The Beacon School	ACC	20.93
+Prior's Field School	IND	36.97
+The Priory CofE Voluntary Aided School	VA	29.44
+Reeds School	IND	39.26
+Reigate College	Sixth Form College	31.68
+Reigate Grammar School	IND	45.24
+Rosebery School	ACC	35.35
+Royal Alexandra and Albert School	VA	31.27
+Royal Grammar School	IND	49.68
+The Royal School	IND	39.48
+Rydens Enterprise School and Sixth Form College	ACC	26.8
+St Andrew's Catholic School	VA	38.06
+St Bede's School	VA	33.05
+St Catherine's School	IND	45.69
+St George's College Weybridge	IND	42.58
+St James Senior Boys' School	IND	36.77
+"St John the Baptist Catholic Comprehensive School, Woking"	VA	39.99
+"St John's School, Leatherhead"	IND	42.43
+St Paul's Catholic College	VA	30.16
+St Peter's Catholic School	VA	31.89
+St Teresa's School	IND	41.49
+"Salesian School, Chertsey"	VA	36.13
+Sir William Perkins's School	IND	41.46
+Strode's College	Sixth Form College	27.8
+The Bishop Wand Church of England School	ACC	28.54
+Therfield School	CY	25.27
+Tomlinscote School and Sixth Form College	ACC	25.52
+Tormead School	IND	45.42
+Blenheim High School	ACC	26.98
+Warlingham School	ACC	26.51
+Woking College	Sixth Form College	30.84
+Woldingham School	IND	43.39
+Woodfield School	CYS	NE
+Yehudi Menuhin School	IND	44.92
+Box Hill School	IND	32.46
+Brooklands College	General Further Education College	15.98
+		32.02
+Central Sussex College	General Further Education College	28.61
+Chichester College	General Further Education College	27.78
+Chichester Free School	F	
+Chichester High School for Boys	ACC	24.61
+Chichester High School	ACC	32.68
+Christ's Hospital	IND	39.35
+The College of Richard Collyer In Horsham	Sixth Form College	32.67
+The Angmering School	CY	28.34
+Farlington School	IND	32.36
+Felpham Community College	CY	28.63
+Ardingly College	IND	43.11
+Hazelwick School	ACC	32.82
+"Holy Trinity CofE Secondary School, Crawley"	VA	30.95
+Hurstpierpoint College	IND	43.97
+Ifield Community College	CY	22.48
+Imberhorne School	CY	30.45
+Lancing College	IND	40.7
+The Littlehampton Academy	AC	28.05
+Midhurst Rother College	AC	30.07
+"Northbrook College, Sussex"	General Further Education College	26.43
+Oriel High School	CY	27.22
+Our Lady of Sion School	IND	39.04
+The Regis School	AC	25.36
+Sackville School	CY	31.86
+St Paul's Catholic College	VA	31.4
+The St Philip Howard Catholic High School	VA	30.71
+"St Wilfrid's Catholic Comprehensive School, Crawley"	VA	29.44
+Seaford College	IND	27.29
+Shoreham Academy	AC	25.63
+The Sir Robert Woodard Academy	AC	25.75
+Slindon College	IND	SUPP
+"Bishop Luffa School, Chichester"	ACC	34.82
+Steyning Grammar School	VC	31.86
+Thomas Bennett Community College	ACC	21.47
+"Weald School, the"	CY	34.25
+Worth School	IND	39.01
+Worthing College	General Further Education College	29.6
+Burgess Hill Girls	IND	43.66
+		30.62
+Chichester High Schools Sixth Form		28.71
+City College Brighton and Hove	General Further Education College	32.66
+Hove Park School and Sixth Form Centre	CY	24.31
+King's School	F	
+Portslade Aldridge Community Academy	AC	19.05
+Roedean School	IND	44.11
+Bellerbys College Brighton	IND	36.21
+Varndean College	Sixth Form College	34.22
+Blatchington Mill School and Sixth Form College	CY	24.56
+Brighton Aldridge Community Academy	AC	17.06
+Brighton and Hove High School	IND	43.28
+Brighton College	IND	50.2
+Brighton Hove and Sussex Sixth Form College	Sixth Form College	35.82
+Cardinal Newman Catholic School	VA	30.22
+		34.05
+Claremont School	IND	29.47
+Eastbourne College	IND	40.83
+Gildredge House	F	NE
+Greenfields School	IND	SUPP
+Hailsham Community College	ACC	31.86
+Ark Helenswood Academy	ACC	31.46
+Heathfield Community College	CY	31.65
+Ark William Parker Academy	AC	31.45
+Lewes Old Grammar School	IND	30.41
+Mayfield School	IND	39.89
+Michael Hall School	IND	37.91
+Moira House Girls' School	IND	35.08
+Battle Abbey School	IND	35.48
+Beacon Academy	ACC	27.57
+Plumpton College	Agriculture and Horticulture College	NE
+Bede's Senior School	IND	41.49
+Ringmer Community College	ACC	22.45
+Rye Studio School	FSS	33.08
+Bexhill College	Sixth Form College	26.6
+Seaford Head School	ACC	28.53
+Sussex Coast College Hastings	General Further Education College	24.28
+Sussex Downs College	General Further Education College	28.95
+Uckfield Community Technology College	CY	31.85
+Uplands Community College	CY	27.71
+UTC@harbourside	FUTC	NE
+Buckswood School	IND	32.48
+		28.63
+CATS Canterbury	IND	29.41
+The Charles Dickens School	FD	18.28
+Chatham & Clarendon Grammar School	ACC	29.18
+Cobham Hall	IND	35.05
+The Community College Whitstable	CY	19.54
+Cornwallis Academy	AC	24.53
+Cranbrook School	ACC	38.69
+The Abbey School	ACC	17.2
+Dane Court Grammar School	ACC	33.98
+Dartford Grammar School	ACC	42.77
+Dartford Grammar School for Girls	FD	35.89
+Dartford Science & Technology College	FD	26.38
+Dover Christ Church Academy	AC	20.9
+Dover College	IND	29.29
+Dover Grammar School for Boys	FD	28.83
+Dover Grammar School for Girls	CY	35.29
+Duke of York's Royal Military School	AC	22.76
+Earlscliffe (Sussex Summer Schools Ltd)	IND	35.02
+East Kent College	General Further Education College	NE
+The Ebbsfleet Academy	AC	NE
+Focus School - Linton Park Campus	IND	26.57
+Folkestone Academy	AC	26.63
+The Folkestone School for Girls	ACC	33.48
+Fulston Manor School	ACC	23.26
+Gravesend Grammar School	ACC	33.13
+Hadlow College	Agriculture and Horticulture College	SUPP
+The Archbishop's School	FD	20.07
+Hartsdown Academy	ACC	12.38
+The Harvey Grammar School	ACC	31.94
+The Hayesbrook School	ACC	24.57
+Herne Bay High School	ACC	21.87
+High Weald Academy	AC	19.7
+Highsted Grammar School	ACC	35.9
+Highworth Grammar School	ACC	40.35
+Hillview School for Girls	ACC	27.16
+The Holmesdale School	FD	16.82
+Homewood School and Sixth Form Centre	ACC	27.23
+Hugh Christie Technology College	FD	23.3
+Ashford School	IND	40.32
+Ifield School	FDS	NE
+Invicta Grammar School	ACC	36.65
+The John Wallis Church of England Academy	AC	20.42
+The Judd School	VA	44.6
+Kent College (Canterbury)	IND	40.78
+Kent College Pembury	IND	39.06
+The King's School Canterbury	IND	43.59
+Astor College (A Specialist College for the Arts)	ACC	14.73
+Knole Academy	AC	26.77
+The Leigh Academy	AC	19.83
+The Leigh UTC	FUTC	20.77
+Longfield Academy	AC	27.81
+Aylesford School - Sports College	FD	16.89
+Maidstone Grammar School	FD	35.89
+Maidstone Grammar School for Girls	FD	34.54
+The Malling School	FD	11.74
+The Maplesden Noakes School	ACC	23.66
+The Marsh Academy	AC	18.08
+Mascalls Academy	ACC	26.87
+"Mayfield Grammar School, Gravesend"	ACC	31.13
+Meopham School	AC	25.22
+New Line Learning Academy	AC	NE
+North Kent College	General Further Education College	SUPP
+The North School	CY	21.37
+Northfleet School for Girls	FD	20.15
+Northfleet Technology College	FD	16.83
+The Norton Knatchbull School	ACC	30.97
+Oakwood Park Grammar School	ACC	32.32
+Oasis Academy Hextable	AC	13.33
+Oasis Academy Isle of Sheppey	AC	18.95
+Barton Court Grammar School	ACC	33.65
+Orchards Academy	ACC	NE
+Pent Valley Technology College	FD	13.48
+Queen Elizabeth's Grammar School	ACC	32.36
+Radnor House Sevenoaks	IND	29.61
+The Royal Harbour Academy	FD	SUPP
+Sackville School	IND	31.38
+Beechwood Sacred Heart School	IND	33.03
+"St Anselm's Catholic School, Canterbury"	ACC	20.58
+St Augustine Academy	AC	SUPP
+St Edmund's Catholic School	VA	14.27
+St Edmund's Catholic School	AC	
+St Edmund's School Canterbury	IND	36.45
+St George's Church of England Foundation School	FD	17.8
+Saint George's Church of England School	ACC	28.24
+St Gregory's Catholic School	ACC	30.84
+St John's Catholic Comprehensive	VA	24.84
+Benenden School	IND	47.71
+Bennett Memorial Diocesan School	ACC	31.88
+St Lawrence College	IND	33.19
+Bethany School	IND	29.44
+St Simon Stock Catholic School	ACC	33.21
+Sandwich Technology School	ACC	23.71
+SchoolsCompany The Goodwin Academy	AC	18.48
+Sevenoaks School	IND	49.99
+Simon Langton Girls' Grammar School	VC	34.33
+Simon Langton Grammar School for Boys	FD	35.49
+Sir Roger Manwood's School	ACC	35.03
+Sittingbourne Community College	AC	25.26
+Skinners' Kent Academy	AC	24.83
+The Skinners' School	ACC	43.77
+Spires Academy	AC	SUPP
+Sutton Valence School	IND	38.84
+Swadelands School	CY	SUPP
+Tonbridge Grammar School	ACC	44.97
+Tonbridge School	IND	48.34
+Towers School and Sixth Form Centre	ACC	21.48
+Trinity School	F	
+Tunbridge Wells Girls' Grammar School	FD	42.02
+Tunbridge Wells Grammar School for Boys	CY	32.42
+"Ursuline College, Westgate-On-Sea"	ACC	19.93
+Valley Park School	ACC	26.46
+Walthamstow Hall	IND	43.2
+Weald of Kent Grammar School	ACC	39.17
+West Kent and Ashford College	General Further Education College	20.97
+Westlands School	ACC	27.03
+Wilmington Academy	AC	22.31
+Wilmington Grammar School for Boys	ACC	29.65
+Wilmington Grammar School for Girls	ACC	31.53
+Borden Grammar School	ACC	26.91
+Wrotham School	ACC	25.01
+Wye School	F	
+Brockhill Park Performing Arts College	ACC	20.01
+Broomhill Bank School	FDS	NE
+The Canterbury Academy	ACC	19.11
+Canterbury College	General Further Education College	22.83
+		32.06
+Chatham Grammar School for Boys	ACC	29.77
+Chatham Grammar School for Girls	ACC	34.2
+Fort Pitt Grammar School	ACC	29.84
+Greenacre School	ACC	18.31
+The Howard School	ACC	21.87
+The Hundred of Hoo Academy	AC	26.29
+"King's School, Rochester"	IND	36.04
+Medway UTC	FUTC	NE
+MidKent College	General Further Education College	19.34
+Rainham Mark Grammar School	ACC	32.62
+Rainham School for Girls	ACC	24.87
+The Robert Napier School	AC	18.05
+The Rochester Grammar School	ACC	42.7
+Rochester Independent College	IND	35.47
+St John Fisher Catholic Comprehensive School	VA	20.88
+Sir Joseph Williamson's Mathematical School	ACC	38.23
+Strood Academy	AC	19.45
+The Thomas Aveling School	ACC	24.89
+The Victory Academy	AC	21.58
+Walderslade Girls' School	ACC	21.58
+Brompton Academy	AC	22.33
+		30.1
+PGW Partnership of Greenacre and Walderslade		20.49
+Kings Bournemouth	IND	42.19
+LeAF Studio	FSS	24.25
+Avonbourne College	ACC	29.44
+Oak Academy	ACC	16.23
+Parkfield School	F	NE
+St Peter's Catholic Comprehensive School	ACC	28.26
+The Bishop of Winchester Academy	AC	23.43
+Talbot Heath School	IND	36.45
+The Bourne Academy	AC	18.27
+Bournemouth Collegiate School	IND	33.6
+Bournemouth School	ACC	35.51
+Bournemouth School for Girls	ACC	38.69
+		32.59
+Cornwall College	General Further Education College	27.48
+Falmouth School	ACC	30.16
+Helston Community College	FD	30.47
+Launceston College	ACC	30.18
+Liskeard School and Community College	FD	29.64
+Newquay Tretherras	ACC	29.94
+Redruth School	FD	23.56
+Saltash.net community school	ACC	28.39
+Torpoint Community College	FD	25.86
+Treviglas Community College	CY	30.6
+Truro and Penwith College	General Further Education College	34.32
+Truro High School	IND	40.59
+Truro School	IND	38.65
+Wadebridge School	ACC	34.75
+Bodmin College	ACC	26.37
+Budehaven Community School	FD	33.81
+Callington Community College	ACC	29.75
+Camborne Science and International Academy	ACC	30.47
+		32.03
+Clyst Vale Community College	ACC	29.42
+Colyton Grammar School	ACC	44.97
+Coombeshead Academy	ACC	23.45
+Dartmouth Academy	AC	18.59
+Exeter College	General Further Education College	31.25
+Exeter Mathematics School	F1619	43.35
+Exeter School	IND	43.59
+Exeter Tutorial College	IND	39.69
+Exmouth Community College	ACC	27.89
+Honiton Community College	ACC	22.51
+The Ilfracombe Church of England Academy	AC	25.58
+Ivybridge Community College	ACC	29.9
+King Edward VI Community College	FD	32.07
+The King's School	ACC	32.79
+Kingsbridge Academy	ACC	34.4
+Kingsley School	IND	32.46
+Atrium Studio School	FSS	SUPP
+The Axe Valley Community College	CY	23.51
+Magdalen Court School	IND	SUPP
+The Maynard School	IND	43.05
+Mount Kelly	IND	31.64
+Newton Abbot College	ACC	29.03
+Okehampton College	FD	31.97
+Petroc	General Further Education College	28.22
+Queen Elizabeth's	ACC	30.66
+Route 39 Academy	F	
+St John's International School	IND	SUPP
+Bideford College	FD	26.42
+Bideford College	AC	
+Shebbear College	IND	32.97
+Sidmouth College	CY	27.23
+South Dartmoor Community College	ACC	31.69
+South Devon UTC	FUTC	NE
+Stover School	IND	28.35
+Tavistock College	FD	29.79
+Teign School	ACC	27.6
+"Teignmouth Community School, Exeter Road"	ACC	28.73
+Trinity School	IND	28.63
+West Buckland School	IND	36.78
+Blundell's School	IND	38.56
+Bramdean School	IND	SUPP
+		30.81
+Clayesmore School	IND	33.24
+Dorset Studio School	FSS	
+Ferndown Upper School	CY	26.26
+Gillingham School	VC	31.53
+The Grange School	AC	NE
+The Gryphon School	ACC	32.53
+Highcliffe School	ACC	32.99
+Isle of Portland Aldridge Community Academy	AC	15
+Kingston Maurward College	Agriculture and Horticulture College	SUPP
+Leweston School	IND	41.59
+Lytchett Minster School	FD	29.79
+Milton Abbey School	IND	21.48
+Beaminster School	VC	34.33
+The Purbeck School	CY	28.12
+Queen Elizabeth's School	ACC	27.18
+Ringwood Waldorf School	IND	NE
+St Mary's School	IND	41.2
+Shaftesbury School	ACC	29.23
+Sherborne School	IND	41.35
+Sherborne School for Girls	IND	38.74
+The Sir John Colfox School	ACC	23.47
+The Thomas Hardye School	ACC	33.08
+Twynham School	ACC	31.48
+The Blandford School	VC	28.59
+Weymouth College	General Further Education College	23.54
+The Woodroffe School	FD	30.31
+Bryanston School	IND	40.32
+Budmouth College	FD	26.45
+		30.13
+		NE
+All Saints Church of England Academy	AC	23.42
+City College Plymouth	General Further Education College	21.52
+Coombe Dean School Academy Trust	ACC	25.94
+Devonport High School for Boys	ACC	33.03
+Devonport High School for Girls	ACC	36.98
+Eggbuckland Community College	ACC	23.77
+Focus School - Plymouth Campus	IND	SUPP
+Hele's Trust	ACC	29.52
+Lipson Co-operative Academy	ACC	25.97
+Marine Academy Plymouth	AC	16.21
+Notre Dame RC School	ACC	26.64
+Plymouth College	IND	36.79
+Plymouth High School for Girls	CY	33.35
+Plymouth Studio School	FSS	NE
+Plymstock School	ACC	28.66
+Ridgeway School	ACC	27.62
+St Boniface's RC College	AC	23.05
+Sir John Hunt Community Sports College	FD	25.46
+Stoke Damerel Community College	ACC	23.6
+Tor Bridge High	ACC	22.51
+UTC Plymouth	FUTC	12.47
+		29.05
+Corfe Hills School	ACC	26.27
+Magna Academy	AC	25.9
+Parkstone Grammar School	ACC	39.07
+Poole Grammar School	ACC	33.5
+Poole High School	FD	24.25
+St Aldhelm's Academy	AC	SUPP
+"St Edward's Roman Catholic/Church of England School, Poole"	VA	27.79
+The Bournemouth and Poole College	General Further Education College	20.9
+Canford School	IND	43.46
+		30.14
+Downside School	IND	41.34
+Frome Community College	CY	30.85
+Heathfield Community School	CY	52
+Holyrood Academy	ACC	27.57
+Huish Episcopi Academy	ACC	31.92
+The King Alfred School	CY	28.67
+King's Bruton	IND	36.72
+King's College	IND	36.4
+The Kings of Wessex Academy	ACC	33.04
+Mark College	INDSPEC	SUPP
+Millfield School	IND	35.27
+The Park School	IND	30.76
+Queen's College	IND	35.71
+Richard Huish College	Sixth Form College	32.3
+Sexey's School	ACC	35.16
+Strode College	General Further Education College	31.63
+The Taunton Academy	AC	SUPP
+Taunton School	IND	37.06
+Wadham School	VC	28.9
+Wellington School	IND	37.91
+Wells Cathedral School	IND	38.65
+West Somerset College	ACC	29.21
+The Blue School	ACC	35.01
+Yeovil College	General Further Education College	24.03
+Bridgwater and Taunton College	General Further Education College	23.6
+Bruton School for Girls	IND	40.64
+Brymore Academy	AC	SUPP
+The Castle School	ACC	NE
+		30.56
+Churston Ferrers Grammar School Academy	ACC	34.56
+Devon Studio School	FSS	SUPP
+EF Academy Torbay	IND	29.35
+Paignton Community and Sports Academy	ACC	13.03
+St Cuthbert Mayne School	VA	25.67
+South Devon College	General Further Education College	27.07
+The Spires College	FD	21.24
+Torquay Academy	AC	18.93
+Torquay Boys' Grammar School	ACC	39.07
+Torquay Girls Grammar School	ACC	42.5
+Brixham College	ACC	22.88
+		33.46
+Chew Valley School	CY	30.11
+Hayesfield Girls School	ACC	33.39
+The IKB Studio School	FSS	NE
+King Edward's School	IND	46.02
+Kingswood School	IND	44.12
+Mendip Studio School	FSS	NE
+Monkton Senior School	IND	38.87
+Norton Hill Academy	ACC	30.24
+Oldfield School	ACC	24.56
+Bath Academy	IND	32.31
+Bath College	General Further Education College	SUPP
+Bath Community Academy	AC	
+The Bath Studio School	FSS	28.49
+Prior Park College	IND	38.69
+Ralph Allen School	ACC	32.58
+Beechen Cliff School	ACC	30.25
+Royal High School GDST	IND	43.7
+Saint Gregory's Catholic College	VA	27.79
+St Mark's CofE School	VA	34.06
+Somervale School Specialist Media Arts College	ACC	34.16
+Wellsway School	ACC	35.13
+Writhlington School	ACC	29.08
+		31.08
+The City Academy Bristol	AC	18.87
+City of Bristol College	General Further Education College	23.11
+Clifton College	IND	41.51
+Clifton High School	IND	34.74
+Colston's Girls' School	AC	31.54
+Colston's School	IND	35.55
+Cotham School	ACC	31.56
+Include Bristol	IND	NE
+Ashton Park School	FD	22.81
+Badminton School	IND	47.16
+Merchants' Academy	AC	17.06
+Oasis Academy Brightstowe	AC	
+Oasis Academy Brislington	AC	NE
+Oasis Academy John Williams	AC	20.37
+Queen Elizabeth's Hospital	IND	43.68
+The Red Maids' School	IND	41.05
+Redland Green School	ACC	35.74
+Redland High School for Girls	IND	43.52
+St Bede's Catholic College	ACC	28.86
+St Brendan's Sixth Form College	Sixth Form College	28.67
+St Mary Redcliffe and Temple School	VA	33.66
+Bristol Brunel Academy	AC	21.33
+Bristol Cathedral Choir School	AC	35
+Bristol Free School	F	NE
+Bristol Grammar School	IND	45.27
+Bristol Metropolitan Academy	AC	SUPP
+		30.38
+"All Saints' Academy, Cheltenham"	AC	19.8
+Cheltenham Bournside School and Sixth Form Centre	ACC	28.61
+Cheltenham College	IND	40.22
+Cheltenham Ladies' College	IND	48.76
+Chipping Campden School	ACC	27.57
+Chosen Hill School	ACC	25.48
+Churchdown School	ACC	25.84
+Cirencester College	Sixth Form College	31.63
+Cleeve School	ACC	30.54
+The Cotswold Academy	ACC	35.26
+The Crypt School	ACC	36.09
+Dean Close School	IND	40.45
+Farmor's School	ACC	34.41
+Focus School - Gloucester Campus	IND	23.01
+Focus School-Berkeley Campus	IND	38.75
+Gloucester Academy	AC	8.72
+Gloucestershire College	General Further Education College	21.1
+Archway School	CY	28.99
+Hartpury College	Agriculture and Horticulture College	27.08
+High School for Girls	ACC	38.87
+Katharine Lady Berkeley's School	ACC	33.03
+"The King's School, Gloucester"	IND	40.12
+Marling School	ACC	34.76
+Balcarras School	ACC	33.71
+Millbrook Academy	AC	29.53
+Newent Community School and Sixth Form Centre	ACC	24.31
+Pate's Grammar School	ACC	47.53
+Beaufort Co-operative Academy	AC	20.61
+Rednock School	FD	29.76
+Rendcomb College	IND	38.52
+Ribston Hall High School	ACC	30.15
+St Edward's School	IND	35.74
+St Peter's Catholic High School and Sixth Form Centre	ACC	28.43
+Sir Thomas Rich's School	ACC	40.69
+Stroud High School	ACC	37.32
+Tewkesbury School	ACC	28.98
+Westonbirt School	IND	33.03
+Wycliffe College	IND	34.77
+Wyedean School and 6th Form Centre	ACC	31.16
+Wynstones School	IND	36.24
+		32.32
+Churchill Academy	ACC	31.48
+Clevedon School	ACC	31.21
+Gordano School	ACC	30.74
+Backwell School	ACC	33.16
+Nailsea School	ACC	27.92
+North Somerset Enterprise and Technology College	F	21.06
+St Katherine's School	CY	25.75
+Sidcot School	IND	35.98
+Weston College	General Further Education College	24.88
+		29.65
+Chipping Sodbury School	FD	28.13
+Digitech Studio School	FSS	NE
+Downend School	ACC	32.63
+Abbeywood Community School	AC	25.96
+The Grange School and Sports College	CY	8.69
+Hanham Woods Academy	AC	27.84
+John Cabot Academy	AC	25.18
+Ashwicke Hall School	IND	NE
+King's Oak Academy	AC	18.33
+Mangotsfield School	AC	29.01
+Marlwood School	AC	30.2
+Patchway Community College	ACC	26.53
+The Ridings Federation Winterbourne International Academy	AC	36.37
+The Ridings Federation Yate International Academy	AC	12.5
+Sir Bernard Lovell Academy	AC	26.73
+South Gloucestershire and Stroud College	General Further Education College	24.82
+Bradley Stoke Community School	ACC	28
+Brimsham Green School	CY	24.78
+Bristol Technology and Engineering Academy	FUTC	17.54
+The Castle School	ACC	33.89
+		28.37
+The Commonweal School	ACC	28.94
+Lydiard Park Academy	ACC	26.78
+Maranatha Christian School	IND	NE
+New College Swindon	General Further Education College	25.84
+The Ridgeway School & Sixth Form College	ACC	31.69
+St Joseph's Catholic College	ACC	24.82
+Swindon Academy	AC	30.11
+Swindon College	General Further Education College	15.71
+UTC Swindon	FUTC	19.41
+		26.85
+The Clarendon Academy	AC	25.17
+The Corsham School	ACC	32.37
+Dauntsey's School	IND	41.09
+Devizes School	ACC	30.9
+Abbeyfield School	CY	28.38
+Focus School - Wilton Campus	IND	31.89
+The Godolphin School	IND	41.97
+Hardenhuish School	ACC	31.04
+The John Bentley School	ACC	26.62
+The John of Gaunt School	ACC	34.65
+Kingdown School	ACC	30.79
+Avon Valley College	FD	22.42
+Malmesbury School	ACC	34.59
+Marlborough College	IND	42.72
+Matravers School	FD	25.28
+Melksham Oak Community School	ACC	29.84
+Royal Wootton Bassett Academy	ACC	37.17
+St Augustine's Catholic College	ACC	32.3
+St John's Marlborough	ACC	32.91
+St Laurence School	ACC	30.67
+St Mary's School (Snr) and St Margaret's School (Prep)	IND	45.06
+Salisbury Sixth Form College	F1619	25.3
+Sarum Academy	AC	20.72
+Sheldon School	ACC	31.19
+South Wilts Grammar School for Girls	ACC	39.83
+South Wiltshire UTC	FUTC	NE
+Stonar School	IND	29.44
+Bishop Wordsworth's Grammar School	ACC	38.08
+Bishopstrow College	IND	NE
+Warminster School	IND	33.66
+The Wellington Academy	AC	22.56
+Wiltshire College	General Further Education College	SUPP
+		32.4
+North Bristol Post 16 Centre		33.75
+Darwen Aldridge Community Academy	AC	28.89
+Darwen Aldridge Enterprise Studio	FSS	20.74
+Jamiatul-Ilm Wal-Huda UK School	IND	37.33
+Markazul Uloom	IND	5.38
+Queen Elizabeth's Grammar School	F	30.35
+St Mary's College	Sixth Form College	24.07
+St Wilfrid's Church of England Academy	ACC	30.49
+Tauheedul Islam Boys' High School	F	NE
+Tauheedul Islam Girls' High School	ACC	35.31
+Blackburn College	General Further Education College	22.32
+Westholme School	IND	38.2
+		26.95
+St Mary's Catholic Academy	ACC	27.75
+Blackpool and the Fylde College	General Further Education College	13.56
+The Blackpool Sixth Form College	Sixth Form College	30.32
+		29.92
+Chetwynde School	F	28.62
+Cockermouth School	ACC	31.29
+Dallam School	ACC	33.37
+Energy Coast UTC	FUTC	4.75
+Furness College	General Further Education College	SUPP
+Appleby Grammar School	ACC	25.75
+Kendal College	General Further Education College	30
+Keswick School	ACC	30.67
+Kirkbie Kendal School	ACC	32
+Kirkby Stephen Grammar School	ACC	30.96
+Lakes College - West Cumbria	General Further Education College	14.32
+The Lakes School	CY	31.18
+Austin Friars	IND	35.72
+Lime House School	IND	41.73
+Millom School	CY	19.08
+The Nelson Thomlinson School	VC	31.39
+Netherhall School	CY	25.85
+Newman Catholic School	VA	24.72
+Queen Elizabeth Grammar School Penrith	ACC	37.01
+Queen Elizabeth School	ACC	33.22
+The Queen Katherine School	ACC	34.76
+Richard Rose Central Academy	AC	24.53
+Richard Rose Morton Academy	AC	NE
+St Benedict's Catholic High School	VA	29.3
+Sedbergh School	IND	33.64
+Trinity School	ACC	30.29
+Ullswater Community College	FD	28.69
+Ulverston Victoria High School	CY	31.68
+West Lakes Academy	AC	28.67
+The Whitehaven Academy	AC	18.92
+William Howard School	ACC	32.13
+Windermere School & Windermere Preparatory School	IND	37.3
+Workington Academy	AC	29.02
+Caldew School	ACC	25.91
+Carlisle College	General Further Education College	20.36
+		30.24
+Central Lancaster High School	CY	16.81
+Clitheroe Royal Grammar School	ACC	36.3
+"Eden Boys' School, Preston"	F	
+Fleetwood High School	FD	
+Focus School - Hornby Campus	IND	SUPP
+Fulwood Academy	AC	23.36
+Haslingden High School and Sixth Form	CY	28.15
+Heysham High School Sports College	CY	19.28
+ArnoldKEQMS (AKS)	IND	39.37
+Hutton Church of England Grammar School	VA	26.64
+Jamea Al Kauthar	IND	23.85
+Ashton Community Science College	CY	SUPP
+Abrar Academy	IND	SUPP
+Kirkham Grammar School	IND	30.21
+Lancaster and Morecambe College	General Further Education College	SUPP
+Lancaster Girls' Grammar School	ACC	39.02
+Lancaster Royal Grammar School	ACC	42.07
+Lytham St Annes Technology and Performing Arts College	FD	28.75
+Accrington Academy	AC	25.51
+Bacup and Rawtenstall Grammar School	ACC	37.05
+Accrington and Rossendale College	General Further Education College	29.51
+Baines School	VA	22.48
+Accrington St Christopher's Church of England High School	ACC	31.92
+Moor Park High School and Sixth Form	FD	24.03
+Moorland School Limited	IND	SUPP
+Morecambe Community High School	CY	23.91
+Myerscough College	Agriculture and Horticulture College	SUPP
+Nelson and Colne College	General Further Education College	30.35
+Ormskirk School	VC	27.23
+Our Lady's Catholic College	VA	27.57
+Preston College	General Further Education College	22.62
+Preston Muslim Girls High School	VA	NE
+Ripley St Thomas Church of England Academy	ACC	29.69
+Rossall School	IND	31.71
+Runshaw College	General Further Education College	34.43
+The St Anne's College Grammar School	IND	24
+Stonyhurst College	IND	39.14
+Thomas Whitham Sixth Form	CY	24.12
+UTC Lancashire	FUTC	10.16
+West Lancashire College	General Further Education College	SUPP
+Alder Grange Community and Technology School	CY	22.59
+Burnley College	General Further Education College	26.25
+Burnley High School	F	
+Cardinal Newman College	Sixth Form College	35.41
+Carnforth High School	CY	18.15
+Carr Hill High School and Sixth Form Centre	CY	23.24
+		32.6
+Eden Boys' School Bolton	F	
+Kearsley Academy	AC	7.02
+Lord's Independent School	IND	SUPP
+Madrasatul Imam Muhammad Zakariya	IND	32
+Rivington and Blackrod High School	VC	27.6
+Thornleigh Salesian College	VA	28.35
+Turton School	CY	28.86
+Bolton College	General Further Education College	10.67
+Bolton St Catherine's Academy	AC	17.22
+Bolton School Boys' Division	IND	40.98
+Bolton School Girls' Division	IND	41.27
+Bolton Sixth Form College	Sixth Form College	28.32
+Bolton UTC	FUTC	NE
+Bolton Wanderers Free School	F1619	NE
+Al Jamiah Al Islamiyyah	IND	SUPP
+Canon Slade CofE School	VA	33.66
+		29.06
+Darul Uloom Al Arabiya Al Islamiya	IND	34.62
+Holy Cross College	Sixth Form College	29.52
+St Monica's RC High School and Sixth Form Centre	VA	NE
+Bury College	General Further Education College	22.75
+Bury Grammar School Boys	IND	39.14
+Bury Grammar School Girls	IND	36.47
+		27.64
+Chetham's School of Music	IND	45.23
+Connell Sixth Form College	F1619	22.41
+The Co-operative Academy of Manchester	AC	SUPP
+The King David High School	ACC	39.83
+Loreto College	Sixth Form College	32.73
+The Manchester College	General Further Education College	21.91
+Manchester Communication Academy	AC	NE
+Manchester Creative and Media Academy	AC	
+Manchester Creative and Media Academy	AC	NE
+Manchester Creative Studio	FSS	NE
+Manchester Enterprise Academy	AC	SUPP
+The Manchester Grammar School	IND	45.8
+Manchester Health Academy	AC	NE
+Manchester High School for Girls	IND	47.39
+Newall Green High School	AC	NE
+Parrs Wood High School	CY	29.78
+Pioneer House High School	FS	
+St Bede's College	IND	38.01
+Abbey College Manchester	IND	39.41
+Trinity CofE High School	ACC	NE
+Whalley Range 11-18 High School	ACC	28.04
+William Hulme's Grammar School	AC	25.2
+Withington Girls' School	IND	49.19
+Xaverian College	Sixth Form College	30.95
+		31.21
+The Crompton House Church of England Academy	ACC	28.57
+Greater Manchester Sustainable Engineering UTC	FUTC	8.21
+North Chadderton School	ACC	28.47
+The Oldham College	General Further Education College	17.14
+Oldham Hulme Grammar School	IND	38.79
+Oldham Sixth Form College	Sixth Form College	29.11
+The Blue Coat CofE School	ACC	33.85
+		29.85
+Hopwood Hall College	General Further Education College	SUPP
+Rochdale Sixth Form College	Sixth Form College	31.32
+St Anne's Church of England Academy	AC	20.22
+Cardinal Langley Roman Catholic High School	VA	27.4
+		30.85
+Irlam and Cadishead College	CY	12.11
+Oakwood Academy	ACCS	NE
+St Ambrose Barlow RC High School	VA	NE
+Salford City Academy	AC	26.79
+Salford City College	General Further Education College	27.11
+UTC@MediacityUK	FUTC	NE
+Bridgewater School	IND	28.04
+		26.99
+Cheadle and Marple Sixth Form College	Sixth Form College	26.17
+Cheadle Hulme High School	ACC	37.58
+Cheadle Hulme School	IND	41.03
+Focus School - Stockport Campus	IND	23.48
+Aquinas College	Sixth Form College	31.93
+Hazel Grove High School	ACC	28.23
+Inscape House School	NMSS	NE
+Stockport Academy	AC	20.66
+Stockport College	General Further Education College	13.26
+Stockport Grammar School	IND	42.17
+		30.55
+All Saints Catholic College	ACC	22.12
+Hyde Community College	CY	21.75
+Ashton Sixth Form College	Sixth Form College	28.82
+Audenshaw School Academy Trust	ACC	26.08
+New Charter Academy	AC	24.24
+Tameside College	General Further Education College	20.5
+		27.16
+Altrincham College of Arts	ACC	22.79
+Altrincham Grammar School for Boys	ACC	39.79
+Altrincham Grammar School for Girls	ACC	44.85
+Ashton-on-Mersey School	ACC	32.05
+Loreto Grammar School	ACC	40.47
+Manor High School	CYS	NE
+North Cestrian Grammar School	IND	21.43
+Saint Ambrose College	ACC	36.61
+Sale Grammar School	ACC	38.35
+Stretford Grammar School	FD	32.51
+Trafford College	General Further Education College	22.18
+Urmston Grammar Academy	ACC	34.35
+Blessed Thomas Holford Catholic College	VA	29.41
+Wellacre Technology Academy	ACC	10.4
+Wellington School	ACC	27.45
+		36.05
+The Deanery Church of England High School and Sixth Form College	VA	26.74
+Atherton Community School	F	22.92
+Oakfield High School and College	CYS	NE
+St John Rigby RC Sixth Form College	Sixth Form College	30.08
+St Mary's Catholic High School	VA	31.72
+Wigan and Leigh College	General Further Education College	12.5
+Wigan UTC	FUTC	10.96
+Winstanley College	Sixth Form College	35.6
+		33.49
+All Hallows Catholic College	ACC	31.94
+Congleton High School	ACC	29.02
+Crewe Engineering and Design UTC	FUTC	
+Alsager School	ACC	31.5
+Eaton Bank Academy	ACC	26.52
+The Fallibroome Academy	ACC	33.97
+Holmes Chapel Comprehensive School	ACC	33.46
+The King's School In Macclesfield	IND	41.92
+Knutsford Academy	ACC	35.94
+Knutsford Academy The Studio	FSS	27.6
+Macclesfield College	General Further Education College	19.46
+Malbank School and Sixth Form College	FD	27.62
+Poynton High School	CY	30.78
+Reaseheath College	Agriculture and Horticulture College	8.84
+Sandbach High School and Sixth Form College	ACC	34.97
+Sandbach School	F	26.36
+South Cheshire College	General Further Education College	26.74
+Tytherington School	ACC	35.72
+Wilmslow High School	CY	33.05
+Brine Leas School	ACC	32.04
+Alderley Edge School for Girls	IND	35.82
+		30.92
+"The Catholic High School, Chester A Specialist Science College"	ACC	31.17
+Christleton High School	ACC	29.54
+Dorin Park School & Specialist SEN College	CYS	NE
+Ellesmere Port Catholic High School	VA	28.66
+The Grange School	IND	45.61
+The Hammond	IND	32.11
+Helsby High School	CY	32.21
+The King's School	IND	45.15
+Mid-Cheshire College of Further Education	General Further Education College	SUPP
+Neston High School	ACC	27.25
+Queen's Park High School	CY	22.61
+The Queen's School	IND	42.81
+St Nicholas Catholic High School	VA	31.58
+Sir John Deane's College	Sixth Form College	34.93
+Bishop Heber High School	FD	28.52
+The Bishops' Blue Coat Church of England High School	ACC	25.55
+Tarporley High School and Sixth Form College	ACC	30.05
+University of Chester CE Academy	AC	17.88
+Upton-by-Chester High School	FD	30.86
+West Cheshire College	General Further Education College	13.28
+The Whitby High School	FD	24.73
+Abbey Gate College	IND	37.11
+The Winsford Academy	AC	15.09
+		31.04
+The Cavendish High Academy	ACCS	NE
+The Heath School	ACC	26.53
+Ormiston Bolingbroke Academy	AC	26.55
+Riverside College Halton	General Further Education College	29.83
+St Chads Catholic and Church of England High School	VA	20.02
+Saints Peter and Paul Catholic College	VA	30
+Sandymoor	F	NE
+		28.05
+All Saints Catholic High School	VA	10.43
+Halewood Academy	ACC	20.12
+Knowsley Community College	General Further Education College	10.76
+		16.44
+Childwall Sports & Science Academy	AC	24.76
+The City of Liverpool College	General Further Education College	20.42
+Alsop High School Technology & Applied Learning Specialist College	CY	23.5
+The De La Salle Academy	AC	16.48
+Enterprise South Liverpool Academy	AC	26.1
+Fazakerley High School	CY	20.31
+Gateacre School	CY	20.45
+Archbishop Beck Catholic Sports College	VA	30.22
+Archbishop Blanch School	VA	25.61
+Holly Lodge Girls' College	CY	21.13
+King David High School	VA	28.01
+"King's Leadership Academy, Liverpool"	AC	NE
+The Academy of St Francis of Assisi	AC	17.28
+Liverpool College	AC	33
+Liverpool College International	IND	SUPP
+Liverpool Life Sciences UTC	FUTC	28.4
+North Liverpool Academy	AC	20.73
+Notre Dame Catholic College	VA	27.39
+St Edward's College	ACC	30.51
+Bellerive FCJ Catholic College	ACC	22.27
+St Francis Xavier's College	ACC	25.25
+St Hilda's Church of England High School	VA	26.93
+St John Bosco Arts College	VA	28.86
+The Belvedere Academy	AC	31.64
+St Julie's Catholic High School	VA	25.7
+St Margaret's Church of England Academy	ACC	25.42
+The Studio @ Deyes	FSS	
+The Studio School Liverpool	FSS	29.77
+West Derby School	ACC	21.56
+The Blue Coat School	ACC	40.48
+"Broadgreen International School, A Technology College"	FD	26.27
+Broughton Hall Catholic High School	VA	27.51
+Calderstones School	CY	28.72
+Cardinal Heenan Catholic High School	VA	27.89
+		28.2
+Chesterfield High School	ACC	26.2
+Christ The King Catholic High School and Sixth Form Centre	VA	28.2
+Deyes High School	ACC	28.13
+Formby High School	ACC	33.19
+Holy Family Catholic High School	VA	28.32
+Hugh Baird College	General Further Education College	17.83
+King George V College	Sixth Form College	30.73
+Maghull High School	ACC	23.58
+Maricourt Catholic High School	VA	26.68
+Merchant Taylors' Boys' School	IND	39.29
+Merchant Taylors Girls School	IND	41.79
+Range High School	ACC	31.27
+Sacred Heart Catholic College	VA	23.45
+St Mary's College	IND	34.37
+St Michael's Church of England High School	AC	22.69
+Savio Salesian College	VA	NE
+South Sefton College	FD	25.88
+Southport College	General Further Education College	SUPP
+		28.09
+Cowley International College	CY	27.35
+Hope Academy	AC	16.73
+Rainford High Technology College	CY	29.83
+Rainhill High School	FD	28.94
+St Helens College	General Further Education College	15.2
+The Sutton Academy	AC	14.72
+Carmel College	Sixth Form College	32.33
+		30.43
+Culcheth High School	CY	10.93
+The Future Tech Studio	FSS	6.15
+Great Sankey High School	ACC	28.27
+King's Leadership Academy Warrington	F	
+Lymm High School	ACC	30.98
+Penketh High School	ACC	24.77
+Priestley College	Sixth Form College	28
+Birchwood Community High School	ACC	20.57
+University Academy Warrington	AC	SUPP
+UTC Warrington	FUTC	
+Warrington Collegiate	General Further Education College	SUPP
+Bridgewater High School	ACC	31.52
+		28.19
+Hilbre High School	ACC	23.11
+The Kingsway Academy	AC	16.88
+The Mosslands School	CY	18.25
+The Oldershaw Academy	ACC	17.99
+Pensby High School	CY	23.05
+Bebington High Sports College	FD	26.17
+St Anselm's College	ACC	29.1
+St John Plessington Catholic College	ACC	28.59
+St Mary's Catholic College	VA	23.99
+Birkenhead High School Academy	AC	29.64
+Birkenhead School	IND	44.62
+Birkenhead Sixth Form College	Sixth Form College	29.74
+South Wirral High School	FD	21.59
+Upton Hall School FCJ	ACC	35.76
+Weatherhead High School	ACC	29.02
+West Kirby Grammar School	ACC	37.22
+Wirral Grammar School for Boys	ACC	33.48
+Wirral Grammar School for Girls	ACC	40.3
+Wirral Metropolitan College	General Further Education College	8.75
+Calday Grange Grammar School	ACC	33.63
+		31.55

@@ -1,0 +1,20 @@
+1	1	Loughborough University	393	4.15	3.04	82	100.0
+2	8	Robert Gordon University	 	4.22	2.65	84	93.8
+3	9	University of Brighton	 	4.09	2.90	 	93.3
+4	-	University of Portsmouth	319	4.19	2.93	76	92.9
+5	4	Brunel University London	341	3.76	2.74	72	92.7
+6	6	University of Central Lancashire	 	3.93	2.79	82	92.6
+7	7	Northumbria University	347	3.94	2.45	66	92.4
+8	3	Bournemouth University	 	3.91	 	98	91.3
+9	-	University of Chester	 	4.08	 	88	89.4
+10	12	Manchester Metropolitan University	337	4.13	2.60	60	88.9
+11	5	Sheffield Hallam University	294	4.04	2.72	66	88.6
+12	2	De Montfort University	276	4.15	 	86	87.4
+13	14	Aberystwyth University	285	3.59	2.18	70	86.7
+14	11	Glasgow Caledonian University	 	4.05	2.64	54	86.7
+15	15	Leeds Beckett University	290	4.18	1.52	 	84.5
+16	-	University of Greenwich	351	3.72	 	54	84.1
+17	10	Nottingham Trent University	264	4.08	 	62	82.0
+18	17	University of Derby	229	4.24	 	68	81.7
+19	16	University of Wales Trinity Saint David	220	4.39	 	66	81.3
+20	18	London South Bank University	 	3.07	2.42	40	79.1
