@@ -1,0 +1,26 @@
+1	-	University of Kent	 	86	2.90	 	100.0
+1	-	Cardiff University	379	78	3.42	90	100.0
+3	-	University of Bradford	350	94	3.22	 	92.8
+4	-	University of Liverpool	357	79	3.04	85	92.6
+5	-	University of East Anglia (UEA)	411	88	 	85	92.0
+6	-	University of Cumbria	398	81	2.50	80	90.8
+7	-	Sheffield Hallam University	354	85	2.81	90	90.6
+8	-	University of Brighton	 	80	3.17	 	89.8
+9	-	London South Bank University	 	81	2.67	 	88.9
+10	-	University of the West of England	354	76	3.06	85	88.4
+11	-	Brunel University London	379	65	2.63	80	88.1
+12	-	Bournemouth University	356	86	2.56	85	87.9
+13	-	Queen Margaret University	379	80	2.41	80	86.9
+14	-	Plymouth University	338	81	2.58	90	86.6
+15	-	Coventry University	344	84	3.14	80	86.6
+16	-	Glasgow Caledonian University	346	73	3.11	85	86.5
+17	-	Robert Gordon University	361	98	 	85	85.7
+18	-	The University of Northampton	325	90	2.14	85	85.6
+19	-	Northumbria University	405	72	3.12	55	84.6
+20	-	York St John University	345	81	2.13	90	83.9
+21	-	University of Derby	342	87	 	90	82.0
+22	-	Ulster University	358	90	3.04	45	78.1
+23	-	Leeds Beckett University	 	79	1.76	 	76.0
+24	-	Teesside University	345	85	2.77	60	76.0
+25	-	University of Worcester	301	99	2.00	 	72.7
+26	-	University of Salford	284	84	2.63	75	71.0

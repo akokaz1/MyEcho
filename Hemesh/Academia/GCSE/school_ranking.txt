@@ -1,0 +1,3506 @@
+SchoolName	SchoolScore
+Tauheedul Islam Girls' High School	0.825477707
+The Steiner Academy Hereford	0.598726115
+Tauheedul Islam Boys' High School	0.787261146
+Harris Academy Battersea	0.751592357
+St Andrew's Catholic School	0.798726115
+Ark King Solomon Academy	0.766878981
+"The City Academy, Hackney"	0.752866242
+Harris Girls' Academy East Dulwich	0.742675159
+Sheffield Park Academy	0.666242038
+Outwood Academy Portland	0.743949045
+Preston Muslim Girls High School	0.78089172
+Uffculme School	0.785987261
+The St Thomas the Apostle College	0.723566879
+Tunbridge Wells Girls' Grammar School	0.936305732
+City of London Academy Islington	0.692993631
+Forest Gate Community School	0.696815287
+The Oxford Academy	0.633121019
+Sacred Heart Catholic School	0.731210191
+The Compton School	0.740127389
+Bridlington School	0.677707006
+Wren Academy	0.785987261
+St Augustine's Catholic High School	0.721019108
+Mossbourne Community Academy	0.757961783
+Ark St Alban's Academy	0.682802548
+Ursuline High School Wimbledon	0.797452229
+Harris Academy Chafford Hundred	0.757961783
+Tonbridge Grammar School	0.977070064
+Bolton Muslim Girls School	0.765605096
+St Mark's Catholic School	0.778343949
+Paddington Academy	0.705732484
+St Thomas More Catholic Comprehensive School	0.771974522
+Nonsuch High School for Girls	0.959235669
+St Paul's Catholic College	0.729936306
+Woodford County High School	0.935031847
+The Tiffin Girls' School	0.988535032
+Fulham Cross Girls' School and Language College	0.724840764
+Brampton Manor Academy	0.741401274
+Harris Academy Beckenham	0.704458599
+"Queen Elizabeth's School, Barnet"	0.978343949
+Bentley Wood High School 	0.717197452
+Green Spring Academy Shoreditch	0.698089172
+Clacton County High School	0.668789809
+Wallington High School for Girls	0.94522293
+Our Lady & St. Bede Catholic Academy	0.749044586
+Gordon's School	0.831847134
+"St John the Baptist Catholic Comprehensive School, Woking"	0.794904459
+The Hertfordshire & Essex High School and Science College	0.808917197
+Aston Manor Academy	0.648407643
+The Rochester Grammar School	0.904458599
+Westminster Academy	0.694267516
+Harris Academy Greenwich	0.67133758
+Hungerhill School	0.694267516
+Langtree School	0.719745223
+Humberston Academy	0.713375796
+St Bernard's Catholic Grammar School	0.880254777
+Calday Grange Grammar School	0.867515924
+Glebelands School	0.691719745
+Bristol Metropolitan Academy	0.614012739
+Bishop Rawstorne Church of England Academy	0.749044586
+Airedale Academy	0.559235669
+Thomas Gainsborough School	0.663694268
+Redruth School	0.696815287
+Bishop Heber High School	0.760509554
+Beacon Academy	0.675159236
+Loreto College	0.761783439
+Tarporley High School and Sixth Form College	0.743949045
+Redhill Academy	0.718471338
+De Aston School	0.675159236
+Newport Girls' High School Academy Trust	0.924840764
+Chessington Community College	0.650955414
+Northwood School	0.680254777
+The Westgate School	0.755414013
+Dagenham Park CofE School 	0.620382166
+Townley Grammar School	0.884076433
+Winterhill School	0.634394904
+Langley Grammar School	0.889171975
+Healing Science Academy	0.69044586
+Darrick Wood School	0.729936306
+"The King's School, Grantham"	0.850955414
+Stradbroke High School	0.658598726
+Kingsbury High School	0.67388535
+Nidderdale High School	0.668789809
+Bishop Challoner Catholic College	0.738853503
+Nower Hill High School	0.721019108
+Skinners' Kent Academy	0.58343949
+"Calder High School, A Specialist Technology College"	0.699363057
+Catmose College	0.72611465
+Ash Green School	0.67388535
+BBG Academy	0.666242038
+Graveney School	0.784713376
+Tarleton Academy	0.663694268
+Swanshurst School	0.67133758
+Lancaster Royal Grammar School	0.892993631
+Guru Nanak Sikh Academy	0.732484076
+The Mountbatten School	0.729936306
+Hounsdown School	0.703184713
+The Willink School	0.70955414
+"Salesian School, Chertsey"	0.768152866
+Oriel High School	0.691719745
+Sacred Heart Catholic High School	0.722292994
+"Bishop Luffa School, Chichester"	0.76433121
+Saltley Academy	0.667515924
+Chelmer Valley High School	0.698089172
+Parkside Academy	0.700636943
+Saint Ambrose College	0.863694268
+Northfleet Technology College	0.631847134
+Villiers High School	0.605095541
+Ferryhill Business Enterprise College	0.652229299
+Sackville School	0.67133758
+Colston's Girls' School	0.733757962
+King Edward VI School	0.923566879
+Sharnbrook Academy	0.715923567
+Katharine Lady Berkeley's School	0.752866242
+Jack Hunt School	0.628025478
+Dover Grammar School for Girls	0.831847134
+The Broxbourne School	0.761783439
+St Joseph's College	0.805095541
+Pimlico Academy	0.680254777
+"Notre Dame High School, Norwich"	0.723566879
+Parkwood E-Act Academy	0.538853503
+Nunnery Wood High School	0.682802548
+Haggerston School	0.670063694
+Sydenham School 	0.695541401
+The West Bridgford School	0.778343949
+Arrow Vale RSA Academy	0.61910828
+Brentside High School	0.65477707
+The Appleton School	0.707006369
+Ashcroft High School	0.63566879
+Downlands Community School	0.712101911
+Torquay Boys' Grammar School	0.90955414
+Drayton Manor High School	0.67133758
+Newfield Secondary School	0.63566879
+The Oldham Academy North	0.582165605
+Ivybridge Community College	0.717197452
+Seaford Head School	0.680254777
+"St Thomas a Becket Catholic Secondary School, A Voluntary Academy"	0.661146497
+The Blue Coat CofE School	0.741401274
+South Wilts Grammar School for Girls	0.936305732
+Thamesmead School	0.72866242
+Townsend CofE School	0.729936306
+Bedford Free School	0.61910828
+Stamford Welland Academy	0.628025478
+Kenilworth School and Sixth Form	0.746496815
+The Camden School for Girls	0.765605096
+St Clement's High School	0.629299363
+The Joseph Whitaker School	0.689171975
+Sir James Smith's Community School	0.67133758
+Greig City Academy	0.614012739
+Sedgefield Community College	0.72611465
+Marriotts School	0.611464968
+"Trinity Church of England School, Belvedere"	0.67133758
+Ark Academy	0.680254777
+St Margaret Ward Catholic Academy	0.701910828
+The Blue Coat School	0.936305732
+Upton Hall School FCJ	0.825477707
+Bosworth Academy	0.69044586
+Alderbrook School	0.713375796
+Rokeby School	0.628025478
+Presdales School	0.775796178
+The Charter School	0.72611465
+Sir John Leman High School	0.666242038
+Pendle Vale College	0.610191083
+Saffron Walden County High School	0.761783439
+"Trinity Academy, Halifax"	0.69044586
+Willowfield Humanities College	0.628025478
+The Romsey School	0.707006369
+The Chantry School	0.719745223
+King Edward VI Handsworth School	0.914649682
+Bishop's Hatfield Girls' School	0.708280255
+Notre Dame High School	0.740127389
+Colne Park High School	0.662420382
+Arts and Media School Islington	0.608917197
+The Crest Academy	0.555414013
+Bury St Edmunds County Upper School	0.658598726
+King Edward VI Sheldon Heath Academy	0.63566879
+Cantell School	0.648407643
+Queen Elizabeth High School	0.712101911
+Poole Grammar School	0.872611465
+The Priory Witham Academy	0.573248408
+Nottingham Girls' Academy	0.649681529
+"Marden High School - A Specialist Maths, Science and Media Arts College"	0.715923567
+Bourne Academy	0.649681529
+Hinchley Wood School	0.74522293
+Kingsdale Foundation School	0.773248408
+Sutton Community Academy	0.588535032
+Parrs Wood High School	0.695541401
+All Saints Catholic School and Technology College	0.69044586
+Hornsea School and Language College	0.668789809
+Ilkley Grammar School	0.765605096
+Shireland Collegiate Academy	0.585987261
+Rainham School for Girls	0.633121019
+Southend High School for Boys	0.886624204
+ Wellsway School	0.737579618
+Charters School	0.724840764
+Cardinal Newman Catholic School	0.710828025
+Holyhead School	0.644585987
+Stockport Academy	0.649681529
+Ark Kings Academy	0.559235669
+Outwood Academy City	0.649681529
+St Ives School	0.672611465
+Hornsey School for Girls	0.69044586
+Fareham Academy	0.658598726
+George Green's School	0.643312102
+Wright Robinson College	0.624203822
+Shoreham Academy	0.639490446
+Sponne School	0.72611465
+Jubilee High School	0.664968153
+Stoke Newington School and Sixth Form	0.692993631
+Weaverham High School	0.717197452
+The Market Bosworth School	0.723566879
+Brymore Academy	0.588535032
+All Hallows Catholic High School	0.760509554
+Marshland High School	0.629299363
+Harris Girls Academy Bromley	0.67388535
+Hedingham School and Sixth Form	0.677707006
+Bournemouth School for Girls	0.903184713
+Falmouth School	0.699363057
+Claverham Community College	0.704458599
+Copleston High School	0.681528662
+Mulberry School for Girls	0.698089172
+Bacup and Rawtenstall Grammar School	0.90955414
+Carter Community School	0.61910828
+Gordano School	0.715923567
+Hazel Grove High School	0.687898089
+Heathfield Community College	0.712101911
+Kingsmead School	0.661146497
+Lancaster Girls' Grammar School	0.896815287
+Aylesbury Grammar School	0.891719745
+Oaklands School	0.650955414
+Grey Court School	0.749044586
+Durrington High School	0.662420382
+Huntington School	0.715923567
+Bexley Grammar School	0.889171975
+Kingdown School	0.668789809
+Outwood Grange Academy	0.708280255
+Shenfield High School	0.676433121
+Hendon School	0.653503185
+Soar Valley College	0.653503185
+Queens Park Community School	0.67133758
+Priestlands School	0.713375796
+Churchdown School	0.666242038
+The Downs School	0.72866242
+Hazelwick School	0.658598726
+Westlands School	0.611464968
+De Lacy Academy	0.622929936
+Stretford Grammar School	0.834394904
+Felpham Community College	0.657324841
+Tolworth Girls' School and Sixth Form	0.692993631
+The Elton High School	0.689171975
+Barton Court Grammar School	0.822929936
+Haybridge High School and Sixth Form	0.738853503
+Thomas More Catholic School	0.643312102
+Albany Academy	0.652229299
+Kings' School	0.759235669
+Blue Coat Church of England School and Music College	0.727388535
+Queen Elizabeth Grammar School Penrith	0.85477707
+Verulam School	0.72866242
+Thornhill School Business & Enterprise College	0.649681529
+Arden	0.757961783
+Sir John Cass Foundation and Redcoat Church of England Secondary School	0.685350318
+Slough and Eton Church of England Business and Enterprise College	0.608917197
+Holcombe Grammar School	0.824203822
+Norlington School and 6th Form	0.638216561
+St Bede's Catholic High School	0.733757962
+The Petchey Academy	0.653503185
+Rugby High School	0.910828025
+Ark Charter Academy	0.61656051
+King Edward VI Grammar School	0.807643312
+Finchley Catholic High School	0.72866242
+Blatchington Mill School and Sixth Form College	0.69044586
+Bullers Wood School	0.738853503
+Simon Langton Girls' Grammar School	0.853503185
+The de Ferrers Academy	0.685350318
+Outwood Academy Foxhills	0.598726115
+Ratton School	0.668789809
+Hitchin Boys' School	0.755414013
+Middleton Technology School	0.656050955
+William Farr CofE Comprehensive School	0.737579618
+Amersham School	0.687898089
+Trinity Catholic High School	0.736305732
+George Spencer Academy and Technology College	0.735031847
+Walton Girls' High School & Sixth Form	0.657324841
+Litcham School	0.672611465
+Hessle High School and Penshurst Primary School	0.685350318
+Southfield School for Girls	0.713375796
+Lea Valley High School	0.601273885
+New Rickstones Academy	0.588535032
+Rosedale College	0.640764331
+The Hathershaw College	0.624203822
+Outwood Academy Bydales	0.69044586
+Alleyne's Academy	0.678980892
+Worthing High School	0.667515924
+Crispin School Academy	0.67388535
+Eastbury Community School 	0.628025478
+The Academy at Shotton Hall	0.723566879
+Monkwearmouth Academy	0.69044586
+"St Anselm's Catholic School, Canterbury"	0.61910828
+Queensbridge School	0.657324841
+Robert May's School	0.735031847
+Isca	0.633121019
+North Huddersfield Trust School	0.535031847
+Sawston Village College	0.719745223
+Northampton School for Boys	0.754140127
+Oxford Spires Academy	0.61910828
+St Mary's Catholic School	0.729936306
+The Priory CofE Voluntary Aided School	0.65477707
+Heathside School	0.736305732
+East Point Academy	0.615286624
+Steyning Grammar School	0.686624204
+Stockport School	0.67388535
+George Abbot School	0.721019108
+Whalley Range 11-18 High School	0.625477707
+Thomas Knyvett College	0.615286624
+Davenant Foundation School	0.733757962
+The James Hornsby School	0.565605096
+Garforth Academy	0.666242038
+St James School	0.678980892
+Rushcliffe School	0.747770701
+Redland Green School 	0.78089172
+Kingsthorpe College	0.621656051
+Heckmondwike Grammar School	0.892993631
+Christ's Church of England Comprehensive Secondary School	0.721019108
+Saint Gabriel's College	0.596178344
+"Archbishop Temple School, A Church of England Specialist College"	0.759235669
+Bassingbourn Village College	0.722292994
+The Rawlett School (An Aet Academy)	0.656050955
+Toot Hill School	0.717197452
+Capital City Academy	0.617834395
+Kelvin Hall School	0.680254777
+Thomas Alleyne's High School	0.69044586
+Furze Platt Senior School	0.704458599
+Cromer Academy	0.677707006
+Queen Mary's High School	0.886624204
+Sir William Romney's School	0.617834395
+St Patrick's RC High School and Arts College	0.718471338
+Soham Village College	0.687898089
+Prendergast School	0.70955414
+Witton Park High School	0.631847134
+The Purbeck School	0.638216561
+The Derby High School	0.638216561
+Hinchingbrooke School	0.681528662
+Prendergast Vale School	0.644585987
+King James I Academy Bishop Auckland	0.630573248
+Sir John Lawes School	0.735031847
+The Stanway School	0.686624204
+Highgate Wood Secondary School	0.695541401
+Minster School	0.741401274
+Bristol Cathedral Choir School	0.746496815
+Epsom and Ewell High School	0.648407643
+Northumberland Park Community School	0.549044586
+Christopher Whitehead Language College	0.698089172
+The Vale Academy	0.687898089
+Brooke Weston Academy	0.70955414
+Clapton Girls' Academy	0.677707006
+Holbrook Academy	0.685350318
+John Taylor High School	0.717197452
+The Wensleydale School & Sixth Form	0.680254777
+Tunbridge Wells Grammar School for Boys	0.826751592
+Bradley Stoke Community School	0.67388535
+Broomfield School	0.61910828
+King Edward VI Aston School	0.886624204
+St Paul's Catholic College	0.721019108
+South Axholme Academy	0.675159236
+The Cavendish School	0.661146497
+Mayfield School	0.612738854
+Wolfreton School and Sixth Form College	0.684076433
+St George's Church of England Foundation School	0.606369427
+Spalding High School	0.815286624
+Thistley Hough Academy	0.597452229
+Carlton Bolling College	0.592356688
+The Henry Cort Community College	0.668789809
+The Bridge Academy	0.659872611
+Royal Wootton Bassett Academy	0.689171975
+Duke of York's Royal Military School	0.696815287
+Hodgson Academy	0.695541401
+Ripley St Thomas Church of England Academy	0.715923567
+Grimsby Institute of Further and Higher Education	0.584713376
+St Peter's Catholic Comprehensive School	0.666242038
+Cardinal Newman Catholic School A Specialist Science College	0.681528662
+Archbishop Tenison's CofE High School	0.686624204
+Rainham Mark Grammar School	0.847133758
+Holy Trinity School	0.659872611
+Carmel College	0.751592357
+Belvidere School	0.681528662
+Rawmarsh Community School	0.648407643
+The Woodroffe School	0.707006369
+Weobley High School	0.666242038
+Hockerill Anglo-European College	0.796178344
+Easington Academy	0.664968153
+Calthorpe Park School	0.751592357
+Millthorpe School	0.695541401
+Featherstone High School	0.636942675
+Bishop Stopford School	0.755414013
+Brownedge St Mary's Catholic High School	0.678980892
+Rednock School	0.670063694
+Henry Beaufort School	0.704458599
+Thomas Mills High School	0.689171975
+Ark Burlington Danes Academy	0.67133758
+Fairfield High School	0.677707006
+Sir John Thursby Community College	0.628025478
+Withernsea High School	0.622929936
+Cardinal Hume Catholic School	0.676433121
+Chellaston Academy	0.721019108
+Chailey School	0.692993631
+Park View School	0.587261146
+Hartismere School	0.70955414
+Southborough High School	0.659872611
+Gladesmore Community School	0.612738854
+Edmonton County School	0.642038217
+Saint George's Church of England School	0.58089172
+John Ruskin School	0.624203822
+Aylsham High School	0.670063694
+The Langley Academy	0.680254777
+Heathrow Aviation Engineering UTC	0.648407643
+The Hollyfield School and Sixth Form Centre	0.727388535
+George Dixon Academy	0.58089172
+Ruislip High School	0.713375796
+Southend High School for Girls	0.868789809
+Wallingford School	0.698089172
+Otley Prince Henry's Grammar School Specialist Language College	0.723566879
+Robertsbridge Community College	0.636942675
+"St Wilfrid's Catholic Comprehensive School, Crawley"	0.647133758
+Wirral Grammar School for Boys	0.849681529
+The Hart School 	0.650955414
+Heartlands Academy	0.666242038
+Camborne Science and International Academy	0.691719745
+Whitley Bay High School	0.733757962
+Bournemouth School	0.884076433
+De Salis Studio College	0.703184713
+"The Catholic High School, Chester A Specialist Science College"	0.662420382
+City of Norwich School	0.667515924
+St Gregory's Catholic School	0.648407643
+Up Holland High School	0.698089172
+Caistor Grammar School	0.861146497
+Hawkley Hall High School	0.686624204
+The Arthur Terry School	0.717197452
+Teddington School	0.742675159
+South Craven School	0.67133758
+Handsworth Grammar School	0.834394904
+Woldgate School and Sixth Form College	0.710828025
+St Laurence School	0.710828025
+Sherburn High School	0.663694268
+Kings Priory School	0.78089172
+LeAF Studio	0.657324841
+St Wilfrid's RC College	0.699363057
+Birkbeck School and Community Arts College	0.574522293
+Queen Elizabeth Humanities College	0.657324841
+Malet Lambert	0.650955414
+West Hill School	0.701910828
+Walthamstow Academy	0.650955414
+Court Moor School	0.721019108
+Waingels	0.699363057
+Garibaldi College	0.652229299
+St Matthew Academy	0.617834395
+Convent of Jesus and Mary Language College	0.645859873
+St Augustine's Catholic College	0.715923567
+St Aloysius RC College	0.686624204
+Hayesfield Girls School	0.714649682
+Notre Dame Roman Catholic Girls' School	0.63566879
+Valley Park School	0.61910828
+Chingford Foundation School	0.678980892
+Sheldon School	0.695541401
+Nene Park Academy	0.607643312
+Ridgeway School	0.642038217
+Our Lady's Catholic High School	0.713375796
+Anglo European School	0.721019108
+King Ethelbert School	0.611464968
+Todmorden High School	0.647133758
+Denbigh School	0.72866242
+"Teignmouth Community School, Exeter Road"	0.647133758
+Alcester Grammar School	0.901910828
+Carlton Academy	0.666242038
+Thorpe St Andrew School and Sixth Form	0.684076433
+St Peter's RC High School	0.631847134
+Marling School	0.850955414
+Blessed Hugh Faringdon Catholic School	0.611464968
+Fulford School	0.756687898
+Swindon Academy	0.597452229
+Bottisham Village College	0.717197452
+Beverley High School 	0.72611465
+King Harold Business & Enterprise Academy	0.606369427
+Mayflower High School	0.700636943
+Cox Green School	0.695541401
+Brentford School for Girls	0.620382166
+The Polesworth School	0.661146497
+Churchmead Church of England (VA) School	0.649681529
+Rivers Academy West London	0.645859873
+Parmiter's School	0.815286624
+Harlington School	0.603821656
+The Ebbsfleet Academy	0.570700637
+Mount Carmel Catholic College for Girls	0.614012739
+Blessed Edward Oldcorne Catholic College	0.678980892
+Weavers Academy	0.624203822
+Bishop Fox's School	0.657324841
+Woodcote High School	0.689171975
+"Abbey College, Ramsey"	0.667515924
+The Bewdley School and Sixth Form Centre	0.675159236
+The Howard School	0.628025478
+Priestnall School	0.733757962
+Lydiard Park Academy	0.649681529
+Lydiard Park Academy	0.649681529
+Woolmer Hill School	0.707006369
+Jo Richardson Community School 	0.649681529
+Launceston College	0.656050955
+St Ignatius College	0.710828025
+Stepney Green Mathematics and Computing College	0.668789809
+Claydon High School	0.650955414
+Beechen Cliff School	0.713375796
+Blessed George Napier Catholic School and Sports College	0.677707006
+The Archbishop Lanfranc Academy	0.622929936
+Gravesend Grammar School	0.833121019
+St Peter's Catholic High School	0.742675159
+Dereham Neatherd High School 	0.656050955
+Chatham & Clarendon Grammar School	0.828025478
+Devonport High School for Girls	0.884076433
+Faringdon Community College	0.695541401
+Stour Valley Community School	0.629299363
+Saint Joan of Arc Catholic School	0.700636943
+Frogmore Community College	0.666242038
+Samuel King's School	0.634394904
+Chatham Grammar School for Girls	0.806369427
+"Archbishop Holgate's School, A Church of England Academy"	0.713375796
+The Bishop's Stortford High School	0.74522293
+Weatherhead High School	0.657324841
+St Clere's School	0.677707006
+Wilmington Grammar School for Girls	0.847133758
+Bartholomew School	0.710828025
+The John Wallis Church of England Academy	0.555414013
+Oasis Academy Shirley Park	0.568152866
+Waddesdon Church of England School	0.714649682
+Forest Academy	0.603821656
+Neston High School	0.676433121
+All Saints Catholic Voluntary Academy	0.676433121
+All Saints RC School	0.714649682
+Twynham School	0.682802548
+The Bishop Wand Church of England School	0.667515924
+The Chalfonts Community College	0.643312102
+Nicholas Breakspear Catholic School	0.644585987
+Copthall School	0.612738854
+Ilford County High School	0.857324841
+Settlebeck High School	0.611464968
+Sirius Academy North	0.551592357
+Queen Elizabeth's Grammar School	0.742675159
+Outwood Academy Adwick	0.614012739
+Little Ilford School	0.633121019
+Sutton Grammar School	0.923566879
+The Highfield School	0.650955414
+The Trafalgar School at Downton	0.656050955
+St Michael's Church of England High School	0.743949045
+"Holy Cross Catholic High School, A Sports and Science College"	0.701910828
+Dr Challoner's Grammar School	0.92866242
+Hethersett Academy	0.722292994
+Waldegrave School	0.820382166
+Bishop Thomas Grant Catholic Secondary School	0.766878981
+Harris Academy Morden	0.624203822
+Wembley High Technology College	0.759235669
+The Skinners' School	0.913375796
+Samuel Ryder Academy	0.643312102
+The Heathland School	0.736305732
+Beauchamp College	0.735031847
+Wallington County Grammar School	0.935031847
+St Anne's Catholic High School for Girls	0.732484076
+Westcliff High School for Boys Academy	0.92611465
+St Mary's RC High School	0.757961783
+Millais School	0.766878981
+The Cardinal Wiseman Catholic School	0.738853503
+Harrogate Grammar School	0.760509554
+President Kennedy School Academy	0.656050955
+Upton Court Grammar School	0.894267516
+Tiffin School	0.954140127
+Central Foundation Boys' School	0.741401274
+Reading School	0.979617834
+Painsley Catholic College 	0.778343949
+Feversham College	0.704458599
+Impington Village College	0.766878981
+The Piggott School	0.750318471
+Whitmore High School 	0.705732484
+Walthamstow School for Girls	0.729936306
+St Francis Xavier School	0.761783439
+All Hallows Catholic School	0.759235669
+Outwood Academy Acklam	0.625477707
+Valentines High School	0.694267516
+Hadley Learning Community - Secondary Phase	0.666242038
+Simon Balle All-Through School	0.752866242
+Invicta Grammar School	0.898089172
+Ormiston Chadwick Academy	0.722292994
+Manchester Mesivta School	0.754140127
+Balcarras School	0.771974522
+Acklam Grange School	0.70955414
+St Albans Girls' School	0.78343949
+Torquay Academy	0.656050955
+West Park School	0.737579618
+Parkside Community College	0.775796178
+Al-Hijrah School	0.751592357
+Sidney Stringer Academy	0.658598726
+Hitchin Girls' School	0.793630573
+The Holt School	0.775796178
+Sexey's School	0.74522293
+St Mary's College	0.713375796
+Bowland High	0.723566879
+Banbury Academy	0.610191083
+Parliament Hill School 	0.708280255
+The Ecclesbourne School	0.756687898
+Southfields Academy	0.61910828
+Alder Community High School	0.666242038
+The Sandon School	0.698089172
+The Featherstone Academy	0.588535032
+Prudhoe Community High School	0.680254777
+Reigate School	0.668789809
+Glyn School	0.714649682
+Burnham Grammar School	0.853503185
+The Windsor Boys' School	0.666242038
+de Stafford School	0.633121019
+St Crispin's School	0.682802548
+Littleover Community School	0.707006369
+The Gilberd School	0.670063694
+Isleworth and Syon School for Boys	0.65477707
+Oldbury Wells School	0.658598726
+St Angela's Ursuline School	0.70955414
+The Belvedere Academy	0.807643312
+John Hampden Grammar School	0.852229299
+Harris Academy Falconwood	0.67133758
+Wildern School	0.686624204
+Lady Margaret School	0.78343949
+Dene Magna School	0.631847134
+The Stonehenge School	0.624203822
+Kingsway Park High School	0.570700637
+Stratford School	0.647133758
+Bishopshalt School	0.677707006
+Bow School	0.634394904
+Shelley College	0.668789809
+Sunbury Manor School	0.645859873
+Boston High School	0.788535032
+Sir Graham Balfour High School	0.677707006
+Witchford Village College	0.638216561
+Collingwood College	0.691719745
+The Knights Templar School	0.680254777
+Sir Joseph Williamson's Mathematical School	0.842038217
+Bungay High School	0.624203822
+St Leonard's Roman Catholic Voluntary Aided Comprehensive School	0.707006369
+The Bishop of Winchester Academy	0.643312102
+Southgate School	0.707006369
+Frederick Gough School	0.639490446
+Kineton High School	0.667515924
+Myton School	0.707006369
+Hobart High School	0.65477707
+Maria Fidelis Roman Catholic Convent School FCJ	0.638216561
+The Westgate School	0.614012739
+Ormiston Horizon Academy	0.611464968
+"Sir William Robertson Academy, Welbourn"	0.659872611
+Queen Elizabeth School	0.723566879
+Hanley Castle High School	0.703184713
+Caister Academy	0.614012739
+Woodlands School	0.620382166
+Maidstone Grammar School	0.836942675
+The Crypt School	0.806369427
+Chorlton High School	0.661146497
+South Bromsgrove High	0.677707006
+Helston Community College	0.645859873
+The Priory School	0.663694268
+Haberdashers' Aske's Hatcham College	0.689171975
+Looe Community Academy	0.605095541
+The Magna Carta School	0.666242038
+Trinity CofE High School	0.672611465
+Cirencester Deer Park School	0.691719745
+Beths Grammar School	0.848407643
+Thrybergh Academy and Sports College	0.547770701
+King Charles I School	0.662420382
+Whitley Academy	0.672611465
+St Paul's Catholic School	0.648407643
+Malton School	0.663694268
+ Wellington School	0.704458599
+Lord Williams's School	0.687898089
+Range High School	0.713375796
+"Davison Church of England High School for Girls, Worthing"	0.676433121
+Penrice Academy	0.680254777
+The Toynbee School	0.67133758
+Leytonstone School	0.666242038
+The St Lawrence Academy	0.614012739
+St Dunstan's School	0.658598726
+Burntwood School	0.663694268
+Chichester High School 	0.675159236
+"St Edmund Arrowsmith Catholic High School, Ashton-in-Makerfield"	0.74522293
+Ian Ramsey Church of England Academy	0.699363057
+Mary Webb School and Science College	0.712101911
+Ifield Community College	0.582165605
+Sale High School	0.638216561
+City of London Academy (Southwark)	0.731210191
+The Quest Academy	0.550318471
+Burnage Academy for Boys	0.551592357
+Orleans Park School	0.736305732
+Manchester Academy	0.58089172
+Scalby School	0.634394904
+Washwood Heath Academy	0.614012739
+Sir Frank Whittle Studio School	0.606369427
+Harris Academy Peckham	0.58089172
+Whitworth Community High School	0.626751592
+Colne Community School and College	0.644585987
+The Norton Knatchbull School	0.830573248
+Netherhall Learning Campus High School	0.612738854
+Groby Community College	0.685350318
+Morpeth School	0.65477707
+Haygrove School	0.659872611
+Priory School	0.704458599
+Carlton Community College	0.617834395
+Walton High	0.666242038
+Charles Darwin School	0.63566879
+The Crossley Heath School	0.881528662
+Rossett School	0.675159236
+Abbeyfield School	0.682802548
+The Hollins Technology College	0.631847134
+The Co-operative Academy of Manchester	0.602547771
+"St Thomas More Catholic High School, A Specialist School for Maths & ICT"	0.694267516
+Great Torrington School	0.643312102
+The Palmer Catholic Academy	0.643312102
+Dronfield Henry Fanshawe School	0.714649682
+Mark Rutherford School	0.648407643
+Caterham High School	0.638216561
+Abbot Beyne School	0.602547771
+Bordesley Green Girls' School & Sixth Form	0.603821656
+Arthur Mellows Village College	0.69044586
+Shenley Brook End School	0.682802548
+Mounts Bay Academy	0.684076433
+Walsall Academy	0.696815287
+The King John School	0.689171975
+The Macclesfield Academy	0.662420382
+Parrenthorn High School	0.668789809
+Ousedale School	0.701910828
+John Kyrle High School and Sixth Form Centre Academy	0.648407643
+Borden Grammar School	0.814012739
+St Thomas More Catholic Academy	0.659872611
+The Hurlingham Academy	0.629299363
+Heathcote School & Science College	0.656050955
+Salvatorian Roman Catholic College	0.721019108
+Ellesmere Park High School	0.626751592
+Windsor High School and Sixth Form	0.657324841
+Churston Ferrers Grammar School Academy	0.857324841
+Bishop Justus CofE School	0.682802548
+"St Bede's Roman Catholic High School, Blackburn"	0.691719745
+The King's School	0.718471338
+West London Free School	0.742675159
+Tenbury High Ormiston Academy	0.681528662
+St Saviour's and St Olave's Church of England School	0.708280255
+Manor Church of England Academy Trust	0.689171975
+St Mark's West Essex Catholic School	0.65477707
+Trinity School	0.605095541
+"Blacon High School, A Specialist Sports College"	0.624203822
+Roundwood Park School	0.755414013
+Tomlinscote School and Sixth Form College	0.692993631
+Bingley Grammar School	0.685350318
+St Nicholas Catholic High School	0.704458599
+King Edward VI Community College	0.630573248
+Chatsmore Catholic High School	0.633121019
+Holy Family Roman Catholic and Church of England College	0.650955414
+The Harvey Grammar School	0.808917197
+Smestow School	0.629299363
+The Brakenhale School	0.589808917
+Moor House School & College	0.210191083
+"Minsthorpe Community College, A Specialist Science College"	0.594904459
+Highsted Grammar School	0.822929936
+Beal High School	0.682802548
+"Carr Manor Community School, Specialist Sports College"	0.593630573
+Uppingham Community College	0.687898089
+Burford School	0.684076433
+Wolverley CofE Secondary School	0.639490446
+Penair School	0.680254777
+St Edmund's Girls' School	0.677707006
+Matthew Arnold School	0.672611465
+The Co-Operative Academy of Stoke-On-Trent	0.571974522
+Plymstock School	0.645859873
+Warden Park School	0.712101911
+The King's School Specialising in Mathematics and Computing	0.638216561
+Christ The King Catholic High School	0.582165605
+Oakgrove School	0.684076433
+Norbury Manor Business and Enterprise College for Girls	0.662420382
+Cromwell Community College	0.633121019
+The Forest School	0.678980892
+Avonbourne College	0.630573248
+Horndean Technology College	0.681528662
+Cottingham High School and Sixth Form College	0.664968153
+Tytherington School	0.69044586
+St Mary's Catholic High School	0.69044586
+Upton-by-Chester High School	0.694267516
+North Leamington School	0.687898089
+Fairfax	0.69044586
+Enfield County School	0.684076433
+Marple Hall School - A Specialist Language College	0.696815287
+Mill Hill County High School	0.723566879
+Ellesmere Port Catholic High School	0.640764331
+Carshalton High School for Girls	0.657324841
+Dorothy Stringer School	0.710828025
+St Cecilia's RC High School	0.630573248
+St Joseph's Catholic College	0.670063694
+Whitecross Hereford	0.630573248
+Urmston Grammar Academy	0.875159236
+The Lacon Childe School	0.67133758
+Highams Park School	0.692993631
+Ralph Thoresby School	0.606369427
+Yateley School	0.714649682
+Clitheroe Royal Grammar School	0.877707006
+Charles Read Academy	0.6
+Ansford Academy Trust	0.682802548
+Framingham Earl High School	0.698089172
+Dover Grammar School for Boys	0.785987261
+Saint Thomas More Language College	0.668789809
+The Wavell School	0.647133758
+Garstang Community Academy	0.661146497
+The John Fisher School	0.727388535
+Ashlawn School	0.687898089
+"St. Mary's Menston, a Catholic Voluntary Academy"	0.727388535
+Madani Girls' School	0.649681529
+Barr Beacon School	0.684076433
+Fakenham Academy Norfolk	0.625477707
+Oasis Academy John Williams	0.620382166
+Chislehurst and Sidcup Grammar School	0.856050955
+The Halifax Academy	0.587261146
+Woodrush Community High School	0.704458599
+Birkdale High School	0.677707006
+Wyvern College	0.675159236
+Richard Lander School	0.705732484
+Broadland High School	0.666242038
+Seahaven Academy	0.596178344
+Droitwich Spa High School and Sixth Form Centre	0.659872611
+Upper Batley High School	0.588535032
+Havant Academy	0.554140127
+Hamstead Hall Academy	0.629299363
+St Bernard's Catholic High School	0.652229299
+St John Fisher Catholic High School 	0.719745223
+Ravens Wood School	0.708280255
+Great Baddow High School	0.666242038
+Stockland Green School	0.573248408
+Brentwood Ursuline Convent High School	0.742675159
+Hollingworth Academy	0.680254777
+Pleckgate High School Mathematics and Computing College	0.585987261
+Bishop Vesey's Grammar School	0.870063694
+Sion-Manning Catholic Girls' School	0.657324841
+Ormiston Victory Academy	0.615286624
+Redborne Upper School and Community College	0.703184713
+Wimbledon College	0.700636943
+Horizon Community College	0.662420382
+Wadebridge School	0.652229299
+"The Thomas Adams School, Wem"	0.676433121
+The Coopers' Company and Coborn School	0.760509554
+Hellesdon High School	0.662420382
+The Kingswinford School & Science College	0.661146497
+Holmes Chapel Comprehensive School	0.719745223
+Finham Park School	0.710828025
+Oasis Academy Enfield	0.603821656
+Upper Shirley High School	0.668789809
+Wigston College	0.593630573
+Outwood Academy Brumby	0.574522293
+Castle View Enterprise Academy	0.676433121
+Lambeth Academy	0.61656051
+Tollbar Academy	0.67133758
+The Nicholas Hamond Academy	0.634394904
+The Warriner School	0.682802548
+The King David High School	0.797452229
+Virgo Fidelis Convent Senior School	0.652229299
+Philip Morant School and College	0.662420382
+Longhill High School	0.611464968
+Parkside Community School	0.638216561
+Haberdashers' Aske's Crayford Academy	0.639490446
+Imberhorne School	0.667515924
+Windsor Girls' School	0.656050955
+King's Norton Boys' School	0.666242038
+Northolt High School	0.594904459
+Rockwood Academy	0.537579618
+Preston Manor School	0.644585987
+The National CofE Academy	0.625477707
+Egglescliffe School	0.742675159
+Millfield Science & Performing Arts College	0.642038217
+Durham Johnston Comprehensive School	0.72866242
+Maltby Academy	0.670063694
+Testwood School	0.598726115
+Hampstead School	0.636942675
+Penistone Grammar School	0.731210191
+Kingstone High School	0.63566879
+Rodborough Technology College	0.682802548
+The Commonweal School	0.638216561
+Bridgnorth Endowed School	0.666242038
+Turves Green Boys' School	0.585987261
+Swanmore College	0.695541401
+Meden School	0.645859873
+Sirius Academy West	0.610191083
+The Cowplain School	0.611464968
+Kingsbury School - A Specialist Science and Mathematics Academy	0.649681529
+Longsands Academy	0.666242038
+The Matthew Arnold School	0.624203822
+Holy Family Catholic School	0.653503185
+Bohunt School	0.719745223
+Ormiston Sudbury Academy	0.582165605
+Prenton High School for Girls	0.61656051
+Studley High School	0.644585987
+St Thomas More Catholic School and Sixth Form College	0.703184713
+Moseley School	0.584713376
+"St Augustine's Roman Catholic School, Scarborough"	0.659872611
+Peacehaven Community School	0.58343949
+Sir Roger Manwood's School	0.839490446
+Cathedral Academy	0.547770701
+The Gryphon School	0.694267516
+"St Augustine's Roman Catholic School, Scarborough"	0.659872611
+Roundhay School	0.664968153
+Brookfield Community School	0.708280255
+Royal Alexandra and Albert School	0.662420382
+Ermysted's Grammar School	0.849681529
+Dixons City Academy	0.685350318
+The FitzWimarc School	0.682802548
+St Benedict's Catholic College	0.675159236
+West Lakes Academy	0.662420382
+Lymm High School	0.721019108
+The Maplesden Noakes School	0.631847134
+Lady Lumley's School	0.662420382
+John F Kennedy Catholic School	0.695541401
+Harrow High School 	0.58089172
+Andrew Marvell College	0.615286624
+The Emmbrook School	0.645859873
+The Hamble School	0.628025478
+Whickham School	0.701910828
+St Peter's Catholic School and Specialist Science College	0.715923567
+Huish Episcopi Academy	0.686624204
+Challney High School for Girls	0.584713376
+Chapel-en-le-Frith High School	0.631847134
+Kings International College	0.621656051
+East Bergholt High School	0.675159236
+Plume School	0.657324841
+The Trinity Catholic School A Voluntary Academy	0.712101911
+Oasis Academy Coulsdon	0.634394904
+The Queen Elizabeth Academy	0.636942675
+St Mary's Catholic Academy	0.636942675
+The John Henry Newman Catholic School	0.710828025
+John Cabot Academy	0.639490446
+South Dartmoor Community College	0.680254777
+Tadcaster Grammar School	0.710828025
+Ashton-on-Mersey School	0.653503185
+The Ridgeway School & Sixth Form College	0.687898089
+Fernwood School	0.710828025
+St Wilfrid's Catholic High School & Sixth Form College: A Voluntary Academy	0.659872611
+Clevedon School	0.661146497
+Eltham Hill School	0.659872611
+Neale-Wade Academy	0.624203822
+Bridgewater High School	0.713375796
+Aylesford School and Sixth Form College	0.670063694
+Thomas Keble School	0.643312102
+Coundon Court	0.640764331
+North Cambridge Academy	0.611464968
+"Mayfield Grammar School, Gravesend"	0.829299363
+Hayle Community School	0.625477707
+Our Lady's Catholic College	0.596178344
+Oaklands Catholic School	0.695541401
+Unity Academy Blackpool	0.563057325
+South Charnwood High School	0.647133758
+Stalham High School	0.598726115
+The Netherhall School	0.675159236
+Bristol Brunel Academy	0.602547771
+Portslade Aldridge Community Academy	0.615286624
+Poole High School	0.639490446
+Willingdon Community School	0.639490446
+Carnforth High School	0.611464968
+"Holy Trinity CofE Secondary School, Crawley"	0.653503185
+Greensward Academy	0.663694268
+Varndean School	0.645859873
+Guilsborough Academy	0.668789809
+St Thomas More High School	0.656050955
+The Corbet School Technology College	0.682802548
+Hardenhuish School	0.667515924
+Richard Hale School	0.722292994
+The Campion School	0.694267516
+"St Augustine's Roman Catholic High School, Billington"	0.687898089
+Queens' School	0.70955414
+Taverham High School	0.649681529
+New Mills School & Sixth Form	0.611464968
+Priory Community School	0.633121019
+The Bishops' Blue Coat Church of England High School	0.652229299
+Kings Heath Boys	0.622929936
+Langdon Academy	0.608917197
+Bruntcliffe Academy	0.587261146
+West Somerset College	0.621656051
+Sir Jonathan North Community College	0.680254777
+Haydon School	0.705732484
+Newquay Tretherras	0.661146497
+"The Priory School, A Business and Enterprise College"	0.727388535
+St Bede's and St Joseph's Catholic College	0.622929936
+Hampton College	0.647133758
+King James's School	0.699363057
+St George's Academy 	0.614012739
+Wilmington Grammar School for Boys	0.792356688
+Ark Globe Academy	0.58089172
+Park High School 	0.661146497
+Cedars Upper School	0.681528662
+De Lisle Catholic School Loughborough Leicestershire	0.69044586
+Magdalen College School	0.676433121
+Balaam Wood School	0.550318471
+Hillcrest School A Specialist Maths and Computing College and Sixth Form Centre	0.642038217
+Moor End Academy	0.587261146
+Teesdale School	0.694267516
+St James's Church of England High School	0.712101911
+St Damian's RC Science College	0.67388535
+Humphry Davy School	0.645859873
+John Whitgift Academy	0.547770701
+Balshaw's Church of England High School	0.657324841
+Horsforth School	0.703184713
+Hull Trinity House Academy	0.685350318
+Balshaw's Church of England High School	0.657324841
+Dartford Science & Technology College	0.620382166
+St Edmund's Catholic School	0.577070064
+Shaftesbury School	0.645859873
+Pershore High School	0.662420382
+Vandyke Upper School and Community College	0.648407643
+Wollaston School	0.642038217
+Hebburn Comprehensive School	0.644585987
+St Mary Magdalene Academy	0.675159236
+Ponteland Community High School	0.708280255
+South Molton Community College	0.658598726
+Christ The King College	0.633121019
+East Barnet School	0.691719745
+Springwood High School	0.647133758
+All Saints Catholic College Specialist in Humanities	0.642038217
+Okehampton College	0.643312102
+Seaham High School	0.638216561
+Queen Elizabeth's Grammar School	0.817834395
+Newmarket Academy	0.610191083
+Holte School	0.643312102
+The Mosslands School	0.644585987
+Swinton Community School	0.603821656
+The South Wolds Academy & Sixth Form	0.710828025
+Reddish Vale Technology College	0.621656051
+Coleridge Community College	0.625477707
+All Saints Academy	0.737579618
+St Bede's Catholic Comprehensive School and Byron College	0.645859873
+Cannock Chase High School	0.629299363
+The Thomas Lord Audley School	0.584713376
+Anthony Gell School	0.662420382
+Uckfield Community Technology College	0.678980892
+Holy Family Catholic Academy	0.557961783
+Cirencester Kingshill School	0.675159236
+St Anthony's Girls' Catholic Academy	0.687898089
+Forge Valley School	0.631847134
+Ashfield Comprehensive School	0.647133758
+St Bonaventure's RC School	0.65477707
+Guiseley School	0.699363057
+Lipson Co-operative Academy	0.601273885
+Redhill School and Specialist Language College	0.685350318
+Saint Cecilia's Church of England School	0.715923567
+Fairfield High School for Girls	0.712101911
+Havelock Academy	0.612738854
+The Ockendon Academy	0.63566879
+St Benedict's Catholic High School	0.664968153
+Knole Academy	0.606369427
+St Edward's College	0.754140127
+Therfield School	0.656050955
+Therfield School	0.656050955
+Ernest Bevin College	0.642038217
+Bishop Milner Catholic College	0.678980892
+Abbey Grange Church of England Academy	0.705732484
+Bradford Girls' Grammar School	0.656050955
+Madeley High School	0.662420382
+Rastrick High School	0.642038217
+Harris Academy Purley	0.626751592
+Tendring Technology College	0.615286624
+Cape Cornwall School	0.611464968
+Chestnut Grove School	0.663694268
+Stratton Upper School	0.617834395
+St Mary Redcliffe and Temple School	0.717197452
+Poynton High School	0.707006369
+The Marsh Academy	0.561783439
+Caroline Chisholm School	0.70955414
+Woodchurch High School	0.608917197
+Attleborough Academy Norfolk	0.640764331
+St Thomas More Catholic School	0.705732484
+Henley In Arden School	0.67388535
+Frederick Bremer School	0.622929936
+Beauchamps High School	0.644585987
+Oathall Community College	0.668789809
+Aston Academy	0.67388535
+Caludon Castle School	0.680254777
+Eastbrook School	0.56433121
+Our Lady and St John Catholic College	0.591082803
+Codsall Community High School	0.625477707
+Maltings Academy	0.622929936
+St Michael's Catholic College	0.718471338
+Woodbrook Vale School	0.645859873
+Alcester Academy	0.684076433
+Macmillan Academy	0.691719745
+William Hulme's Grammar School	0.680254777
+Ormiston Sandwell Community Academy	0.617834395
+Sowerby Bridge High School	0.540127389
+The Duston School	0.615286624
+Ulverston Victoria High School	0.704458599
+Dane Court Grammar School	0.820382166
+Cardinal Pole Roman Catholic School	0.622929936
+The Cottesloe School	0.643312102
+Paignton Community and Sports Academy	0.606369427
+The Cooper School	0.642038217
+Plumstead Manor School	0.622929936
+Babington Community College	0.523566879
+Sawtry Community College Academy	0.656050955
+St Bede's Catholic College	0.719745223
+Golborne High School	0.657324841
+Testbourne Community School	0.700636943
+The Fallibroome Academy	0.698089172
+Kingsbridge Academy	0.755414013
+Buxton School	0.629299363
+South Hunsley School and Sixth Form College	0.757961783
+St Peter's Catholic School	0.794904459
+Connaught School for Girls	0.738853503
+Saint George Catholic Voluntary Aided College Southampton	0.701910828
+Wilson's School	0.973248408
+Queensmead School	0.733757962
+King Edward VI Camp Hill School for Boys	0.985987261
+The Judd School	0.954140127
+Sandringham School	0.765605096
+St Benedict's Catholic School	0.719745223
+Challney High School for Boys	0.672611465
+Harris Academy Upper Norwood	0.653503185
+The Eastwood Academy	0.717197452
+Dr Challoner's High School	0.913375796
+St Bede's School	0.761783439
+"Tudor Grange Academy, Solihull"	0.78089172
+Holyrood Academy	0.700636943
+Colchester County High School for Girls	0.965605096
+St Michael's Catholic Grammar School	0.951592357
+Ashmole Academy	0.774522293
+The County High School Leftwich	0.742675159
+Beaconsfield High School	0.908280255
+The Farnley Academy	0.687898089
+St Richard's Catholic College	0.757961783
+Moorside High School 	0.712101911
+Holland Park School	0.782165605
+Kendrick School	0.973248408
+King David High School	0.760509554
+Gunnersbury Catholic School	0.791082803
+The Henrietta Barnett School	1
+"Weald School, the"	0.708280255
+Parkstone Grammar School	0.889171975
+Harris Academy Merton	0.69044586
+The King's (The Cathedral) School	0.838216561
+Settle College	0.694267516
+Platanos College	0.695541401
+Alperton Community School	0.633121019
+Norton Hill Academy	0.729936306
+The Holy Cross School	0.752866242
+Tanbridge House School	0.731210191
+Weald of Kent Grammar School	0.885350318
+Holy Trinity School	0.736305732
+Wickersley School and Sports College	0.714649682
+Kantor King Solomon High School	0.738853503
+Rodillian Academy	0.700636943
+Southam College	0.743949045
+Lordswood Girls' School and Sixth Form Centre	0.686624204
+Blessed Thomas Holford Catholic College	0.705732484
+Shirley High School Performing Arts College	0.645859873
+Kinver High School and Sixth Form	0.650955414
+Great Marlow School	0.657324841
+Meadowhead School Academy Trust	0.643312102
+Dyke House Sports and Technology College	0.617834395
+Alsager School	0.695541401
+Bishop Stopford's School	0.620382166
+West Hatch High School	0.639490446
+Edenham High School	0.582165605
+Falinge Park High School	0.608917197
+Highdown School and Sixth Form Centre	0.701910828
+Ryburn Valley High School	0.658598726
+Hartford Church of England High School	0.67388535
+Bishop Challoner Catholic Federations of Girls School	0.684076433
+Norham High School	0.596178344
+The Blandford School	0.647133758
+Langdon Park Community School	0.630573248
+Culcheth High School	0.719745223
+Audenshaw School Academy Trust	0.684076433
+Dyson Perrins CofE Academy	0.629299363
+Haywood Academy	0.621656051
+Stokesley School	0.729936306
+The Hundred of Hoo Academy	0.578343949
+Holmfirth High School	0.694267516
+Fort Pitt Grammar School	0.794904459
+Hele's Trust	0.667515924
+Firth Park Academy	0.521019108
+St Edmunds Catholic Academy	0.629299363
+St John Fisher Catholic High School	0.638216561
+Riddlesdown Collegiate	0.675159236
+Bushey Meads School	0.680254777
+Sidmouth College	0.663694268
+St John's Catholic Comprehensive	0.61656051
+Oldfield School	0.675159236
+Ash Manor School	0.631847134
+William Edwards School	0.647133758
+The Boswells School	0.670063694
+Eastlea Community School	0.554140127
+Kingsford Community School	0.63566879
+Harton Technology College	0.653503185
+Lady Manners School	0.712101911
+Prince William School	0.656050955
+Great Yarmouth (VA) High School	0.513375796
+The King Edward VI Academy	0.687898089
+Chesterton Community Sports College	0.630573248
+Braunton Academy	0.686624204
+Netherthorpe School	0.696815287
+Holly Lodge High School College of Science	0.543949045
+Holy Family Catholic High School	0.664968153
+Park House School	0.639490446
+William Brookes School	0.686624204
+Ringwood School Academy	0.689171975
+Ralph Allen School	0.703184713
+Roding Valley High School	0.63566879
+Bitterne Park School	0.644585987
+Rooks Heath College 	0.636942675
+The Hayfield School	0.667515924
+Ashlyns School	0.696815287
+Ercall Wood Technology College	0.570700637
+The Dukeries Academy	0.622929936
+Brigshaw High School and Language College	0.606369427
+Astley Community High School	0.607643312
+Farmor's School	0.712101911
+Hall Green School	0.657324841
+Holy Trinity Catholic Media Arts College	0.605095541
+Fyndoune Community College	0.559235669
+Ark Evelyn Grace Academy	0.596178344
+St Mary's Church of England High School (VA)	0.626751592
+The Snaith School	0.663694268
+Alde Valley Academy	0.58089172
+Bradon Forest School	0.678980892
+Horbury Academy	0.644585987
+Hertswood Academy	0.606369427
+Notre Dame RC School	0.625477707
+"The Queen Elizabeth's High School, Gainsborough"	0.815286624
+Blackfen School for Girls	0.644585987
+Moor Park High School and Sixth Form	0.571974522
+Rainhill High School	0.70955414
+Saint Gregory's Catholic College	0.682802548
+Wales High School	0.638216561
+Malcolm Arnold Academy	0.555414013
+St Thomas More Roman Catholic Academy	0.698089172
+All Saints' Catholic High School	0.615286624
+Outwood Academy Shafton	0.601273885
+King Edward VII Academy	0.601273885
+Melksham Oak Community School	0.608917197
+The Bourne Academy	0.591082803
+Congleton High School	0.677707006
+Perins School A Community Sports College	0.707006369
+Iceni Academy	0.608917197
+Hasland Hall Community School	0.643312102
+John Colet School	0.656050955
+The Thetford Academy	0.568152866
+Denefield School	0.61910828
+Tewkesbury School	0.659872611
+"Queen Elizabeth's Grammar School, Horncastle"	0.820382166
+Backwell School	0.695541401
+Northfleet School for Girls	0.601273885
+Thurston Community College	0.626751592
+Lytchett Minster School	0.652229299
+Towers School and Sixth Form Centre	0.577070064
+Westfield Academy	0.587261146
+Springfield School	0.659872611
+Hutton Church of England Grammar School	0.700636943
+Birmingham Ormiston Academy	0.689171975
+Ark Putney Academy	0.61910828
+Hadleigh High School	0.649681529
+Ormiston Sir Stanley Matthews Academy	0.633121019
+Saint Michael's Catholic High School	0.672611465
+Rainford High Technology College	0.704458599
+Devonport High School for Boys	0.825477707
+Icknield High School	0.608917197
+George Salter Academy	0.628025478
+Caldew School	0.636942675
+Richard Rose Central Academy	0.610191083
+Langley School	0.661146497
+The Douay Martyrs Catholic Secondary School	0.676433121
+St Paul's Academy	0.638216561
+Tuxford Academy	0.668789809
+Kingsmead Academy	0.65477707
+Bellerive FCJ Catholic College	0.653503185
+Highworth Warneford School	0.659872611
+Erasmus Darwin Academy	0.689171975
+Deptford Green School	0.605095541
+King Alfred's	0.652229299
+Honley High School	0.670063694
+Morecambe Community High School	0.614012739
+Mascalls Academy	0.620382166
+The Five Islands School	0.642038217
+Pool Academy	0.648407643
+Lynn Grove Academy	0.638216561
+Cleethorpes Academy	0.648407643
+The Beacon School	0.634394904
+"St Bede's Catholic Comprehensive School and Sixth Form College, Lanchester"	0.67133758
+Wade Deacon High School	0.692993631
+Mary Hare School	0.452229299
+Churchill Academy	0.677707006
+Ormiston Forge Academy	0.61656051
+Hillview School for Girls	0.625477707
+St Helena School	0.626751592
+The Marlborough Church of England School	0.63566879
+Robert Clack School	0.658598726
+All Hallows RC High School	0.61910828
+Keswick School	0.695541401
+St Aidan's Catholic Academy	0.65477707
+Belvoir High School and Melton Vale Post 16 Centre	0.67388535
+John Spence Community High School	0.666242038
+Quarrydale Academy	0.644585987
+Barnhill Community High School	0.592356688
+Crawshaw Academy	0.626751592
+The Warwick School	0.593630573
+University Academy Keighley	0.503184713
+Bury Church of England High School	0.703184713
+Biddenham International School and Sports College	0.575796178
+Bedale High School	0.647133758
+John Masefield High School	0.666242038
+Adams' Grammar School	0.87388535
+Bishop Barrington School A Sports with Mathematics College	0.642038217
+Clacton Coastal Academy	0.543949045
+Wakefield City Academy	0.575796178
+The Hazeley Academy	0.67388535
+Noadswood School	0.67133758
+Bluecoat Academy	0.647133758
+"Stewards Academy - Science Specialist, Harlow"	0.596178344
+Priory School	0.617834395
+Blue Coat Church of England Academy	0.52611465
+The Weston Road Academy	0.661146497
+Court Fields School	0.653503185
+Norwood School	0.617834395
+King James's School	0.659872611
+Ark Walworth Academy	0.615286624
+The Blue School	0.672611465
+Highlands School	0.692993631
+Wood Green Academy	0.640764331
+The Barnes Wallis Academy	0.573248408
+Whitcliffe Mount School	0.605095541
+Hall Mead School	0.667515924
+The Ashcombe School	0.691719745
+Woodbridge High School	0.658598726
+St John Wall Catholic School	0.577070064
+Pensby High School	0.631847134
+Woodhey High School	0.701910828
+Sheredes School	0.622929936
+Titus Salt School	0.639490446
+Beverley Grammar School	0.649681529
+Dowdales School	0.672611465
+Highfields School	0.680254777
+Chase Terrace Technology College	0.647133758
+Oxclose Community Academy	0.611464968
+Kings Langley School	0.65477707
+Tile Hill Wood School and Language College	0.630573248
+Ken Stimpson Community School	0.611464968
+The Westwood Academy	0.556687898
+Oaks Park High School	0.61910828
+Brixham College	0.628025478
+The Castle School	0.662420382
+Oxted School	0.652229299
+"St Edward's Roman Catholic/Church of England School, Poole"	0.630573248
+Coombe Boys' School	0.642038217
+High Storrs School	0.668789809
+Ribston Hall High School	0.815286624
+Wardle Academy	0.642038217
+Hyde Community College	0.620382166
+Accrington Academy	0.597452229
+Desborough College	0.612738854
+Formby High School	0.689171975
+Applemore College	0.631847134
+Oakmeeds Community College	0.69044586
+Sir John Nelthorpe School	0.666242038
+Dallam School	0.667515924
+Beckfoot School	0.653503185
+Spen Valley High School	0.573248408
+Broadwater School	0.611464968
+Madani Boys School	0.686624204
+IES Breckland	0.56433121
+Queen Elizabeth's School	0.633121019
+The Sele School	0.589808917
+Archbishop Blanch School	0.691719745
+Prestwich Arts College	0.621656051
+Holmer Green Senior School	0.649681529
+Monkseaton High School	0.602547771
+Alec Reed Academy	0.593630573
+Greenshaw High School	0.695541401
+Sharples School Science Specialist College	0.622929936
+Aldridge School - A Science College	0.647133758
+Skegness Grammar School	0.755414013
+Yardleys School	0.591082803
+The Cedars Academy	0.594904459
+The Crestwood School	0.575796178
+South Wolverhampton and Bilston Academy	0.577070064
+Sandbach High School and Sixth Form College	0.736305732
+Trinity School	0.656050955
+St Monica's RC High School and Sixth Form Centre	0.676433121
+Newent Community School and Sixth Form Centre	0.640764331
+King Edward VII School	0.647133758
+The Malling School	0.570700637
+Park Hall Academy	0.629299363
+Gillingham School	0.659872611
+Bishop Challoner Catholic Secondary School	0.700636943
+Norton College	0.631847134
+Cordeaux Academy	0.594904459
+The Bishop Bell Church of England Mathematics and Computing Specialist School	0.648407643
+Joseph Rowntree School	0.657324841
+"The Community College, Bishop's Castle"	0.659872611
+Pool Hayes Arts and Community School	0.661146497
+St Bede's Catholic High School	0.678980892
+Frome Community College	0.625477707
+St John Bosco Arts College	0.628025478
+Denton Community College	0.611464968
+Tring School	0.676433121
+John O'Gaunt School	0.645859873
+Sandon Business and Enterprise College	0.645859873
+Madeley Academy	0.65477707
+The Ravensbourne School	0.63566879
+The Henry Box School	0.638216561
+Icknield Community College	0.670063694
+Hall Cross Academy	0.602547771
+Kepier	0.624203822
+The Priory Academy LSST	0.78089172
+The Hayesbrook School	0.594904459
+Richmond School	0.650955414
+"The Academy, Selsey"	0.587261146
+The Winsford Academy	0.557961783
+Cramlington Learning Village	0.663694268
+Amery Hill School	0.687898089
+Grace Academy Darlaston	0.584713376
+King Edward VI School	0.691719745
+Oasis Academy Hadley	0.568152866
+St Robert of Newminster Roman Catholic School	0.686624204
+English Martyrs Catholic School	0.645859873
+Ladybridge High School	0.61910828
+Shoeburyness High School	0.620382166
+Cleeve Park School	0.597452229
+Howard of Effingham School	0.722292994
+Blessed Trinity RC College	0.638216561
+Carlton le Willows Academy	0.687898089
+The Earls High School	0.645859873
+Oakfield	0.289171975
+Wyvern College	0.58089172
+Cornwallis Academy	0.575796178
+Retford Oaks Academy	0.615286624
+The Sir Robert Woodard Academy	0.594904459
+Brayton Academy	0.615286624
+St Bede's Catholic Voluntary Academy	0.664968153
+The North Halifax Grammar School	0.852229299
+Saddleworth School	0.670063694
+Ipswich Academy	0.557961783
+Oasis Academy Mayfield	0.611464968
+The Nelson Thomlinson School	0.663694268
+Appleby Grammar School	0.636942675
+Hurstmere School	0.636942675
+Hammersmith Academy	0.67133758
+Cheltenham Bournside School and Sixth Form Centre	0.676433121
+The Chase	0.682802548
+Acle Academy	0.642038217
+Ribblesdale High School	0.642038217
+The Cheadle Academy 	0.638216561
+Queen's Park High School	0.593630573
+The Chalk Hills Academy	0.625477707
+Warlingham School	0.63566879
+Cockermouth School	0.675159236
+Bristnall Hall Academy	0.58089172
+The Abbey School	0.577070064
+Chesterfield High School	0.657324841
+Newman Catholic College	0.557961783
+Flixton Girls School	0.642038217
+The Milton Keynes Academy	0.543949045
+The New Forest Academy	0.667515924
+Northgate High School 	0.606369427
+Archway School	0.648407643
+The Marches School	0.631847134
+Stanground Academy	0.610191083
+Hodge Hill Girls' School	0.647133758
+Philips High School	0.625477707
+Thomas Tallis School	0.63566879
+Leventhorpe	0.689171975
+St Wilfrid's Church of England Academy	0.67388535
+Conyers School	0.699363057
+Wexham School	0.552866242
+John Flamsteed Community School	0.629299363
+Grace Academy Solihull	0.630573248
+The Spires College	0.610191083
+Callington Community College	0.639490446
+Blenheim High School	0.638216561
+Gable Hall School	0.640764331
+Park View School	0.686624204
+Washington School	0.593630573
+"St John Payne Catholic School, Chelmsford"	0.678980892
+The Nobel School	0.631847134
+Devizes School	0.584713376
+Biddick Academy	0.598726115
+Beamont Collegiate	0.566878981
+Ark Helenswood Academy	0.617834395
+Buckingham School	0.621656051
+Beaumont Leys School	0.607643312
+Outwood Academy Danum	0.570700637
+Ark Boulton Academy	0.591082803
+Plymouth High School for Girls	0.796178344
+Fred Longworth High School	0.676433121
+Landau Forte College	0.668789809
+Brine Leas School	0.681528662
+Academy@Worden	0.570700637
+Wath Comprehensive School : A Language College	0.634394904
+Manshead School	0.61656051
+Knutsford Academy	0.662420382
+Bournville School	0.622929936
+Shevington High School	0.670063694
+Pewsey Vale School	0.652229299
+Stanley Park High School	0.629299363
+St George's Catholic School	0.621656051
+St Columba's Catholic Boys' School	0.617834395
+St Michael's CE High School	0.612738854
+John Henry Newman Catholic College	0.636942675
+Brighouse High School	0.650955414
+Crofton Academy	0.630573248
+The Martin High School Anstey	0.658598726
+Wilmington Academy	0.58343949
+Stoke Park School and Community Technology College	0.602547771
+Oulder Hill Community School and Language College	0.661146497
+Rickmansworth School	0.715923567
+Wadham School	0.643312102
+Ashby School	0.657324841
+Cardinal Newman Catholic School A Specialist Arts and Community College	0.639490446
+The Bishop of Hereford's Bluecoat School	0.653503185
+Caedmon College Whitby	0.61910828
+St Edmund Campion Catholic School & Sixth Form Centre	0.589808917
+"Kettlethorpe High School, A Specialist Maths and Computing College"	0.633121019
+The Duchess's Community High School	0.625477707
+Sir Robert Pattinson Academy 	0.652229299
+The Stourport High School and Sixth Form Centre	0.648407643
+Tamworth Enterprise College and AET Academy	0.614012739
+Wootton Upper School	0.622929936
+The McAuley Catholic High School	0.656050955
+Garth Hill College	0.606369427
+The Ridings Federation Winterbourne International Academy	0.695541401
+The Crompton House Church of England Academy	0.721019108
+Saltash.net community school	0.615286624
+The Freeston Academy	0.588535032
+Monk's Walk School	0.680254777
+"The Ramsey Academy, Halstead"	0.601273885
+Patchway Community College	0.58343949
+St Ambrose Barlow RC High School	0.658598726
+Benton Park School	0.663694268
+"Landau Forte Academy, Amington"	0.588535032
+Dartmouth Academy	0.579617834
+Campsmount (A Co-Operative Academy)	0.642038217
+Serlby Park Academy	0.634394904
+Sandbach School	0.689171975
+The Sweyne Park School	0.630573248
+The Co-operative Academy of Leeds	0.486624204
+"Saint Benedict, A Catholic Voluntary Academy"	0.601273885
+University of Chester Academy Northwich	0.6
+Fairfield High School	0.621656051
+Stowupland High School	0.605095541
+Blackburn Central High School	0.579617834
+Northampton School for Girls	0.659872611
+Tor Bridge High	0.570700637
+Judgemeadow Community College	0.668789809
+Kirkbie Kendal School	0.639490446
+Crofton School	0.67133758
+Wilsthorpe Community School	0.631847134
+The Bushey Academy	0.607643312
+St Michael's Catholic School	0.633121019
+Cardinal Newman Catholic High School	0.601273885
+Deyes High School	0.699363057
+Salendine Nook Academy Trust	0.691719745
+The Robert Napier School	0.531210191
+Altrincham College of Arts	0.625477707
+Mark Hall Academy	0.582165605
+Temple Moor High School Science College	0.61656051
+Liskeard School and Community College	0.596178344
+Limehurst Academy	0.634394904
+The John Warner School	0.638216561
+Sandhurst School	0.644585987
+Our Lady Queen of Peace Catholic Engineering College	0.65477707
+Manchester Communication Academy	0.601273885
+Richard Rose Morton Academy	0.628025478
+Newton Abbot College	0.657324841
+South Wirral High School	0.620382166
+The Friary School	0.67133758
+Marshalls Park School	0.625477707
+Longcroft School and Sixth Form College	0.667515924
+The Brittons Academy Trust	0.607643312
+Harlington Upper School	0.647133758
+The Holy Family Catholic School	0.610191083
+Hurworth School	0.668789809
+The Warren School	0.596178344
+Helsby High School	0.698089172
+The King's Academy	0.622929936
+Chancellor's School	0.677707006
+Belfairs Academy	0.63566879
+Meridian High School	0.538853503
+Tudor Grange Academy Redditch	0.592356688
+Penwortham Priory Academy	0.617834395
+Christleton High School	0.686624204
+Herne Bay High School	0.592356688
+St Edward's Church of England School & Sixth Form College	0.659872611
+Highcliffe School	0.676433121
+Thirsk School & Sixth Form College	0.640764331
+Oastlers School	0.361783439
+Darwen Aldridge Community Academy	0.633121019
+Fullbrook School	0.677707006
+Castlebrook High School	0.638216561
+Stationers' Crown Woods Academy	0.643312102
+Ellowes Hall Sports College	0.629299363
+The Bromfords School and Sixth Form College	0.602547771
+Carleton Community High School A Specialist Science With Mathematics School	0.556687898
+Winchmore School	0.659872611
+North Liverpool Academy	0.601273885
+Brockhill Park Performing Arts College	0.584713376
+Wrotham School	0.594904459
+Biddulph High School	0.592356688
+The Royal Docks Community School	0.560509554
+The Goodwin Academy	0.538853503
+The Grangefield Academy	0.621656051
+West Derby School	0.652229299
+Westwood College	0.643312102
+Oakwood Park Grammar School	0.778343949
+Accrington St Christopher's Church of England High School	0.700636943
+Archbishop Ilsley Catholic School	0.645859873
+S.Peter's Collegiate Church of England School	0.687898089
+Cams Hill School	0.666242038
+Church Stretton School	0.666242038
+Kingsley Academy	0.573248408
+The Leigh UTC	0.54522293
+St Thomas More RC College Specialising in Mathematics and Computing	0.692993631
+The Bulmershe School	0.593630573
+Little Heath School	0.659872611
+The Brunts Academy	0.625477707
+The Phoenix Collegiate	0.589808917
+South Wigston High School	0.556687898
+Goffs School	0.67133758
+St Peter's School	0.577070064
+Paget High School	0.540127389
+The Sir John Colfox Academy	0.642038217
+Francis Combe Academy	0.578343949
+King Edward VI Church of England Voluntary Controlled Upper School	0.650955414
+Harrogate High School	0.568152866
+Thomas Becket Catholic School	0.58343949
+The Brooksbank School	0.642038217
+Clifton Community School	0.491719745
+The Hurst Community College	0.675159236
+De Warenne Academy	0.584713376
+Coombe Dean School Academy Trust	0.594904459
+The Community College Whitstable	0.560509554
+Leek High Specialist Technology School	0.541401274
+Chipping Norton School	0.640764331
+Ferndown Upper School	0.61656051
+Ludlow Church of England School	0.614012739
+Ormiston Venture Academy	0.574522293
+Abbeywood Community School	0.608917197
+Pittville School	0.571974522
+Alderman Peel High School	0.598726115
+The Billericay School	0.649681529
+St Joseph's College	0.662420382
+Kemnal Technology College	0.63566879
+Canon Slade CofE School	0.70955414
+Chenderit School	0.636942675
+Farnham Heath End School	0.628025478
+Space Studio Banbury	0.656050955
+Dartford Grammar School	0.921019108
+St Clement Danes School	0.806369427
+Samuel Ward Academy	0.656050955
+Wymondham College	0.774522293
+Handsworth Grange Community Sports College	0.638216561
+Harris Boys' Academy East Dulwich	0.692993631
+"King Edward VI Grammar School, Chelmsford"	0.952866242
+Comberton Village College	0.746496815
+George Mitchell School	0.6
+St Simon Stock Catholic School	0.681528662
+Moseley Park	0.662420382
+Freman College	0.733757962
+The Roseland Academy	0.718471338
+Plashet School	0.698089172
+Abraham Moss Community School	0.638216561
+Lampton Academy	0.695541401
+Magna Academy	0.648407643
+St Thomas More Catholic School	0.663694268
+Sir Thomas Rich's School	0.908280255
+Emmanuel College	0.78089172
+St Bernard's High School	0.731210191
+Wolgarston High School	0.668789809
+Chelmsford County High School for Girls	0.974522293
+Castleford Academy	0.680254777
+Bridgwater College Academy	0.612738854
+St Philomena's Catholic High School for Girls	0.78343949
+The Folkestone School for Girls	0.857324841
+St Paul's School for Girls	0.771974522
+Lilian Baylis Technology School	0.649681529
+Outwood Academy Ripon	0.664968153
+Edgbarrow School	0.750318471
+Denbigh High School	0.67388535
+Bennett Memorial Diocesan School	0.722292994
+Linton Village College	0.719745223
+Torquay Girls Grammar School	0.914649682
+Langley Park School for Girls	0.74522293
+The Kings of Wessex Academy	0.717197452
+Chesterton Community College	0.752866242
+Wanstead High School	0.717197452
+Upper Wharfedale School	0.677707006
+Queen Mary's Grammar School	0.927388535
+The Green School	0.751592357
+Stratford Girls' Grammar School	0.963057325
+Wingfield Academy	0.65477707
+Cheadle Hulme High School	0.747770701
+Bishop Douglass School Finchley	0.684076433
+Heathfield Community School	0.707006369
+St Catherine's Catholic School	0.721019108
+Woodside High School	0.630573248
+Coombe Girls' School	0.775796178
+Farnham Heath End School	0.628025478
+Space Studio Banbury	0.656050955
+The Winston Churchill School A Specialist Sports College	0.649681529
+Parkside School	0.615286624
+Shirebrook Academy	0.566878981
+Spalding Grammar School	0.782165605
+William de Ferrers School	0.636942675
+Longfield Academy	0.592356688
+Queen Elizabeth's	0.640764331
+Benfield School	0.582165605
+Warblington School	0.633121019
+St John's School & Sixth Form College - A Catholic Academy	0.659872611
+The Cornelius Vermuyden School	0.624203822
+Chiltern Hills Academy	0.607643312
+Lees Brook Community School	0.587261146
+Arnold Hill Academy	0.658598726
+Friesland School	0.666242038
+Oasis Academy MediaCityUK	0.589808917
+Lostock Hall Academy Trust	0.662420382
+Stanborough School	0.658598726
+North Oxfordshire Academy	0.58343949
+Meridian School	0.614012739
+The Becket School	0.740127389
+The Streetly Academy	0.636942675
+The Marlborough Science Academy	0.61910828
+The Parker E-ACT Academy	0.594904459
+The Ferrers School	0.605095541
+The Clere School	0.657324841
+The Hermitage Academy	0.653503185
+Notley High School and Braintree Sixth Form	0.642038217
+Hind Leys Community College	0.606369427
+Royal Greenwich Trust School Academy	0.645859873
+Joseph Leckie Academy	0.571974522
+All Hallows Catholic College	0.668789809
+Haverstock School	0.598726115
+Saints Peter and Paul Catholic College	0.63566879
+Crown Hills Community College	0.601273885
+St Hilda's Church of England High School	0.666242038
+Winchcombe School	0.614012739
+Chiswick School	0.640764331
+Heathlands School	0.287898089
+Caistor Yarborough Academy	0.557961783
+Don Valley Academy and Performing Arts College	0.603821656
+Aylward Academy	0.537579618
+Longdendale High School	0.640764331
+St Martins School (3-16 Learning Community)	0.608917197
+Kingswood Academy	0.588535032
+Boroughbridge High School	0.612738854
+The Avon Valley School and Performing Arts College	0.606369427
+Crookhorn College	0.626751592
+Cheam High School	0.663694268
+Idsall School	0.663694268
+Friern Barnet School	0.582165605
+Purbrook Park School	0.63566879
+Stanchester Academy	0.614012739
+Dunraven School	0.65477707
+St Cuthbert Mayne School	0.592356688
+Hailsham Community College	0.605095541
+Huntcliff School	0.621656051
+The Petersfield School	0.681528662
+South Holderness Technology College	0.631847134
+Trinity Catholic School	0.617834395
+"Landau Forte Academy, QEMS"	0.605095541
+Stratford Upon Avon School	0.644585987
+The Urswick School - A Church of England Secondary School	0.563057325
+Droylsden Academy	0.582165605
+St Benet Biscop Catholic Academy	0.626751592
+Leasowes High School	0.606369427
+Patcham High School	0.652229299
+Wyedean School and 6th Form Centre	0.642038217
+Huntcliff School	0.597452229
+St Joseph's RC High School and Sports College	0.681528662
+Walton Le Dale High School	0.582165605
+Coombeshead Academy	0.593630573
+Cardinal Wiseman Catholic Technology College	0.610191083
+Cardinal Langley Roman Catholic High School	0.638216561
+Northfield School and Sports College	0.612738854
+Earl Mortimer College and Sixth Form Centre	0.622929936
+Stanley High School	0.596178344
+The Priory School	0.626751592
+Woodlands School	0.667515924
+Quilley School	0.546496815
+Exmouth Community College	0.592356688
+The Arnewood School Academy	0.630573248
+Sir John Talbot's Technology College	0.584713376
+Abbotsfield School	0.58343949
+Nether Stowe School	0.597452229
+Stoke Damerel Community College	0.582165605
+Our Lady's RC High School	0.592356688
+Whitefield School	0.52611465
+Parklands High School	0.67133758
+Essa Academy	0.570700637
+High Weald Academy	0.549044586
+Paulet High School	0.605095541
+Northallerton School & Sixth Form College	0.63566879
+The Astley Cooper School	0.58089172
+Alderman White School	0.634394904
+John Smeaton Academy	0.568152866
+Great Sankey High School	0.662420382
+Kesgrave High School	0.650955414
+Lutterworth College	0.67133758
+Boston Spa School	0.663694268
+Hove Park School and Sixth Form Centre	0.61910828
+The Leigh Academy	0.629299363
+Broadoak School	0.591082803
+Hagley Catholic High School	0.689171975
+Sanders School	0.647133758
+Consett Academy	0.625477707
+Hemsworth Arts and Community Academy	0.559235669
+Holloway School	0.585987261
+Lowton Church of England High School	0.630573248
+The Excel Academy	0.575796178
+Brinsworth Academy	0.612738854
+Wymondham High Academy	0.663694268
+Mildenhall College Academy	0.573248408
+Blessed John Henry Newman Roman Catholic College	0.597452229
+St Ivo School	0.65477707
+St Birinus School 	0.634394904
+St John Fisher Catholic College	0.640764331
+The Charles Dickens School	0.570700637
+"Ninestiles, an Academy"	0.620382166
+Southmoor Academy	0.648407643
+Bramhall High School	0.668789809
+Clayton Hall Business and Language College	0.675159236
+The Dormston School	0.67133758
+Cowes Enterprise College	0.596178344
+St Martin's School Brentwood	0.699363057
+The Grove School	0.592356688
+Oakwood High School	0.615286624
+St Augustine of Canterbury Catholic High School	0.606369427
+Raynes Park High School	0.601273885
+Putteridge High School	0.56433121
+Wheatley Park School	0.629299363
+Walker Technology College	0.552866242
+Park Community School	0.538853503
+Lytham St Annes Technology and Performing Arts College	0.643312102
+The Hemel Hempstead School	0.666242038
+Wilnecote High School	0.606369427
+Charlton School	0.61910828
+Regent High School	0.557961783
+Shavington Academy	0.65477707
+Chipping Sodbury School	0.625477707
+St Joseph's Catholic Academy	0.653503185
+North Chadderton School	0.630573248
+The Hayling College	0.620382166
+The Heath School	0.648407643
+Campion School	0.638216561
+Cardinal Heenan Catholic High School	0.658598726
+Manchester Creative and Media Academy	0.563057325
+The Canterbury Academy	0.56433121
+Clyst Vale Community College	0.645859873
+Oakwood School	0.611464968
+Unity College	0.601273885
+Harborne Academy	0.527388535
+The City of Leicester College	0.605095541
+The Beaconsfield School	0.615286624
+The Kingsway School	0.657324841
+The Misbourne School	0.624203822
+Freebrough Academy	0.601273885
+Cotham School 	0.644585987
+South Shore Academy	0.552866242
+Altwood CofE Secondary School	0.644585987
+Sprowston Community High School	0.629299363
+St Philip Howard Catholic Voluntary Academy	0.643312102
+John Willmott School	0.58089172
+St Francis of Assisi Catholic Technology College	0.650955414
+The Boston Grammar School	0.735031847
+Birchwood High School	0.634394904
+Chislehurst School for Girls	0.636942675
+Kingsdown School	0.601273885
+William Howard School	0.612738854
+St Michael's Church of England High School	0.606369427
+Springwell Community College	0.56433121
+Goole High School	0.584713376
+Birchwood Community High School	0.649681529
+Flegg High School	0.630573248
+Mount St Joseph	0.602547771
+Loreto High School Chorlton	0.603821656
+Mangotsfield School	0.622929936
+"Tanfield School, Specialist College of Science and Engineering"	0.615286624
+"The Chafford School, A Specialist Business and Enterprise College"	0.611464968
+Holy Trinity	0.584713376
+Heart of England School	0.692993631
+"Christ's College, Guildford"	0.620382166
+Winton Community Academy	0.561783439
+Cardinal Griffin Catholic College	0.652229299
+Tavistock College	0.631847134
+Ormiston Bushfield Academy	0.554140127
+Greenacre School 	0.523566879
+Rushcroft Foundation School	0.605095541
+Winifred Holtby Academy	0.615286624
+St George's School A Church of England Academy	0.592356688
+Nightingale Academy	0.514649682
+Chilton Trinity	0.582165605
+Hylands School	0.585987261
+Fir Vale School Academy Trust	0.491719745
+Meole Brace School	0.664968153
+"All Saints' Roman Catholic High School, Rossendale"	0.578343949
+St Andrew's CofE High School for Boys	0.6
+Eggbuckland Community College	0.584713376
+Nottingham University Academy of Science and Technology	0.615286624
+Headlands School	0.606369427
+Wood Green School	0.630573248
+Old Buckenham High School	0.614012739
+"St Peter and St Paul, Catholic Voluntary Academy"	0.624203822
+Tiverton High School	0.584713376
+The Peele Community College	0.582165605
+Saint Aidan's Church of England High School	0.644585987
+De La Salle School	0.687898089
+Armthorpe Academy	0.607643312
+Selby High School Specialist School for the Arts and Science	0.61910828
+Carisbrooke College	0.569426752
+Pakefield School	0.575796178
+Greenwood Academy	0.541401274
+St Andrew's CofE Voluntary Aided High School	0.610191083
+Matthew Moss High School	0.597452229
+Wilmslow High School	0.685350318
+Haslingden High School and Sixth Form	0.657324841
+The Robert Smyth Academy	0.682802548
+Countesthorpe Community College	0.645859873
+Hadlow Rural Community School	0.496815287
+Bradfield School	0.666242038
+Beckfoot Upper Heaton	0.487898089
+The Radclyffe School	0.585987261
+Samuel Whitbread Academy	0.644585987
+Ridgewood High School	0.605095541
+Carterton Community College	0.585987261
+Blythe Bridge High School	0.649681529
+The Samuel Lister Academy	0.532484076
+Mossley Hollins High School	0.678980892
+Royds School	0.574522293
+Staffordshire University Academy	0.58089172
+Bedminster Down School	0.612738854
+Archbishop Sentamu Academy	0.549044586
+Sir John Hunt Community Sports College	0.561783439
+The Open Academy	0.588535032
+Ridgewood School	0.677707006
+Lubavitch House School (Senior Girls)	0.713375796
+Bradford Academy	0.533757962
+Litherland High School	0.615286624
+Trentham High School	0.631847134
+Bourne End Academy	0.574522293
+Sacred Heart Secondary Catholic Voluntary Academy	0.696815287
+Driffield School and Sixth Form	0.630573248
+Great Wyrley High School	0.592356688
+The Oakwood Academy	0.658598726
+The Park Community School	0.636942675
+Oasis Academy Brightstowe	0.542675159
+Twickenham Academy	0.582165605
+Sundorne School and Sports College	0.541401274
+Queen Elizabeth's Grammar School	0.666242038
+The Regis School	0.546496815
+Oasis Academy Lister Park	0.513375796
+Thorp Academy	0.642038217
+Foxford School and Community Arts College	0.532484076
+Saint Pius X Catholic High School A Specialist School in Humanities	0.612738854
+The Coleshill School	0.629299363
+Cockshut Hill Technology College	0.577070064
+Chilwell School	0.63566879
+The Corsham School	0.649681529
+Fulham College Boys' School	0.566878981
+Broadway Academy	0.535031847
+Batley Grammar School	0.705732484
+Lode Heath School	0.628025478
+South Nottinghamshire Academy	0.670063694
+Westhoughton High School	0.656050955
+Buxton Community School	0.657324841
+Chichester High School for Boys	0.606369427
+Ormiston Six Villages Academy	0.615286624
+Saxmundham Free School	0.50955414
+St Thomas More Catholic School Buxton	0.659872611
+Saint Paul's Catholic School	0.628025478
+Ormskirk School	0.675159236
+The City Academy Bristol	0.505732484
+St Katherine's School	0.649681529
+The De Montfort School	0.571974522
+Nunthorpe Academy	0.663694268
+UTC Reading	0.640764331
+Manningtree High School	0.63566879
+Colchester Academy	0.569426752
+Belper School and Sixth Form Centre	0.664968153
+Ecclesfield School	0.614012739
+"Holy Family Catholic High School, Carlton"	0.65477707
+Brentwood County High School	0.640764331
+Bedford High School	0.588535032
+James Calvert Spence College - Acklington Road	0.537579618
+Dixons Allerton Academy	0.52611465
+The Eastbourne Academy	0.554140127
+Wayland Academy Norfolk	0.551592357
+St Gabriel's RC High School	0.658598726
+West Exe School	0.610191083
+Wigmore School	0.624203822
+Oasis Academy Wintringham	0.573248408
+Ormiston Park Academy	0.546496815
+Ossett Academy and Sixth Form College	0.672611465
+Stoke High School - Ormiston Academy	0.563057325
+The Queen Katherine School	0.638216561
+Quintin Kynaston	0.624203822
+Rose Bridge Academy	0.556687898
+The Elmgreen School	0.598726115
+Fitzharrys School 	0.622929936
+Ormiston Endeavour Academy	0.588535032
+Barr's Hill School and Community College	0.556687898
+The Wordsley School Business & Enterprise & Music College	0.61910828
+The Clarendon Academy	0.559235669
+Crestwood College for Business and Enterprise	0.606369427
+Q3 Academy	0.630573248
+Montgomery High School	0.622929936
+King Edward VI Academy	0.524840764
+Elizabeth Woodville School	0.650955414
+Outwood Academy Newbold	0.630573248
+Saint John Bosco College	0.620382166
+Ormiston Bolingbroke Academy	0.610191083
+Christ The King Voluntary Academy	0.625477707
+The Swinton High School	0.61656051
+Moulton School and Science College	0.631847134
+Whitstone	0.601273885
+Barnwood Park Arts College	0.587261146
+Bartley Green School	0.577070064
+Torpoint Community College	0.606369427
+Cheslyn Hay Sport and Community High School	0.638216561
+Lord Lawson of Beamish Academy	0.648407643
+St Luke's Science and Sports College	0.585987261
+Drapers' Academy	0.58089172
+Melior Community Academy	0.555414013
+The George Eliot School	0.605095541
+Harrow Way Community School	0.61656051
+Passmores Academy	0.617834395
+St Francis Xavier's College	0.610191083
+The Sholing Technology College	0.621656051
+North Walsham High School	0.605095541
+Astor College (A Specialist College for the Arts)	0.519745223
+The English Martyrs School and Sixth Form College	0.656050955
+The Victory Academy	0.503184713
+Dover Christ Church Academy	0.524840764
+Redcar Academy - A Community School for the Performing and Visual Arts	0.582165605
+Westborough High School	0.578343949
+Corpus Christi Catholic College	0.575796178
+Burscough Priory Science College	0.657324841
+Esher Church of England High School	0.636942675
+Queensbury Academy	0.622929936
+Cardinal Heenan Catholic High School	0.644585987
+Selston High School	0.592356688
+Colton Hills Community School	0.538853503
+Ullswater Community College	0.593630573
+The Lakes School	0.620382166
+Prospect School	0.557961783
+Heanor Gate Science College	0.634394904
+Magnus Church of England Academy	0.542675159
+Birley Community College	0.58089172
+Laurence Jackson School	0.629299363
+Harrop Fold School	0.582165605
+Trinity Academy	0.61910828
+The Barlow RC High School and Specialist Science College	0.630573248
+Manchester Health Academy	0.537579618
+Westfield School	0.61910828
+Limpsfield Grange School	0.357961783
+Walton High School	0.718471338
+The John Bentley School	0.61910828
+Manor Croft Academy	0.585987261
+Fowey River Academy	0.608917197
+Colmers School and Sixth Form College	0.571974522
+The Deanery Church of England High School and Sixth Form College	0.647133758
+Nottingham University Samworth Academy	0.52866242
+Mount Grace School	0.606369427
+Handsworth Wood Girls' Academy	0.549044586
+Merrill Academy	0.461146497
+Longbenton High School	0.594904459
+Budmouth College	0.628025478
+Abraham Darby Academy	0.591082803
+Mill Chase Academy	0.58089172
+Sewell Park Academy	0.523566879
+Eggar's School	0.678980892
+Poltair School	0.554140127
+Brookfield Academy Trust	0.687898089
+Brownhills School	0.615286624
+St Martin in the Fields High School for Girls	0.631847134
+The Byrchall High School	0.631847134
+St Augustine Academy	0.551592357
+Glossopdale Community College	0.605095541
+Outwood Academy Ormesby	0.523566879
+Hindley High School	0.611464968
+"Greenfield Community College, A Specialist Arts and Science School"	0.615286624
+Cleeve School	0.648407643
+Baines School	0.657324841
+Waverley School	0.602547771
+Holsworthy Community College	0.634394904
+Shenley Academy	0.578343949
+Sittingbourne Community College	0.522292994
+Adeyfield School	0.541401274
+St Peter's Catholic High School and Sixth Form Centre	0.625477707
+Shire Oak Academy	0.643312102
+Rivington and Blackrod High School	0.626751592
+Acton High School	0.537579618
+St Anselm's College	0.747770701
+Heaton Manor School	0.610191083
+St Bernard's Catholic High School	0.628025478
+Sir Harry Smith Community College	0.642038217
+Queensbury School	0.549044586
+Mount St Mary's Catholic High School	0.58089172
+Mortimer Community College	0.634394904
+George Pindar School	0.560509554
+Dame Elizabeth Cadbury Technology College	0.588535032
+The Giles Academy	0.550318471
+Cardinal Wiseman Catholic School and Language College	0.614012739
+Cressex Community School	0.547770701
+The Connaught School	0.56433121
+Matravers School	0.603821656
+Brimsham Green School	0.614012739
+Coopers School	0.626751592
+The Manor Academy	0.594904459
+The Bishop David Brown School	0.560509554
+Corby Business Academy	0.559235669
+Teign School	0.639490446
+Prendergast Ladywell School	0.550318471
+King Arthur's Community School	0.593630573
+Chosen Hill School	0.636942675
+The Nottingham Emmanuel School	0.610191083
+Sir William Ramsay School	0.58343949
+Montsaye Academy	0.592356688
+Castle Hall Academy Trust	0.634394904
+Bucklers Mead Academy	0.603821656
+Cheney School	0.584713376
+St Bernadette Catholic Secondary School	0.621656051
+Light Hall School	0.642038217
+The Grange School	0.605095541
+Nicholas Chamberlaine Technology College	0.605095541
+The Skipton Academy	0.574522293
+Thornhill Community Academy Trust	0.58089172
+Blessed William Howard Catholic School	0.644585987
+Budehaven Community School	0.594904459
+Oasis Academy Lord's Hill	0.531210191
+Hummersknott Academy	0.685350318
+Thamesview School	0.554140127
+Fernhill School	0.597452229
+Blessed Robert Sutton Catholic Sports College	0.612738854
+"All Saints' Academy, Cheltenham"	0.556687898
+Chantry Academy	0.535031847
+Acland Burghley School 	0.638216561
+North Birmingham Academy	0.54522293
+Siddal Moor Sports College	0.569426752
+Moorside High School	0.622929936
+Alfreton Grange Arts College	0.578343949
+Eaton Bank Academy	0.630573248
+St Joseph's Catholic School	0.58343949
+Harrytown Catholic High School	0.608917197
+Castle Manor Academy	0.563057325
+Kingsmead School	0.603821656
+Darton College	0.624203822
+Fulston Manor School	0.589808917
+Abbs Cross Academy and Arts College	0.631847134
+The Elizabethan Academy	0.597452229
+"Trinity Church of England School, Lewisham"	0.628025478
+"St Thomas More Catholic School, Willenhall"	0.614012739
+Barlby High School	0.61910828
+University Technical College Norfolk	0.592356688
+Sheffield Springs Academy	0.550318471
+Brighton Hill Community School	0.633121019
+Bexhill High Academy	0.547770701
+George Stephenson High School	0.636942675
+St Mark's Church of England Academy	0.552866242
+Lincoln UTC	0.647133758
+Chew Valley School	0.656050955
+Priesthorpe School	0.58089172
+Gosford Hill School	0.615286624
+St Cuthbert's Catholic High School	0.598726115
+Lady Hawkins' School	0.642038217
+Hans Price Academy	0.543949045
+Small Heath School	0.592356688
+Midhurst Rother College	0.612738854
+St Michael's Catholic Academy	0.667515924
+Charnwood College (Upper)	0.584713376
+Stretford High School	0.594904459
+Sandwell Academy	0.643312102
+Longdean School	0.602547771
+Easthampstead Park Community School	0.589808917
+St Julie's Catholic High School	0.615286624
+Highcrest Academy	0.554140127
+Test Valley School	0.63566879
+Thomas Deacon Academy	0.573248408
+St Alban's Catholic High School	0.642038217
+Hodge Hill College	0.610191083
+Beaminster School	0.608917197
+Bristol Free School	0.61910828
+Carshalton Boys Sports College	0.615286624
+Broadoak Mathematics and Computing College	0.606369427
+Plantsbrook School	0.657324841
+Easingwold School	0.63566879
+Staindrop School an Academy	0.643312102
+Rye College	0.602547771
+Onslow St Audrey's School	0.550318471
+Spires Academy	0.510828025
+The Thomas Cowley High School	0.574522293
+St Mary's Catholic High School	0.653503185
+DSLV E-ACT Academy	0.542675159
+Bristol Technology and Engineering Academy	0.622929936
+The John of Gaunt School	0.594904459
+Woodham Academy	0.575796178
+Ruskin Community High School	0.569426752
+Saint John Houghton Catholic Voluntary Academy	0.633121019
+St Edmund's Catholic School	0.692993631
+Kelmscott School	0.662420382
+Sandy Upper School	0.694267516
+The Cherwell School	0.718471338
+Lammas School and Sixth Form	0.625477707
+The Priory Ruskin Academy	0.652229299
+Cartmel Priory CofE School	0.696815287
+Glenmoor Academy	0.662420382
+Levenshulme High School	0.628025478
+Silverdale School	0.747770701
+Rushey Mead School	0.698089172
+The Cotswold Academy	0.759235669
+The Sacred Heart Language College	0.775796178
+Chesham Grammar School	0.882802548
+King Ecgbert School	0.751592357
+Batley Girls High School	0.659872611
+Fullhurst Community College	0.620382166
+Ashcroft Technology Academy	0.747770701
+Tapton School	0.736305732
+The Grey Coat Hospital	0.806369427
+St Augustine's CofE High School	0.700636943
+Bay House School	0.678980892
+Meopham School	0.63566879
+The Castle School	0.738853503
+Ripon Grammar School	0.876433121
+JCoSS	0.727388535
+Dixons Kings Academy	0.710828025
+Heston Community School	0.682802548
+Watford Grammar School for Girls	0.817834395
+Watford Grammar School for Boys	0.848407643
+Fearnhill School	0.652229299
+Loreto Grammar School	0.892993631
+West Kirby Grammar School	0.87133758
+The Chauncy School	0.681528662
+St Aidan's Church of England High School 	0.759235669
+Allerton High School	0.72611465
+Coloma Convent Girls' School	0.797452229
+Dame Alice Owen's School	0.899363057
+The London Oratory School	0.828025478
+Loxford School	0.650955414
+Our Lady's Convent Roman Catholic High School	0.682802548
+Lister Community School	0.678980892
+Immanuel College	0.699363057
+The St Leonards Academy	0.63566879
+Canons High School 	0.664968153
+Woking High School	0.707006369
+St James' Catholic High School	0.747770701
+Regents Park Community College	0.653503185
+Bede Academy	0.670063694
+St John Fisher Catholic High School	0.58089172
+St Gregory the Great Catholic School	0.560509554
+Pudsey Grangefield School	0.644585987
+The Burton Borough School	0.643312102
+Millom School	0.61656051
+ Wellfield School	0.568152866
+"All Saints' Church of England School, Weymouth"	0.61910828
+Kings College Guildford	0.573248408
+Overton Grange School	0.647133758
+Baxter College	0.568152866
+Maricourt Catholic High School	0.659872611
+Brighton Aldridge Community Academy	0.536305732
+Haileybury Turnford	0.587261146
+University Academy Warrington	0.551592357
+Larkmead School 	0.549044586
+Maidenhill School	0.598726115
+Liverpool Life Sciences UTC	0.656050955
+Risedale Sports and Community College	0.50955414
+The Taunton Academy	0.527388535
+The Studio School Liverpool	0.626751592
+Wolsingham School	0.629299363
+The Banovallum School	0.589808917
+Abbeyfield School	0.588535032
+Lea Manor High School Performing Arts College	0.554140127
+Bishop Challoner Catholic Federations of Boys School	0.630573248
+Hugh Christie Technology College	0.529936306
+The King Edmund School	0.58343949
+The Oldershaw Academy	0.550318471
+Helena Romanes School and Sixth Form Centre	0.639490446
+Newland School for Girls	0.563057325
+The Ridings Federation Yate International Academy	0.533757962
+The Wey Valley School	0.579617834
+Holgate Academy	0.563057325
+Kingsbury School and Sports College	0.543949045
+Corfe Hills School	0.594904459
+"St John Fisher and Thomas More Roman Catholic High School, Colne"	0.589808917
+The Stockwood Park Academy	0.574522293
+Chace Community School	0.591082803
+Framwellgate School Durham	0.684076433
+Broughton Hall Catholic High School	0.643312102
+The Benjamin Britten High School	0.555414013
+Cove School	0.6
+The Whitby High School	0.605095541
+Tudor Grange Academy Worcester	0.601273885
+Murray Park Community School	0.603821656
+Joseph Swan Academy	0.565605096
+Our Lady and St Chad Catholic Academy	0.569426752
+Manor School Sports College	0.582165605
+Rawlins Academy	0.624203822
+St Cuthbert's RC High School	0.608917197
+Dawlish Community College	0.596178344
+North Bromsgrove High School	0.58343949
+The Archbishop's School	0.575796178
+Alec Hunter Academy	0.602547771
+Cecil Jones Academy	0.56433121
+St Boniface's RC College	0.591082803
+Top Valley Academy	0.554140127
+Manchester Enterprise Academy	0.561783439
+Copley Academy	0.61656051
+Hilbre High School	0.579617834
+Portchester Community School	0.568152866
+Lealands High School	0.585987261
+Kettering Buccleuch Academy	0.551592357
+John Mason School 	0.640764331
+The Hastings Academy	0.522292994
+Pilton Community College	0.607643312
+Orchard School Bristol	0.561783439
+University Academy Kidsgrove	0.541401274
+Farringdon Community Academy	0.625477707
+The Bolsover School	0.634394904
+The Forest School	0.631847134
+The Future Tech Studio	0.566878981
+Churchfields Academy	0.557961783
+The Telford Langley School	0.571974522
+Westfield Academy	0.61656051
+Tottington High School	0.644585987
+Vale of York Academy	0.617834395
+Honiton Community College	0.617834395
+NCHS The Science College	0.547770701
+ Welling School	0.593630573
+Wreake Valley Academy	0.594904459
+Belmont Community School	0.620382166
+Notre Dame Catholic College	0.573248408
+The Ilfracombe Church of England Academy	0.585987261
+Kingsmeadow Community Comprehensive School	0.603821656
+Miltoncross Academy	0.573248408
+Stopsley High School	0.560509554
+Mayfield School	0.582165605
+Coppice Performing Arts School	0.61910828
+Howden School	0.628025478
+Lyndon School	0.6
+Saint Paul's Catholic High School	0.54522293
+The Bicester School	0.579617834
+Haydon Bridge Community High School and Sports College	0.578343949
+Ursuline College	0.543949045
+Laisterdyke Business and Enterprise College	0.50955414
+The Bluecoat Beechdale Academy	0.527388535
+Winterton Community Academy	0.571974522
+London Nautical School	0.649681529
+John Hanson Community School	0.615286624
+Marsden Heights Community College	0.494267516
+The Grange School	0.540127389
+The Radcliffe School	0.582165605
+The Latimer Arts College	0.591082803
+Lyng Hall School	0.495541401
+The North School	0.546496815
+Penketh High School	0.573248408
+Savio Salesian College	0.573248408
+Ashton Community Science College	0.570700637
+Lathom High School : A Technology College	0.608917197
+High Tunstall College of Science	0.612738854
+Whittington Green School	0.585987261
+BRIT School for Performing Arts and Technology	0.648407643
+The Burgate School and Sixth Form	0.678980892
+Yewlands Academy	0.570700637
+St Gregory's Catholic High School	0.638216561
+Stafford Manor High School	0.561783439
+Archbishop Sancroft High School	0.643312102
+Jarrow School	0.555414013
+The Hathaway Academy	0.519745223
+Sir Thomas Boughey High School	0.630573248
+Tabor Academy	0.597452229
+Pedmore Technology College and Community School	0.563057325
+Great Barr School	0.557961783
+Highbury Grove School	0.579617834
+Perryfields High School Specialist Maths and Computing College	0.591082803
+Liverpool College	0.741401274
+Corelli College	0.569426752
+"Joyce Frankland Academy, Newport"	0.643312102
+Gaynes School	0.636942675
+Bourne Community College	0.608917197
+The Axe Valley Community College	0.603821656
+The Gateway Academy	0.547770701
+Wrenn School	0.566878981
+The International School	0.519745223
+ Wellfield High School	0.554140127
+Little Lever School	0.566878981
+Christ The King Catholic High School and Sixth Form Centre	0.634394904
+Waseley Hills High School	0.584713376
+Sturminster Newton High School	0.598726115
+King Richard School	0.538853503
+Rye Hills School	0.61910828
+Derby Moor Community Sports College	0.557961783
+Lakelands Academy	0.610191083
+The Hillcrest School and Community College	0.554140127
+Hastingsbury Business & Enterprise College	0.527388535
+Oasis Academy Brislington	0.556687898
+Buttershaw Business and Enterprise College	0.555414013
+Eckington School	0.634394904
+Erith School	0.575796178
+Stocksbridge High School	0.611464968
+Trinity High School and Sixth Form Centre	0.573248408
+Birkenhead Park School	0.536305732
+Brune Park Community School	0.554140127
+Sarum Academy	0.508280255
+Reading Girls' School	0.557961783
+Stoke Studio College for Construction and Building Excellence	0.491719745
+The Bramcote School	0.625477707
+Walkden High School	0.639490446
+Smith's Wood Sports College	0.574522293
+Westbourne Academy	0.569426752
+William Ellis School 	0.644585987
+Astley Sports College and Community High School	0.532484076
+Felixstowe Academy	0.569426752
+Lincoln Castle Academy	0.541401274
+Beccles Free School	0.542675159
+Westminster City School	0.629299363
+Allerton Grange School	0.555414013
+Conisborough College	0.577070064
+Leeds West Academy	0.556687898
+Archbishop Tenison's School	0.585987261
+Longridge High School A Maths and Computing College	0.630573248
+Enfield Grammar School	0.631847134
+Theale Green School	0.608917197
+King Edward VII Science and Sport College	0.588535032
+ Wellacre Technology Academy	0.614012739
+Nova Hreod Academy	0.622929936
+Newman Catholic School	0.577070064
+Cheshunt School	0.542675159
+The Cumberland School	0.597452229
+Uxbridge High School	0.588535032
+St Anne's Church of England Academy	0.568152866
+Summerhill School	0.624203822
+Discovery Academy	0.515923567
+Tupton Hall School	0.58089172
+St Peter's Academy	0.552866242
+Wetherby High School	0.643312102
+Admiral Lord Nelson School	0.607643312
+Calderstones School	0.588535032
+The Grange School	0.555414013
+Henbury School	0.531210191
+The Dearne Advanced Learning Centre	0.552866242
+Dinnington High School	0.58089172
+Sandwich Technology School	0.552866242
+Hope Academy	0.602547771
+St Matthew's RC High School	0.603821656
+Alder Grange School	0.606369427
+Severn Vale School	0.592356688
+Burnside Business and Enterprise College	0.58089172
+Medina College	0.54522293
+Kenton School	0.561783439
+Downend School	0.574522293
+The Grange School and Sports College	0.594904459
+King's Oak Academy	0.584713376
+Stowmarket High School	0.560509554
+Ryde Academy	0.565605096
+Barnwell School	0.56433121
+Bishopsgarth School	0.50955414
+All Saints Academy Dunstable	0.508280255
+Turton School	0.652229299
+The Wellington Academy	0.569426752
+The Dorcan Academy	0.579617834
+North Durham Academy	0.559235669
+Oasis Academy Immingham	0.542675159
+St Mary's CofE High School	0.552866242
+Strood Academy	0.541401274
+Chiltern Edge Community School	0.560509554
+Forest Hill School 	0.593630573
+Bilton School	0.577070064
+The Mirfield Free Grammar and Sixth Form	0.639490446
+Aldercar High School	0.537579618
+Grindon Hall Christian School	0.680254777
+Castle View School	0.555414013
+Middlewich High School	0.584713376
+"Cardinal Allen Catholic High School, Fleetwood"	0.607643312
+Walderslade Girls' School 	0.577070064
+Sacred Heart Catholic College	0.659872611
+Ringmer Community College	0.554140127
+Aston University Engineering Academy	0.537579618
+Long Stratton High School	0.575796178
+The Market Weighton School	0.626751592
+Lodge Park Academy	0.54522293
+Royds Hall Community School	0.542675159
+Phoenix High School	0.555414013
+Djanogly City Academy	0.514649682
+Bedlingtonshire Community High School	0.512101911
+Kirk Balk Academy	0.6
+Durham Community Business College for Technology and Enterprise	0.549044586
+King Edward VI High School	0.555414013
+The Royal Liberty School	0.582165605
+Cherry Willingham Community School	0.54522293
+North Kesteven School 	0.589808917
+Marlwood School	0.61910828
+The Vyne Community School	0.535031847
+Hillside High School	0.577070064
+Lightcliffe Academy	0.615286624
+Thomas Bennett Community College	0.485350318
+Castle High School and Visual Arts College	0.517197452
+Salford City Academy	0.549044586
+St Thomas Aquinas Catholic School	0.597452229
+Trafalgar School	0.532484076
+Heysham High School Sports College	0.512101911
+Sir Frederic Osborn School	0.550318471
+Robert Blake Science College	0.518471338
+Aylestone Business and Enterprise College	0.556687898
+Ely College	0.574522293
+Preston School Academy	0.634394904
+The Dean Academy	0.570700637
+St Benedict's Catholic High School	0.593630573
+Noel-Baker School	0.515923567
+Almondbury Community School	0.504458599
+Buile Hill Visual Arts College	0.577070064
+Nottingham Academy	0.546496815
+Kingswood Secondary Academy	0.513375796
+Haberdashers' Aske's Knights Academy	0.582165605
+Humphrey Perkins School	0.605095541
+Harewood College	0.518471338
+Hope Valley College	0.652229299
+Huxlow Science College	0.566878981
+Archbishop Beck Catholic Sports College	0.571974522
+The Priory City of Lincoln Academy	0.542675159
+Abraham Guest Academy	0.54522293
+The Thomas Alleyne School	0.56433121
+Moat Community College	0.573248408
+Barclay School	0.52611465
+Folkestone Academy	0.504458599
+Spalding Academy	0.503184713
+Bideford College	0.566878981
+Whitworth Park School and Sixth Form College	0.579617834
+The JCB Academy	0.612738854
+Lawnswood School	0.557961783
+St John Fisher Catholic Comprehensive School	0.481528662
+The High Arcal School	0.563057325
+St Mark's CofE School	0.587261146
+Cowley International College	0.625477707
+Ounsdale High School	0.625477707
+Oakbank School	0.555414013
+The Basildon Upper Academy	0.517197452
+The Costello School	0.625477707
+Broadlands Academy	0.593630573
+Bishop Perowne CofE College	0.568152866
+Longfield Academy of Sport	0.598726115
+Appleton Academy	0.547770701
+The Angmering School	0.589808917
+The Bath Studio School	0.50955414
+Princes Risborough	0.587261146
+The Totteridge Academy	0.555414013
+The Littlehampton Academy	0.570700637
+Oldbury Academy	0.542675159
+The Kimberley School	0.626751592
+Oak Academy	0.508280255
+Samworth Church Academy	0.588535032
+St Margaret's Church of England Academy	0.67133758
+Worle Community School	0.58089172
+Westleigh High School	0.560509554
+Venerable Bede Church of England Academy	0.587261146
+EBOR Academy Filey	0.56433121
+The Blyth Academy	0.517197452
+Lakers School	0.565605096
+Sir Thomas Boteler Church of England High School	0.573248408
+Northumberland CofE Academy	0.510828025
+Stuart Bathurst Catholic High School College of Performing Arts	0.597452229
+Kirkby Stephen Grammar School	0.617834395
+Bower Park Academy	0.560509554
+Downham Market Academy	0.575796178
+Bacon's College	0.621656051
+The Lancaster School	0.537579618
+Bodmin College	0.546496815
+Solway Community Technology College	0.529936306
+Smithdon High School	0.578343949
+Emerson Park Academy	0.601273885
+Endon High School	0.620382166
+Newall Green High School	0.552866242
+St Hild's Church of England Voluntary Aided School	0.575796178
+Trinity Catholic College	0.587261146
+Oasis Academy Hextable	0.478980892
+The Long Eaton School	0.58343949
+Sir Herbert Leon Academy	0.550318471
+The Holly Hall Academy	0.560509554
+West Craven High School	0.522292994
+Smithills School	0.524840764
+Homewood School and Sixth Form Centre	0.537579618
+Granville Sports College	0.594904459
+Central Lancaster High School	0.54522293
+Isambard Community School	0.626751592
+Stephenson Studio School	0.494267516
+Hartshill School	0.566878981
+Holly Lodge Girls' College	0.561783439
+Nailsea School	0.614012739
+Da Vinci Community School	0.510828025
+King's Lynn Academy	0.547770701
+Marine Academy Plymouth	0.518471338
+Queen Elizabeth's Academy	0.501910828
+Haven High Academy	0.519745223
+Harper Green School	0.573248408
+Colne Primet Academy	0.524840764
+St John Fisher Catholic Voluntary Academy	0.589808917
+Sandhill View Academy	0.542675159
+"Seaton Burn College, A Specialist Business and Enterprise School"	0.588535032
+New College Leicester	0.52611465
+Darwen Vale High School	0.589808917
+Causeway School	0.537579618
+City Academy Norwich	0.481528662
+Newsome High School and Sports College	0.513375796
+Treviglas Community College	0.602547771
+Aldworth School	0.598726115
+Hinckley Academy and John Cleveland Sixth Form Centre	0.597452229
+Boldon School	0.611464968
+Fulwood Academy	0.523566879
+St Chads Catholic and Church of England High School	0.571974522
+St Aldhelm's Academy	0.486624204
+Malbank School and Sixth Form College	0.612738854
+Parkfield School	0.6
+Colne Valley High School	0.560509554
+Fleetwood High School	0.543949045
+Shuttleworth College	0.521019108
+Lincoln Christ's Hospital School	0.560509554
+Swanwick Hall School	0.584713376
+"St Joseph's Catholic High School, Business and Enterprise College"	0.58343949
+New Charter Academy	0.532484076
+Harris Church of England Academy	0.549044586
+Wednesfield High Specialist Engineering Academy	0.563057325
+Manor Community Academy	0.571974522
+New College Worcester (NMSS)	0.508280255
+Haughton Academy	0.575796178
+The King's CofE (VA) School	0.566878981
+West Walsall E-ACT Academy	0.485350318
+Weston Favell Academy	0.524840764
+Silverstone UTC	0.575796178
+The Hawthorne's Free School	0.56433121
+The De La Salle Academy	0.508280255
+Hassenbrook Academy	0.524840764
+Royton and Crompton School	0.563057325
+Cranbourne Business and Enterprise College	0.560509554
+Netherhall School	0.532484076
+New Line Learning Academy	0.476433121
+York High School	0.535031847
+Cansfield High School	0.603821656
+Sandown Bay Academy	0.52866242
+East Leake Academy	0.628025478
+All Saints Catholic College	0.575796178
+The Mandeville School	0.522292994
+Saint Peter's Catholic Voluntary Academy	0.566878981
+Hagley Park Academy 	0.549044586
+Hetton School	0.555414013
+Epping St John's Church of England VC School	0.547770701
+The Ripley Academy	0.569426752
+Harwich and Dovercourt High School	0.566878981
+William Lovell Church of England School	0.517197452
+Oasis Academy Isle of Sheppey	0.476433121
+Richmond Park Academy	0.6
+The Business Academy Bexley	0.492993631
+"The Hewett Academy, Norwich"	0.518471338
+Ormiston Ilkeston Enterprise Academy	0.563057325
+Childwall Sports & Science Academy	0.527388535
+Woodlands Academy	0.549044586
+Ashington High School	0.522292994
+Stoke Studio College for Manufacturing and Design Engineering	0.456050955
+Fort Hill Community School	0.560509554
+Heworth Grange Comprehensive School	0.578343949
+Tibshelf Community School	0.615286624
+Lord Grey School	0.538853503
+Aylesford School - Sports College	0.522292994
+Writhlington School	0.584713376
+Brannel School	0.518471338
+Barnsley Academy	0.531210191
+Carr Hill High School and Sixth Form Centre	0.603821656
+Rydens Enterprise School and Sixth Form College	0.560509554
+Bexleyheath Academy	0.542675159
+Ernesford Grange Community Academy	0.549044586
+South Shields School	0.538853503
+The East Manchester Academy	0.518471338
+Studio West	0.538853503
+Thomasson Memorial School	0.275159236
+WMG Academy for Young Engineers	0.577070064
+Graham School	0.518471338
+Ark William Parker Academy	0.538853503
+Thomas Clarkson Academy	0.476433121
+The Sutton Academy	0.570700637
+"Broadgreen International School, A Technology College"	0.531210191
+"Mount Carmel Roman Catholic High School, Hyndburn"	0.527388535
+Kirk Hallam Community Academy	0.582165605
+Gateacre School	0.531210191
+The Honywood Community Science School	0.617834395
+John Port School	0.612738854
+Chaucer School	0.504458599
+The Albion Academy	0.532484076
+The Deanes School	0.518471338
+Hampton Academy	0.54522293
+The Albany School	0.554140127
+Colonel Frank Seely Comprehensive School	0.607643312
+Sir Bernard Lovell Academy	0.578343949
+Workington Academy	0.529936306
+"St Anne's Roman Catholic High School, Stockport"	0.587261146
+Monks' Dyke Tennyson College	0.515923567
+Kettering Science Academy	0.552866242
+The Cavendish School	0.546496815
+Werneth School	0.550318471
+Lordswood Boys' School	0.495541401
+Ashton Park School	0.56433121
+North East Wolverhampton Academy	0.563057325
+Waverley Studio College	0.505732484
+Redbridge Community School	0.513375796
+Thomas Hepburn Community Academy	0.513375796
+The William Bradford Academy	0.535031847
+Bebington High Sports College	0.517197452
+Apollo Studio Academy	0.513375796
+St Mary's Catholic College	0.54522293
+Thornton Grammar School	0.540127389
+Beechwood School	0.550318471
+The Forest High School	0.52611465
+Alsop High School Technology & Applied Learning Specialist College	0.541401274
+Moreton Community School	0.531210191
+Wolstanton High Academy	0.574522293
+Pent Valley Technology College	0.484076433
+Bridge Learning Campus	0.533757962
+Long Field Academy	0.573248408
+Grange Technology College	0.480254777
+Lord Derby Academy	0.532484076
+The Aylesbury Vale Academy	0.500636943
+The Deepings School	0.571974522
+Ormiston Shelfield Community Academy	0.532484076
+The Grange School	0.575796178
+All Saints Church of England Academy	0.492993631
+Knutsford Academy The Studio	0.559235669
+Heritage High School	0.561783439
+The King Alfred School	0.597452229
+Blackpool Aspire Academy	0.515923567
+Willenhall E-ACT Academy	0.52611465
+Rhyddings Business and Enterprise School	0.524840764
+Birches Head Academy	0.529936306
+CTC Kingshurst Academy	0.611464968
+Grace Academy Coventry	0.542675159
+Ormiston Denes Academy	0.453503185
+The Rural Enterprise Academy	0.542675159
+Ernulf Academy	0.514649682
+Stockley Academy	0.551592357
+Frederick Gent School	0.560509554
+Chase High School	0.503184713
+"St Patrick's Catholic College, A Voluntary Catholic Academy"	0.607643312
+Ridgeway High School	0.547770701
+Sir Thomas Wharton Community College	0.569426752
+Ash Hill Academy	0.507006369
+Swadelands School	0.484076433
+South Leeds Academy	0.491719745
+Norden High School and Sports College	0.523566879
+Thorns Community College	0.555414013
+The Telford Priory School	0.533757962
+Energy Coast UTC	0.568152866
+Sedgehill School	0.52611465
+Skipton Girls' High School	0.891719745
+Yavneh College	0.773248408
+Woolwich Polytechnic School	0.668789809
+High School for Girls	0.900636943
+St Cuthbert's High School	0.74522293
+The Thomas Aveling School	0.628025478
+Churchill Community College	0.696815287
+Hall Park Academy	0.680254777
+Selly Park Technology College for Girls	0.696815287
+Yesodey Hatorah Senior Girls School	0.756687898
+Wycombe High School	0.887898089
+St Mary's Catholic High School	0.603821656
+Kesteven and Sleaford High School Selective Academy	0.845859873
+Burnt Mill Academy	0.667515924
+Forest Hall School	0.603821656
+St Gregory's Catholic Science College	0.718471338
+Chadwell Heath Academy	0.737579618
+Newstead Wood School	0.951592357
+St John Plessington Catholic College	0.692993631
+Greenford High School	0.721019108
+Swavesey Village College	0.740127389
+Shipston High School	0.714649682
+JFS	0.806369427
+Hayes School	0.72866242
+Altrincham Grammar School for Girls	0.932484076
+Birkenhead High School Academy	0.750318471
+The Swanage School	0.643312102
+St Olave's and St Saviour's Grammar School	0.957961783
+Sir William Borlase's Grammar School	0.90955414
+Wheelers Lane Technology College	0.670063694
+Orchards Academy	0.617834395
+Melbourn Village College	0.667515924
+Branston Community Academy	0.712101911
+"Gumley House RC Convent School, FCJ"	0.765605096
+Swakeleys School for Girls	0.684076433
+Vyners School	0.743949045
+Aldersley High School	0.644585987
+The St Marylebone CofE School	0.810191083
+Herschel Grammar School	0.885350318
+St Ursula's Convent School	0.755414013
+De La Salle School and Language College	0.638216561
+Higham Lane School	0.746496815
+The Cardinal Vaughan Memorial RC School	0.802547771
+The Ursuline Academy Ilford	0.757961783
+Dartford Grammar School for Girls	0.903184713
+Redden Court School	0.710828025
+Thurstable School Sports College and Sixth Form Centre	0.692993631
+St Mary's Catholic School	0.727388535
+Broughton High School	0.756687898
+Harris Academy South Norwood	0.698089172
+Walbottle Campus	0.573248408
+Sir William Stanier Community School	0.524840764
+Broad Oak Sports College	0.546496815
+North Shore Academy	0.481528662
+St Antony's Catholic College	0.555414013
+UTC Plymouth	0.47388535
+Tong High School	0.485350318
+The John Roan School	0.550318471
+University of Chester CE Academy	0.491719745
+Norton Canes High School	0.485350318
+Hamilton College	0.458598726
+Isle of Wight Studio School	0.496815287
+Stantonbury Campus	0.549044586
+Avon Valley College	0.522292994
+Bath Community Academy	0.524840764
+Berwick Academy	0.546496815
+Chetwynde School	0.626751592
+Swallow Hill Community College	0.486624204
+Chamberlayne College for the Arts	0.508280255
+The Coseley School	0.560509554
+Failsworth School	0.575796178
+Hanham Woods Academy	0.527388535
+The Pingle School	0.52866242
+The Hereford Academy	0.522292994
+UTC Sheffield	0.570700637
+Southlands High School	0.532484076
+Daventry UTC	0.463694268
+Beaufort Co-operative Academy	0.546496815
+The Academy of St Francis of Assisi	0.491719745
+UTC Lancashire	0.470063694
+St Michael's Secondary School	0.551592357
+Skegness Academy	0.439490446
+Exhall Grange School and Science College	0.310828025
+Leeds East Academy	0.450955414
+Haydock High School	0.582165605
+St Edmund Arrowsmith Catholic Centre for Learning (VA)	0.551592357
+Kirkby High School	0.487898089
+Glenburn Sports College	0.523566879
+Rye Studio School	0.507006369
+Walney School	0.523566879
+Academy 360	0.505732484
+The Elstree UTC	0.554140127
+Halewood Academy	0.557961783
+David Young Community Academy	0.487898089
+William Allitt School	0.577070064
+Ellis Guilford School	0.485350318
+Waterhead Academy	0.513375796
+The Holmesdale School	0.522292994
+Fazakerley High School	0.547770701
+Vision Studio School	0.442038217
+City of Derby Academy	0.434394904
+Red House Academy	0.519745223
+Unity City Academy	0.41656051
+Kirkby College	0.505732484
+Discovery School	0.58089172
+Thomas Middlecott Academy	0.453503185
+St Helens College	0.476433121
+Wennington Hall School	0.331210191
+The West Grantham Academy St Hugh's	0.445859873
+Raine's Foundation School	0.52611465
+Clare Mount Specialist Sports College	0.182165605
+Bolton St Catherine's Academy	0.477707006
+The Nuneaton Academy	0.472611465
+Rushden Community College	0.537579618
+The Telford Park School	0.491719745
+St Matthias School	0.478980892
+Lostock College	0.482802548
+The Bemrose School	0.414012739
+The Lindfield School	0.10955414
+John Madejski Academy	0.461146497
+Farnborough Academy	0.515923567
+Hameldon Community College	0.447133758
+Houghton Regis Academy	0.374522293
+The ACE Academy	0.505732484
+Hanson School	0.475159236
+RSA Academy	0.537579618
+Cedar Mount Academy	0.440764331
+The Newark Academy	0.535031847
+Maghull High School	0.559235669
+Darlington School of Maths and Science	0.536305732
+The Baverstock Academy	0.428025478
+Isle of Portland Aldridge Community Academy	0.507006369
+Merchants' Academy	0.494267516
+The Harefield Academy	0.518471338
+UTC Cambridge	0.559235669
+St Dominic's School	0.30955414
+Devon Studio School	0.466242038
+The Voyager Academy	0.428025478
+Netherwood Advanced Learning Centre	0.517197452
+Sunnydown School	0.385987261
+The King's Church of England School	0.513375796
+Hull College	0.440764331
+Enterprise South Liverpool Academy	0.480254777
+Hillsview Academy	0.491719745
+Rosewood School	0.267515924
+Irlam and Cadishead College	0.536305732
+Springwell Special Academy	0.248407643
+St Aidan's Church of England Academy	0.482802548
+Furness Academy	0.508280255
+Sherwood Academy	0.415286624
+The Watford UTC	0.513375796
+Ormiston Maritime Academy	0.475159236
+Futures Community College	0.457324841
+The Kingsway Academy	0.430573248
+Kings Grove School	0.501910828
+Wodensborough Ormiston Academy	0.47133758
+Buckinghamshire UTC	0.485350318
+Marshfields School	0.152866242
+Hartsdown Academy	0.365605096
+Royal School for the Deaf Derby	0.150318471
+"King's Leadership Academy, Liverpool"	0.422929936
+The Mark Way School	0.12866242
+New Horizons Learning Centre	0.210191083
+Woodlands Community College	0.495541401
+Everest Community Academy	0.476433121
+Kingsweston School	0.12611465
+Falconer School	0.248407643
+Bridgemary School	0.463694268
+Woodeaton Manor School	0.378343949
+Corpus Christi Catholic High School	0.487898089
+Saxon Mount School	0.10955414
+The Gainsborough Academy	0.444585987
+Millbrook Academy	0.487898089
+All Saints Catholic High School	0.461146497
+Central Bedfordshire UTC	0.305732484
+Wilson Stuart School	0.092993631
+The Prescot School	0.503184713
+The E-Act Burnham Park Academy	0.443312102
+Thornaby Academy	0.501910828
+Kearsley Academy	0.480254777
+St Ambrose Barlow Catholic College	0.504458599
+Nunnykirk Centre for Dyslexia	0.185987261
+Sandymoor	0.508280255
+Laleham Gap School	0.281528662
+Balby Carr Community Academy	0.462420382
+Gloucester Academy	0.429299363
+Baycroft School	0.118471338
+"Tudor Grange Samworth Academy, A Church of England School"	0.444585987
+Highfield Humanities College	0.487898089
+Park Lane Learning Trust	0.447133758
+The Royal Harbour Academy	0.405095541
+Cloughwood Academy	0.267515924
+Beacon Hill Community School	0.486624204
+Fosse Way School	0.149044586
+Parkside Studio College	0.374522293
+Mexborough Academy	0.461146497
+The Sutton School and Specialist College	0.12866242
+Elutec	0.463694268
+The Bulwell Academy	0.426751592
+Glebe School	0.113375796
+UTC Swindon	0.494267516
+Stephenson Academy	0.198726115
+Sir Charles Kao Utc	0.485350318
+Woodlane High School	0.185987261
+Oasis Academy Oldham	0.442038217
+Winstanley Community College	0.443312102
+The Midland Studio College Hinckley	0.396178344
+Furze Down School	0.086624204
+St Mary's School	0.249681529
+Little Heath School	0.045859873
+Blanche Nevile School	0.198726115
+Brook Green Centre for Learning	0.089171975
+Rumworth School	0.063694268
+Portal House School	0.291719745
+Baskerville School	0.110828025
+Presfield High School and Specialist College	0.12611465
+The Brier School	0.058598726
+"The Jane Lane School, A College for Cognition & Learning"	0.10955414
+Hazel Oak School	0.082802548
+Queensbury School	0.082802548
+Bamburgh School	0.154140127
+Coppice Academy	0.05477707
+Hamilton Lodge School and College for Deaf Children	0.135031847
+Castle Hill High School	0.112101911
+Oakfield High School and College	0.077707006
+Walsall Studio School	0.439490446
+Southern Cross School	0.224203822
+Greenbank School	0.049681529
+Treetops School	0.080254777
+Link Secondary School	0.077707006
+St Hugh's School	0.028025478
+Corley Centre	0.267515924
+The Whitehaven Academy	0.472611465
+Westhaven School	0.118471338
+Bloxwich Academy	0.377070064
+Hednesford Valley High School	0.076433121
+Grange Park School	0.110828025
+Joseph Clarke School	0.082802548
+Fearns Community Sports College	0.438216561
+The Beacon Folkestone	0.044585987
+Dove House School	0.189808917
+Fairmead School	0.042038217
+Oaklands School	0.070063694
+Calthorpe Teaching Academy	0.006369427
+John Chilton School	0.039490446
+Clarendon School	0.103184713
+Mayfield School	0.01656051
+The St Christopher School	0.085350318
+Charlton Park Academy	0.024203822
+The Da Vinci Studio School of Creative Enterprise	0.374522293
+Bower Grove School	0.137579618
+Watermill School	0.01910828
+Langham Oaks	0.143949045
+Billing Brook Special School	0.049681529
+"Littlegreen School, Compton"	0.171974522
+The Ashley School Academy Trust	0.056050955
+Crosby High School	0.103184713
+Samuel Rhodes MLD School	0.057324841
+West Specialist Inclusive Learning Centre	0.047133758
+Braidwood School for the Deaf	0.105732484
+Granta School	0.015286624
+Bank View High School	0.057324841
+Talbot Specialist School	0.010191083
+The Collett School	0.045859873
+Trinity School	0.003821656
+Elms Bank Specialist Arts College	0.036942675
+Slated Row School	0.026751592
+Maplewell Hall School	0.104458599
+Cedar Hall School	0.030573248
+Priory School	0.015286624
+Durham Trinity School & Sports College	0.050955414
+White Spire School	0.05477707
+Pencalenick School	0.038216561
+Osborne School	0.020382166
+The Beech Academy	0.133757962
+Turney Primary and Secondary Special School	0.007643312
+Rivermead School	0.222929936
+Abbey School	0.003821656
+Woodfield School	0.002547771
+Valence School	0.034394904
+Market Field School	0.053503185
+Seven Hills School	0.006369427
+Woodside School	0.058598726
+Oak Grove College	0.044585987
+Severndale Specialist Academy	0.030573248
+Ravenswood School	0.076433121
+St Elizabeth's School	0.008917197
+Brookfields Special School	0.026751592
+Morecambe Road School	0.058598726
+Woodlands School	0.059872611
+Stony Dean School	0.087898089
+Hope School	0.007643312
+Rigby Hall Day Special School	0.020382166
+Woodley School and College	0.029299363
+Arbour Vale School	0.005095541
+Lansbury Bridge School	0.001273885
+Carew Academy	0.034394904
+Hailey Hall School	0.212738854
+Whitefield Schools	0.01656051
+Bensham Manor School	0.056050955
+Selly Oak Trust School	0.09044586
+Grange Academy	0.020382166
+Churchill Park Complex Needs School	0.002547771
+Highshore School	0.017834395
+Exeter Royal Academy for Deaf Education	0.039490446
+Leeds City College	0.398726115
+Stubbin Wood School	0.002547771
+Glenwood School	0.05477707
+Ash Field Academy	0.043312102
+Spa School	0.006369427
+Knightsfield School	0.201273885
+Green Lane Community Special School	0.026751592
+Wightwick Hall School	0.058598726
+The Forest School	0.003821656
+Newbridge Learning Community	0.188535032
+Welcombe Hills School	0.020382166
+Brent Knoll School	0.075159236
+Victoria Education Centre	0.011464968
+Oakwood Academy	0.098089172
+Lydgate School	0.002547771
+Woodlands Meed	0.052229299
+Queen's Croft High School	0.045859873
+Oakley School	0.012738854
+Westfield Arts College	0.028025478
+Millgate School	0.197452229
+Blackfriars School	0.047133758
+Cambridge Park Academy	0.008917197
+Regency High School	0.007643312
+Keyham Lodge School	0.201273885
+Oak Lodge School	0.066242038
+Hebden Green Community School	0.01656051
+Meadowfield School	0.007643312
+Combe Pafford School	0.068789809
+Penn Fields School	0.052229299
+Manor Green College	0.021656051
+Northcott School	0.040764331
+Treloar School	0.063694268
+St Nicholas' School	0.003821656
+Northgate School Arts College	0.105732484
+Stormont House School	0.076433121
+NCG	0.387261146
+Hollywater School	0.01656051
+Belvue School	0.017834395
+Mowbray School	0.012738854
+The Westminster School	0.026751592
+New Campus Basildon Studio School	0.256050955
+Ifield School	0.005095541
+The Fountains High School	0.024203822
+Ravenshall School	0.017834395
+St John's RC School (Essex)	0.005095541
+Riverbank School	0.010191083
+The Park School	0.021656051
+Hope Wood Academy	0.028025478
+Highfield School	0.01656051
+John Jamieson School	0.006369427
+Woolton High School	0.2
+Philip Southcote School	0.048407643
+Parayhouse School	0.002547771
+The Oaks Secondary School	0.044585987
+Garston Manor School	0.021656051
+Oak Lodge School	0.002547771
+West Kirby Residential School	0.257324841
+Birch Wood (Melton Area Special School)	0.043312102
+Southbrook School	0.056050955
+Woodlands	0.015286624
+"Castle School, Cambridge"	0.006369427
+Redwood Park School	0.029299363
+Tottenham UTC	0.378343949
+INSPIRE Free Special School	0.101910828
+Friars Academy	0.045859873
+Robert Owen Academy	0.285350318
+Elmwood School	0.003821656
+Drumbeat School and ASD Service	0.012738854
+Applefields School	0.011464968
+Samuel Cody Specialist Sports College	0.10955414
+Cleaswell Hill School	0.01656051
+Southall School	0.033121019
+Marjorie McClure School	0.003821656
+The Orchard School	0.063694268
+Beaucroft Foundation School	0.005095541
+Westcroft Sport and Vocational College	0.011464968
+Cuckmere House School	0.272611465
+Alfriston School	0.053503185
+Pinewood School	0.002547771
+Carwarden House Community School	0.024203822
+The Walnuts School	0.005095541
+Archers Brook Semh Residential School	0.203821656
+Lakeside School	0.234394904
+St George's School	0.003821656
+Woodfield School	0.034394904
+Grafham Grange School	0.174522293
+St Clare's School	0.034394904
+Lostock Hall Moor Hey School	0.01656051
+Downland School	0.221656051
+Chart Wood School	0.056050955
+St Philip's School	0.039490446
+Fred Nicholson School	0.012738854
+Park Community Academy	0.01910828
+Barbara Priestman Academy	0.094267516
+Woodfield	0.104458599
+Lansdowne School	0.047133758
+Round Oak School and Support Service	0.01910828
+Bradfields Academy	0.011464968
+Southlands School	0.007643312
+The Midland Studio College Nuneaton	0.332484076
+Abbey Hill School and Performing Arts College	0.01656051
+Sir Tom Finney Community High School	0.003821656
+Samuel Laycock School	0.014012739
+Dorothy Goodman School Hinckley	0.015286624
+Swalcliffe Park School Trust	0.211464968
+The Willows School	0.006369427
+The Valley School	0.010191083
+"Cornfield School, Littlehampton"	0.152866242
+South Devon College	0.308280255
+Crowdys Hill School	0.010191083
+Westbury School	0.161783439
+St Anthony's School	0.012738854
+Walton Hall Academy	0.012738854
+Pebble Brook School	0.01910828
+Phoenix College	0.206369427
+Hallmoor School	0.002547771
+Three Ways School	0.014012739
+Wyre Forest School	0.056050955
+Riverside Special School	0.01910828
+Manor High School	0.058598726
+Brooke School	0.020382166
+Belmont School	0.05477707
+Ambergate Sports College	0.038216561
+Thriftwood School	0.005095541
+The Priory School	0.039490446
+Stephenson College	0.196178344
+Sidestrand Hall School	0.007643312
+Pathways Special School	0.175796178
+New Bridge School	0.005095541
+Forest Oak School	0.007643312
+The Gateway School	0.149044586
+Burwood School	0.082802548
+Greenfield Academy	0.127388535
+The Castle School	0
+North West Specialist Inclusive Learning Centre	0.015286624
+St Anthony's School	0.078980892
+Abbey Hill Academy	0.002547771
+The Springfields Academy	0.146496815
+Abbot's Lea School	0.127388535
+Coln House School	0.187261146
+Ellesmere College	0.007643312
+West Lancashire Community High School	0.002547771
+Cambridge School	0.010191083
+Alderman Knight School	0.066242038
+Westlands Academy	0.174522293
+St Nicholas School	0.044585987
+Holgate Meadows School	0.082802548
+Manor Green School	0.003821656
+Kingswode Hoe School	0.021656051
+The Lincoln St Christopher's School	0.012738854
+The Abbey School	0.038216561
+Longcause Community Special School	0.025477707
+Brackenfield Special School	0.007643312
+Croft Community School	0.103184713
+The Polygon School	0.118471338
+New Park School	0.103184713
+Darwen Aldridge Enterprise Studio	0.277707006
+Foxwood Academy	0.012738854
+Marjory Kinnon School	0.003821656
+Culverhill School	0.007643312
+Childwall Abbey School	0.024203822
+Beaumont Hill Academy	0.053503185
+Milton School	0.047133758
+Garratt Park School	0.048407643
+Portland School and Specialist College	0.150318471
+Tor View Specialist Learning Community	0.007643312
+Aegir - A Specialist Academy	0
+Bents Green School	0.001273885
+Melrose School	0.138853503
+The New Rush Hall School	0.115923567
+Rowhill School	0.089171975
+Bradford Studio School	0.32611465
+The Studio School Luton	0.261146497
+Buglawton Hall School	0.05477707
+Brompton Hall School	0.118471338
+Shaftesbury High School	0.015286624
+Elms School	0.003821656
+Hill Top School	0.003821656
+Heritage Park School	0.047133758
+Ratcliffe School	0.21656051
+The Lady Jane Franklin School	0.146496815
+Patcham House Special School	0.121019108
+Epinay Business and Enterprise School	0.007643312
+St Martins School	0.006369427
+The Da Vinci Studio School of Science and Engineering	0.296815287
+Elm Court School	0.070063694
+The Observatory School	0.135031847
+Bristol Gateway School	0.078980892
+High Close School	0.154140127
+Springhallow School	0.010191083
+Pendle Community High School & College	0.017834395
+Southfield School	0.080254777
+Riversides School	0.10955414
+Lincoln The Sincil School	0.072611465
+Manchester Creative Studio	0.32611465
+Swanwick School and Sports College	0.058598726
+Nightingale Community Academy	0.108280255
+Ashley High School	0.029299363
+Beverley School	0.017834395
+Linwood School	0.017834395
+Oakwood School	0.09044586
+Clifford Holroyde Specialist Sen College	0.085350318
+Lindsworth School	0.107006369
+Isebrook SEN Cognition & Learning College	0.003821656
+Sandfield Park School	0.010191083
+Knowle DGE	0.042038217
+St Catherine's School	0.007643312
+Ramsden Hall School	0.160509554
+Alt Bridge School	0.014012739
+Tendring Enterprise Studio School	0.135031847
+Collingwood School & Media Arts College	0.038216561
+Dawn House School	0.094267516
+Brandles School	0.064968153
+New Horizons School	0.171974522
+Maplefields Academy	0.078980892
+The Brookfield School	0.146496815
+The Kingfisher School	0.182165605
+Catcote Academy	0.003821656
+The Cedars Academy	0.040764331
+Chiltern Way Federation	0.12866242
+Derrymount School	0.143949045
+Oak Lodge School	0.020382166
+St John Vianney School	0.044585987
+Elemore Hall School	0.113375796
+The New Bridge Academy	0.100636943
+Bowden House School	0.131210191
+High Well School	0.006369427
+Oak Bank School	0.057324841
+Notton House School	0.020382166
+Kingsmead School	0.121019108
+Greater Manchester Sustainable Engineering UTC	0.256050955
+Meadows School	0.063694268
+Eleanor Smith School	0.07133758
+The Meadows School	0.112101911
+St Luke's School	0.067515924
+Lever Park School	0.09044586
+West Lea School	0.030573248
+Starhurst School	0.124840764
+Batchwood School	0.095541401
+Mount Gilbert School	0.059872611
+Woolston Brook School	0.156687898
+Newfield School	0.12866242
+London South East Colleges	0.208917197
+Tregonwell Academy	0.127388535
+Prince Bishop School	0.099363057
+Kings Norton Girls' School	0.757961783
+Hasmonean High School	0.778343949
+Stroud High School	0.886624204
+Outwood Academy Valley	0.715923567
+Bishop Wordsworth's Grammar School	0.918471338
+Old Swinford Hospital	0.803821656
+Sacred Heart of Mary Girls' School	0.733757962
+Glenthorne High School	0.714649682
+Alexandra Park School	0.729936306
+Four Dwellings Academy	0.620382166
+Debden Park High School	0.699363057
+St George's School	0.814012739
+Pate's Grammar School	0.966878981
+Harris City Academy Crystal Palace	0.759235669
+St Bede's Inter-Church School	0.742675159
+Cranford Community College	0.668789809
+Beis Yaakov High School	0.689171975
+Sarah Bonnell School	0.69044586
+The Axholme Academy	0.657324841
+Aylesbury High School	0.895541401
+Farlingaye High School	0.712101911
+Hatch End High School 	0.678980892
+Malmesbury School	0.738853503
+Baylis Court School	0.670063694
+Rosebery School	0.78089172
+Newlands Girls' School	0.74522293
+Wirral Grammar School for Girls	0.889171975
+Ryedale School	0.685350318
+Kesteven and Grantham Girls' School	0.866242038
+Excelsior Academy	0.56433121
+Twyford Church of England High School	0.766878981
+Heartlands High School	0.624203822
+Seven Kings School	0.749044586
+Turves Green Girls' School	0.650955414
+Kennet School	0.694267516
+Gosforth Academy	0.703184713
+The Morley Academy	0.685350318
+Langley Park School for Boys	0.742675159
+Simon Langton Grammar School for Boys	0.866242038
+Ranelagh School	0.775796178
+Brompton Academy	0.570700637
+Maiden Erlegh School	0.72866242
+Thornleigh Salesian College	0.72611465
+University Academy Holbeach	0.629299363
+Bedford Academy	0.631847134
+Elizabeth Garrett Anderson School	0.686624204
+John Ferneley College	0.686624204
+St Bartholomew's School	0.754140127
+Central Foundation Girls' School	0.685350318
+Fortismere School	0.796178344
+Hugh Baird College	0.212738854
+Loxley Hall School	0.001273885
+Woodlands School	0.156687898
+Lws Academy	0.005095541
+Trinity Academy Newcastle	0.103184713
+Furrowfield School	0.113375796
+Sky College	0.080254777
+Prospect School	0.105732484
+Park View School	0.161783439
+Seabrook College	0.056050955
+Broomhill Bank School	0.080254777
+Hunters Hill Technology College	0.003821656
+Kilgarth School	0.089171975
+New Park School	0.118471338
+Homewood College	0.129936306
+Ian Mikardo School	0.040764331
+Lonsdale School	0.007643312
+Silverdale School	0.103184713
+Trinity School	0.049681529
+Northern House School (Solihull)	0.131210191
+East Durham College	0.064968153
+Windlestone School	0.110828025
+Brookfield School	0.110828025
+Torbay School	0.118471338
+Nene Gate	0.061146497
+"Elmete Wood - BESD SILC (Behaviour, Emotional, Social Difficulties Specialist Learning Centre)"	0.033121019
+Brownhill School	0.007643312
+Atkinson House School	0.053503185
+Meade Hill School	0.053503185
+The Phoenix Academy	0.052229299
+Windlehurst School	0.053503185
+Beckmead School	0.063694268
+Elmwood School	0.026751592
+Middlesbrough College	0.143949045
+Marland School	0.117197452
+Moatbridge School	0.085350318
+Nortonthorpe Hall School	0.058598726
+The Rose School	0.110828025
+The Coppice Spring School	0.118471338
+The Young People's Academy	0.085350318
+Egerton High School	0.056050955
+River House School	0.025477707
+The Harbour School	0.077707006
+Belmont Park School	0.045859873
+Goldwyn School	0.076433121
+Newlands Academy	0.129936306
+Spring Brook School	0.084076433
+Wishmore Cross Academy	0.086624204
+Penkford School	0.050955414
+The Centre School	0.045859873
+Inscape House School	0.049681529
+Newbury College	0.082802548
+Wandle Valley School	0.07133758
+Mount Tamar School	0.03566879
+Adelaide School	0.047133758
+"Talbot House Trust, Newcastle Upon Tyne"	0.056050955
+Reepham High School and College	0.707006369
+La Sainte Union Catholic Secondary School 	0.733757962
+The Ellen Wilkinson School for Girls	0.691719745
+Wolverhampton Girls' High School	0.936305732
+Bourne Grammar School	0.845859873
+Somervale School Specialist Media Arts College	0.668789809
+Gillotts School	0.746496815
+Sutton Coldfield Grammar School for Girls	0.919745223
+Rossington All Saints Academy	0.656050955
+Sacred Heart High School	0.824203822
+Meols Cop High School	0.661146497
+Heath Park 	0.691719745
+Chipping Campden School	0.731210191
+Cottenham Village College	0.672611465
+Highbury Fields School 	0.670063694
+Queen Elizabeth's Grammar Alford - A Selective Academy	0.834394904
+Bonus Pastor Catholic College	0.682802548
+Ormiston Rivers Academy	0.677707006
+"Barking Abbey School, A Specialist Sports and Humanities College"	0.680254777
+Thomas Telford School	0.803821656
+Greenbank High School	0.732484076
+St James' Catholic High School	0.729936306
+Chobham Academy	0.691719745
+Penwortham Girls' High School	0.721019108
+Guildford County School	0.750318471
+Weydon School	0.769426752
+The St Philip Howard Catholic High School	0.717197452
+St Paul's Way Trust School	0.659872611
+Debenham High School	0.750318471
+Prince Henry's High School	0.69044586
+Carre's Grammar School 	0.848407643
+Perry Beeches the Academy	0.686624204
+Thornden School	0.768152866
+Baysgarth School	0.656050955
+Hinde House 3-16 School	0.561783439
+La Retraite Roman Catholic Girls' School	0.701910828
+St Joseph's Catholic High School	0.631847134
+Skinners' Academy	0.643312102
+Chulmleigh Community College	0.713375796
+Portsmouth Academy for Girls	0.677707006
+Ricards Lodge High School 	0.695541401
+Westcliff High School for Girls	0.90955414
+Moulsham High School	0.714649682
+Richard Challoner School	0.747770701
+Sheringham High School	0.72611465
+Colchester Royal Grammar School	0.935031847
+Mullion School	0.695541401
+Bishop Ullathorne Catholic School	0.682802548
+Dormers Wells High School	0.621656051
+Casterton College Rutland	0.698089172
+Highfields School	0.677707006
+Cockburn School	0.630573248
+Dene Community School	0.622929936
+King Edward VI Five Ways School	0.937579618
+Didcot Girls' School 	0.705732484
+St Anne's Catholic School	0.738853503
+"The Royal Grammar School, High Wycombe"	0.882802548
+Chelsea Academy	0.700636943
+Bishop Ramsey Church of England School	0.752866242
+Altrincham Grammar School for Boys	0.907006369
+Sale Grammar School	0.886624204
+Sir Christopher Hatton Academy	0.677707006
+Swanlea School	0.640764331
+Beaumont School	0.755414013
+Uplands Community College	0.698089172
+Hewens College	0.63566879
+Diss High School	0.701910828
+Christ's College Finchley	0.691719745
+Maidstone Grammar School for Girls	0.858598726
+Northgate High School	0.684076433
+Saint Martin's Catholic Voluntary Academy	0.732484076
+Queen Elizabeth's Girls' School	0.732484076
+Penryn College	0.670063694
+King Edward VI Camp Hill School for Girls	0.954140127
+Belle Vue Girls' School	0.601273885
+London Academy	0.629299363
+Grays Convent High School	0.692993631
+Colyton Grammar School	0.935031847
+Woodkirk Academy	0.719745223
+The Thomas Hardye School	0.70955414
+Royal Latin School	0.901910828
+Etone College	0.681528662
+Cliff Park - Ormiston Academy	0.611464968
+Lawrence Sheriff School	0.908280255
+Sir Henry Floyd Grammar School	0.881528662
+Northampton Academy	0.621656051
+Whitburn Church of England Academy	0.749044586
+Claremont High School	0.713375796
+The Sydney Russell School 	0.676433121
+"St Mary's Catholic High School, A Catholic Voluntary Academy"	0.755414013
+Winton Arts and Media College	0.657324841
+Standish Community High School	0.742675159
+The Latymer School	0.942675159
+St Peter's Church of England Aided School	0.723566879
+Lavington School	0.729936306
+Campion School	0.636942675
+Cullompton Community College	0.663694268
+Rutlish School 	0.70955414
+Highworth Grammar School	0.867515924
+Elthorne Park High School	0.718471338

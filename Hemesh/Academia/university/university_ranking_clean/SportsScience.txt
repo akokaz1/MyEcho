@@ -1,0 +1,85 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+84	The University of Edinburgh	438	4.18	2.88	86	100.0
+83	Loughborough University	423	4.31	3.24	80	99.9
+82	University of Bath	437	4.21	3.37	76	99.5
+81	University of Exeter	422	4.44	3.23	75	99.5
+80	University of Birmingham	399	4.14	3.44	82	99.4
+79	Durham University	425	4.51	2.90	73	98.3
+78	University of Surrey	403	4.26	3.18	N/A	96.6
+77	University of Leeds	389	4.52	3.52	61	96.0
+76	Newcastle University	N/A	4.21	3.40	N/A	95.8
+75	University of Glasgow	504	4.01	N/A	75	95.7
+74	University of Portsmouth	368	4.5	2.54	73	95.0
+73	University of East Anglia (UEA)	417	4.21	2.83	61	94.9
+72	University of Kent	362	3.95	2.60	75	94.3
+71	Bangor University	365	4.29	3.25	64	94.2
+70	University of Dundee	N/A	3.86	3.50	N/A	94.2
+69	The University of Nottingham	366	4.06	3.22	N/A	94.1
+68	Swansea University	324	3.97	2.91	76	94.0
+67	Middlesex University	330	3.99	2.75	81	93.8
+66	Brunel University London	378	3.98	3.16	62	93.8
+65	Liverpool John Moores University	368	4.13	3.57	59	93.6
+64	University of Salford	368	4.25	2.63	70	93.3
+63	University of Aberdeen	425	4.07	3.11	51	93.3
+62	University of Stirling	378	4.09	2.81	59	93.0
+61	University of Brighton	351	4.1	3.00	67	92.7
+60	Cardiff Metropolitan University	355	4.14	3.25	64	92.6
+59	University of Huddersfield	338	4.15	N/A	85	92.2
+58	Coventry University	311	4.23	3.14	70	92.2
+57	University of Chester	318	4.3	2.26	71	92.0
+56	Ulster University	351	4.13	2.71	57	91.8
+55	University of Strathclyde	N/A	3.94	2.80	N/A	91.7
+54	University of Hull	379	4.19	2.36	57	91.7
+53	University of Lincoln	363	3.99	2.49	64	91.6
+52	Nottingham Trent University	338	4.26	2.30	63	91.4
+51	University of Essex	339	3.89	2.64	62	91.4
+50	Robert Gordon University	385	4.41	N/A	67	91.4
+49	Bournemouth University	320	3.94	3.13	66	91.0
+48	Leeds Beckett University	339	4.07	2.72	62	90.9
+47	Manchester Metropolitan University	316	4.33	2.88	60	90.8
+46	University of Worcester	331	4.17	2.24	66	90.7
+45	Northumbria University	384	4.26	2.28	54	90.6
+44	University of Chichester	311	4.22	2.67	61	90.4
+43	University of Roehampton	285	3.87	2.85	68	90.3
+42	York St John University	297	3.95	2.24	72	90.0
+41	Oxford Brookes University	323	4.21	2.96	58	89.9
+40	University of the West of England	N/A	3.65	3.06	64	89.9
+39	St Mary's University, Twickenham	306	4.12	2.23	68	89.8
+38	University of Gloucestershire	363	4.05	2.61	53	89.5
+37	University of Bedfordshire	271	4.23	2.41	68	89.5
+36	Staffordshire University	289	4.28	2.74	57	89.5
+35	Wrexham Glyndwr University	255	4.55	1.78	68	89.4
+34	University of Central Lancashire	335	4.29	2.34	55	89.3
+33	University of Hertfordshire	314	3.97	N/A	76	89.2
+32	Sheffield Hallam University	329	4.0	2.75	56	89.1
+31	Abertay University	303	3.93	2.53	62	88.9
+30	Kingston University	282	4.58	2.82	54	88.7
+29	University of Greenwich	335	3.94	2.28	56	88.5
+28	University of Derby	308	4.26	2.09	54	88.5
+27	The University of Northampton	283	3.9	2.14	60	88.2
+26	Canterbury Christ Church University	287	4.27	2.75	51	88.2
+25	University of South Wales	311	4.06	2.83	52	88.1
+24	The University of Winchester	272	4.06	1.85	65	88.1
+23	Edge Hill University	362	4.08	2.48	45	88.1
+22	University of Bradford	365	4.06	N/A	N/A	88.0
+21	University of Bolton	301	4.03	N/A	71	88.0
+20	University of the West of Scotland	339	3.93	2.24	53	88.0
+19	Newman University	314	4.3	1.98	53	88.0
+18	University of Cumbria	264	4.18	2.14	66	88.0
+17	Southampton Solent University	312	4.44	1.38	60	87.8
+16	Edinburgh Napier University	332	3.91	2.65	51	87.7
+15	Teesside University	310	4.08	2.77	52	87.6
+14	Aberystwyth University	299	4.03	2.66	46	87.5
+13	Leeds Trinity University	312	4.3	1.80	56	87.5
+12	University of East London	296	3.68	3.05	56	87.4
+11	Liverpool Hope University	311	4.55	1.94	42	87.2
+10	London South Bank University	212	4.13	2.87	55	86.9
+9	University of St Mark and St John	309	3.93	N/A	61	86.2
+8	University of Wales Trinity Saint David	269	4.42	N/A	60	86.1
+7	Plymouth University	N/A	4.24	2.58	42	86.1
+6	University of Sunderland	301	4.09	1.96	51	86.1
+5	Bishop Grosseteste University	256	4.0	N/A	68	85.8
+4	Anglia Ruskin University	281	4.05	N/A	60	85.4
+3	University Campus Suffolk	286	4.04	N/A	48	83.3
+2	Buckinghamshire New University	246	3.92	1.72	50	82.8
+1	London Metropolitan University	249	3.9	N/A	54	82.7

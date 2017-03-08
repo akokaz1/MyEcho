@@ -1,0 +1,6 @@
+The file sin this folder were collected form the website:
+https://www.compare-school-performance.service.gov.uk/schools-by-type?step=phase&geographic=all&region=0&phase=secondary&for=Performance&basedon=Overall+performance&show=All+pupils&&schoolTypeFilter=allSchools&dataSetFilter=prov&page=20
+
+We will be collected the school name and the 'Attainment 8 score' 
+What is 'Attainment 8 score':
+Schools get a score based on how well pupils have performed in up to 8 qualifications, which include English, maths, 3 English Baccalaureate qualifications including sciences, computer science, history, geography and languages, and 3 other additional approved qualifications.

@@ -1,0 +1,14 @@
+1	1	University of Cambridge	538	4.71	3.20	65	100.0
+2	2	Bangor University	417	4.72	3.13	85	97.2
+3	3	Cardiff University	399	4.42	3.21	80	94.5
+4	4	University of Glasgow	 	4.49	3.19	65	93.8
+5	8	Queen's University, Belfast	353	4.55	3.23	60	92.5
+6	5	University of Wales Trinity Saint David	 	4.33	2.85	 	91.7
+7	6	University of Oxford	 	4.18	3.07	 	91.1
+8	9	Swansea University	 	4.25	2.90	80	91.0
+9	-	University of the Highlands and Islands	 	4.25	2.83	70	90.9
+10	7	Aberystwyth University	387	4.36	2.56	85	90.7
+11	11	University of Liverpool	 	4.57	3.07	45	89.2
+12	10	The University of Edinburgh	 	3.93	2.96	 	87.1
+13	12	University of Aberdeen	 	4.05	2.71	 	85.8
+14	13	Ulster University	307	4.56	2.86	35	84.1

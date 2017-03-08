@@ -1,0 +1,12 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+11	Cardiff University	434	4.33	3.42	100	100.0
+10	Aston University	416	4.69	3.37	98	99.7
+9	Ulster University	420	4.64	3.24	98	99.5
+8	The University of Manchester	437	4.18	3.12	98	98.6
+7	Glasgow Caledonian University	466	4.09	3.11	100	98.6
+6	The University of Sheffield	377	4.4	3.51	90	96.4
+5	City University London	361	4.39	3.06	96	95.7
+4	University of Bradford	361	4.16	3.22	96	95.4
+3	Plymouth University	339	4.44	2.58	100	94.4
+2	Anglia Ruskin University	273	4.48	2.92	94	92.0
+1	University of Liverpool	355	3.85	3.09	80	91.2

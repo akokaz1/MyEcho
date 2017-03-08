@@ -1,0 +1,8 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+7	University of Cambridge	573	4.0	3.18	97	100.0
+6	The University of Edinburgh	555	3.96	3.13	97	99.3
+5	University of Glasgow	534	4.04	3.37	94	99.2
+4	University of Liverpool	450	3.89	3.23	98	96.5
+3	The University of Nottingham	465	4.41	3.12	95	96.5
+2	Royal Veterinary College	496	4.03	3.11	93	95.9
+1	University of Bristol	503	4.05	3.21	89	94.8

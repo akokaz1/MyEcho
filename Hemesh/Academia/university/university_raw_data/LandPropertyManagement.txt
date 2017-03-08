@@ -1,0 +1,13 @@
+1	1	University of Reading	393	4.03	3.22	95	100.0
+2	-	University of Aberdeen	 	3.92	3.23	 	97.6
+3	6	University of the West of England	 	4.38	2.71	 	97.4
+4	5	Ulster University	291	4.31	2.94	95	97.0
+5	3	Oxford Brookes University	333	4.10	2.89	 	96.6
+6	4	Sheffield Hallam University	275	4.28	3.13	90	95.2
+7	8	Northumbria University	 	4.11	2.52	 	94.7
+8	9	Nottingham Trent University	296	4.12	2.34	90	94.1
+9	7	Birmingham City University	 	4.08	2.66	80	93.8
+10	11	London South Bank University	 	4.15	1.83	 	93.2
+11	14	University of Bolton	 	3.88	1.38	 	90.6
+12	13	University of Greenwich	 	4.12	2.20	50	89.6
+13	10	University of Westminster	275	3.77	 	70	89.0

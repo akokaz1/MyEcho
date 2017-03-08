@@ -1,0 +1,7 @@
+The 'Average Point Score' in 6th-college ranking file has the following meaning:
+
+These figures tell you the average grade and average points that students achieved in their academic qualifications. 
+We give a points value to all qualifications so you can compare qualifications of a different level, size and grading 
+system. We base the number of points on the challenge and size of a qualification.
+
+The higer the score the better

@@ -1,0 +1,40 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+39	University of Cambridge	534	4.26	3.12	85	100.0
+38	University of Oxford	530	4.17	3.02	80	98.4
+37	Durham University	486	4.28	3.34	80	98.2
+36	University of St Andrews	487	4.49	2.93	85	98.1
+35	The University of Edinburgh	416	4.29	3.09	85	96.1
+34	University of Exeter	452	4.6	3.01	70	95.3
+33	University of Bristol	440	4.02	2.85	80	94.2
+32	Lancaster University	454	3.9	3.15	75	94.1
+31	The University of Nottingham	388	4.21	3.01	80	93.8
+30	University of Birmingham	390	4.41	3.26	75	93.3
+29	The University of Sheffield	379	4.05	2.93	80	91.5
+28	University of Aberdeen	N/A	4.13	2.88	70	90.7
+27	University of Leeds	388	4.32	3.15	60	90.3
+26	King's College London	397	4.18	3.08	65	90.2
+25	Cardiff University	358	4.02	3.06	75	90.2
+24	University of Glasgow	N/A	4.43	2.56	65	89.0
+23	University of the Highlands and Islands	N/A	4.44	N/A	85	88.4
+22	The University of Manchester	370	4.14	2.97	60	88.1
+21	University of Kent	308	4.2	3.11	60	86.9
+20	University of Stirling	407	4.1	3.00	50	86.9
+19	University of Chester	291	4.51	2.35	70	86.4
+18	Liverpool Hope University	295	4.46	2.37	65	85.9
+17	University of Roehampton	307	4.39	2.47	60	85.8
+16	The School of Oriental and African Studies, University of London	378	4.0	3.04	50	85.6
+15	The University of Winchester	288	4.18	2.33	65	84.9
+14	University of Gloucestershire	340	4.43	2.21	55	83.7
+13	University of Cumbria	N/A	4.33	N/A	70	83.6
+12	University of Wales Trinity Saint David	262	4.13	2.64	55	82.8
+11	Canterbury Christ Church University	239	4.13	2.52	60	81.9
+10	York St John University	290	4.33	2.07	55	81.0
+9	Bath Spa University	331	4.59	2.15	45	80.8
+8	Queen's University, Belfast	357	3.94	N/A	60	80.7
+7	St Mary's University, Twickenham	268	4.25	2.20	55	80.5
+6	Newman University	273	4.32	1.79	55	79.1
+5	University of Hull	N/A	4.07	2.58	40	78.9
+4	University of Chichester	259	4.48	N/A	50	77.7
+3	University of South Wales	288	4.11	N/A	50	77.0
+2	Bishop Grosseteste University	295	3.62	N/A	N/A	75.3
+1	Leeds Trinity University	247	3.83	1.99	40	75.2

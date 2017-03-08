@@ -1,0 +1,39 @@
+1	1	University of Surrey	436	4.22	3.37	95	100.0
+2	7	Queen's University, Belfast	384	4.31	3.26	90	97.1
+3	3	University of Leeds	435	4.24	3.06	80	96.7
+4	2	King's College London	442	3.76	3.33	85	96.5
+5	4	The University of Nottingham	374	4.01	3.12	90	94.2
+6	5	Coventry University	373	4.47	3.14	90	93.8
+7	9	Newcastle University	403	3.67	2.84	85	93.1
+8	6	University of Reading	383	3.93	3.24	75	92.4
+9	10	University of Hertfordshire	336	4.06	2.41	95	90.9
+10	11	Robert Gordon University	429	4.47	2.85	60	90.3
+11	17	University of Lincoln	 	3.82	3.07	75	89.1
+12	18	Bournemouth University	325	4.18	2.56	80	86.5
+13	13	Harper Adams University	288	3.92	2.66	90	85.8
+14	12	University of Chester	318	3.79	2.29	80	85.8
+15	26	Leeds Beckett University	315	4.39	2.72	70	85.8
+16	15	Queen Margaret University	384	3.95	2.41	65	85.4
+17	16	Plymouth University	349	4.25	2.60	55	84.9
+18	20	University of Central Lancashire	375	4.31	2.63	50	84.5
+19	31	Northumbria University	346	4.24	3.12	50	83.9
+20	21	University of Worcester	286	4.64	2.24	 	83.8
+21	33	Kingston University	 	4.85	2.82	50	83.7
+22	14	Sheffield Hallam University	299	4.20	2.81	70	83.6
+23	23	University of Roehampton	263	3.93	2.85	75	83.3
+24	24	Manchester Metropolitan University	342	3.51	2.88	60	82.5
+25	38	London South Bank University	 	3.87	2.87	45	82.0
+26	28	University of Westminster	287	4.12	2.75	55	81.1
+27	19	Oxford Brookes University	296	3.62	2.96	65	80.6
+28	27	University of Greenwich	 	3.72	2.70	50	80.2
+29	22	Liverpool John Moores University	342	4.33	 	60	80.2
+30	29	Teesside University	296	3.92	 	80	80.1
+31	-	Liverpool Hope University	341	4.33	 	55	79.2
+32	32	London Metropolitan University	266	3.86	2.57	65	78.9
+33	35	Cardiff Metropolitan University	291	4.16	 	65	77.6
+34	30	Bath Spa University	309	4.36	 	55	77.4
+35	34	Royal Agricultural University	 	3.71	1.40	 	76.5
+36	39	University of Huddersfield	301	4.09	 	55	75.9
+37	25	Leeds Trinity University	260	4.32	 	60	75.4
+38	37	St Mary's University, Twickenham	274	4.06	 	 	74.2
+39	40	University Campus Suffolk	312	4.22	 	40	74.1
