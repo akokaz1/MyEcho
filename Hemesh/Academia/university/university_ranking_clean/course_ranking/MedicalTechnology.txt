@@ -1,0 +1,30 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+29	Bangor University	437	4.24	3.29	100	100.0
+28	Swansea University	378	4.38	3.49	100	98.7
+27	University of Strathclyde	461	3.37	3.28	94	98.5
+26	University of Surrey	N/A	4.26	3.37	N/A	98.5
+25	University of Exeter	393	4.24	3.12	98	98.0
+24	University of Leeds	408	4.15	3.27	96	97.8
+23	Glasgow Caledonian University	423	4.11	3.11	96	97.2
+22	Cardiff University	369	3.77	3.42	100	96.9
+21	Robert Gordon University	431	4.64	N/A	94	95.9
+20	University of Bradford	385	4.18	3.22	94	95.8
+19	University of Dundee	N/A	3.65	3.31	N/A	95.7
+18	University of Liverpool	336	4.12	3.09	100	95.6
+17	City University London	326	4.66	3.06	92	94.1
+16	Ulster University	353	4.24	3.24	84	93.9
+15	University of Hull	N/A	3.93	2.82	N/A	93.8
+14	University of Derby	357	4.54	N/A	98	93.7
+13	Sheffield Hallam University	338	4.19	2.81	98	93.6
+12	University of the West of England	321	4.0	3.06	98	93.4
+11	Teesside University	332	4.18	2.77	98	93.2
+10	University of Cumbria	350	4.17	2.50	98	93.0
+9	University of Salford	373	3.99	2.63	92	92.9
+8	University of Hertfordshire	337	4.11	2.99	92	92.7
+7	Birmingham City University	346	3.99	N/A	98	92.2
+6	University Campus Suffolk	337	4.19	N/A	96	91.9
+5	University of Portsmouth	328	4.31	N/A	94	91.4
+4	Kingston University and St George's, University of London	313	4.27	2.82	90	91.2
+3	Queen Margaret University	373	4.05	2.41	84	90.7
+2	Canterbury Christ Church University	280	4.25	N/A	96	89.9
+1	Manchester Metropolitan University	364	4.17	2.88	60	87.6

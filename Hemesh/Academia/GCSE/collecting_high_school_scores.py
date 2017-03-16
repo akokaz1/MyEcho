@@ -62,7 +62,7 @@ school1 = pd.DataFrame(x_scaled)
 df.drop('SchoolScore', inplace=True, axis=1)
 result = pd.concat([df, school1], axis=1)
 
-result.to_csv('schoolranking.csv', index=False)
+result.to_csv('schoolranking.csv', index=False) # note this file is then moved into school_ranking_clean_data
 
 
 

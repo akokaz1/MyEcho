@@ -1,0 +1,17 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+16	University of Cambridge	586	3.8	3.02	85	100.0
+15	University of Oxford	537	3.6	3.07	80	94.3
+14	University of Hull	N/A	4.34	2.80	N/A	90.2
+13	The University of Edinburgh	503	4.09	2.91	55	88.8
+12	The University of Nottingham	396	3.95	2.75	75	88.4
+11	University of Leeds	414	4.04	2.91	65	87.1
+10	Newcastle University	N/A	3.74	3.04	N/A	86.7
+9	The University of Manchester	388	4.08	3.16	55	86.3
+8	The School of Oriental and African Studies, University of London	430	4.04	2.78	60	85.9
+7	University of Chester	N/A	4.23	2.08	N/A	83.6
+6	The University of Sheffield	378	4.16	2.77	55	82.0
+5	University of Westminster	N/A	3.87	2.70	N/A	79.9
+4	Oxford Brookes University	379	3.54	N/A	50	71.7
+3	University of Central Lancashire	299	3.95	N/A	45	69.7
+2	Nottingham Trent University	258	4.03	N/A	N/A	69.2
+1	University of Wales Trinity Saint David	297	3.93	N/A	35	67.0

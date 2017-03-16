@@ -1,0 +1,41 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+40	University of Cambridge	629	3.93	3.48	96	100.0
+39	Imperial College London	596	4.23	3.34	88	97.9
+38	University of Bristol	529	4.11	3.3	92	95.9
+37	University of Bath	521	4.5	3.08	90	95.8
+36	University of Southampton	467	4.01	3.23	94	94.0
+35	Loughborough University	428	4.04	3.08	90	91.3
+34	University of Surrey	470	4.23	2.98	80	90.4
+33	University of Leeds	430	4.43	3.14	78	90.3
+32	The University of Nottingham	401	4.19	3.16	84	89.8
+31	University of Glasgow	479	3.63	3.25	80	89.6
+30	Swansea University	338	4.12	3.29	90	89.3
+29	The University of Sheffield	414	3.77	3.11	86	88.6
+28	University of Strathclyde	461	3.86	3.03	72	87.3
+27	University of Leicester	359	3.63	2.99	86	86.3
+26	The University of Manchester	439	3.86	3.11	70	86.1
+25	University of Liverpool	383	4.03	3.14	74	85.9
+24	Aston University	368	3.94	2.83	84	85.9
+23	Queen's University, Belfast	389	4.19	2.99	66	85.3
+22	University of Hull	N/A	4.06	2.82	N/A	85.0
+21	Queen Mary, University of London	371	3.95	3.29	64	83.9
+20	Brunel University London	395	3.98	2.72	66	83.3
+19	Coventry University	313	4.18	2.62	76	82.3
+18	University of Central Lancashire	N/A	4.0	2.63	N/A	81.7
+17	City University London	353	4.29	2.85	58	81.2
+16	University of the West of England	339	3.71	2.85	74	81.1
+15	Teesside University	341	4.07	2.63	N/A	80.8
+14	University of Hertfordshire	307	3.71	2.52	74	80.6
+13	University of Derby	N/A	4.12	1.67	N/A	80.3
+12	University of the West of Scotland	334	4.43	2.48	62	80.2
+11	University of Portsmouth	294	4.16	2.46	66	79.1
+10	Sheffield Hallam University	290	3.96	2.55	62	78.6
+9	Manchester Metropolitan University	N/A	4.13	2.69	52	78.4
+8	University of Wales Trinity Saint David	N/A	3.79	1.75	N/A	78.2
+7	University of Salford	322	3.63	2.49	70	77.6
+6	University of South Wales	311	3.79	2.47	68	77.4
+5	Bournemouth University	N/A	3.38	2.31	N/A	76.9
+4	Staffordshire University	218	4.06	2.26	74	76.8
+3	University of Brighton	363	3.71	2.67	52	76.1
+2	Plymouth University	243	3.89	2.72	50	73.8
+1	Kingston University	294	3.75	2.32	52	72.7

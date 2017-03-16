@@ -1,0 +1,80 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+79	University of Oxford	577	4.4	2.92	81	100.0
+78	Loughborough University	468	4.15	3.08	72	94.1
+77	Brunel University London	369	4.22	2.90	82	92.9
+76	University College London	447	4.64	2.92	57	92.5
+75	Newcastle University	464	4.45	3.03	57	92.5
+74	The University of Edinburgh	470	3.84	3.07	66	91.8
+73	University of Leeds	418	3.98	3.06	67	91.1
+72	Goldsmiths, University of London	435	4.16	2.83	61	91.1
+71	Lancaster University	421	4.11	3.10	60	91.1
+70	Heriot-Watt University	393	4.21	2.70	70	90.9
+69	University of Reading	371	3.86	3.12	74	90.8
+68	University of Kent	390	3.96	3.20	66	90.6
+67	University of Southampton	378	4.17	2.97	63	89.9
+66	Kingston University	403	4.2	2.93	65	89.8
+65	Manchester Metropolitan University	435	4.06	2.74	60	89.2
+64	Northumbria University	411	4.23	2.78	60	89.1
+63	Robert Gordon University	378	4.2	2.25	66	88.6
+62	Nottingham Trent University	361	4.13	2.59	71	88.4
+61	Coventry University	354	4.02	2.98	64	88.1
+60	De Montfort University	322	4.17	2.80	71	88.1
+59	Falmouth University	332	4.23	1.94	78	88.0
+58	Edge Hill University	N/A	3.98	N/A	83	87.8
+57	University of Lincoln	348	4.19	2.72	65	87.6
+56	University of Dundee	374	4.06	3.02	50	87.3
+55	University of the Arts, London	325	3.91	3.12	58	87.2
+54	University of the West of England	360	4.08	2.88	59	87.2
+53	Norwich University of the Arts	356	4.24	2.69	61	87.1
+52	University of Huddersfield	349	4.23	2.54	64	87.1
+51	University of Westminster	371	3.91	3.36	52	86.8
+50	University of Wales Trinity Saint David	318	4.03	2.94	55	86.4
+49	Bournemouth University	313	3.72	3.00	68	86.4
+48	Ulster University	310	4.2	3.24	49	86.4
+47	Middlesex University	326	4.12	2.98	58	86.3
+46	University of Brighton	332	4.16	2.95	55	85.9
+45	Bath Spa University	354	4.09	2.49	55	85.6
+44	Edinburgh Napier University	383	4.23	N/A	62	85.5
+43	Sheffield Hallam University	307	4.16	3.22	53	85.4
+42	University of Hertfordshire	303	4.21	2.55	61	85.3
+41	The University of Winchester	264	4.62	N/A	74	85.3
+40	Arts University Bournemouth	313	4.13	2.30	64	85.1
+39	Anglia Ruskin University	322	4.35	2.42	53	85.0
+38	Oxford Brookes University	317	4.4	2.37	51	84.7
+37	Birmingham City University	352	3.9	2.88	50	84.5
+36	University of South Wales	319	3.85	2.94	57	84.5
+35	University of Derby	344	4.26	2.29	51	84.4
+34	University of Greenwich	376	3.84	2.01	56	84.3
+33	Abertay University	382	3.88	N/A	61	84.2
+32	The University of Northampton	301	4.17	2.04	54	84.1
+31	Liverpool John Moores University	363	4.1	2.75	43	84.0
+30	Cardiff Metropolitan University	275	4.04	2.94	57	83.9
+29	University for the Creative Arts	321	4.14	2.72	51	83.9
+28	Aberystwyth University	346	4.01	2.67	43	83.9
+27	University of Chester	324	3.9	2.54	55	83.8
+26	University of Cumbria	331	4.34	2.41	46	83.6
+25	Plymouth University	320	4.26	2.84	41	83.4
+24	University of Salford	336	4.16	2.55	45	83.4
+23	University of Central Lancashire	304	4.01	2.27	57	83.3
+22	Teesside University	316	4.33	1.95	52	83.0
+21	University of Worcester	290	4.19	2.34	50	82.9
+20	Staffordshire University	303	4.28	1.88	52	82.6
+19	Liverpool Hope University	351	4.39	N/A	47	82.4
+18	University of Portsmouth	359	4.23	N/A	48	82.4
+17	Buckinghamshire New University	245	4.0	2.55	58	82.3
+16	Canterbury Christ Church University	294	3.96	2.28	50	82.2
+15	London Metropolitan University	311	3.96	2.53	46	81.9
+14	Wrexham Glyndwr University	249	4.14	1.77	58	81.9
+13	University of Sunderland	310	4.19	2.31	40	81.9
+12	University of West London	296	3.75	2.21	56	81.8
+11	York St John University	324	4.17	N/A	50	81.5
+10	University of Chichester	264	4.5	N/A	52	81.0
+9	University of East London	283	4.05	2.82	39	81.0
+8	University of Gloucestershire	323	3.99	N/A	50	80.9
+7	University of Bolton	303	4.1	N/A	51	80.8
+6	University Campus Suffolk	314	4.32	N/A	43	80.4
+5	Southampton Solent University	279	4.22	1.79	45	79.9
+4	Leeds Beckett University	282	4.18	1.62	45	79.6
+3	London South Bank University	246	3.78	2.42	39	78.8
+2	University of the Highlands and Islands	219	4.17	N/A	48	77.9
+1	University of Bedfordshire	219	3.99	N/A	35	75.1

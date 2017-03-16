@@ -1,0 +1,39 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+38	University College London	408	4.22	3.25	96	100.0
+37	Loughborough University	374	4.25	3.28	96	99.2
+36	University of Reading	354	4.09	3.22	96	97.6
+35	Heriot-Watt University	393	4.29	3.05	88	97.5
+34	The University of Manchester	N/A	4.29	3.05	N/A	96.2
+33	University of Liverpool	N/A	4.09	3.18	N/A	96.0
+32	The University of Nottingham	408	4.11	2.65	84	95.6
+31	Robert Gordon University	358	4.26	1.89	94	95.4
+30	Glasgow Caledonian University	360	3.91	2.52	92	94.8
+29	Oxford Brookes University	296	4.14	2.89	92	94.1
+28	Aston University	341	3.72	2.83	86	93.5
+27	Ulster University	308	4.27	2.94	82	93.3
+26	University of the West of England	309	4.09	2.71	88	93.1
+25	Sheffield Hallam University	289	4.0	3.13	86	92.4
+24	Coventry University	268	4.28	2.62	88	92.4
+23	Northumbria University	348	3.98	2.52	82	92.3
+22	University of Westminster	294	3.99	2.80	86	92.1
+21	University of Derby	286	4.62	2.29	N/A	91.9
+20	Nottingham Trent University	284	4.16	2.34	90	91.9
+19	Edinburgh Napier University	325	4.38	2.50	78	91.6
+18	Wrexham Glyndwr University	N/A	4.25	N/A	94	91.6
+17	Liverpool John Moores University	339	4.17	2.49	78	91.6
+16	Leeds Beckett University	269	4.17	2.30	84	90.3
+15	University of Salford	304	3.77	2.69	76	90.3
+14	University of Portsmouth	274	4.05	N/A	92	89.9
+13	Anglia Ruskin University	268	4.0	2.11	84	89.8
+12	University of East London	213	4.57	2.41	N/A	89.1
+11	Plymouth University	259	4.4	2.45	70	88.9
+10	University of South Wales	N/A	4.39	N/A	82	88.9
+9	Southampton Solent University	220	4.48	N/A	88	88.4
+8	Birmingham City University	288	3.85	2.66	72	88.2
+7	University of Greenwich	291	3.69	2.20	76	88.0
+6	University of Central Lancashire	284	3.99	2.23	72	87.9
+5	University of Brighton	263	3.93	N/A	84	87.7
+4	Kingston University	254	3.75	N/A	84	87.1
+3	London South Bank University	216	3.64	2.59	70	86.5
+2	University of Wales Trinity Saint David	241	3.83	N/A	76	85.3
+1	University of Bolton	N/A	4.05	1.38	66	84.4

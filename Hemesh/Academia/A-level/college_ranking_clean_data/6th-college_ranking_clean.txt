@@ -1,0 +1,3245 @@
+School Name	Average Point Score	School Type
+Birchwood Community High School	20.57	Academy converter - mainstream
+University Academy Warrington	29.72	Sponsored academy
+UTC Warrington	29.72	Free school - UTC (university technical college)
+Warrington Collegiate	29.72	General Further Education College
+Bridgewater High School	31.52	Academy converter - mainstream
+Hilbre High School	23.11	Academy converter - mainstream
+The Kingsway Academy	16.88	Sponsored academy
+The Mosslands School	18.25	Community school
+The Oldershaw Academy	17.99	Academy converter - mainstream
+Pensby High School	23.05	Community school
+Bebington High Sports College	26.17	Foundation school
+St Anselm's College	29.1	Academy converter - mainstream
+St John Plessington Catholic College	28.59	Academy converter - mainstream
+St Mary's Catholic College	23.99	Voluntary aided school
+Birkenhead High School Academy	29.64	Sponsored academy
+Birkenhead School	44.62	Independent school
+Birkenhead Sixth Form College	29.74	Sixth Form College
+South Wirral High School	21.59	Foundation school
+Upton Hall School FCJ	35.76	Academy converter - mainstream
+Weatherhead High School	29.02	Academy converter - mainstream
+West Kirby Grammar School	37.22	Academy converter - mainstream
+Wirral Grammar School for Boys	33.48	Academy converter - mainstream
+Wirral Grammar School for Girls	40.3	Academy converter - mainstream
+Wirral Metropolitan College	8.75	General Further Education College
+Calday Grange Grammar School	33.63	Academy converter - mainstream
+The Blue Coat CofE School	33.85	Academy converter - mainstream
+Hopwood Hall College	29.72	General Further Education College
+Rochdale Sixth Form College	31.32	Sixth Form College
+St Anne's Church of England Academy	20.22	Sponsored academy
+Cardinal Langley Roman Catholic High School	27.4	Voluntary aided school
+Irlam and Cadishead College	12.11	Community school
+Oakwood Academy	29.72	Academy converter - special school
+St Ambrose Barlow RC High School	29.72	Voluntary aided school
+Salford City Academy	26.79	Sponsored academy
+Stockport College	13.26	General Further Education College
+Stockport Grammar School	42.17	Independent school
+All Saints Catholic College	22.12	Academy converter - mainstream
+Hyde Community College	21.75	Community school
+Ashton Sixth Form College	28.82	Sixth Form College
+Audenshaw School Academy Trust	26.08	Academy converter - mainstream
+New Charter Academy	24.24	Sponsored academy
+Tameside College	20.5	General Further Education College
+Altrincham College of Arts	22.79	Academy converter - mainstream
+Altrincham Grammar School for Boys	39.79	Academy converter - mainstream
+Altrincham Grammar School for Girls	44.85	Academy converter - mainstream
+Ashton-on-Mersey School	32.05	Academy converter - mainstream
+Loreto Grammar School	40.47	Academy converter - mainstream
+Manor High School	29.72	Community special school
+North Cestrian Grammar School	21.43	Independent school
+Saint Ambrose College	36.61	Academy converter - mainstream
+Sale Grammar School	38.35	Academy converter - mainstream
+Stretford Grammar School	32.51	Foundation school
+Trafford College	22.18	General Further Education College
+Urmston Grammar Academy	34.35	Academy converter - mainstream
+Blessed Thomas Holford Catholic College	29.41	Voluntary aided school
+Wellacre Technology Academy	10.4	Academy converter - mainstream
+Wellington School	27.45	Academy converter - mainstream
+The Deanery Church of England High School and Sixth Form College	26.74	Voluntary aided school
+Atherton Community School	22.92	Free school - mainstream
+Oakfield High School and College	29.72	Community special school
+St John Rigby RC Sixth Form College	30.08	Sixth Form College
+St Mary's Catholic High School	31.72	Voluntary aided school
+Wigan and Leigh College	12.5	General Further Education College
+Wigan UTC	10.96	Free school - UTC (university technical college)
+All Hallows Catholic College	31.94	Academy converter - mainstream
+Congleton High School	29.02	Academy converter - mainstream
+Crewe Engineering and Design UTC	29.72	Free school - UTC (university technical college)
+Alsager School	31.5	Academy converter - mainstream
+Eaton Bank Academy	26.52	Academy converter - mainstream
+The Fallibroome Academy	33.97	Academy converter - mainstream
+Holmes Chapel Comprehensive School	33.46	Academy converter - mainstream
+The King's School In Macclesfield	41.92	Independent school
+Knutsford Academy	35.94	Academy converter - mainstream
+Knutsford Academy The Studio	27.6	Free school - studio school
+Macclesfield College	19.46	General Further Education College
+Malbank School and Sixth Form College	27.62	Foundation school
+Poynton High School	30.78	Community school
+Reaseheath College	8.84	Agriculture and Horticulture College
+Sandbach High School and Sixth Form College	34.97	Academy converter - mainstream
+Sandbach School	26.36	Free school - mainstream
+South Cheshire College	26.75	General Further Education College
+Tytherington School	35.72	Academy converter - mainstream
+Wilmslow High School	33.05	Community school
+Brine Leas School	32.04	Academy converter - mainstream
+Alderley Edge School for Girls	35.82	Independent school
+The Catholic High School, Chester A Specialist Science College	31.17	Academy converter - mainstream
+Christleton High School	29.54	Academy converter - mainstream
+Dorin Park School & Specialist SEN College	29.72	Community special school
+Ellesmere Port Catholic High School	28.66	Voluntary aided school
+The Grange School	45.61	Independent school
+The Hammond	32.11	Independent school
+Helsby High School	32.21	Community school
+The King's School	45.15	Independent school
+Mid-Cheshire College of Further Education	29.72	General Further Education College
+Neston High School	27.25	Academy converter - mainstream
+Queen's Park High School	22.61	Community school
+The Queen's School	42.81	Independent school
+The Bishops' Blue Coat Church of England High School	25.55	Academy converter - mainstream
+Tarporley High School and Sixth Form College	30.05	Academy converter - mainstream
+University of Chester CE Academy	17.88	Sponsored academy
+Upton-by-Chester High School	30.86	Foundation school
+West Cheshire College	13.28	General Further Education College
+The Whitby High School	24.73	Foundation school
+Abbey Gate College	37.11	Independent school
+The Winsford Academy	15.09	Sponsored academy
+The Cavendish High Academy	29.72	Academy converter - special school
+The Heath School	26.53	Academy converter - mainstream
+Ormiston Bolingbroke Academy	26.55	Sponsored academy
+Riverside College Halton	29.83	General Further Education College
+St Chads Catholic and Church of England High School	20.02	Voluntary aided school
+Saints Peter and Paul Catholic College	30	Voluntary aided school
+Sandymoor	29.72	Free school - mainstream
+All Saints Catholic High School	10.43	Voluntary aided school
+Halewood Academy	20.12	Academy converter - mainstream
+Knowsley Community College	10.76	General Further Education College
+Hutton Church of England Grammar School	26.64	Voluntary aided school
+Jamea Al Kauthar	23.85	Independent school
+Ashton Community Science College	29.72	Community school
+Abrar Academy	29.72	Independent school
+Kirkham Grammar School	30.21	Independent school
+Lancaster and Morecambe College	29.72	General Further Education College
+Lancaster Girls' Grammar School	39.02	Academy converter - mainstream
+Lancaster Royal Grammar School	42.07	Academy converter - mainstream
+Lytham St Annes Technology and Performing Arts College	28.75	Foundation school
+Accrington Academy	25.51	Sponsored academy
+Bacup and Rawtenstall Grammar School	37.05	Academy converter - mainstream
+Accrington and Rossendale College	29.51	General Further Education College
+Baines School	22.48	Voluntary aided school
+Accrington St Christopher's Church of England High School	31.92	Academy converter - mainstream
+Moor Park High School and Sixth Form	24.03	Foundation school
+Moorland School Limited	29.72	Independent school
+Morecambe Community High School	23.91	Community school
+Myerscough College	29.72	Agriculture and Horticulture College
+Preston Muslim Girls High School	29.72	Voluntary aided school
+Ripley St Thomas Church of England Academy	29.69	Academy converter - mainstream
+Rossall School	31.71	Independent school
+Runshaw College	34.43	General Further Education College
+The St Anne's College Grammar School	24	Independent school
+Stonyhurst College	39.14	Independent school
+Thomas Whitham Sixth Form	24.12	Community school
+UTC Lancashire	10.16	Free school - UTC (university technical college)
+Alder Grange Community and Technology School	22.59	Community school
+Burnley College	26.25	General Further Education College
+Burnley High School	29.72	Free school - mainstream
+Cardinal Newman College	35.41	Sixth Form College
+Carnforth High School	18.15	Community school
+Carr Hill High School and Sixth Form Centre	23.24	Community school
+Eden Boys' School Bolton	29.72	Free school - mainstream
+Kearsley Academy	7.02	Sponsored academy
+Lord's Independent School	29.72	Independent school
+Madrasatul Imam Muhammad Zakariya	32	Independent school
+Rivington and Blackrod High School	27.6	Voluntary controlled school
+Thornleigh Salesian College	28.35	Voluntary aided school
+Turton School	28.86	Community school
+Bolton College	10.67	General Further Education College
+Bolton St Catherine's Academy	17.22	Sponsored academy
+Bolton School Boys' Division	40.98	Independent school
+Bolton School Girls' Division	41.27	Independent school
+Bolton Sixth Form College	28.32	Sixth Form College
+Bolton UTC	29.72	Free school - UTC (university technical college)
+Bolton Wanderers Free School	29.72	Free school - 16-19
+Al Jamiah Al Islamiyyah	29.72	Independent school
+Canon Slade CofE School	33.66	Voluntary aided school
+Darul Uloom Al Arabiya Al Islamiya	34.62	Independent school
+Holy Cross College	29.52	Sixth Form College
+St Monica's RC High School and Sixth Form Centre	29.72	Voluntary aided school
+Bury College	22.75	General Further Education College
+Bury Grammar School Boys	39.14	Independent school
+Bury Grammar School Girls	36.47	Independent school
+Consett Academy	33.92	Sponsored academy
+Derwentside College	29.72	General Further Education College
+Durham Community Business College for Technology and Enterprise	29.72	Community school
+Durham High School for Girls	43	Independent school
+Durham Johnston Comprehensive School	40.98	Community school
+Durham School	35.83	Independent school
+Durham Sixth Form Centre	31.9	Community school
+East Durham College	19.79	General Further Education College
+Framwellgate School Durham	33.29	Academy converter - mainstream
+Apollo Studio Academy	29.72	Free school - studio school
+The Hermitage Academy	29.02	Academy converter - mainstream
+King James I Academy Bishop Auckland	27.99	Academy converter - mainstream
+New College Durham	23.93	General Further Education College
+Barnard Castle School	30.16	Independent school
+North Durham Academy	25.19	Sponsored academy
+Park View School	26.34	Academy converter - mainstream
+St Bede's Catholic Comprehensive School and Byron College	29.78	Voluntary aided school
+St Bede's Catholic Comprehensive School and Sixth Form College, Lanchester	33.88	Academy converter - mainstream
+St John's School & Sixth Form College - A Catholic Academy	30.64	Academy converter - mainstream
+St Leonard's Roman Catholic Voluntary Aided Comprehensive School	35.44	Voluntary aided school
+Bishop Auckland College	29.72	General Further Education College
+Teesdale School	31.98	Academy converter - mainstream
+UTC South Durham	29.72	Free school - UTC (university technical college)
+Whitworth Park School and Sixth Form College	24.38	Foundation school
+Wolsingham School	22.39	Community school
+Woodham Academy	29.72	Academy converter - mainstream
+Darlington College	29.72	General Further Education College
+Polam Hall School	25.33	Free school - mainstream
+Queen Elizabeth Sixth Form College	31.88	Sixth Form College
+Carmel College	31.33	Academy converter - mainstream
+Dyke House Sports and Technology College	24.52	Sponsored academy
+The English Martyrs School and Sixth Form College	28.31	Academy converter - mainstream
+Hartlepool College of Further Education	10	General Further Education College
+Hartlepool Sixth Form College	26.07	Sixth Form College
+Cleveland College of Art and Design	34.92	Art, Design and Performing Arts College
+The King's Academy	34.18	Sponsored academy
+Macmillan Academy	30.49	Sponsored academy
+Middlesbrough College	22.57	General Further Education College
+Trinity Catholic College	26.58	Voluntary aided school
+Freebrough Academy	16.11	Sponsored academy
+Hillsview Academy	21.65	Sponsored academy
+Nunthorpe Academy	35.01	Academy converter - mainstream
+Redcar & Cleveland College	29.72	General Further Education College
+Conyers School	31.97	Academy converter - mainstream
+Egglescliffe School	36.05	Community school
+Ingleby Manor Free School & Sixth Form	29.72	Free school - mainstream
+Red House School	29.72	Independent school
+Stockton Riverside College	26.52	General Further Education College
+Teesside High School	32.05	Independent school
+Yarm School	42.9	Independent school
+Cottingham High School and Sixth Form College	32.96	Academy converter - mainstream
+Driffield School and Sixth Form	26.09	Community school
+East Riding College	21.29	General Further Education College
+Focus School - Cottingham Campus	32.03	Independent school
+Goole High School	12.14	Academy converter - mainstream
+Headlands School	27.15	Community school
+Hessle High School and Penshurst Primary	34.71	Academy converter - mainstream
+Hornsea School and Language College	28.98	Community school
+Hull Collegiate School	34.63	Independent school
+Longcroft School and Sixth Form College	27.88	Community school
+Pocklington School	37.72	Independent school
+Beverley Grammar School	29.05	Academy converter - mainstream
+Beverley High School	30.95	Community school
+South Holderness Technology College	27.35	Community school
+South Hunsley School and Sixth Form College	31.49	Academy converter - mainstream
+Bishop Burton College	29.72	Agriculture and Horticulture College
+Withernsea High School	21.64	Community school
+Woldgate School and Sixth Form College	30.92	Community school
+Wolfreton School and Sixth Form College	29.93	Community school
+Bridlington School	21.77	Voluntary controlled school
+Archbishop Sentamu Academy	23.96	Sponsored academy
+Hull College	16.73	General Further Education College
+Hymers College	39.5	Independent school
+St Mary's College	33.02	Voluntary aided school
+Sirius Academy West	13.64	Sponsored academy
+Wilberforce College	25.17	Sixth Form College
+Wyke Sixth Form College	28.58	Sixth Form College
+Franklin College	25.5	Sixth Form College
+Grimsby Institute of Further and Higher Education	29.72	General Further Education College
+Havelock Academy	17.38	Sponsored academy
+Oasis Academy Immingham	12.56	Sponsored academy
+St James' School	27.4	Independent school
+Tollbar Academy	32.64	Academy converter - mainstream
+Humber UTC	29.72	Free school - UTC (university technical college)
+John Leggott Sixth Form College	31.49	Sixth Form College
+North Lindsey College	16.44	General Further Education College
+Baysgarth School	18.67	Community school
+Sir John Nelthorpe School	25.02	Voluntary controlled school
+South Axholme Academy	29.72	Academy converter - mainstream
+The Vale Academy	22.24	Academy converter - mainstream
+Craven College	24.43	General Further Education College
+Ampleforth College	39.94	Independent school
+Easingwold School	28.89	Community school
+Ermysted's Grammar School	36.72	Voluntary aided school
+The Faculty of Queen Ethelburga's	46.2	Independent school
+Fyling Hall School	33.56	Independent school
+Giggleswick School	35.33	Independent school
+Harrogate Grammar School	32.67	Academy converter - mainstream
+Harrogate High School	22	Academy converter - mainstream
+Harrogate Ladies' College	38.79	Independent school
+Ashville College	36.26	Independent school
+King James's School	32.11	Community school
+Lady Lumley's School	27.4	Community school
+Malton School	28.83	Community school
+Northallerton School & Sixth Form College	32.7	Voluntary controlled school
+Norton College	30.2	Academy converter - mainstream
+Outwood Academy Ripon	20.53	Academy converter - mainstream
+Queen Ethelburga's College	50.74	Independent school
+Queen Margaret's School	42.12	Independent school
+Read School	23.28	Independent school
+Richmond School	28.35	Community school
+Ripon Grammar School	39.95	Community school
+Rossett School	29.47	Academy converter - mainstream
+St Aidan's Church of England High School	31.49	Academy converter - mainstream
+St John Fisher Catholic High School	31.49	Voluntary aided school
+Scarborough College	30.33	Independent school
+Scarborough Sixth Form College	32.2	Sixth Form College
+Scarborough University Technical College	29.72	Free school - UTC (university technical college)
+Selby College	27.61	General Further Education College
+Settle College	33.26	Community school
+Sherburn High School	23.97	Community school
+Skipton Girls' High School	36.45	Academy converter - mainstream
+South Craven School	30	Academy converter - mainstream
+Stokesley School	38.03	Academy converter - mainstream
+Tadcaster Grammar School	31.3	Community school
+Thirsk School & Sixth Form College	27.32	Community school
+The Wensleydale School & Sixth Form	23.95	Community school
+Boroughbridge High School	19.49	Community school
+Caedmon College Whitby	32.86	Community school
+All Saints RC School	34.11	Voluntary aided school
+Focus School, York Campus	30.86	Independent school
+Fulford School	34.13	Community school
+Applefields School	29.72	Community special school
+Archbishop Holgate's School, A Church of England Academy	37.35	Academy converter - mainstream
+Huntington School	31.35	Community school
+Joseph Rowntree School	28.94	Voluntary controlled school
+Askham Bryan College	15	Agriculture and Horticulture College
+The Mount School (York)	38.89	Independent school
+St Peter's School (Inc St Olaves and Clifton Pre-Prep)	43.82	Independent school
+Bootham School	39.85	Independent school
+York College	32.15	General Further Education College
+Beverley Joint Sixth	29.94	
+St Aidans and St John Fisher Associated Sixth Form	31.49	
+Barnsley Academy	18.47	Sponsored academy
+Barnsley College	25	General Further Education College
+Penistone Grammar School	30.05	Community school
+Darul Uloom Dawatul Imaan	29.72	Independent school
+Dixons Allerton Academy	18.69	Sponsored academy
+Dixons City Academy	24.49	Sponsored academy
+Dixons McMillan Academy	29.72	Free school - mainstream
+Dixons Trinity Academy	29.72	Free school - mainstream
+Eternal Light Secondary School	29.72	Independent school
+Feversham College	30.64	Academy converter - mainstream
+Grange Technology College	16.8	Academy converter - mainstream
+Appleton Academy	19.67	Sponsored academy
+Hanson School	21.6	Foundation school
+The Holy Family Catholic School	24.59	Voluntary aided school
+Ilkley Grammar School	34.9	Academy converter - mainstream
+Immanuel College	31.35	Voluntary aided school
+Jaamiatul Imaam Muhammad Zakaria	42	Independent school
+Laisterdyke Business and Enterprise College	18.37	Foundation school
+Laisterdyke Leadership Academy	29.72	Sponsored academy
+Oakbank School	26.42	Foundation school
+Oakbank School	29.72	Sponsored academy
+Oasis Academy Lister Park	23.18	Sponsored academy
+One In A Million Free School	29.72	Free school - mainstream
+Parkside School	28.79	Foundation school
+Queensbury School	20.89	Foundation school
+Queensbury School	29.72	Sponsored academy
+Beckfoot School	32.44	Academy converter - mainstream
+Beckfoot Upper Heaton	28.95	Sponsored academy
+St Bede's and St Joseph's Catholic College	30.53	Voluntary aided school
+Belle Vue Girls' School	24.03	Academy converter - mainstream
+The Samuel Lister Academy	21.17	Sponsored academy
+Bingley Grammar School	28.05	Voluntary aided school
+Shipley College	15.49	General Further Education College
+Titus Salt School	32.14	Community school
+Tong High School	23.51	Foundation school
+University Academy Keighley	20.62	Sponsored academy
+Bradford Academy	20.18	Sponsored academy
+Bradford College	21.82	General Further Education College
+Bradford Girls' Grammar School	29.13	Free school - mainstream
+Bradford Grammar School	42.06	Independent school
+Bradford Studio School	15.88	Free school - studio school
+Buttershaw Business & Enterprise College Academy	29.72	Sponsored academy
+Buttershaw Business and Enterprise College	26.08	Foundation school
+Carlton Bolling College	24.91	Community school
+The Crossley Heath School	34.19	Academy converter - mainstream
+The Grammar School, Hipperholme	24.21	Independent school
+Lightcliffe Academy	27.37	Sponsored academy
+The Maltings College	29.72	Free school - 16-19
+The North Halifax Grammar School	33.81	Academy converter - mainstream
+Rastrick High School	24.92	Academy converter - mainstream
+Rishworth School	30.63	Independent school
+Ryburn Valley High School	27.56	Academy converter - mainstream
+Sowerby Bridge High School	7.37	Community school
+Todmorden High School	30.5	Community school
+Trinity Academy, Halifax	32.32	Sponsored academy
+Brighouse High School	27.65	Academy converter - mainstream
+The Brooksbank School	26.75	Academy converter - mainstream
+Calder High School, A Specialist Technology College	26.49	Foundation school
+Calderdale College	29.72	General Further Education College
+Danum Academy	28.55	Academy converter - mainstream
+De Warenne Academy	32.35	Sponsored academy
+Don Valley Academy and Performing Arts College	21.87	Academy converter - mainstream
+Doncaster College	20.37	General Further Education College
+Hall Cross Academy	30.89	Academy converter - mainstream
+The Hayfield School	31.93	Academy converter - mainstream
+Armthorpe Academy	11	Academy converter - mainstream
+Hill House School	34.69	Independent school
+Ash Hill Academy	16	Sponsored academy
+Balby Carr Community Academy	25.94	Sponsored academy
+The McAuley Catholic High School	28.79	Academy converter - mainstream
+Mexborough Academy	22.07	Sponsored academy
+Outwood Academy Adwick	22.67	Sponsored academy
+Ridgewood School	31.1	Academy converter - mainstream
+Rossington All Saints Academy	24.94	Sponsored academy
+Sir Thomas Wharton Community College	22.49	Academy converter - mainstream
+Trinity Academy	28.28	Sponsored academy
+XP School	29.72	Free school - mainstream
+Campsmount (A Co-Operative Academy)	16.64	Academy converter - mainstream
+Greenhead College	34.74	Sixth Form College
+Heckmondwike Grammar School	34.19	Academy converter - mainstream
+Huddersfield New College	27.94	Sixth Form College
+Kirklees College	5.26	General Further Education College
+The Mirfield Free Grammar and Sixth Form	25.3	Academy converter - mainstream
+Nether Hall Learning Campus High School	29.72	Community school
+Batley Girls High School	28.15	Academy converter - mainstream
+Batley Grammar School	21.03	Free school - mainstream
+St John Fisher Catholic Voluntary Academy	25.15	Academy converter - mainstream
+Shelley College	26.35	Academy converter - mainstream
+The Co-operative Academy of Leeds	20	Sponsored academy
+Allerton Grange School	25.9	Community school
+Allerton High School	29.5	Community school
+Crawshaw Academy	30.3	Sponsored academy
+David Young Community Academy	18.47	Sponsored academy
+Elliott Hudson College	29.72	Free school - 16-19
+The Farnley Academy	24.15	Sponsored academy
+Fulneck School	29.41	Independent school
+Garforth Academy	30.81	Academy converter - mainstream
+Gateways School	35.52	Independent school
+The Grammar School At Leeds	42.92	Independent school
+Guiseley School	27.11	Foundation school
+Horsforth School	30.81	Academy converter - mainstream
+John Smeaton Academy	19.54	Sponsored academy
+Lawnswood School	25.22	Community school
+Leeds City College	26.07	General Further Education College
+Leeds College of Building	29.72	General Further Education College
+Leeds East Academy	29.72	Sponsored academy
+Leeds Jewish Free School	29.72	Free school - mainstream
+Leeds West Academy	24.35	Sponsored academy
+The Morley Academy	25.38	Academy converter - mainstream
+Notre Dame Catholic Sixth Form College	27.29	Sixth Form College
+Otley Prince Henry's Grammar School Specialist Language College	33.12	Academy converter - mainstream
+Priesthorpe School	27.6	Foundation school
+Pudsey Grangefield School	26.71	Foundation school
+Ralph Thoresby School	25.93	Foundation school
+Rodillian Academy	29.28	Academy converter - mainstream
+Roundhay School	29.02	Community school
+Royds School	20.47	Foundation school
+The Ruth Gorse Academy	29.72	Free school - mainstream
+Benton Park School	27.51	Community school
+St. Mary's Menston, a Catholic Voluntary Academy	30.06	Academy converter - mainstream
+South Leeds Academy	22.49	Sponsored academy
+Swallow Hill Community College	19.32	Sponsored academy
+Temple Moor High School Science College	26.74	Foundation school
+University Technical College Leeds	29.72	Free school - UTC (university technical college)
+Wetherby High School	24.75	Foundation school
+Woodhouse Grove School	31.83	Independent school
+Woodkirk Academy	29.21	Academy converter - mainstream
+Boston Spa School	30.54	Foundation school
+Abbey Grange Church of England Academy	32.27	Academy converter - mainstream
+Brigshaw High School and Language College	26.73	Foundation school
+Carr Manor Community School, Specialist Sports College	29.72	Community school
+Dearne Valley College	29.72	General Further Education College
+Dinnington High School	23.73	Academy converter - mainstream
+Focus School - Bramley Campus	33.8	Independent school
+Aston Academy	32.41	Academy converter - mainstream
+Maltby Academy	29.3	Sponsored academy
+RNN Group	29.72	General Further Education College
+Swinton Community School	24.84	Community school
+Thomas Rotherham College	28.35	Sixth Form College
+Wales High School	32.63	Academy converter - mainstream
+Wath Comprehensive School : A Language College	31.14	Foundation school
+Wickersley School and Sports College	27.34	Academy converter - mainstream
+Brinsworth Academy	30.31	Academy converter - mainstream
+Chapeltown Academy	30.07	Free school - 16-19
+All Saints' Catholic High School	27.63	Academy converter - mainstream
+Al-Mahad-Al-Islami	29.72	Independent school
+Forge Valley School	27.91	Sponsored academy
+High Storrs School	33.98	Community school
+King Ecgbert School	35.97	Academy converter - mainstream
+King Edward VII School	29.74	Community school
+Longley Park Sixth Form College	23.17	Sixth Form College
+Meadowhead School Academy Trust	28.99	Academy converter - mainstream
+Notre Dame High School	32.6	Academy converter - mainstream
+The Sheffield College	19.92	General Further Education College
+Sheffield High School	39.22	Independent school
+Sheffield Park Academy	27.7	Sponsored academy
+Sheffield Springs Academy	26.55	Sponsored academy
+Silverdale School	36.22	Academy converter - mainstream
+Birkdale School	39.73	Independent school
+Tapton School	37.53	Academy converter - mainstream
+UTC Sheffield	20.29	Free school - UTC (university technical college)
+UTC Sheffield Olympic Legacy Park	29.72	Free school - UTC (university technical college)
+Al Huda Academy (Jamia Al-Hudaa)	29.72	Independent school
+Bradfield School	30.84	Academy converter - mainstream
+Cathedral Academy	38.97	Academy converter - mainstream
+De Lacy Academy	13.18	Academy converter - mainstream
+Hemsworth Arts and Community Academy	23.57	Sponsored academy
+Meadowcroft School	29.72	Independent special school
+Minsthorpe Community College, A Specialist Science College	25.53	Academy converter - mainstream
+New College Pontefract	32.34	Sixth Form College
+Ackworth School	32.57	Independent school
+Ossett Academy and Sixth Form College	28.91	Academy converter - mainstream
+Outwood Grange Academy	30.31	Sponsored academy
+Queen Elizabeth Grammar School	41.12	Independent school
+St Wilfrid's Catholic High School & Sixth Form College: A Voluntary Academy	29.05	Academy converter - mainstream
+Silcoates School	35.88	Independent school
+Wakefield College	23.17	General Further Education College
+Wakefield Girls' High School	39.26	Independent school
+Airedale Academy	29.72	Academy converter - mainstream
+Castleford Academy	29.72	Academy converter - mainstream
+Chellaston Academy	33.79	Academy converter - mainstream
+Derby College	23.75	General Further Education College
+Derby Grammar School	36.37	Independent school
+Derby High School	35.47	Independent school
+Derby Manufacturing UTC	29.72	Free school - UTC (university technical college)
+Derby Moor Community Sports College	25.07	Foundation school
+Landau Forte College	30.79	Sponsored academy
+Lees Brook Community School	29.72	Academy converter - mainstream
+Littleover Community School	34.57	Community school
+Merrill Academy	23.66	Sponsored academy
+Noel-Baker School	20.41	Foundation school
+Saint Benedict, A Catholic Voluntary Academy	28.34	Academy converter - mainstream
+The Bemrose School	11.57	Foundation school
+Woodlands School	28.93	Academy converter - mainstream
+Chesterfield College	19.86	General Further Education College
+David Nieper Academy	29.72	Sponsored academy
+Dronfield Henry Fanshawe School	31.1	Voluntary controlled school
+The Ecclesbourne School	32.87	Academy converter - mainstream
+Eckington School	27.99	Community school
+Anthony Gell School	32.36	Voluntary controlled school
+Focus School - Long Eaton Campus	31.56	Independent school
+Friesland School	25.65	Foundation school
+Glossopdale Community College	28.91	Community school
+Abbotsholme School	29.7	Independent school
+Heanor Gate Science College	30.47	Academy converter - mainstream
+Highfields School	32.85	Community school
+Hope Valley College	29.72	Academy converter - mainstream
+John Port School	29.46	Academy converter - mainstream
+Kirk Hallam Community Academy	27.09	Academy converter - mainstream
+Lady Manners School	32.99	Foundation school
+The Long Eaton School	22.51	Academy converter - mainstream
+Mount St Mary's College	30.25	Independent school
+Netherthorpe School	24.88	Academy converter - mainstream
+New Mills School & Sixth Form	30.36	Community school
+Ockbrook School	37.97	Independent school
+Ormiston Ilkeston Enterprise Academy	25.74	Sponsored academy
+Outwood Academy Newbold	24.68	Sponsored academy
+The Pingle School	26.99	Foundation school
+Queen Elizabeth's Grammar School	32.42	Academy converter - mainstream
+Repton School	43.7	Independent school
+The Ripley Academy	22.77	Academy converter - mainstream
+Belper School and Sixth Form Centre	25.82	Foundation school
+St Mary's Catholic High School, A Catholic Voluntary Academy	37.92	Academy converter - mainstream
+Swanwick Hall School	25.6	Community school
+Trent College	37.33	Independent school
+Tupton Hall School	28.29	Community school
+Wilsthorpe Community School	29.73	Community school
+Brookfield Academy Trust	30.06	Academy converter - mainstream
+Aldercar High School	17.36	Community school
+Buxton Community School	31.33	Voluntary controlled school
+Alfreton Grange Arts College	10	Community school
+Djanogly City Academy	11.11	Sponsored academy
+Jamia Al-Hudaa Residential College	29.05	Independent school
+New College Nottingham	24.27	General Further Education College
+Nottingham Academy	24.33	Sponsored academy
+The Nottingham Emmanuel School	24.69	Academy converter - mainstream
+Nottingham Free School	29.72	Free school - mainstream
+Nottingham Girls' Academy	27.5	Sponsored academy
+Nottingham Girls' High School GDST	42.47	Independent school
+Nottingham High School	45.66	Independent school
+Nottingham University Academy of Science and Technology	35.04	Free school - mainstream
+Nottingham University Samworth Academy	29.72	Sponsored academy
+Oak Field School and Specialist Sports College	29.72	Community special school
+Bilborough College	29.7	Sixth Form College
+Top Valley Academy	29.72	Sponsored academy
+The Trinity Catholic School A Voluntary Academy	30.52	Academy converter - mainstream
+Bluecoat Academy	29.41	Academy converter - mainstream
+The Bulwell Academy	10	Sponsored academy
+Central College Nottingham	31.18	General Further Education College
+All Saints Catholic Voluntary Academy	31.52	Academy converter - mainstream
+Chilwell School	32.08	Foundation school
+Christ The King Voluntary Academy	24.25	Academy converter - mainstream
+Colonel Frank Seely Comprehensive School	29.28	Community school
+The Dukeries Academy	21.69	Sponsored academy
+East Leake Academy	31.19	Academy converter - mainstream
+The Elizabethan Academy	26.93	Academy converter - mainstream
+Foxwood Academy	29.72	Academy converter - special school
+Garibaldi College	29.76	Community school
+George Spencer Academy and Technology College	31.46	Academy converter - mainstream
+Hall Park Academy	28.84	Sponsored academy
+Arnold Hill Academy	31.89	Academy converter - mainstream
+Holgate Academy	23.04	Sponsored academy
+Ashfield Comprehensive School	27.81	Academy converter - mainstream
+Joseph Whitaker School	33.13	Academy converter - mainstream
+The Kimberley School	28.41	Academy converter - mainstream
+Kirkby College	15.66	Academy converter - mainstream
+Lammas School	29.72	Independent school
+Magnus Church of England Academy	19.86	Sponsored academy
+The Manor Academy	28.03	Academy converter - mainstream
+Meden School	27.34	Sponsored academy
+Minster School	32.51	Voluntary aided school
+The National CofE Academy	31.18	Academy converter - mainstream
+The Newark Academy	23.09	Sponsored academy
+Outwood Academy Portland	30.59	Sponsored academy
+Outwood Academy Valley	30.58	Sponsored academy
+Quarrydale School	28.99	Academy converter - mainstream
+Queen Elizabeth's Academy	18.05	Sponsored academy
+The Becket School	33.69	Academy converter - mainstream
+Redhill Academy	29.27	Academy converter - mainstream
+Retford Oaks Academy	23.24	Sponsored academy
+Rushcliffe School	34.18	Academy converter - mainstream
+Samworth Church Academy	27.12	Sponsored academy
+Selston High School	29.72	Community school
+Serlby Park Academy	20.86	Sponsored academy
+South Nottinghamshire Academy	24.02	Sponsored academy
+The South Wolds Academy & Sixth Form	32.33	Academy converter - mainstream
+Sutton Community Academy	21.81	Sponsored academy
+Toot Hill School	33.77	Academy converter - mainstream
+Tuxford Academy	31.29	Academy converter - mainstream
+Vision Studio School	29.72	Free school - studio school
+Vision West Nottinghamshire College	26.2	General Further Education College
+The West Bridgford School	34.98	Academy converter - mainstream
+Worksop College	32.86	Independent school
+The Brunts Academy	31.85	Academy converter - mainstream
+Alderman White School	27.61	Academy converter - mainstream
+Carlton Academy	28.41	Sponsored academy
+Carlton le Willows Academy	33.96	Academy converter - mainstream
+The City of Leicester College	25.46	Community school
+Darul Uloom Leicester	29.72	Independent school
+English Martyrs Catholic School	30.94	Voluntary aided school
+Gateway Sixth Form College	22.67	Sixth Form College
+Leicester College co Freemen's Park Campus	21.38	General Further Education College
+Leicester High School for Girls	39.62	Independent school
+New College Leicester	29.72	Foundation school
+Regent College	22.5	Sixth Form College
+Saint Paul's Catholic School	25.65	Voluntary aided school
+Wyggeston and Queen Elizabeth I College	28.75	Sixth Form College
+The Cedars Academy	29.62	Academy converter - mainstream
+Charnwood College	29.72	Sponsored academy
+Charnwood College (Upper)	24.93	Academy converter - mainstream
+Countesthorpe Community College	27.97	Academy converter - mainstream
+De Lisle Catholic School Loughborough Leicestershire	27.17	Academy converter - mainstream
+Dixie Grammar School	33.9	Independent school
+Groby Community College	27.35	Academy converter - mainstream
+Heath Lane Academy	29.72	Academy converter - mainstream
+Hinckley Academy and John Cleveland Sixth Form Centre	34.19	Academy converter - mainstream
+Hind Leys Community College	27.2	Community school
+Ashby School	28.46	Academy converter - mainstream
+John Ferneley College	29.72	Academy converter - mainstream
+King Edward VII Science and Sport College	26.42	Academy converter - mainstream
+Leicester Grammar School Trust	41.4	Independent school
+Long Field Academy	29.72	Academy converter - mainstream
+Loughborough College	24.11	General Further Education College
+Loughborough Grammar School	37.86	Independent school
+Loughborough High School	43.13	Independent school
+Lutterworth College	28.13	Academy converter - mainstream
+The Midland Studio College Hinckley	7.5	Free school - studio school
+Our Lady's Convent School	35.81	Independent school
+Beauchamp College	29.07	Academy converter - mainstream
+Ratcliffe College	38.8	Independent school
+Rawlins Academy	29.34	Academy converter - mainstream
+The Robert Smyth Academy	32.88	Academy converter - mainstream
+Belvoir High School and Melton Vale Post 16 Centre	32.16	Academy converter - mainstream
+Sir Frank Whittle Studio School	24.62	Free school - studio school
+Sketchley School	29.72	Independent special school
+Stephenson College	29.72	General Further Education College
+Stephenson Studio School	18.48	Free school - studio school
+Twycross House School	41.92	Independent school
+Welbeck, the Defence Sixth Form College	36.28	College funded by Ministry of Defence
+Wigston College	24.88	Academy converter - mainstream
+The William Bradford Academy	37.06	Sponsored academy
+Bosworth Academy	30.37	Academy converter - mainstream
+Wreake Valley Academy	28.1	Academy converter - mainstream
+Brooke House College	30.78	Independent school
+Brooksby Melton College	29.72	Agriculture and Horticulture College
+Cordeaux Academy	20.67	Sponsored academy
+De Aston School	26.09	Academy converter - mainstream
+The Deepings School	28.76	Academy converter - mainstream
+The Giles Academy	21.29	Academy converter - mainstream
+Grantham College	20.26	General Further Education College
+Kesteven and Grantham Girls' School	36.18	Academy converter - mainstream
+Kesteven and Sleaford High School Selective Academy	35.37	Academy converter - mainstream
+King Edward VI Grammar School	37.03	Academy converter - mainstream
+The King's School, Grantham	34.1	Academy converter - mainstream
+Kirkstone House School	29.72	Independent school
+Lincoln Castle Academy	25.27	Academy converter - mainstream
+Lincoln Christ's Hospital School	27.93	Academy converter - mainstream
+Lincoln College	22.31	General Further Education College
+Lincoln Minster School	34.08	Independent school
+Lincoln UTC	27.98	Free school - UTC (university technical college)
+Monks' Dyke Tennyson College	21.09	Foundation school
+New College Stamford	20.8	General Further Education College
+North Kesteven School	26.12	Academy converter - mainstream
+The Priory Academy LSST	33.11	Sponsored academy
+The Priory City of Lincoln Academy	21.94	Sponsored academy
+The Priory Ruskin Academy	25.45	Sponsored academy
+The Priory Witham Academy	27.83	Sponsored academy
+Queen Elizabeth's Grammar Alford - A Selective Academy	37.38	Academy converter - mainstream
+Queen Elizabeth's Grammar School, Horncastle	35.25	Academy converter - mainstream
+The Queen Elizabeth's High School, Gainsborough	32.97	Community school
+Regents Academy	29.72	Independent school
+St George's Academy	26.87	Sponsored academy
+St Peter and St Paul, Catholic Voluntary Academy	25.4	Academy converter - mainstream
+Sir John Gleed School	19.4	Academy converter - mainstream
+Sir Robert Pattinson Academy	26.99	Academy converter - mainstream
+Sir William Robertson Academy, Welbourn	25.57	Academy converter - mainstream
+Skegness Academy	21.59	Sponsored academy
+Skegness Grammar School	31.27	Academy converter - mainstream
+Spalding Grammar School	30.51	Academy converter - mainstream
+Spalding High School	34.43	Community school
+Stamford High School	40.99	Independent school
+Stamford School	36.23	Independent school
+University Academy Holbeach	22.23	Sponsored academy
+Walton Girls' High School & Sixth Form	26.54	Academy converter - mainstream
+William Farr CofE Comprehensive School	32.43	Academy converter - mainstream
+Boston College	23.58	General Further Education College
+The Boston Grammar School	27.69	Academy converter - mainstream
+Boston High School	32.6	Academy converter - mainstream
+Bourne Academy	27.07	Academy converter - mainstream
+Bourne Grammar School	36.24	Academy converter - mainstream
+Branston Community Academy	28.04	Academy converter - mainstream
+Caistor Grammar School	36.34	Academy converter - mainstream
+Carre's Grammar School	31.96	Academy converter - mainstream
+Chenderit School	28.73	Academy converter - mainstream
+Corby Business Academy	25.78	Sponsored academy
+Corby Technical School	29.72	Free school - mainstream
+Daventry Hill School	29.72	Free school - special
+Daventry UTC	29.72	Free school - UTC (university technical college)
+DSLV E-ACT Academy	22.69	Sponsored academy
+Abbeyfield School	27.1	Sponsored academy
+The Duston School	29.33	Academy converter - mainstream
+Elizabeth Woodville School	31.77	Academy converter - mainstream
+The Ferrers School	25.39	Academy converter - mainstream
+Guilsborough Academy	31.63	Academy converter - mainstream
+Huxlow Science College	27.07	Academy converter - mainstream
+Kettering Buccleuch Academy	24.86	Sponsored academy
+Kettering Science Academy	25.89	Sponsored academy
+Kingsthorpe College	22.26	Academy converter - mainstream
+Kingswood Secondary Academy	21.26	Sponsored academy
+The Latimer Arts College	28.97	Foundation school
+Lodge Park Academy	29.66	Sponsored academy
+Magdalen College School	27.14	Academy converter - mainstream
+Malcolm Arnold Academy	26.7	Sponsored academy
+Manor School Sports College	21.98	Academy converter - mainstream
+Montsaye Academy	26.15	Academy converter - mainstream
+Moulton College	29.72	Agriculture and Horticulture College
+Moulton School and Science College	34.08	Academy converter - mainstream
+Northampton Academy	26.78	Sponsored academy
+Northampton College	20.75	General Further Education College
+Northampton High School	42.61	Independent school
+Northampton International Academy	29.72	Free school - mainstream
+Northampton School for Boys	31.28	Academy converter - mainstream
+Northampton School for Girls	31.33	Academy converter - mainstream
+Oundle School	45.49	Independent school
+Overstone Park School	29.72	Independent school
+The Parker E-ACT Academy	20.43	Sponsored academy
+Pitsford School	37.69	Independent school
+Prince William School	31.14	Sponsored academy
+Quinton House School	28.74	Independent school
+Rushden Community College	27.24	Sponsored academy
+St Andrew's College	29.72	Independent school
+Silverstone UTC	22.19	Free school - UTC (university technical college)
+Sir Christopher Hatton Academy	33.22	Academy converter - mainstream
+Southfield School for Girls	29.9	Academy converter - mainstream
+Sponne School	29.24	Academy converter - mainstream
+Bishop Stopford School	32.11	Academy converter - mainstream
+Thomas Becket Catholic School	22.57	Voluntary aided school
+Tresham College of Further and Higher Education	22.19	General Further Education College
+Weavers Academy	23.2	Sponsored academy
+Wellingborough School	36.55	Independent school
+Weston Favell Academy	22.16	Sponsored academy
+Wollaston School	30.52	Community school
+Wootton Park School	29.72	Free school - mainstream
+Bosworth Independent College	37.61	Independent school
+Wren Spinney Community Special School	29.72	Community special school
+Wrenn School	25.91	Sponsored academy
+Brooke Weston Academy	31.27	Sponsored academy
+Campion School	29.63	Academy converter - mainstream
+Caroline Chisholm School	32.55	Academy converter - mainstream
+Harington School	29.72	Free school - 16-19
+Oakham School	42.08	Independent school
+Uppingham School	39.69	Independent school
+Casterton College Rutland	30.46	Academy converter - mainstream
+North Hykeham Joint Sixth Form	26.53	
+Sleaford Joint Sixth Form	29.95	
+The Community College, Bishop's Castle	29.72	Foundation school
+Concord College	51.16	Independent school
+Ellesmere College	30.75	Independent school
+The Grove School	26.2	Foundation school
+Idsall School	30.87	Academy converter - mainstream
+The Marches School	28.58	Academy converter - mainstream
+Moreton Hall School	39.61	Independent school
+North Shropshire College	24.6	General Further Education College
+Oldbury Wells School	24.8	Academy converter - mainstream
+Oswestry School	36.78	Independent school
+Bedstone College	27.32	Independent school
+Adcote School for Girls	33.57	Independent school
+Shrewsbury Colleges Group	31.01	Sixth Form College
+Shrewsbury High School	36.86	Independent school
+Shrewsbury School	41.14	Independent school
+Sir John Talbot's Technology College	24.26	Sponsored academy
+The Thomas Adams School, Wem	28.1	Voluntary controlled school
+William Brookes School	26.5	Academy converter - mainstream
+Bridgnorth Endowed School	25.49	Academy converter - mainstream
+Chase Grammar School	41.03	Independent school
+Chase Grammar School International Study Centre	25.77	Independent school
+Chase Terrace Technology College	29.25	Community school
+The Cheadle Academy	30.84	Academy converter - mainstream
+Cheslyn Hay Sport and Community High School	30.82	Community school
+Codsall Community High School	28.54	Community school
+Alleyne's Academy	30.3	Academy converter - mainstream
+The de Ferrers Academy	29.81	Academy converter - mainstream
+Denstone College	39.62	Independent school
+Erasmus Darwin Academy	30.46	Academy converter - mainstream
+Abbot Beyne School	28.5	Voluntary controlled school
+Abbots Bromley School	32.79	Independent school
+The Friary School	30.42	Community school
+Great Wyrley High School	23.07	Community school
+Hagley Park Academy	26.81	Sponsored academy
+The Hart School	20.37	Sponsored academy
+The JCB Academy	23.42	Free school - UTC (university technical college)
+John Taylor High School	33.89	Academy converter - mainstream
+King Edward VI High School	21.66	Community school
+King Edward VI School	29.36	Community school
+The King's CofE (VA) School	18.8	Voluntary aided school
+Kingsmead School	26.62	Academy converter - mainstream
+Kinver High School and Sixth Form	28.67	Sponsored academy
+Landau Forte Academy Tamworth Sixth Form	24.64	Academy 16-19 sponsor led
+Leek High Specialist Technology School	21.83	Foundation school
+Lichfield Cathedral School	33.27	Independent school
+Martec Training	29.72	Independent school
+Moorside High School	30.84	Community school
+Nether Stowe School	24.57	Community school
+Newcastle-under-Lyme College	27.66	General Further Education College
+Newcastle-under-Lyme School	39.47	Independent school
+Norton Canes High School	23.95	Community school
+Ounsdale High School	29.13	Sponsored academy
+Paget High School	25.27	Community school
+Painsley Catholic College	30.84	Academy converter - mainstream
+Paulet High School	23.32	Community school
+The Rural Enterprise Academy	22.03	Free school - mainstream
+St. Dominic's Brewood	37.45	Independent school
+St John Fisher Catholic College	26.57	Academy converter - mainstream
+Biddulph High School	28.36	Academy converter - mainstream
+Saxon Hill School	29.72	Community special school
+Sir Graham Balfour High School	29.9	Community school
+South Staffordshire College	29.72	General Further Education College
+Stafford Grammar School	38.61	Independent school
+Stafford Manor High School	21.68	Foundation school
+Staffordshire University Academy	23.65	Sponsored academy
+Thomas Alleyne's High School	30.17	Community school
+University Academy Kidsgrove	25.12	Academy converter - mainstream
+Walton High School	29.7	Community school
+Blessed Robert Sutton Catholic Sports College	18.8	Voluntary aided school
+Blessed William Howard Catholic School	26.92	Voluntary aided school
+The Weston Road Academy	27.96	Academy converter - mainstream
+Westwood College	31.47	Foundation school
+Blythe Bridge High School	20.3	Foundation school
+Wolgarston High School	36.61	Community school
+Burton and South Derbyshire College	20.09	General Further Education College
+Cannock Chase High School	28.7	Academy converter - mainstream
+Cardinal Griffin Catholic College	27.52	Voluntary aided school
+City of Stoke-on-Trent Sixth Form College	25.93	Sixth Form College
+Haywood Academy	29.72	Academy converter - mainstream
+Ormiston Horizon Academy	8.75	Sponsored academy
+Ormiston Sir Stanley Matthews Academy	20.68	Sponsored academy
+St Joseph's College	34.83	Academy converter - mainstream
+St Margaret Ward Catholic Academy	26.33	Academy converter - mainstream
+St Thomas More Catholic Academy	25.61	Academy converter - mainstream
+Stoke Studio College for Construction and Building Excellence	29.72	Free school - studio school
+Stoke Studio College for Manufacturing and Design Engineering	29.72	Free school - studio school
+Stoke-on-Trent College	15.71	General Further Education College
+Holy Trinity School	27.45	Voluntary aided school
+Abraham Darby Academy	19.33	Sponsored academy
+Madeley Academy	35.57	Sponsored academy
+New College Telford	23.87	Sixth Form College
+Newport Girls' High School Academy Trust	39.85	Academy converter - mainstream
+Adams' Grammar School	41.86	Academy converter - mainstream
+Telford College of Arts and Technology	21.74	General Further Education College
+The Telford Park School	29.72	Academy converter - mainstream
+Thomas Telford School	39.04	City technology college
+Wrekin College	34	Independent school
+The Burton Borough School	29.72	Community school
+The Moorlands Sixth Form College	30.84	
+Earl Mortimer College and Sixth Form Centre	6.36	Community school
+The Hereford Academy	21.49	Sponsored academy
+Hereford Cathedral School	39.41	Independent school
+Hereford College of Arts	32.35	Art, Design and Performing Arts College
+Hereford Sixth Form College	31.41	Sixth Form College
+Herefordshire & Ludlow College	27.79	General Further Education College
+John Kyrle High School and Sixth Form Centre Academy	35.84	Academy converter - mainstream
+John Masefield High School	32.71	Academy converter - mainstream
+Lady Hawkins' School	30	Academy converter - mainstream
+Lucton School	26.44	Independent school
+Robert Owen Academy	29.72	Free school - mainstream
+Wigmore School	29.72	Academy converter - mainstream
+The Chase	32.37	Academy converter - mainstream
+Christopher Whitehead Language College	29.72	Academy converter - mainstream
+The De Montfort School	19.4	Community school
+Droitwich Spa High School and Sixth Form Centre	28.24	Academy converter - mainstream
+Dyson Perrins CofE Academy	21.63	Academy converter - mainstream
+Hagley Catholic High School	29.84	Academy converter - mainstream
+Hanley Castle High School	32.8	Academy converter - mainstream
+Haybridge High School and Sixth Form	33.57	Academy converter - mainstream
+Heart of Worcestershire College	21.82	General Further Education College
+Arrow Vale RSA Academy	26.56	Sponsored academy
+Holy Trinity School	23.28	Free school - mainstream
+King Charles I School	30.25	Academy converter - mainstream
+The King's School	40.24	Independent school
+Madinatul Uloom Al Islamiya School	18.67	Independent school
+Malvern College	42.15	Independent school
+Malvern St James	37.14	Independent school
+North Bromsgrove High School	26.49	Community school
+Baxter College	26.72	Academy converter - mainstream
+Pershore High School	29.99	Academy converter - mainstream
+Pitcheroak School	29.72	Community special school
+Prince Henry's High School	32.27	Academy converter - mainstream
+Royal Grammar School Worcester	40.5	Independent school
+St Augustine's Catholic High School	29.19	Academy converter - mainstream
+Saint Michael's College	38.21	Independent school
+The Bewdley School and Sixth Form Centre	29.39	Foundation school
+Abbey College in Malvern	29.72	Independent school
+South Bromsgrove High	31.42	Academy converter - mainstream
+The Stourport High School and Sixth Form Centre	26.47	Academy converter - mainstream
+Trinity High School and Sixth Form Centre	24.35	Academy converter - mainstream
+Tudor Grange Academy Redditch	26.24	Academy converter - mainstream
+Tudor Grange Academy Worcester	26.5	Sponsored academy
+Waseley Hills High School	28.55	Academy converter - mainstream
+Wolverley CofE Secondary School	21.28	Voluntary controlled school
+Woodrush Community High School	26.28	Academy converter - mainstream
+Worcester Sixth Form College	29.41	Sixth Form College
+Bredon School	15	Independent school
+Bromsgrove School	43.26	Independent school
+Cockshut Hill Technology College	9.42	Community school
+Colmers School and Sixth Form College	23.63	Foundation school
+Dame Elizabeth Cadbury Technology College	29.72	Foundation school
+Eden Boys' School, Birmingham	29.72	Free school - mainstream
+Edgbaston High School for Girls	41.4	Independent school
+Elmhurst School for Dance	27.47	Independent school
+Fairfax	24.91	Academy converter - mainstream
+Fox Hollies School and Performing Arts College	29.72	Community special school
+George Dixon Academy	23.31	Academy converter - mainstream
+Great Barr School	24.23	Foundation school
+Green Heath School	29.72	Independent school
+Greenwood Academy	23.22	Sponsored academy
+Archbishop Ilsley Catholic School	26.52	Voluntary aided school
+Archway Academy	29.72	Independent school
+Hamstead Hall Academy	24.8	Academy converter - mainstream
+Handsworth Grammar School	33.3	Voluntary aided school
+Handsworth Wood Girls' Academy	18.34	Academy converter - mainstream
+Harborne Academy	20.42	Sponsored academy
+Ark Kings Academy	29.72	Sponsored academy
+Ark St Alban's Academy	29.18	Sponsored academy
+Heartlands Academy	25.23	Sponsored academy
+Highclare School	27.9	Independent school
+The Arthur Terry School	26.71	Academy converter - mainstream
+Hillcrest School A Specialist Maths and Computing College and Sixth Form Centre	28.91	Academy converter - mainstream
+Holte School	19.81	Community school
+Holyhead School	27.28	Academy converter - mainstream
+Jamia Islamia Birmingham	29.72	Independent school
+John Willmott School	23.88	Community school
+Joseph Chamberlain Sixth Form College	29.22	Sixth Form College
+King Edward VI Aston School	35.63	Academy converter - mainstream
+King Edward VI Camp Hill School for Boys	44.96	Academy converter - mainstream
+King Edward VI Camp Hill School for Girls	44	Academy converter - mainstream
+King Edward VI Five Ways School	40.29	Academy converter - mainstream
+King Edward VI Handsworth School	37.98	Academy converter - mainstream
+King Edward VI High School for Girls	46.53	Independent school
+King Edward VI Sheldon Heath Academy	30.87	Sponsored academy
+King Edward's School	48.49	Independent school
+King Solomon International Business School	29.72	Free school - mainstream
+King's Norton Boys' School	21.47	Foundation school
+Kings Norton Girls' School	31.36	Academy converter - mainstream
+Aston Manor Academy	24.58	Academy converter - mainstream
+Aston University Engineering Academy	17.87	Free school - UTC (university technical college)
+Avecinna Academy	29.72	Independent school
+Lordswood Boys' School	29.72	Academy converter - mainstream
+Lordswood Girls' School and Sixth Form Centre	29.41	Academy converter - mainstream
+Mander Portman Woodward Independent College	39.88	Independent school
+Moseley School	27.04	Foundation school
+Ninestiles, an Academy	29.72	Academy converter - mainstream
+Nishkam High School	22	Free school - mainstream
+North Birmingham Academy	20.18	Sponsored academy
+The Baverstock Academy	17.17	Academy converter - mainstream
+Perry Beeches II The Free School	30.15	Free school - mainstream
+Perry Beeches III the Free School	29.72	Free school - mainstream
+Perry Beeches IV - The Free School	29.72	Free school - mainstream
+Perry Beeches V - The All Through Family School	29.72	Free school - mainstream
+Plantsbrook School	26.86	Academy converter - mainstream
+The Priory School	23.73	Independent school
+Queensbury School	29.72	Community special school
+St Edmund Campion Catholic School & Sixth Form Centre	25.06	Voluntary aided school
+St George's School Edgbaston	24.94	Independent school
+St John Wall Catholic School	17.38	Voluntary aided school
+St Paul's School for Girls	32.07	Voluntary aided school
+St Thomas Aquinas Catholic School	30.16	Academy converter - mainstream
+Selly Oak Trust School	29.72	Foundation special school
+Shenley Academy	19.05	Sponsored academy
+Small Heath School	19.7	Foundation school
+South and City College Birmingham	29.17	General Further Education College
+Birmingham Metropolitan College	22.84	General Further Education College
+Birmingham Ormiston Academy	20.28	Sponsored academy
+Bishop Challoner Catholic College	32.03	Voluntary aided school
+Bishop Vesey's Grammar School	42.05	Academy converter - mainstream
+Bishop Walsh Catholic School	30.32	Academy converter - mainstream
+Sutton Coldfield Grammar School for Girls	41.86	Academy converter - mainstream
+Swanshurst School	28.49	Community school
+Turves Green Boys' School	29.72	Community school
+The University of Birmingham School	29.72	Free school - mainstream
+Ward End Community College	29.72	Independent school
+Washwood Heath Academy	25.14	Academy converter - mainstream
+Waverley School	23.54	Academy converter - mainstream
+Waverley Studio College	29.72	Free school - studio school
+Bordesley Green Girls' School & Sixth Form	27.72	Community school
+Al Huda Girls' School	29.72	Independent school
+Bournville College of Further Education	21.16	General Further Education College
+Bournville School and Sixth Form Centre	28.93	Sponsored academy
+Broadway Academy	26.4	Academy converter - mainstream
+Cadbury Sixth Form College	23.34	Sixth Form College
+City College Coventry	22.5	General Further Education College
+Coundon Court	27.84	Academy converter - mainstream
+Eden Girls' School Coventry	29.72	Free school - mainstream
+Ernesford Grange Community Academy	26.25	Sponsored academy
+Finham Park 2	29.72	Free school - mainstream
+Finham Park School	30.64	Academy converter - mainstream
+Foxford School and Community Arts College	24.35	Foundation school
+Grace Academy Coventry	18.27	Sponsored academy
+Henley College Coventry	27.84	General Further Education College
+Hereward College of Further Education	29.72	General Further Education College
+King Henry VIII School	40.02	Independent school
+Lyng Hall School	19.3	Foundation school
+Bablake School	40.33	Independent school
+Barr's Hill School and Community College	22.43	Foundation school
+Pattison College	29.72	Independent school
+President Kennedy School Academy	28.97	Academy converter - mainstream
+Sidney Stringer Academy	31.47	Sponsored academy
+Stoke Park School and Community Technology College	26.63	Foundation school
+Bishop Ullathorne Catholic School	33.07	Voluntary aided school
+Tile Hill Wood School and Language College	27.93	Academy converter - mainstream
+Blue Coat Church of England School and Music College	30.28	Academy converter - mainstream
+The Westwood Academy	24.96	Academy converter - mainstream
+Whitley Academy	20.42	Academy converter - mainstream
+WMG Academy for Young Engineers	23.15	Free school - UTC (university technical college)
+Woodlands Academy	25.05	Academy converter - mainstream
+Caludon Castle School	30.33	Academy converter - mainstream
+Cardinal Newman Catholic School A Specialist Arts and Community College	28.32	Voluntary aided school
+Cardinal Wiseman Catholic School and Language College	38.02	Sponsored academy
+Dudley College of Technology	26.34	General Further Education College
+Ellowes Hall Sports College	28.25	Academy converter - mainstream
+Elmfield Rudolf Steiner School Limited	29.72	Independent school
+Halesowen College	25.53	General Further Education College
+King Edward VI College Stourbridge	35.89	Sixth Form College
+Old Swinford Hospital	30.73	Voluntary aided school
+Bishop Milner Catholic College	24.91	Academy converter - mainstream
+Windsor High School and Sixth Form	27.08	Academy converter - mainstream
+George Salter Academy	27.73	Sponsored academy
+Health Futures UTC	29.72	Free school - UTC (university technical college)
+Holly Lodge High School College of Science	23.34	Foundation school
+The ACE Academy	15.33	Sponsored academy
+Oldbury Academy	23.01	Academy converter - mainstream
+Ormiston Forge Academy	25.11	Sponsored academy
+Ormiston Sandwell Community Academy	14.23	Sponsored academy
+Perryfields High School Specialist Maths and Computing College	24.59	Community school
+The Phoenix Collegiate	29.12	Foundation school
+Q3 Academy	23.72	Sponsored academy
+Q3 Academy Langley	29.72	Sponsored academy
+RSA Academy	30.12	Sponsored academy
+Sandwell Academy	33.17	Sponsored academy
+Sandwell College	24.47	General Further Education College
+Shireland Collegiate Academy	22.07	Sponsored academy
+Stuart Bathurst Catholic High School College of Performing Arts	28.84	Voluntary aided school
+The Westminster School	29.72	Community special school
+Wood Green Academy	27.88	Academy converter - mainstream
+Bristnall Hall Academy	26.7	Academy converter - mainstream
+CTC Kingshurst Academy	28.21	Sponsored academy
+Grace Academy Solihull	21.83	Sponsored academy
+Arden	32.91	Academy converter - mainstream
+Heart of England School	30.66	Academy converter - mainstream
+John Henry Newman Catholic College	28.15	Sponsored academy
+Park Hall Academy	26.28	Sponsored academy
+Saint Martin's School	39.31	Independent school
+St Peter's Catholic School and Specialist Science College	31.51	Voluntary aided school
+The Sixth Form College, Solihull	27.58	Sixth Form College
+Smith's Wood Sports College	15	Community school
+Solihull College	21.82	General Further Education College
+Solihull School	43.61	Independent school
+Tudor Grange Academy, Solihull	34.36	Academy converter - mainstream
+WMG Academy for Young Engineers (Solihull)	29.72	Free school - UTC (university technical college)
+Alderbrook School	29.72	Academy converter - mainstream
+Grace Academy Darlaston	15.98	Sponsored academy
+Joseph Leckie Academy	26.92	Academy converter - mainstream
+Mary Elliot School	29.72	Community special school
+Barr Beacon School	27.7	Academy converter - mainstream
+Ormiston Shelfield Community Academy	22.61	Sponsored academy
+Pool Hayes Arts and Community School	25.52	Foundation school
+Queen Mary's Grammar School	39.01	Academy converter - mainstream
+Queen Mary's High School	30.64	Academy converter - mainstream
+St Francis of Assisi Catholic Technology College	23.37	Voluntary aided school
+St Thomas More Catholic School, Willenhall	24.41	Voluntary aided school
+Shire Oak Academy	26.27	Academy converter - mainstream
+The Streetly Academy	32.2	Academy converter - mainstream
+Walsall Academy	32.24	Sponsored academy
+Walsall College	20	General Further Education College
+Walsall Studio School	24.29	Free school - studio school
+Bloxwich Academy	20	Sponsored academy
+Blue Coat Church of England Academy	22.35	Sponsored academy
+West Walsall E-ACT Academy	21.48	Sponsored academy
+Willenhall E-ACT Academy	14.33	Sponsored academy
+Brownhills School	16.74	Foundation school
+Aldridge School - A Science College	30.27	Academy converter - mainstream
+The Coleshill School	26.42	Academy converter - mainstream
+Etone College	21.72	Academy converter - mainstream
+Focus School - Coventry Campus	32.3	Independent school
+Arnold Lodge School	29.72	Independent school
+Higham Lane School	29.72	Academy converter - mainstream
+Ash Green School	25.3	Academy converter - mainstream
+Ashlawn School	31.58	Academy converter - mainstream
+Kenilworth School and Sixth Form	36.43	Foundation school
+Kineton High School	26.83	Community school
+King Edward VI College Nuneaton	27.73	Sixth Form College
+King Edward VI School	43.96	Academy converter - mainstream
+King's High School	40.67	Independent school
+The Kingsley School	28.85	Independent school
+Lawrence Sheriff School	38.51	Academy converter - mainstream
+Aylesford School and Sixth Form College	29.07	Academy converter - mainstream
+The Midland Studio College Nuneaton	29.72	Free school - studio school
+Myton School	33.46	Academy converter - mainstream
+Nicholas Chamberlaine Technology College	25.34	Sponsored academy
+North Leamington School	35.27	Community school
+North Warwickshire and South Leicestershire College	24.5	General Further Education College
+The Nuneaton Academy	13.64	Sponsored academy
+The Polesworth School	32.8	Academy converter - mainstream
+Princethorpe College	34.3	Independent school
+Rugby Free Secondary School	29.72	Free school - mainstream
+Rugby High School	39.4	Academy converter - mainstream
+Rugby School	44.05	Independent school
+St Benedict's Catholic High School	34.2	Voluntary aided school
+St Thomas More Catholic School and Sixth Form College	35.76	Academy converter - mainstream
+Bilton School	23.66	Academy converter - mainstream
+Southam College	35.63	Community school
+Stratford Girls' Grammar School	39.87	Academy converter - mainstream
+Stratford Upon Avon School	27.91	Academy converter - mainstream
+Stratford-upon-Avon College	21.9	General Further Education College
+Trinity Catholic School	29.44	Voluntary aided school
+Warwick School	43.53	Independent school
+Warwickshire College Group	23.97	General Further Education College
+Alcester Grammar School	36.8	Academy converter - mainstream
+Campion School	38.65	Academy converter - mainstream
+City of Wolverhampton College	24.47	General Further Education College
+Colton Hills Community School	26.35	Community school
+Coppice Performing Arts School	25.32	Community school
+Heath Park	29.81	Academy converter - mainstream
+Highfields School	30.73	Community school
+The King's Church of England School	24.08	Voluntary aided school
+Moreton Community School	25.88	Community school
+Moseley Park	25.79	Sponsored academy
+North East Wolverhampton Academy	18.72	Sponsored academy
+Our Lady and St Chad Catholic Academy	20.9	Academy converter - mainstream
+The Royal Wolverhampton School	30.51	Independent school
+St Edmunds Catholic Academy	24.09	Academy converter - mainstream
+St.Peter's Collegiate Church of England School	27.19	Academy converter - mainstream
+St Matthias School	29.72	Community school
+Smestow School	26.19	Academy converter - mainstream
+South Wolverhampton and Bilston Academy	24.39	Sponsored academy
+Tettenhall College Incorporated	28.48	Independent school
+Wednesfield High Specialist Engineering Academy	26.98	Sponsored academy
+West Midlands Construction UTC	29.72	Free school - UTC (university technical college)
+Wolverhampton Girls' High School	39.08	Academy converter - mainstream
+Wolverhampton Grammar School	36.39	Independent school
+The British Sikh School	29.72	Free school - mainstream
+Aldersley High School	26.58	Academy converter - mainstream
+Central Learning Partnership	28.77	
+Hastingsbury Business & Enterprise College	26.14	Foundation school
+Kempston Challenger Academy	29.72	Sponsored academy
+Kimberley 16 - 19 Stem College	30.08	Free school - 16-19
+KWS Educational Services	29.72	Independent school
+Mark Rutherford School	29.7	Academy converter - mainstream
+Bedford Academy	24.32	Sponsored academy
+Bedford College	24.76	General Further Education College
+Bedford Girls' School	39.08	Independent school
+Bedford Modern School	43.1	Independent school
+Bedford School	43.11	Independent school
+St Thomas More Catholic School	28.23	Academy converter - mainstream
+Biddenham Upper School and Sports College	24.59	Foundation school
+Sharnbrook Upper School	29.69	Academy converter - mainstream
+Wootton Upper School	27.03	Academy converter - mainstream
+Comberton Village College	34.88	Academy converter - mainstream
+Cottenham Village College	29.72	Academy converter - mainstream
+Cromwell Community College	29.44	Academy converter - mainstream
+Ely College	15.79	Academy converter - mainstream
+Ely College	29.72	Academy converter - mainstream
+Ernulf Academy	21.89	Academy converter - mainstream
+Focus School - Cambridge Campus	29.53	Independent school
+Hills Road Sixth Form College	41.64	Sixth Form College
+Hinchingbrooke School	30.68	Academy converter - mainstream
+Huntingdonshire Regional College	29.72	General Further Education College
+Impington Village College	32.84	Academy converter - mainstream
+Kimbolton School	39.4	Independent school
+The King's School Ely	37.08	Independent school
+The Leys School	39.89	Independent school
+Long Road Sixth Form College	26.25	Sixth Form College
+Longsands Academy	29.15	Academy converter - mainstream
+Mander Portman Woodward	38.37	Independent school
+Neale-Wade Academy	26.86	Sponsored academy
+The Netherhall School	29.72	Sponsored academy
+The Netherhall School	27.96	Foundation school
+Parkside Community College	30.29	Academy converter - mainstream
+The Perse School	49.71	Independent school
+St. Andrew's College Cambridge	31.33	Independent school
+Bellerbys College Cambridge	43.2	Independent school
+St Ivo School	29.63	Academy converter - mainstream
+St Mary's School	41.69	Independent school
+Abbey College Cambridge	44.35	Independent school
+St Peter's School	25.35	Academy converter - mainstream
+Sawtry Community College Academy	28.96	Academy converter - mainstream
+Sir Harry Smith Community College	29.33	Academy converter - mainstream
+The Stephen Perse Foundation	49.68	Independent school
+Tbap Unity Academy	29.72	Sponsored special academy
+Thomas Clarkson Academy	18	Sponsored academy
+Abbey College, Ramsey	31.41	Academy converter - mainstream
+UTC Cambridge	17.79	Free school - UTC (university technical college)
+Wisbech Grammar School	32.11	Independent school
+Cambridge Arts and Sciences Sixth Form and Tutorial College	37.6	Independent school
+Cambridge Centre for Sixth Form Studies	34.51	Independent school
+Cambridge Regional College	15.93	General Further Education College
+Cedars Upper School	29.61	Academy converter - mainstream
+Central Bedfordshire College	29.72	General Further Education College
+Central Bedfordshire UTC	25.85	Free school - UTC (university technical college)
+All Saints Academy Dunstable	19.24	Sponsored academy
+Etonbury Academy	29.72	Academy converter - mainstream
+Focus School - Biggleswade Campus	23.94	Independent school
+Focus School - Dunstable Campus	28.77	Independent school
+Harlington Upper School	28.33	Academy converter - mainstream
+Manshead School	24.65	Voluntary aided school
+Queensbury Academy	24.31	Sponsored academy
+Redborne Upper School and Community College	33.85	Academy converter - mainstream
+Samuel Whitbread Academy	29.33	Academy converter - mainstream
+Sandy Upper School	22.7	Foundation school
+Stratton Upper School	30.3	Academy converter - mainstream
+Vandyke Upper School and Community College	30.84	Academy converter - mainstream
+The Cavendish School	29.23	Community school
+Chancellor's School	32.5	Foundation school
+The Chauncy School	30.69	Academy converter - mainstream
+Cheshunt School	24.27	Foundation school
+The Da Vinci Studio School of Creative Enterprise	29.72	Free school - studio school
+The Da Vinci Studio School of Science and Engineering	21.23	Free school - studio school
+Dame Alice Owen's School	43.3	Academy converter - mainstream
+Egerton-Rothesay School	29.72	Independent school
+The Elstree UTC	24.62	Free school - UTC (university technical college)
+Fearnhill School	27.29	Foundation school
+Francis Combe Academy	22.75	Sponsored academy
+Freman College	29.24	Academy converter - mainstream
+Goffs School	30.66	Academy converter - mainstream
+Haberdashers' Aske's Boys' School	50.28	Independent school
+Haberdashers' Aske's School for Girls	50.02	Independent school
+Haileybury and Imperial Service College	43.86	Independent school
+Haileybury Turnford	33	Sponsored academy
+The Hemel Hempstead School	32.52	Foundation school
+Hertford Regional College	29.72	General Further Education College
+The Hertfordshire & Essex High School and Science College	37.29	Academy converter - mainstream
+Hertswood Academy	29.26	Academy converter - mainstream
+The Highfield School	28.57	Community school
+Hitchin Boys' School	31.85	Academy converter - mainstream
+Hitchin Girls' School	36.58	Academy converter - mainstream
+Hockerill Anglo-European College	41.48	Academy converter - mainstream
+Immanuel College	46.6	Independent school
+Ashlyns School	31.26	Foundation school
+John F Kennedy Catholic School	30.52	Voluntary aided school
+The John Henry Newman Catholic School	32.24	Academy converter - mainstream
+The John Warner School	27.92	Academy converter - mainstream
+Kings Langley School	28.9	Academy converter - mainstream
+The Astley Cooper School	18.12	Community school
+The Knights Templar School	35.37	Academy converter - mainstream
+Leventhorpe	32.87	Academy converter - mainstream
+Longdean School	27.07	Academy converter - mainstream
+Loreto College	33.92	Academy converter - mainstream
+The Marlborough Science Academy	27.58	Academy converter - mainstream
+Marriotts School	20.83	Community school
+Merchant Taylors' School	47.09	Independent school
+Meridian School	28.95	Academy converter - mainstream
+Monk's Walk School	31.06	Academy converter - mainstream
+Barclay School	25.81	Community school
+Mount Grace School	18.18	Academy converter - mainstream
+Nicholas Breakspear Catholic School	28.31	Academy converter - mainstream
+The Nobel School	33.15	Community school
+North Hertfordshire College	29.72	General Further Education College
+Barnwell School	26.79	Foundation school
+Oaklands College	22.62	General Further Education College
+Onslow St Audrey's School	26.11	Academy converter - mainstream
+Parmiter's School	40.13	Academy converter - mainstream
+Presdales School	35.17	Academy converter - mainstream
+Princess Helena College	31.94	Independent school
+The Priory School	33.16	Foundation school
+Purcell School	35.4	Independent school
+Beaumont School	35.75	Academy converter - mainstream
+Queens' School	33.4	Academy converter - mainstream
+Queenswood School	40.64	Independent school
+The Reach Free School	29.72	Free school - mainstream
+Richard Hale School	31.66	Academy converter - mainstream
+Rickmansworth School	34.26	Academy converter - mainstream
+Roundwood Park School	37.78	Academy converter - mainstream
+Royal Masonic School for Girls	41.31	Independent school
+Rudolf Steiner School	36.56	Independent school
+St Albans Girls' School	36.36	Academy converter - mainstream
+St Albans High School for Girls	47.56	Independent school
+St Albans Independent College	33.16	Independent school
+St Albans School	46.89	Independent school
+St Christopher School	35.84	Independent school
+St Clement Danes School	38.94	Academy converter - mainstream
+St Columba's College	36.17	Independent school
+St Edmund's College	36.83	Independent school
+St Francis College	43.16	Independent school
+St George's School	37.96	Academy converter - mainstream
+Saint Joan of Arc Catholic School	31.78	Academy converter - mainstream
+St Margaret's School	37.75	Independent school
+St Mary's Catholic School	33.9	Voluntary aided school
+St Mary's Church of England High School (VA)	17.69	Academy converter - mainstream
+Berkhamsted School	41.69	Independent school
+Adeyfield School	22.77	Community school
+Saint Michael's Catholic High School	30.75	Academy converter - mainstream
+Samuel Ryder Academy	27.04	Sponsored academy
+Sandringham School	38.6	Academy converter - mainstream
+The Sele School	21.86	Academy converter - mainstream
+Sheredes School	29.72	Sponsored academy
+Sheredes School	26.97	Community school
+Sherrardswood School	31.92	Independent school
+Simon Balle All-Through School	34.91	Academy converter - mainstream
+Sir Frederic Osborn School	23.19	Community school
+Birchwood High School	29.33	Academy converter - mainstream
+Sir John Lawes School	38.3	Academy converter - mainstream
+Stanborough School	28.82	Academy converter - mainstream
+Stanborough Secondary School	29.72	Independent school
+Bishop's Hatfield Girls' School	34.7	Academy converter - mainstream
+Bishop's Stortford College	43.34	Independent school
+The Bishop's Stortford High School	32.39	Foundation school
+The Thomas Alleyne School	21.44	Sponsored academy
+Townsend CofE School	22.18	Voluntary aided school
+Tring Park School for the Performing Arts	35.99	Independent school
+Tring School	32.4	Academy converter - mainstream
+Verulam School	29.78	Academy converter - mainstream
+Watford Grammar School for Boys	41.4	Academy converter - mainstream
+Watford Grammar School for Girls	41.55	Academy converter - mainstream
+The Watford UTC	23.12	Free school - UTC (university technical college)
+West Herts College	27.78	General Further Education College
+Westfield Academy	22.75	Academy converter - mainstream
+Woodfield School	29.72	Community special school
+Yavneh College	42.18	Academy converter - mainstream
+The Aldenham Foundation	31.47	Independent school
+The Broxbourne School	36.83	Academy converter - mainstream
+The Bushey Academy	27.43	Sponsored academy
+Bushey Meads School	30.21	Academy converter - mainstream
+The Chalk Hills Academy	21.42	Sponsored academy
+Luton Sixth Form College	27.23	Sixth Form College
+Barnfield College	29.72	General Further Education College
+The Stockwood Park Academy	18.62	Sponsored academy
+The Studio School Luton	29.72	Free school - studio school
+Bury Park Educational Institute (Al - Hikmah Secondary School)	28.89	Independent school
+Cardinal Newman Catholic School A Specialist Science College	31.38	Academy converter - mainstream
+City of Peterborough Academy	29.72	Free school - mainstream
+Greater Peterborough UTC	29.72	Free school - UTC (university technical college)
+Hampton College	24.82	Academy converter - mainstream
+Arthur Mellows Village College	32.95	Academy converter - mainstream
+Iqra Academy	29.72	Independent school
+Jack Hunt School	25.81	Foundation school
+Ken Stimpson Community School	23.66	Community school
+The King's (The Cathedral) School	36.11	Academy converter - mainstream
+Nene Park Academy	22.16	Sponsored academy
+Ormiston Bushfield Academy	25.5	Sponsored academy
+Peterborough Regional College	29.72	General Further Education College
+The Peterborough School	32.06	Independent school
+St John Fisher Catholic High School	23.54	Voluntary aided school
+Stanground Academy	27.33	Sponsored academy
+Thomas Deacon Academy	29.11	Sponsored academy
+The Voyager Academy	22.54	Sponsored academy
+Chelmer Valley High School	30.52	Academy converter - mainstream
+Chelmsford College	12.97	General Further Education College
+Chelmsford County High School for Girls	42.05	Academy converter - mainstream
+Chigwell School	43.05	Independent school
+Clacton Coastal Academy	19.81	Sponsored academy
+Clacton County High School	28.72	Academy converter - mainstream
+Colchester County High School for Girls	41.16	Academy converter - mainstream
+Colchester High School	29.72	Independent school
+Colchester Institute	17.6	General Further Education College
+Colchester Royal Grammar School	46.03	Academy converter - mainstream
+Colne Community School and College	19.52	Academy converter - mainstream
+Davenant Foundation School	33.25	Academy converter - mainstream
+Debden Park High School	29.72	Academy converter - mainstream
+Anglo European School	34	Academy converter - mainstream
+Epping Forest College	26.91	General Further Education College
+Epping St John's Church of England VC School	29.72	Voluntary controlled school
+Felsted School	37.27	Independent school
+The FitzWimarc School	29.72	Academy converter - mainstream
+Friends School	31.54	Independent school
+Gosfield School	24.95	Independent school
+Great Baddow High School	29.39	Academy converter - mainstream
+The Appleton School	27.46	Academy converter - mainstream
+Greensward Academy	26.13	Sponsored academy
+Guru Gobind Singh Khalsa College	20.51	Independent school
+Harlow College	30.52	General Further Education College
+Harwich and Dovercourt High School	17.06	Academy converter - mainstream
+Hedingham School and Sixth Form	24.8	Academy converter - mainstream
+Helena Romanes School and Sixth Form Centre	21.27	Academy converter - mainstream
+Hylands School	22.83	Academy converter - mainstream
+Joyce Frankland Academy, Newport	22.17	Academy converter - mainstream
+The King Edmund School	20.96	Academy converter - mainstream
+King Edward VI Grammar School, Chelmsford	44.59	Academy converter - mainstream
+The King John School	29.19	Academy converter - mainstream
+Maltings Academy	22.17	Sponsored academy
+Mayflower High School	32.11	Academy converter - mainstream
+Moulsham High School	29.33	Academy converter - mainstream
+New Campus Basildon Studio School	29.72	Free school - studio school
+New Campus Basildon Studio School	29.72	Free school - studio school
+New Hall School	41.34	Independent school
+New Rickstones Academy	19.52	Sponsored academy
+Notley High School and Braintree Sixth Form	27.81	Academy converter - mainstream
+The Ongar Academy	29.72	Free school - mainstream
+Ormiston Rivers Academy	23.82	Sponsored academy
+The Basildon Upper Academy	16.88	Sponsored academy
+Philip Morant School and College	25.14	Academy converter - mainstream
+Plume School	27.53	Academy converter - mainstream
+Beauchamps High School	30.81	Foundation school
+Prospects College of Advanced Technology	29.72	General Further Education College
+Becket Keys Church of England Free School	29.72	Free school - mainstream
+Roding Valley High School	29.72	Community school
+Saffron Walden County High School	36.44	Academy converter - mainstream
+St John Payne Catholic School, Chelmsford	32.03	Voluntary aided school
+St Mark's West Essex Catholic School	22.24	Academy converter - mainstream
+St Martin's School Brentwood	28.39	Academy converter - mainstream
+The Sandon School	28.97	Academy converter - mainstream
+The Billericay School	27.61	Academy converter - mainstream
+SEEVIC College	26.49	General Further Education College
+Shenfield High School	32.61	Academy converter - mainstream
+Sir Charles Kao Utc	9.41	Free school - UTC (university technical college)
+The Sixth Form College Colchester	26.92	Sixth Form College
+The Sweyne Park School	23.94	Academy converter - mainstream
+Tendring Enterprise Studio School	29.72	Free school - studio school
+Tendring Technology College	27.7	Academy converter - mainstream
+Thurstable School Sports College and Sixth Form Centre	24.52	Academy converter - mainstream
+Trinity School	29	Independent school
+West Hatch High School	28.86	Academy converter - mainstream
+William de Ferrers School	29.73	Academy converter - mainstream
+The Boswells School	31.74	Academy converter - mainstream
+Brentwood County High School	26.19	Academy converter - mainstream
+Brentwood School	41.56	Independent school
+Brentwood Ursuline Convent High School	33.8	Academy converter - mainstream
+The Bromfords School and Sixth Form College	24.59	Academy converter - mainstream
+City Academy Norwich	29.72	Sponsored academy
+City of Norwich School	28.77	Academy converter - mainstream
+The College of West Anglia	22.34	General Further Education College
+Dereham Neatherd High School	29.35	Community school
+Diss High School	31.49	Academy converter - mainstream
+Downham Market Academy	25.26	Sponsored academy
+East Norfolk Sixth Form College	27.59	Sixth Form College
+Easton & Otley College	29.72	Agriculture and Horticulture College
+Fakenham Academy	28.38	Sponsored academy
+Focus School - Swaffham Campus	29.61	Independent school
+Great Yarmouth College	29.72	General Further Education College
+Gresham's School	37.41	Independent school
+Hellesdon High School	31.87	Academy converter - mainstream
+Hethersett Old Hall School	28.48	Independent school
+The Hewett Academy, Norwich	32.27	Sponsored academy
+Iceni Academy	14.06	Sponsored academy
+Jane Austen College	35.74	Free school - mainstream
+King Edward VII Academy	28.78	Sponsored academy
+Attleborough Academy Norfolk	22.19	Academy converter - mainstream
+Langley School	33	Independent school
+The Nicholas Hamond Academy	16.67	Sponsored academy
+Northgate High School	29.35	Academy converter - mainstream
+Norwich City College of Further and Higher Education	24.55	General Further Education College
+Norwich High School for Girls GDST	40.63	Independent school
+Norwich School	45.44	Independent school
+Notre Dame High School, Norwich	34.13	Academy converter - mainstream
+The Open Academy	19.5	Sponsored academy
+Ormiston Victory Academy	25.13	Sponsored academy
+Paston Sixth Form College	30.22	Sixth Form College
+Reepham High School and College	33.33	Academy converter - mainstream
+Sewell Park Academy	22.22	Sponsored academy
+Sheringham High School	31.51	Academy converter - mainstream
+Sir Isaac Newton Sixth Form Free School	33.57	Free school - 16-19
+Smithdon High School	24.88	Community school
+Springwood High School	30.94	Academy converter - mainstream
+Sprowston Community High School	26.13	Community school
+Taverham High School	29.53	Academy converter - mainstream
+The Thetford Academy	21.75	Sponsored academy
+Thetford Grammar School	38.56	Independent school
+Thorpe St Andrew School and Sixth Form	31.25	Community school
+Trafalgar College	29.72	Free school - mainstream
+University Technical College Norfolk	10.26	Free school - UTC (university technical college)
+Wymondham College	34.55	Academy converter - mainstream
+Wymondham High Academy Trust	32.63	Academy converter - mainstream
+Cecil Jones Academy	27.98	Sponsored academy
+Chase High School	26.4	Sponsored academy
+Futures Community College	29.72	Foundation school
+Belfairs Academy	21.85	Academy converter - mainstream
+St Bernard's High School	29.05	Academy converter - mainstream
+St Thomas More High School	26.81	Academy converter - mainstream
+Shoeburyness High School	24.64	Academy converter - mainstream
+South Essex College of Further and Higher Education	19.94	General Further Education College
+Southend High School for Boys	40.17	Academy converter - mainstream
+Southend High School for Girls	38.23	Academy converter - mainstream
+Westcliff High School for Boys Academy	40.99	Academy converter - mainstream
+Westcliff High School for Girls	39.96	Academy converter - mainstream
+Copleston High School	28.3	Academy converter - mainstream
+Culford School	35.85	Independent school
+Farlingaye High School	34.8	Academy converter - mainstream
+Felixstowe Academy	24.22	Sponsored academy
+Felixstowe International College	29.11	Independent school
+Finborough School	18.32	Independent school
+Focus School - Stoke by Nayland	24.82	Independent school
+Framlingham College	32.22	Independent school
+Hartismere School	30.7	Academy converter - mainstream
+Ipswich Academy	12.63	Sponsored academy
+Ipswich High School	38.14	Independent school
+Ipswich School	41.48	Independent school
+Kesgrave High School	28.62	Academy converter - mainstream
+King Edward VI Church of England Voluntary Controlled Upper School	31.48	Voluntary controlled school
+Lowestoft College	29.72	General Further Education College
+Lowestoft Sixth Form College	27.81	Sixth Form College
+Mildenhall College Academy	27.37	Academy converter - mainstream
+Newmarket Academy	20.77	Sponsored academy
+Northgate High School	30.87	Community school
+Ormiston Sudbury Academy	24.44	Sponsored academy
+Royal Hospital School	34.38	Independent school
+St Alban's Catholic High School	28.95	Academy converter - mainstream
+St Benedict's Catholic School	36.59	Voluntary aided school
+Saint Felix School	33.9	Independent school
+St Joseph's College	30.08	Independent school
+Samuel Ward Academy	30.83	Academy converter - mainstream
+Sir John Leman High School	30.81	Academy converter - mainstream
+Stowmarket High School	28.14	Community school
+Stowupland High School	25.94	Community school
+Suffolk New College	17.51	General Further Education College
+Suffolk One	31.05	ACC1619
+Summerhill School	29.72	Independent school
+Thomas Gainsborough School	30.73	Academy converter - mainstream
+Thomas Mills High School	29.68	Academy converter - mainstream
+Thurston Community College	32.68	Community school
+West Suffolk College	25.63	General Further Education College
+Woodbridge School	36.11	Independent school
+Alde Valley School	22.59	Sponsored academy
+Bungay High School	31.56	Academy converter - mainstream
+Bury St Edmunds County Upper School	34.18	Academy converter - mainstream
+Castle Manor Academy	18.46	Academy converter - mainstream
+Gable Hall School	26.3	Academy converter - mainstream
+The Gateway Academy	13.75	Sponsored academy
+Harris Academy Chafford Hundred	34.15	Academy converter - mainstream
+The Ockendon Academy	22.07	Academy converter - mainstream
+Ormiston Park Academy	14.95	Sponsored academy
+Palmer's College	25.34	Sixth Form College
+Dereham Sixth Form College	29.35	
+Emmanuel College	38.21	City technology college
+Gateshead College	23.6	General Further Education College
+Heworth Grange Comprehensive School	27.89	Community school
+Joseph Swan Academy	28.91	Academy converter - mainstream
+Lord Lawson of Beamish Academy	31.1	Academy converter - mainstream
+St Thomas More Catholic School	32.83	Academy converter - mainstream
+Thorp Academy	25.95	Sponsored academy
+Whickham School	30.66	Academy converter - mainstream
+Cardinal Hume Catholic School	32.77	Academy converter - mainstream
+Dame Allan's Senior School	38.36	Independent school
+Discovery School	19.77	Free school - mainstream
+Excelsior Academy	23.65	Sponsored academy
+Gosforth Academy	30.04	Academy converter - mainstream
+Heaton Manor School	30.49	Foundation school
+Kenton School	22.85	Academy converter - mainstream
+NCG	24.29	General Further Education College
+Newcastle High School for Girls	38.16	Independent school
+Newcastle School for Boys	33.23	Independent school
+Royal Grammar School	45.55	Independent school
+Sacred Heart Catholic High School	36.35	Academy converter - mainstream
+St Cuthbert's High School	33.8	Academy converter - mainstream
+Benfield School	26.11	Foundation school
+St Mary's Catholic School	32.72	Academy converter - mainstream
+Studio West	15.25	Free school - studio school
+Trinity Solutions Academy	29.72	Academy converter - mainstream
+Walbottle Campus	33.1	Community school
+Walker Technology College	25.08	Foundation school
+Westfield School	37.88	Independent school
+Churchill Community College	33.44	Foundation school
+George Stephenson High School	32.41	Foundation school
+Kings Priory School	32.25	Sponsored academy
+Longbenton High School	28.46	Foundation school
+Monkseaton High School	27.34	Foundation school
+St Thomas More Roman Catholic Academy	32.31	Academy converter - mainstream
+Seaton Burn College, A Specialist Business and Enterprise School	24.37	Foundation school
+Tyne Metropolitan College	27.49	General Further Education College
+Whitley Bay High School	31.51	Foundation school
+Burnside Business and Enterprise College	29.83	Community school
+Cramlington Learning Village	32.63	Academy converter - mainstream
+The Duchess's Community High School	30.74	Community school
+Haydon Bridge Community High School and Sports College	30.4	Foundation school
+Ashington High School	25.66	Foundation school
+James Calvert Spence College - Acklington Road	20.9	Community school
+The King Edward VI Academy	31.94	Academy converter - mainstream
+Astley Community High School	23.95	Community school
+Longridge Towers School	28.38	Independent school
+Northumberland CofE Academy	22.21	Sponsored academy
+Northumberland College	29.72	General Further Education College
+Ponteland Community High School	28.85	Community school
+Prudhoe Community High School	29.5	Community school
+Queen Elizabeth High School	35.89	Community school
+Bede Academy	29.27	Sponsored academy
+Bedlingtonshire Community High School	27.63	Community school
+St Benet Biscop Catholic Academy	30.38	Academy converter - mainstream
+Berwick Academy	22.08	Academy converter - mainstream
+The Blyth Academy	17.32	Sponsored academy
+Harton Technology College	31.89	Community school
+St Joseph's Catholic Academy	26.02	Academy converter - mainstream
+St Wilfrid's RC College	32.14	Voluntary aided school
+South Tyneside College	29.72	General Further Education College
+Whitburn Church of England Academy	29.72	Academy converter - mainstream
+City of Sunderland College	23.54	General Further Education College
+Grindon Hall Christian School	31.51	Free school - mainstream
+St Aidan's Catholic Academy	25.51	Academy converter - mainstream
+St Anthony's Girls' Catholic Academy	26.87	Academy converter - mainstream
+St Robert of Newminster Roman Catholic School	29.9	Voluntary aided school
+Southmoor Academy	29.48	Academy converter - mainstream
+CATS College London	34.43	Independent school
+Fine Arts College	35.43	Independent school
+Hampstead School	23.55	Community school
+Haverstock School	21.82	Community school
+La Sainte Union Catholic Secondary School	28.91	Voluntary aided school
+Maria Fidelis Roman Catholic Convent School FCJ	26.02	Voluntary aided school
+Acland Burghley School	28.69	Community school
+Parliament Hill School	30.39	Community school
+Regent High School	21.38	Community school
+South Hampstead High School	46.48	Independent school
+The UCL Academy	29	Sponsored academy
+University College School	48.96	Independent school
+William Ellis School	24.58	Voluntary aided school
+The WKCIC Group	22.24	General Further Education College
+The Working Men's College	29.72	Specialist Designated College
+The Camden School for Girls	40.37	Voluntary aided school
+Central Foundation Boys' School	29.22	Voluntary aided school
+City of London Academy Islington	24.65	Sponsored academy
+Highbury Fields School	31.95	Community school
+Highbury Grove School	23.91	Community school
+North Bridge House Senior Canonbury	31.03	Independent school
+St Aloysius RC College	21.64	Voluntary aided school
+St Mary Magdalene Academy	36.63	Sponsored academy
+Tech City College	20.69	Free school - 16-19
+Chelsea Academy	30.7	Sponsored academy
+Collingham	35.12	Independent school
+David Game College	32.92	Independent school
+Duff Miller College	33.36	Independent school
+Holland Park School	40.41	Academy converter - mainstream
+Ashbourne Independent School	41.82	Independent school
+Kensington Aldridge Academy	29.72	Sponsored academy
+Kensington and Chelsea College	29.72	General Further Education College
+Lycee Francais Charles de Gaulle	44.75	Independent school
+Mander Portman Woodward School	39.45	Independent school
+More House School	35.12	Independent school
+Queen's Gate School	42.21	Independent school
+St Charles Catholic Sixth Form College	24.09	Sixth Form College
+Westminster Tutors	35.47	Independent school
+The Cardinal Vaughan Memorial RC School	43.27	Academy converter - mainstream
+City Heights E-ACT Academy	29.72	Sponsored academy
+DLD College London	37.99	Independent school
+Dunraven School	33.01	Academy converter - mainstream
+Durand Academy	29.72	Academy converter - mainstream
+The Elmgreen School	26.29	Voluntary controlled school
+Archbishop Tenison's School	22.61	Voluntary aided school
+Ark Evelyn Grace Academy	27.05	Sponsored academy
+King's College London Maths School	50.04	Free school - 16-19
+La Retraite Roman Catholic Girls' School	30.84	Voluntary aided school
+Lambeth Academy	25.35	Sponsored academy
+Lambeth College	29.72	General Further Education College
+Lilian Baylis Technology School	29.58	Community school
+London Nautical School	24.22	Foundation school
+Norwood School	24.81	Community school
+St Martin in the Fields High School for Girls	27.13	Academy converter - mainstream
+South Bank Engineering UTC	29.72	Free school - UTC (university technical college)
+Bishop Thomas Grant Catholic Secondary School	33.67	Voluntary aided school
+Streatham and Clapham High School	40.91	Independent school
+Trinity Academy	29.72	Free school - mainstream
+Woodmansterne School	29.72	Community school
+The Charter School	37.37	Academy converter - mainstream
+City of London Academy (Southwark)	26.86	Sponsored academy
+Compass School Southwark	29.72	Free school - mainstream
+Alleyn's School	48.41	Independent school
+Dulwich College	45.5	Independent school
+Harris Academy Bermondsey	23.21	Sponsored academy
+Harris Academy Peckham	24.08	Sponsored academy
+Ark All Saints Academy	29.72	Sponsored academy
+Ark Globe Academy	31.82	Sponsored academy
+Ark Walworth Academy	20.83	Sponsored academy
+James Allen's Girls' School	50.86	Independent school
+Kingsdale Foundation School	34.6	Academy converter - mainstream
+Bacon's College	29.56	Sponsored academy
+Sacred Heart Catholic School	35.97	Academy converter - mainstream
+St Michael's Catholic College	29.48	Academy converter - mainstream
+St Saviour's and St Olave's Church of England School	34.01	Voluntary aided school
+The St Thomas the Apostle College	29.72	Voluntary aided school
+Bosco Centre College	29.72	Independent school
+Chestnut Grove School	30.32	Academy converter - mainstream
+Emanuel School	38.25	Independent school
+Ernest Bevin College	21.91	Community school
+Graveney School	34.69	Academy converter - mainstream
+Harris Academy Battersea	32.59	Sponsored academy
+Ark Bolingbroke Academy	29.72	Free school - mainstream
+Ark Putney Academy	27.5	Academy converter - mainstream
+Ashcroft Technology Academy	36.05	Sponsored academy
+Ibstock Place School	43.84	Independent school
+Nightingale Community Academy	29.72	Sponsored special academy
+Putney High School	46.72	Independent school
+Saint Cecilia's Church of England School	31.78	Academy converter - mainstream
+St Francis Xavier Sixth Form College	24.35	Sixth Form College
+Saint John Bosco College	19.92	Voluntary aided school
+South Thames College	23.18	General Further Education College
+Southfields Academy	30.26	Academy converter - mainstream
+Burntwood School	28.42	Academy converter - mainstream
+City of Westminster College	18.6	General Further Education College
+Francis Holland School	40.1	Independent school
+Francis Holland School	45.56	Independent school
+The Grey Coat Hospital	36.52	Academy converter - mainstream
+Harris Westminster Sixth Form	39.73	Free school - 16-19
+Ark King Solomon Academy	26.76	Sponsored academy
+Lansdowne College	30.86	Independent school
+Marylebone Boys' School	29.72	Free school - mainstream
+Bales College	21.83	Independent school
+Paddington Academy	31.88	Sponsored academy
+Pimlico Academy	35.59	Sponsored academy
+Portland Place School	36.86	Independent school
+Queen's College London	43.11	Independent school
+Quintin Kynaston	24.78	Academy converter - mainstream
+St Augustine's CofE High School	25.15	Voluntary aided school
+St George's Catholic School	29.72	Academy converter - mainstream
+The St Marylebone CofE School	36.59	Academy converter - mainstream
+Westminster Academy	34.85	Sponsored academy
+Westminster City School	28.79	Academy converter - mainstream
+Westminster School	53.15	Independent school
+LaSWAP Sixth Form	28.33	
+Islington Sixth Form Consortium	26.72	
+City of London School	47.71	Independent school
+City of London School for Girls	49.17	Independent school
+All Saints Catholic School and Technology College	30.83	Voluntary aided school
+Dagenham Park CofE School	27.92	Voluntary controlled school
+Eastbrook School	22.69	Community school
+Eastbury Community School	28.86	Community school
+Elutec	20.23	Free school - UTC (university technical college)
+Goresbrook School	29.72	Free school - mainstream
+Greatfields School	29.72	Free school - mainstream
+Jo Richardson Community School	29.66	Community school
+Barking Abbey School, A Specialist Sports and Humanities College	27.11	Community school
+Barking and Dagenham College	22.17	General Further Education College
+Riverside School	29.72	Free school - mainstream
+Robert Clack School	31.76	Community school
+The Sydney Russell School	32.2	Academy converter - mainstream
+The Warren School	28.15	Sponsored academy
+Chislehurst and Sidcup Grammar School	35.28	Academy converter - mainstream
+Cleeve Park School	21.42	Academy converter - mainstream
+Erith Secondary School	25.18	Academy converter - mainstream
+Haberdashers' Aske's Crayford Academy	29.72	Sponsored academy
+Beths Grammar School	31.76	Academy converter - mainstream
+Bexley Grammar School	36.53	Academy converter - mainstream
+Bexleyheath Academy	22.57	Sponsored academy
+Blackfen School for Girls	25.84	Academy converter - mainstream
+Townley Grammar School	37.32	Academy converter - mainstream
+Trinity Church of England School, Belvedere	22.35	Academy converter - mainstream
+Welling School	25.29	Academy converter - mainstream
+The Business Academy Bexley	14.86	Sponsored academy
+Colfes Junior School	42.31	Independent school
+Corelli College	23.5	Academy converter - mainstream
+Eltham Hill School	24.71	Community school
+The Greenwich Free School	29.72	Free school - mainstream
+Harris Academy Greenwich	27.35	Sponsored academy
+International Academy of Greenwich	29.72	Free school - mainstream
+The John Roan School	25.67	Voluntary controlled school
+Plumstead Manor School	24.96	Community school
+Right Choice Independent Special School	29.72	Independent school
+Riverston School	29.72	Independent school
+Bellerbys College London	38.22	Independent school
+Saint Mary Magdalene Church of England All Through School	29.72	Voluntary aided school
+Shooters Hill Post-16 Campus	25.02	ACC1619
+Stationers Crown Woods Academy	26.02	Academy converter - mainstream
+Thomas Tallis School	31.85	Community school
+Blackheath High School	37.68	Independent school
+Royal Greenwich Trust School Academy	16.19	Free school - mainstream
+Woolwich Polytechnic School	31.3	Academy converter - mainstream
+The City Academy, Hackney	33.39	Sponsored academy
+Clapton Girls' Academy	31.87	Academy converter - mainstream
+Hackney New School	29.72	Free school - mainstream
+Haggerston School	24.53	Community school
+Lubavitch House School (Senior Girls)	29.35	Voluntary aided school
+Mossbourne Community Academy	38.79	Sponsored academy
+Mossbourne Victoria Park Academy	29.72	Sponsored academy
+Our Lady's Convent Roman Catholic High School	29.52	Voluntary aided school
+The Petchey Academy	32.61	Sponsored academy
+Beis Rochel d'Satmar Girls' School	29.72	Independent school
+Skinners' Academy	29.72	Sponsored academy
+Stoke Newington School and Sixth Form	31.54	Community school
+Tayyibah Girls' School	24.25	Independent school
+The Urswick School - A Church of England Secondary School	24.41	Voluntary aided school
+The Bridge Academy	27.75	Sponsored academy
+The Brooke House Sixth Form College	21.34	Sixth Form College
+Cardinal Pole Roman Catholic School	29.94	Voluntary aided school
+The Coopers' Company and Coborn School	34.46	Academy converter - mainstream
+Drapers' Academy	25.65	Sponsored academy
+The Frances Bardsley Academy for Girls	28.95	Academy converter - mainstream
+Havering College of Further and Higher Education	28.64	General Further Education College
+Havering Sixth Form College	24.19	Sixth Form College
+Sacred Heart of Mary Girls' School	31.44	Academy converter - mainstream
+St Edward's Church of England School & Sixth Form College	27.64	Academy converter - mainstream
+The Campion School	30.93	Academy converter - mainstream
+Christ The King Sixth Form College	22.6	Sixth Form College
+Forest Hill School	28.4	Community school
+Haberdashers' Aske's Hatcham College	27.11	Sponsored academy
+Haberdashers' Aske's Knights Academy	22.24	Sponsored academy
+LeSoCo	23.33	General Further Education College
+Marathon Science School	28.64	Independent school
+Prendergast School	29.26	Voluntary aided school
+St Dunstan's College	39.47	Independent school
+Addey and Stanhope School	20.46	Voluntary aided school
+Sedgehill School	20.23	Community school
+Sydenham High School GDST	39.21	Independent school
+Sydenham School	31.09	Community school
+Chobham Academy	30.34	Sponsored academy
+East London Science School	29.72	Free school - mainstream
+London Academy of Excellence	42.62	Free school - 16-19
+London Design and Engineering UTC	29.72	Free school - UTC (university technical college)
+Newham College of Further Education	16.86	General Further Education College
+Newham Sixth Form College	24.89	Sixth Form College
+St Angela's Ursuline School	28.56	Voluntary aided school
+St Bonaventure's RC School	28.78	Voluntary aided school
+School 21	29.72	Free school - mainstream
+Brampton Manor Academy	40.22	Academy converter - mainstream
+Chadwell Heath Academy	28.61	Academy converter - mainstream
+Forest Academy	21.12	Sponsored academy
+Ark Isaac Newton Academy	29.72	Sponsored academy
+Ilford County High School	35.08	Community school
+King Solomon High School	29.35	Voluntary aided school
+Atam Academy	29.72	Free school - mainstream
+Loxford School	27.48	Academy converter - mainstream
+Mayfield School	24.99	Foundation school
+Bancrofts School	47.89	Independent school
+Oaks Park High School	29.56	Community school
+The Palmer Catholic Academy	29.45	Academy converter - mainstream
+Beal High School	31.36	Academy converter - mainstream
+Redbridge College	29.72	General Further Education College
+Seven Kings School	35.24	Community school
+Trinity Catholic High School	31.17	Voluntary aided school
+The Ursuline Academy Ilford	30.54	Academy converter - mainstream
+Valentines High School	30.35	Community school
+Wanstead High School	29.83	Community school
+Woodbridge High School	31.74	Community school
+Woodford County High School	38.78	Community school
+Caterham High School	21.87	Community school
+Central Foundation Girls' School	28.2	Voluntary aided school
+Darul Hadis Latifiah	27.39	Independent school
+East London Arts & Music	28.46	Free school - 16-19
+George Green's School	27.59	Voluntary controlled school
+Langdon Park Community School	24.68	Community school
+Madani Secondary Girls' School	29.72	Independent school
+Morpeth School	29.21	Community school
+Mulberry School for Girls	30.39	Community school
+Oaklands School	30.17	Community school
+Raine's Foundation School	25.07	Voluntary aided school
+Bethnal Green Academy	28.81	Academy converter - mainstream
+St Paul's Way Trust School	31.37	Foundation school
+Sir John Cass Foundation and Redcoat Church of England Secondary School	29.96	Voluntary aided school
+Bishop Challoner Catholic Federations of Girls School	25.12	Voluntary aided school
+Stepney Green Mathematics and Computing College	27.76	Community school
+Swanlea School	32	Community school
+Tower Hamlets College	21.7	General Further Education College
+Bow School	28.42	Community school
+Canary Wharf College 3	29.72	Free school - mainstream
+Sydenham and Forest Hill Sixth Form	29.81	
+Southern Consortium Sixth Form	29.94	
+Christ's College Finchley	25.43	Academy converter - mainstream
+The Compton School	29.72	Academy converter - mainstream
+Copthall School	29.47	Academy converter - mainstream
+Dwight School London	27.28	Independent school
+East Barnet School	33.17	Academy converter - mainstream
+Finchley Catholic High School	29.42	Voluntary aided school
+Hasmonean High School	40.02	Academy converter - mainstream
+Hendon School	28.12	Academy converter - mainstream
+The Henrietta Barnett School	50.28	Academy converter - mainstream
+Ashmole Academy	33.93	Academy converter - mainstream
+JCoSS	35.32	Voluntary aided school
+The King Alfred School	37.3	Independent school
+London Academy	23.33	Sponsored academy
+Ayesha Community School	27.57	Independent school
+Menorah Grammar School	32.04	Independent school
+Menorah High School for Girls	29.72	Voluntary aided school
+Mill Hill County High School	32.92	Academy converter - mainstream
+Mill Hill School Foundation	40.31	Independent school
+Barnet and Southgate College	24.02	General Further Education College
+Queen Elizabeth's Girls' School	31.12	Academy converter - mainstream
+Queen Elizabeth's School, Barnet	50.32	Academy converter - mainstream
+St Andrew the Apostle Greek Orthodox School	29.72	Free school - mainstream
+St James' Catholic High School	30.25	Voluntary aided school
+St Martha's School	28.69	Independent school
+St Mary's CofE High School	29.72	Voluntary aided school
+St Michael's Catholic Grammar School	40.24	Voluntary aided school
+Beth Jacob Grammar School for Girls	33.96	Independent school
+Bishop Douglass School Finchley	29.39	Voluntary aided school
+The Totteridge Academy	8.48	Academy converter - mainstream
+Wentworth Tutorial College	32.15	Independent school
+Whitefield School	23.35	Academy converter - mainstream
+Woodhouse College	35.29	Sixth Form College
+Wren Academy	32.66	Sponsored academy
+Brampton College	43.24	Independent school
+Chace Community School	27.18	Community school
+Edmonton County School	28.28	Community school
+Enfield County School	28.61	Community school
+Enfield Grammar School	28.06	Academy converter - mainstream
+Ark John Keats Academy	29.72	Free school - mainstream
+Heron Hall Academy	29.72	Free school - mainstream
+Highlands School	27.61	Community school
+Kingsmead School	29.74	Academy converter - mainstream
+The Latymer School	44.41	Voluntary aided school
+Lea Valley High School	27.29	Community school
+Aylward Academy	24.04	Sponsored academy
+Nightingale Academy	16.67	Sponsored academy
+Oasis Academy Enfield	27.19	Sponsored academy
+Oasis Academy Hadley	24.76	Sponsored academy
+St Anne's Catholic High School for Girls	27.91	Voluntary aided school
+St Ignatius College	28.3	Voluntary aided school
+St John's Preparatory and Senior School	35.52	Independent school
+Southgate School	31.1	Community school
+Bishop Stopford's School	21.84	Voluntary aided school
+West Lea School	29.72	Community special school
+Winchmore School	25.33	Community school
+Broomfield School	25.77	Foundation school
+Capel Manor College	29.72	Agriculture and Horticulture College
+Channing School	47.58	Independent school
+The College of Haringey, Enfield and North East London	27.73	General Further Education College
+Fortismere School	38.66	Foundation school
+Greig City Academy	26.71	Sponsored academy
+Haringey Sixth Form Centre	27.26	ACC1619
+Harris Academy Tottenham	29.72	Free school - mainstream
+Highgate School	46.17	Independent school
+Highgate Wood Secondary School	32.09	Community school
+Hornsey School for Girls	29.16	Community school
+St Thomas More Catholic School	23.19	Academy converter - mainstream
+Tottenham UTC	7.62	Free school - UTC (university technical college)
+Alexandra Park School	32.95	Academy converter - mainstream
+Chingford Foundation School	31.08	Academy converter - mainstream
+Eden Girls' School Waltham Forest	29.72	Free school - mainstream
+Forest School	42.89	Independent school
+Heathcote School & Science College	25.41	Community school
+Highams Park School	25.15	Academy converter - mainstream
+Holy Family Catholic School	29.3	Voluntary aided school
+Kelmscott School	29.72	Community school
+Lammas School and Sixth Form	29.72	Community school
+Leyton Sixth Form College	26.63	Sixth Form College
+Norlington School and 6th Form	29.72	Community school
+Rushcroft Foundation School	2.31	Sponsored academy
+Big Creative Academy	29.72	Free school - 16-19
+Sir George Monoux College	22.89	Sixth Form College
+Waltham Forest College	29.72	General Further Education College
+Walthamstow Academy	32.33	Sponsored academy
+Buxton School	29.72	Foundation school
+Charles Darwin School	25.29	Academy converter - mainstream
+Chislehurst School for Girls	27.94	Academy converter - mainstream
+Coopers School	27.42	Academy converter - mainstream
+Darrick Wood School	30.45	Academy converter - mainstream
+Darul Uloom London	20.95	Independent school
+Eltham College	43.92	Independent school
+Farringtons School	28.81	Independent school
+Harris Academy Orpington	29.72	Sponsored academy
+Hayes School	32.77	Academy converter - mainstream
+Kemnal Technology College	16.08	Academy converter - mainstream
+Kings London	31.19	Independent school
+Langley Park School for Boys	33.91	Academy converter - mainstream
+Langley Park School for Girls	28.12	Academy converter - mainstream
+London South East Colleges	8.26	General Further Education College
+Babington House School	29.72	Independent school
+Newstead Wood School	43.69	Academy converter - mainstream
+The Priory School	20.14	Academy converter - mainstream
+Ravens Wood School	30.86	Academy converter - mainstream
+The Ravensbourne School	28.7	Academy converter - mainstream
+St Olave's and St Saviour's Grammar School	48.03	Voluntary aided school
+Bishop Challoner School	33.23	Independent school
+Bishop Justus CofE School	28.17	Academy converter - mainstream
+Wickham Court School	29.72	Independent school
+Bromley High School	43.15	Independent school
+Bullers Wood School	31.54	Academy converter - mainstream
+Coloma Convent Girls' School	37	Voluntary aided school
+Coulsdon Sixth Form College	23.68	Sixth Form College
+Croydon College	19.6	General Further Education College
+Croydon High School	40.26	Independent school
+Croydon Metropolitan College	41.26	Independent school
+Edenham High School	25.66	Sponsored academy
+Archbishop Tenison's CofE High School	25.4	Voluntary aided school
+Harris Academy Upper Norwood	29.72	Sponsored academy
+Harris Federation Post 16	28.42	
+Harris Invictus Academy Croydon	29.72	Free school - mainstream
+John Ruskin College	20.82	Sixth Form College
+Meridian High School	29.72	Sponsored academy
+Norbury Manor Business and Enterprise College for Girls	26.83	Academy converter - mainstream
+Oasis Academy Coulsdon	22.5	Sponsored academy
+Oasis Academy Shirley Park	20.62	Sponsored academy
+Old Palace of John Whitgift School	42.08	Independent school
+The Quest Academy	32.5	Sponsored academy
+Riddlesdown Collegiate	29.58	Academy converter - mainstream
+Royal Russell School	38.66	Independent school
+St Andrew's CofE Voluntary Aided High School	23.14	Voluntary aided school
+St Joseph's College	24.77	Academy converter - mainstream
+St Mary's Catholic High School	27.59	Voluntary aided school
+Shirley High School Performing Arts College	30.14	Academy converter - mainstream
+Thomas More Catholic School	25.7	Voluntary aided school
+Trinity School	44.35	Independent school
+Virgo Fidelis Convent Senior School	18.42	Voluntary aided school
+Whitgift School	45.64	Independent school
+Woodcote High School	29.45	Academy converter - mainstream
+BRIT School for Performing Arts and Technology	29.7	City technology college
+Cambridge Tutors College	40.42	Independent school
+Chessington Community College	27.05	Community school
+Coombe Boys' School	12.73	Academy converter - mainstream
+Coombe Girls' School	29.39	Academy converter - mainstream
+The Hollyfield School and Sixth Form Centre	27.22	Academy converter - mainstream
+The Holy Cross School	31.74	Academy converter - mainstream
+The Kingston Academy	29.72	Free school - mainstream
+Kingston College	20.36	General Further Education College
+Kingston Grammar School	45.8	Independent school
+Richard Challoner School	32.85	Academy converter - mainstream
+Southborough High School	29.42	Academy converter - mainstream
+Surbiton High School	43	Independent school
+The Tiffin Girls' School	48.72	Academy converter - mainstream
+Tiffin School	44.49	Academy converter - mainstream
+Tolworth Girls' School and Sixth Form	28.12	Academy converter - mainstream
+King's College School	50.88	Independent school
+Raynes Park High School	26.91	Community school
+Ricards Lodge High School	34.57	Community school
+Rutlish School	34.01	Voluntary controlled school
+St Mark's Church of England Academy	17.69	Sponsored academy
+Ursuline High School Wimbledon	36.37	Voluntary aided school
+Wimbledon College	27.48	Voluntary aided school
+Wimbledon High School	46.81	Independent school
+Christ's Church of England Comprehensive Secondary School	31.06	Voluntary aided school
+Grey Court School	33.75	Academy converter - mainstream
+Hampton Academy	23.7	Sponsored academy
+Hampton Court House	29.72	Independent school
+Hampton School	46.66	Independent school
+The Harrodian School	42.81	Independent school
+The Lady Eleanor Holles School	49.11	Independent school
+Orleans Park School	32.39	Academy converter - mainstream
+Radnor House	30.5	Independent school
+Richmond Adult Community College	29.72	General Further Education College
+Richmond Park Academy	27.3	Sponsored academy
+Richmond-upon-Thames College	22.8	General Further Education College
+The Royal Ballet School	29.06	Independent school
+St Catherine's School	41.73	Independent school
+St Paul's School	51.77	Independent school
+St Richard Reynolds Catholic High School	29.72	Voluntary aided school
+Teddington School	30.65	Academy converter - mainstream
+Turing House School	29.72	Free school - mainstream
+Twickenham Academy	16.03	Sponsored academy
+Waldegrave School	40.51	Academy converter - mainstream
+Cheam High School	30.58	Academy converter - mainstream
+St Nicholas Catholic High School	31.58	Voluntary aided school
+Focus School - Kenley & Carshalton Campus	28.37	Independent school
+Glenthorne High School	31.92	Academy converter - mainstream
+Greenshaw High School	32.3	Academy converter - mainstream
+The John Fisher School	32.01	Voluntary aided school
+Nonsuch High School for Girls	43.5	Academy converter - mainstream
+Overton Grange School	27.91	Academy converter - mainstream
+St Philomena's School	35.38	Voluntary aided school
+Stanley Park High School	25.84	Community school
+Sutton Grammar School	44.41	Academy converter - mainstream
+Sutton High School	38.13	Independent school
+Wallington County Grammar School	42.6	Academy converter - mainstream
+Wallington High School for Girls	43.29	Academy converter - mainstream
+Wilson's School	48.02	Academy converter - mainstream
+Carshalton Boys Sports College	28.71	Academy converter - mainstream
+Carshalton College	29.72	General Further Education College
+Carshalton High School for Girls	30.73	Academy converter - mainstream
+RR6	34.25	
+Claremont High School	27.79	Academy converter - mainstream
+The College of North West London	14.4	General Further Education College
+Convent of Jesus and Mary Language College	25.12	Academy converter - mainstream
+The Crest Academies	19.71	Sponsored academy
+Alperton Community School	26.85	Academy converter - mainstream
+Ark Academy	29.72	Sponsored academy
+Ark Elvin Academy	23.71	Sponsored academy
+JFS	41.14	Voluntary aided school
+Kingsbury High School	28.31	Academy converter - mainstream
+Menorah High School	42.4	Independent school
+Michaela Community School	29.72	Free school - mainstream
+Newman Catholic College	17.27	Voluntary aided school
+Preston Manor School	32.06	Academy converter - mainstream
+Queens Park Community School	27.44	Academy converter - mainstream
+St Gregory's Catholic Science College	27.74	Voluntary aided school
+The Swaminarayan School	37.2	Independent school
+Wembley High Technology College	34.69	Academy converter - mainstream
+Capital City Academy	22.65	Sponsored academy
+Dormers Wells High School	29.07	Community school
+Drayton Manor High School	30.13	Academy converter - mainstream
+Ealing Fields High School	29.72	Free school - mainstream
+Ealing Independent College	29.77	Independent school
+The Ellen Wilkinson School for Girls	29.5	Foundation school
+Elthorne Park High School	33.47	Community school
+Featherstone High School	30.49	Academy converter - mainstream
+Greenford High School	32.23	Foundation school
+King Fahad Academy	27.77	Independent school
+Ayesha Siddiqa Girls School	29.72	Independent school
+Northolt High School	22.89	Foundation school
+Notting Hill and Ealing High School	47.89	Independent school
+Acorn House College	28.73	Independent school
+Acton High School	27.05	Community school
+St Augustine's Priory	40.35	Independent school
+St Benedict's School	39.43	Independent school
+Twyford Church of England High School	39.38	Academy converter - mainstream
+Villiers High School	25.96	Foundation school
+William Perkin Church of England High School	29.72	Free school - mainstream
+Brentside High School	28.6	Foundation school
+Alec Reed Academy	17.04	Sponsored academy
+The Cardinal Wiseman Catholic School	31.11	Voluntary aided school
+Chelsea Independent College	28.79	Independent school
+Ealing, Hammersmith and West London College	17.98	General Further Education College
+Fulham Boys School	29.72	Free school - mainstream
+Fulham College Boys' School	29.72	Academy converter - mainstream
+The Godolphin and Latymer School	50.34	Independent school
+Hammersmith Academy	23.66	Sponsored academy
+Ark Burlington Danes Academy	30.53	Sponsored academy
+Lady Margaret School	36.86	Academy converter - mainstream
+Latymer Upper School	49.56	Independent school
+The London Oratory School	40.19	Academy converter - mainstream
+Phoenix High School	29.72	Sponsored academy
+Phoenix High School	17.59	Foundation school
+Sacred Heart High School	33.62	Academy converter - mainstream
+St James Senior Girls' School	43.42	Independent school
+St Paul's Girls' School	54.52	Independent school
+TBAP 16-19 Academic AP Academy	29.72	Free school - 16-19
+West London Free School	29.72	Free school - mainstream
+William Morris Sixth Form	25.49	Community school
+Harrow College	19.56	General Further Education College
+Harrow High School	25.06	Academy converter - mainstream
+Harrow School	46.24	Independent school
+Hatch End High School	27.29	Academy converter - mainstream
+The John Lyon School	38.47	Independent school
+Khalsa College London	29.72	Independent school
+Avanti House School	29.72	Free school - mainstream
+North London Collegiate School	51.03	Independent school
+Nower Hill High School	32.72	Academy converter - mainstream
+Park High School	27.85	Academy converter - mainstream
+Pinner High School	29.72	Free school - mainstream
+Regent College	30.89	Independent school
+Rooks Heath College	25.84	Academy converter - mainstream
+St Dominic's Sixth Form College	36.62	Sixth Form College
+Bentley Wood High School	30.11	Academy converter - mainstream
+Salvatorian Roman Catholic College	29.72	Academy converter - mainstream
+Stanmore College	20.76	General Further Education College
+Whitmore High School	30.8	Community school
+Canons High School	25.78	Academy converter - mainstream
+De Salis Studio College	27.86	Free school - studio school
+The Douay Martyrs Catholic School	25.34	Academy converter - mainstream
+Abbotsfield School	30.48	Foundation school
+Guru Nanak Sikh Academy	27.02	Academy converter - mainstream
+The Harefield Academy	27.68	Sponsored academy
+Harlington School	27.4	Foundation school
+Haydon School	29	Academy converter - mainstream
+Heathrow Aviation Engineering UTC	14.55	Free school - UTC (university technical college)
+Hewens College	21.8	Academy converter - mainstream
+Meadow High School	29.72	Community special school
+Barnhill Community High School	21.42	Academy converter - mainstream
+Northwood College for Girls	37.86	Independent school
+Northwood School	30	Academy converter - mainstream
+Parkside Studio College	29.72	Free school - studio school
+Pield Heath House RC School	29.72	Non-maintained special school
+Queensmead School	32.33	Academy converter - mainstream
+Rosedale College	21.86	Academy converter - mainstream
+Ruislip High School	29.8	Academy converter - mainstream
+St Helen's School	43.71	Independent school
+Stockley Academy	25.06	Sponsored academy
+Bishop Ramsey Church of England School	31.86	Academy converter - mainstream
+Swakeleys School for Girls	30.9	Academy converter - mainstream
+Bishopshalt School	29.03	Academy converter - mainstream
+Uxbridge College	25.02	General Further Education College
+Uxbridge High School	26.19	Academy converter - mainstream
+Vyners School	32.25	Academy converter - mainstream
+Chiswick School	32.05	Academy converter - mainstream
+Cranford Community College	26.08	Academy converter - mainstream
+The Eden School (SDA)	29.72	Independent school
+Feltham Community College	28.37	Academy converter - mainstream
+The Green School	30.71	Academy converter - mainstream
+Gumley House RC Convent School, FCJ	31.42	Academy converter - mainstream
+Gunnersbury Catholic School	30.25	Voluntary aided school
+The Heathland School	29.88	Community school
+Heston Community School	29.58	Academy converter - mainstream
+Arts Educational School	34.73	Independent school
+Isleworth and Syon School for Boys	29.66	Academy converter - mainstream
+Kingsley Academy	26.84	Sponsored academy
+Lampton Academy	31.07	Academy converter - mainstream
+Logic Studio School	29.72	Free school - studio school
+Nishkam School West London	29.72	Free school - mainstream
+Reach Academy Feltham	29.72	Free school - mainstream
+Rivers Academy West London	32.25	Academy converter - mainstream
+St Mark's Catholic School	37.16	Academy converter - mainstream
+Space Studio West London	29.72	Free school - studio school
+West Thames College	24.51	General Further Education College
+Brentford School for Girls	26.59	Academy converter - mainstream
+Harrow Collegiate	29.11	3104027
+Easthampstead Park Community School	24.34	Community school
+Edgbarrow School	34.84	Community school
+Garth Hill College	28.21	Community school
+Heathfield School	40.83	Independent school
+LVS Ascot	33.61	Independent school
+Ranelagh School	32.39	Academy converter - mainstream
+Sandhurst School	24.92	Community school
+Wellington College	47.19	Independent school
+Bracknell and Wokingham College	24.54	General Further Education College
+The Brakenhale School	29.72	Sponsored academy
+The Brakenhale School	20.13	Community school
+The Chalfonts Community College	25.26	Academy converter - mainstream
+Chesham Grammar School	40.78	Academy converter - mainstream
+Chiltern Hills Academy	21.15	Sponsored academy
+The Cottesloe School	25.39	Foundation school
+Cressex Community School	29.72	Foundation school
+Dr Challoner's Grammar School	43.33	Academy converter - mainstream
+Dr Challoner's High School	43.05	Academy converter - mainstream
+Amersham and Wycombe College	18.67	General Further Education College
+Amersham School	22.09	Academy converter - mainstream
+The E-Act Burnham Park Academy	8.65	Sponsored academy
+Focus School - Stoke Poges Campus	28.62	Independent school
+The Grange School	23.8	Foundation school
+Great Marlow School	29.84	Academy converter - mainstream
+Highcrest Academy	21.55	Academy converter - mainstream
+Holmer Green Senior School	24.16	Academy converter - mainstream
+John Colet School	25.93	Academy converter - mainstream
+John Hampden Grammar School	38.55	Academy converter - mainstream
+Khalsa Secondary Academy	29.72	Free school - mainstream
+Aylesbury College	21.76	General Further Education College
+Aylesbury Grammar School	40.62	Academy converter - mainstream
+Aylesbury High School	39.87	Academy converter - mainstream
+The Aylesbury Vale Academy	21.27	Sponsored academy
+The Mandeville School	7.83	Community school
+The Misbourne School	29.27	Community school
+Beaconsfield High School	40.62	Academy converter - mainstream
+The Beaconsfield School	24.56	Academy converter - mainstream
+Pipers Corner School	38.56	Independent school
+Princes Risborough	26.61	Academy converter - mainstream
+The Royal Grammar School, High Wycombe	40.72	Academy converter - mainstream
+Royal Latin School	40.31	Academy converter - mainstream
+St Mary's School	35.84	Independent school
+St Michael's Catholic School	26.86	Voluntary aided school
+Sir Henry Floyd Grammar School	38.24	Academy converter - mainstream
+Sir Thomas Fremantle School	29.72	Free school - mainstream
+Sir William Borlase's Grammar School	41.52	Academy converter - mainstream
+Sir William Ramsay School	21.51	Academy converter - mainstream
+Stowe School	35.8	Independent school
+Waddesdon Church of England School	31.76	Academy converter - mainstream
+Akeley Wood Senior School	31.28	Independent school
+Wycombe Abbey School	51.69	Independent school
+Wycombe High School	40.39	Academy converter - mainstream
+Bourne End Academy	24.62	Sponsored academy
+Buckingham School	25.04	Community school
+Buckinghamshire UTC	16.67	Free school - UTC (university technical college)
+Burnham Grammar School	35.8	Academy converter - mainstream
+Denbigh School	30.22	Academy converter - mainstream
+The Hazeley Academy	30.49	Academy converter - mainstream
+Lord Grey School	27.09	Foundation school
+The Milton Keynes Academy	21.56	Sponsored academy
+Milton Keynes College	20.42	General Further Education College
+Oakgrove School	33.18	Academy converter - mainstream
+Ousedale School	30.47	Academy converter - mainstream
+The Radcliffe School	24.38	Foundation school
+St Paul's Catholic School	29.73	Voluntary aided school
+Shenley Brook End School	29.72	Academy converter - mainstream
+Sir Herbert Leon Academy	14.48	Sponsored academy
+Slated Row School	29.72	Community special school
+Stantonbury Campus	25.57	Foundation school
+Stantonbury Campus	29.72	Sponsored academy
+Walton High	28.93	Academy converter - mainstream
+The Webber Independent School	31.71	Independent school
+Cheney School	32.28	Academy converter - mainstream
+The Cherwell School	36.76	Academy converter - mainstream
+Chipping Norton School	34.3	Academy converter - mainstream
+Cokethorpe School	37.75	Independent school
+The Cooper School	27.77	Academy converter - mainstream
+Didcot Girls' School	34.28	Academy converter - mainstream
+d'Overbroeck's	42.9	Independent school
+Europa School Uk	29.72	Free school - mainstream
+Faringdon Community College	32.74	Academy converter - mainstream
+Fitzharrys School	23.8	Community school
+Abacus College	29.72	Independent school
+Gosford Hill School	28	Academy converter - mainstream
+Headington School	47.23	Independent school
+The Henley College	28.19	Sixth Form College
+The Henry Box School	31.81	Academy converter - mainstream
+Heyford Park Free School	29.72	Free school - mainstream
+Abingdon and Witney College	19.18	General Further Education College
+Abingdon School	42.88	Independent school
+John Mason School	29.02	Academy converter - mainstream
+King Alfred's	31.6	Academy converter - mainstream
+Kingham Hill School	37.43	Independent school
+Kings Oxford	37.31	Independent school
+Larkmead School	31.69	Community school
+Lord Williams's School	30.4	Academy converter - mainstream
+Magdalen College School	52.46	Independent school
+The Marlborough Church of England School	30.16	Academy converter - mainstream
+Matthew Arnold School	32.33	Academy converter - mainstream
+Banbury Academy	28.24	Sponsored academy
+North Oxfordshire Academy	20.38	Sponsored academy
+Bartholomew School	34.5	Academy converter - mainstream
+The Oratory School	33.54	Independent school
+Our Lady's Abingdon	35.17	Independent school
+The Oxford Academy	15.71	Sponsored academy
+Oxford High School GDST	47.48	Independent school
+Oxford Spires Academy	23.19	Sponsored academy
+Radley College	48.77	Independent school
+Rye St Antony School	36.69	Independent school
+Activate Learning	23.54	General Further Education College
+St Birinus School	28.99	Academy converter - mainstream
+St Clare's, Oxford	43.03	Independent school
+Bellerbys College Oxford	39.33	Independent school
+St Edward's School	40.42	Independent school
+St Gregory the Great Catholic School	28.56	Academy converter - mainstream
+St Helen and St Katharine	46.8	Independent school
+The Bicester School	25.61	Sponsored academy
+Bicester Technology Studio	29.72	Free school - studio school
+Shiplake College	34.38	Independent school
+Sibford School	29	Independent school
+Space Studio Banbury	24.28	Free school - studio school
+Tudor Hall School	42.55	Independent school
+UTC Oxfordshire	29.72	Free school - UTC (university technical college)
+Wallingford School	33.44	Academy converter - mainstream
+Blessed George Napier Catholic School and Sports College	32.51	Academy converter - mainstream
+The Warriner School	28.84	Academy converter - mainstream
+Bloxham School	33.66	Independent school
+Wheatley Park School	29.1	Academy converter - mainstream
+Wood Green School	31.31	Community school
+Wychwood School	38.69	Independent school
+Burford School	33.52	Academy converter - mainstream
+Carfax College	29.72	Independent school
+Carterton Community College	29.72	Community school
+The Abbey School Reading	46.34	Independent school
+Highdown School and Sixth Form Centre	28.2	Academy converter - mainstream
+John Madejski Academy	19.08	Sponsored academy
+Kendrick School	46.62	Academy converter - mainstream
+Leighton Park School	37.53	Independent school
+Prospect School	21.92	Academy converter - mainstream
+Queen Anne's School	36.97	Independent school
+Reading Girls' School	29.72	Foundation school
+Reading School	46.67	Academy converter - mainstream
+St Joseph's College	34.58	Independent school
+UTC Reading	29.25	Free school - UTC (university technical college)
+Blessed Hugh Faringdon Catholic School	23.47	Voluntary aided school
+The WREN School	29.72	Free school - mainstream
+Ditton Park Academy	29.72	Free school - mainstream
+East Berkshire College	19.69	General Further Education College
+Eden Girls' School, Slough	29.72	Free school - mainstream
+Herschel Grammar School	35.5	Academy converter - mainstream
+The Langley Academy	24.32	Sponsored academy
+Langley Grammar School	38.74	Academy converter - mainstream
+Lynch Hill Enterprise Academy	29.72	Free school - mainstream
+Baylis Court School	31.08	Academy converter - mainstream
+Beechwood School	19.32	Community school
+St Bernard's Catholic Grammar School	37.39	Voluntary aided school
+St Joseph's Catholic High School	22.72	Voluntary aided school
+Slough and Eton Church of England Business and Enterprise College	23.54	Academy converter - mainstream
+Upton Court Grammar School	29.91	Academy converter - mainstream
+The Westgate School	25.98	Academy converter - mainstream
+Wexham School	22.46	Community school
+Denefield School	29.9	Academy converter - mainstream
+Downe House	42.7	Independent school
+The Downs School	32.46	Foundation school
+John O'Gaunt School	5.91	Community school
+Kennet School	32.74	Academy converter - mainstream
+Little Heath School	27.55	Voluntary aided school
+Mary Hare School	23.92	Non-maintained special school
+Newbury College	29.72	General Further Education College
+Newbury Hall School	29	Independent school
+Padworth College	30.88	Independent school
+Pangbourne College	32.37	Independent school
+Park House School	28.92	Academy converter - mainstream
+St Bartholomew's School	32.23	Academy converter - mainstream
+St Gabriel's School	38.63	Independent school
+Theale Green School	28.59	Sponsored academy
+Trinity School	32.71	Academy converter - mainstream
+The Willink School	28.5	Community school
+Bradfield College	39.19	Independent school
+Charters School	32.95	Academy converter - mainstream
+Churchmead Church of England (VA) School	29.72	Voluntary aided school
+Claires Court Schools	31.95	Independent school
+Cox Green School	25.45	Academy converter - mainstream
+Altwood CofE Secondary School	24.13	Academy converter - mainstream
+Desborough College	26.35	Sponsored academy
+Eton College	50.62	Independent school
+Furze Platt Senior School	29.75	Academy converter - mainstream
+Holyport College	29.72	Free school - mainstream
+Hurst Lodge School	33.41	Independent school
+Marist Senior School	37.59	Independent school
+Newlands Girls' School	35.68	Community school
+Redroofs School for the Performing Arts	29.72	Independent school
+St George's School	37.4	Independent school
+Berkshire College of Agriculture	24.28	Agriculture and Horticulture College
+St Mary's School Ascot	47.26	Independent school
+The Windsor Boys' School	30.79	Academy converter - mainstream
+Windsor Girls' School	28.26	Academy converter - mainstream
+Brigidine School Windsor	31.67	Independent school
+The Emmbrook School	30.06	Community school
+The Forest School	27.92	Academy converter - mainstream
+The Holt School	33.46	Academy converter - mainstream
+Luckley House School	33.96	Independent school
+Maiden Erlegh School	33.78	Academy converter - mainstream
+The Piggott School	34.24	Academy converter - mainstream
+Reading Blue Coat School	40.56	Independent school
+Reddam House Berkshire	29.98	Independent school
+St Crispin's School	29.18	Community school
+Waingels College	32.18	Academy converter - mainstream
+Bohunt School Wokingham	29.72	Sponsored academy
+The Bulmershe School	27.77	Community school
+Didcot Sixth Form College	31.83	
+16-19 Abingdon	28.32	
+Churcher's College	43.49	Independent school
+Alton College	30.29	Sixth Form College
+Alton Convent School	38.79	Independent school
+Eastleigh College	29.72	General Further Education College
+Fairways School	29.72	Independent school
+Fareham College	3.85	General Further Education College
+Farnborough College of Technology	21.32	General Further Education College
+Farnborough Hill	42.09	Independent school
+Hampshire Collegiate School	32.14	Independent school
+Havant College	29.84	Sixth Form College
+The Arnewood School Academy	32.49	Academy converter - mainstream
+Lord Wandsworth College	34.98	Independent school
+Meoncross School	29.72	Independent school
+The New Forest Academy	29.72	Sponsored academy
+Oaklands Catholic School	28.52	Academy converter - mainstream
+Barton Peveril Sixth Form College	30.69	Sixth Form College
+Basingstoke College of Technology	0	General Further Education College
+Bay House School	33.34	Academy converter - mainstream
+Peter Symonds College	35.16	Sixth Form College
+Queen Mary's College	29.15	Sixth Form College
+Bedales School	43.76	Independent school
+Ringwood School Academy	33.72	Academy converter - mainstream
+St Michael's School	29.72	Independent school
+St Swithun's School	45.66	Independent school
+St Vincent College	24.46	Sixth Form College
+Salesian College	40.26	Independent school
+Sherfield School	43.06	Independent school
+The Sixth Form College Farnborough	35.19	Sixth Form College
+The South Downs College	28.99	General Further Education College
+Sparsholt College Hampshire	28.95	Agriculture and Horticulture College
+Totton College	17.93	Sixth Form College
+Sir John Deane's College	34.93	Sixth Form College
+Bishop Heber High School	28.52	Foundation school
+Childwall Sports & Science Academy	24.76	Sponsored academy
+The City of Liverpool College	20.42	General Further Education College
+Alsop High School Technology & Applied Learning Specialist College	23.5	Community school
+The De La Salle Academy	16.48	Sponsored academy
+Enterprise South Liverpool Academy	26.1	Sponsored academy
+Fazakerley High School	20.31	Community school
+Gateacre School	20.45	Community school
+Archbishop Beck Catholic Sports College	30.22	Voluntary aided school
+Archbishop Blanch School	25.61	Voluntary aided school
+Holly Lodge Girls' College	21.13	Community school
+King David High School	28.01	Voluntary aided school
+King's Leadership Academy, Liverpool	29.72	Sponsored academy
+The Academy of St Francis of Assisi	17.28	Sponsored academy
+Liverpool College	33	Sponsored academy
+Liverpool College International	29.72	Independent school
+Liverpool Life Sciences UTC	28.4	Free school - UTC (university technical college)
+North Liverpool Academy	20.73	Sponsored academy
+Notre Dame Catholic College	27.39	Voluntary aided school
+St Edward's College	30.51	Academy converter - mainstream
+Bellerive FCJ Catholic College	22.27	Academy converter - mainstream
+St Francis Xavier's College	25.25	Academy converter - mainstream
+St Hilda's Church of England High School	26.93	Voluntary aided school
+St John Bosco Arts College	28.86	Voluntary aided school
+The Belvedere Academy	31.64	Sponsored academy
+St Julie's Catholic High School	25.7	Voluntary aided school
+St Margaret's Church of England Academy	25.42	Academy converter - mainstream
+The Studio @ Deyes	29.72	Free school - studio school
+The Studio School Liverpool	29.77	Free school - studio school
+West Derby School	21.56	Academy converter - mainstream
+The Blue Coat School	40.48	Academy converter - mainstream
+Broadgreen International School, A Technology College	26.27	Foundation school
+Broughton Hall Catholic High School	27.51	Voluntary aided school
+Calderstones School	28.72	Community school
+Cardinal Heenan Catholic High School	27.89	Voluntary aided school
+Chesterfield High School	26.2	Academy converter - mainstream
+Christ The King Catholic High School and Sixth Form Centre	28.2	Voluntary aided school
+Deyes High School	28.13	Academy converter - mainstream
+Formby High School	33.19	Academy converter - mainstream
+Holy Family Catholic High School	28.32	Voluntary aided school
+Hugh Baird College	17.83	General Further Education College
+King George V College	30.73	Sixth Form College
+Maghull High School	23.58	Academy converter - mainstream
+Maricourt Catholic High School	26.68	Voluntary aided school
+Merchant Taylors' Boys' School	39.29	Independent school
+Merchant Taylors Girls School	41.79	Independent school
+Range High School	31.27	Academy converter - mainstream
+Sacred Heart Catholic College	23.45	Voluntary aided school
+St Mary's College	34.37	Independent school
+St Michael's Church of England High School	22.69	Sponsored academy
+Savio Salesian College	29.72	Voluntary aided school
+South Sefton College	25.88	Foundation school
+Southport College	29.72	General Further Education College
+Cowley International College	27.35	Community school
+Hope Academy	16.73	Sponsored academy
+Rainford High Technology College	29.83	Community school
+Rainhill High School	28.94	Foundation school
+St Helens College	15.2	General Further Education College
+The Sutton Academy	14.72	Sponsored academy
+Carmel College	32.33	Sixth Form College
+Culcheth High School	10.93	Community school
+The Future Tech Studio	6.15	Free school - studio school
+Great Sankey High School	28.27	Academy converter - mainstream
+King's Leadership Academy Warrington	29.72	Free school - mainstream
+Lymm High School	30.98	Academy converter - mainstream
+Penketh High School	24.77	Academy converter - mainstream
+Priestley College	28	Sixth Form College
+Chetham's School of Music	45.23	Independent school
+Connell Sixth Form College	22.41	Free school - 16-19
+The Co-operative Academy of Manchester	29.72	Sponsored academy
+The King David High School	39.83	Academy converter - mainstream
+Loreto College	32.73	Sixth Form College
+The Manchester College	21.91	General Further Education College
+Manchester Communication Academy	29.72	Sponsored academy
+Manchester Creative and Media Academy	29.72	Sponsored academy
+Manchester Creative and Media Academy	29.72	Sponsored academy
+Manchester Creative Studio	29.72	Free school - studio school
+Manchester Enterprise Academy	29.72	Sponsored academy
+The Manchester Grammar School	45.8	Independent school
+Manchester Health Academy	29.72	Sponsored academy
+Manchester High School for Girls	47.39	Independent school
+Newall Green High School	29.72	Sponsored academy
+Parrs Wood High School	29.78	Community school
+Pioneer House High School	29.72	Free school - special
+St Bede's College	38.01	Independent school
+Abbey College Manchester	39.41	Independent school
+Trinity CofE High School	29.72	Academy converter - mainstream
+Whalley Range 11-18 High School	28.04	Academy converter - mainstream
+William Hulme's Grammar School	25.2	Sponsored academy
+Withington Girls' School	49.19	Independent school
+Xaverian College	30.95	Sixth Form College
+The Crompton House Church of England Academy	28.57	Academy converter - mainstream
+Greater Manchester Sustainable Engineering UTC	8.21	Free school - UTC (university technical college)
+North Chadderton School	28.47	Academy converter - mainstream
+The Oldham College	17.14	General Further Education College
+Oldham Hulme Grammar School	38.79	Independent school
+Oldham Sixth Form College	29.11	Sixth Form College
+Salford City College	27.11	General Further Education College
+UTC@MediacityUK	29.72	Free school - UTC (university technical college)
+Bridgewater School	28.04	Independent school
+Cheadle and Marple Sixth Form College	26.17	Sixth Form College
+Cheadle Hulme High School	37.58	Academy converter - mainstream
+Cheadle Hulme School	41.03	Independent school
+Focus School - Stockport Campus	23.48	Independent school
+Aquinas College	31.93	Sixth Form College
+Hazel Grove High School	28.23	Academy converter - mainstream
+Inscape House School	29.72	Non-maintained special school
+Stockport Academy	20.66	Sponsored academy
+Nelson and Colne College	30.35	General Further Education College
+Ormskirk School	27.23	Voluntary controlled school
+Our Lady's Catholic College	27.57	Voluntary aided school
+Preston College	22.62	General Further Education College
+Marlwood School	30.2	Sponsored academy
+Patchway Community College	26.53	Academy converter - mainstream
+The Ridings Federation Winterbourne International Academy	36.37	Sponsored academy
+The Ridings Federation Yate International Academy	12.5	Sponsored academy
+Sir Bernard Lovell Academy	26.73	Sponsored academy
+South Gloucestershire and Stroud College	24.82	General Further Education College
+Bradley Stoke Community School	28	Academy converter - mainstream
+Dauntsey's School	41.09	Independent school
+Devizes School	30.9	Academy converter - mainstream
+Abbeyfield School	28.38	Community school
+Focus School - Wilton Campus	31.89	Independent school
+The Godolphin School	41.97	Independent school
+Hardenhuish School	31.04	Academy converter - mainstream
+The John Bentley School	26.62	Academy converter - mainstream
+The John of Gaunt School	34.65	Academy converter - mainstream
+Kingdown School	30.79	Academy converter - mainstream
+Avon Valley College	22.42	Foundation school
+Malmesbury School	34.59	Academy converter - mainstream
+Marlborough College	42.72	Independent school
+Matravers School	25.28	Foundation school
+Melksham Oak Community School	29.84	Academy converter - mainstream
+Royal Wootton Bassett Academy	37.17	Academy converter - mainstream
+St Augustine's Catholic College	32.3	Academy converter - mainstream
+St John's Marlborough	32.91	Academy converter - mainstream
+St Laurence School	30.67	Academy converter - mainstream
+St Mary's School (Snr) and St Margaret's School (Prep)	45.06	Independent school
+Salisbury Sixth Form College	25.3	Free school - 16-19
+Sarum Academy	20.72	Sponsored academy
+Sheldon School	31.19	Academy converter - mainstream
+South Wilts Grammar School for Girls	39.83	Academy converter - mainstream
+South Wiltshire UTC	29.72	Free school - UTC (university technical college)
+Stonar School	29.44	Independent school
+Bishop Wordsworth's Grammar School	38.08	Academy converter - mainstream
+Bishopstrow College	29.72	Independent school
+Warminster School	33.66	Independent school
+The Wellington Academy	22.56	Sponsored academy
+Wiltshire College	29.72	General Further Education College
+North Bristol Post 16 Centre	33.75	
+Darwen Aldridge Community Academy	28.89	Sponsored academy
+Darwen Aldridge Enterprise Studio	20.74	Free school - studio school
+Jamiatul-Ilm Wal-Huda UK School	37.33	Independent school
+Markazul Uloom	5.38	Independent school
+Queen Elizabeth's Grammar School	30.35	Free school - mainstream
+St Mary's College	24.07	Sixth Form College
+St Wilfrid's Church of England Academy	30.49	Academy converter - mainstream
+Tauheedul Islam Boys' High School	29.72	Free school - mainstream
+Tauheedul Islam Girls' High School	35.31	Academy converter - mainstream
+Blackburn College	22.32	General Further Education College
+Westholme School	38.2	Independent school
+St Mary's Catholic Academy	27.75	Academy converter - mainstream
+Blackpool and the Fylde College	13.56	General Further Education College
+The Blackpool Sixth Form College	30.32	Sixth Form College
+Chetwynde School	28.62	Free school - mainstream
+Cockermouth School	31.29	Academy converter - mainstream
+Dallam School	33.37	Academy converter - mainstream
+Energy Coast UTC	4.75	Free school - UTC (university technical college)
+Furness College	29.72	General Further Education College
+Appleby Grammar School	25.75	Academy converter - mainstream
+Kendal College	30	General Further Education College
+Keswick School	30.67	Academy converter - mainstream
+Kirkbie Kendal School	32	Academy converter - mainstream
+Kirkby Stephen Grammar School	30.96	Academy converter - mainstream
+Lakes College - West Cumbria	14.32	General Further Education College
+The Lakes School	31.23	Community school
+Austin Friars	35.72	Independent school
+Lime House School	41.73	Independent school
+Millom School	19.08	Community school
+The Nelson Thomlinson School	31.39	Voluntary controlled school
+Netherhall School	25.85	Community school
+Newman Catholic School	24.72	Voluntary aided school
+Queen Elizabeth Grammar School Penrith	37.01	Academy converter - mainstream
+Queen Elizabeth School	33.22	Academy converter - mainstream
+The Queen Katherine School	34.76	Academy converter - mainstream
+Richard Rose Central Academy	24.53	Sponsored academy
+Richard Rose Morton Academy	29.72	Sponsored academy
+St Benedict's Catholic High School	29.3	Voluntary aided school
+Sedbergh School	33.64	Independent school
+Trinity School	30.29	Academy converter - mainstream
+Ullswater Community College	28.88	Foundation school
+Ulverston Victoria High School	31.68	Community school
+West Lakes Academy	28.67	Sponsored academy
+The Whitehaven Academy	18.92	Sponsored academy
+William Howard School	32.13	Academy converter - mainstream
+Windermere School & Windermere Preparatory School	37.3	Independent school
+Workington Academy	29.02	Sponsored academy
+Caldew School	25.91	Academy converter - mainstream
+Carlisle College	20.36	General Further Education College
+Central Lancaster High School	16.81	Community school
+Clitheroe Royal Grammar School	36.3	Academy converter - mainstream
+Eden Boys' School, Preston	29.72	Free school - mainstream
+Fleetwood High School	29.72	Foundation school
+Focus School - Hornby Campus	29.72	Independent school
+Fulwood Academy	23.36	Sponsored academy
+Haslingden High School and Sixth Form	28.15	Community school
+Heysham High School Sports College	19.28	Community school
+ArnoldKEQMS (AKS)	39.37	Independent school
+Somervale School Specialist Media Arts College	34.16	Academy converter - mainstream
+Wellsway School	35.13	Academy converter - mainstream
+Writhlington School	29.08	Academy converter - mainstream
+The City Academy Bristol	18.87	Sponsored academy
+City of Bristol College	23.11	General Further Education College
+Clifton College	41.51	Independent school
+Clifton High School	34.74	Independent school
+Colston's Girls' School	31.54	Sponsored academy
+Colston's School	35.55	Independent school
+Cotham School	31.56	Academy converter - mainstream
+Include Bristol	29.72	Independent school
+Ashton Park School	22.81	Foundation school
+Badminton School	47.16	Independent school
+Merchants' Academy	17.06	Sponsored academy
+St Brendan's Sixth Form College	28.76	Sixth Form College
+St Mary Redcliffe and Temple School	33.66	Voluntary aided school
+Bristol Brunel Academy	21.33	Sponsored academy
+Bristol Cathedral Choir School	35	Sponsored academy
+Bristol Free School	29.72	Free school - mainstream
+Bristol Grammar School	45.27	Independent school
+Bristol Metropolitan Academy	29.72	Sponsored academy
+All Saints' Academy, Cheltenham	19.8	Sponsored academy
+Cheltenham Bournside School and Sixth Form Centre	28.61	Academy converter - mainstream
+Cheltenham College	40.22	Independent school
+Cheltenham Ladies' College	48.76	Independent school
+Chipping Campden School	27.57	Academy converter - mainstream
+Chosen Hill School	25.48	Academy converter - mainstream
+Churchdown School	25.84	Academy converter - mainstream
+Cirencester College	31.63	Sixth Form College
+Cleeve School	30.54	Academy converter - mainstream
+The Cotswold Academy	35.26	Academy converter - mainstream
+The Crypt School	36.09	Academy converter - mainstream
+Dean Close School	40.45	Independent school
+Farmor's School	34.41	Academy converter - mainstream
+Focus School - Gloucester Campus	23.01	Independent school
+Focus School-Berkeley Campus	38.75	Independent school
+Gloucester Academy	8.72	Sponsored academy
+Gloucestershire College	21.1	General Further Education College
+Archway School	28.99	Community school
+Hartpury College	27.08	Agriculture and Horticulture College
+High School for Girls	38.87	Academy converter - mainstream
+Katharine Lady Berkeley's School	33.03	Academy converter - mainstream
+The King's School, Gloucester	40.12	Independent school
+Marling School	34.76	Academy converter - mainstream
+Balcarras School	33.71	Academy converter - mainstream
+Millbrook Academy	29.53	Sponsored academy
+Newent Community School and Sixth Form Centre	24.31	Academy converter - mainstream
+Pate's Grammar School	47.53	Academy converter - mainstream
+Beaufort Co-operative Academy	20.61	Sponsored academy
+Rednock School	29.76	Foundation school
+Rendcomb College	38.52	Independent school
+Ribston Hall High School	30.15	Academy converter - mainstream
+St Edward's School	35.74	Independent school
+St Peter's Catholic High School and Sixth Form Centre	28.43	Academy converter - mainstream
+Sir Thomas Rich's School	40.69	Academy converter - mainstream
+Stroud High School	37.32	Academy converter - mainstream
+Tewkesbury School	28.98	Academy converter - mainstream
+Westonbirt School	33.03	Independent school
+Wycliffe College	34.77	Independent school
+Wyedean School and 6th Form Centre	31.16	Academy converter - mainstream
+Wynstones School	36.24	Independent school
+Churchill Academy	31.48	Academy converter - mainstream
+Clevedon School	31.21	Academy converter - mainstream
+Gordano School	30.74	Academy converter - mainstream
+Backwell School	33.16	Academy converter - mainstream
+Nailsea School	27.92	Academy converter - mainstream
+North Somerset Enterprise and Technology College	21.06	Free school - mainstream
+St Katherine's School	25.75	Community school
+Sidcot School	35.98	Independent school
+Weston College	24.88	General Further Education College
+Chipping Sodbury School	28.13	Foundation school
+Digitech Studio School	29.72	Free school - studio school
+Downend School	32.63	Academy converter - mainstream
+Abbeywood Community School	25.96	Sponsored academy
+The Grange School and Sports College	8.69	Community school
+Hanham Woods Academy	27.84	Sponsored academy
+John Cabot Academy	25.18	Sponsored academy
+Ashwicke Hall School	29.72	Independent school
+King's Oak Academy	18.33	Sponsored academy
+Mangotsfield School	29.01	Sponsored academy
+Brimsham Green School	24.78	Community school
+Bristol Technology and Engineering Academy	17.54	Free school - UTC (university technical college)
+The Castle School	33.89	Academy converter - mainstream
+The Commonweal School	28.94	Academy converter - mainstream
+Lydiard Park Academy	26.78	Academy converter - mainstream
+Maranatha Christian School	29.72	Independent school
+New College Swindon	25.84	General Further Education College
+The Ridgeway School & Sixth Form College	31.69	Academy converter - mainstream
+St Joseph's Catholic College	24.82	Academy converter - mainstream
+Swindon Academy	30.11	Sponsored academy
+Swindon College	15.71	General Further Education College
+UTC Swindon	19.41	Free school - UTC (university technical college)
+The Clarendon Academy	25.17	Sponsored academy
+The Corsham School	32.37	Academy converter - mainstream
+All Saints Church of England Academy	23.42	Sponsored academy
+City College Plymouth	21.52	General Further Education College
+Coombe Dean School Academy Trust	25.94	Academy converter - mainstream
+Devonport High School for Boys	33.03	Academy converter - mainstream
+Devonport High School for Girls	36.98	Academy converter - mainstream
+Eggbuckland Community College	23.77	Academy converter - mainstream
+Focus School - Plymouth Campus	29.72	Independent school
+Hele's Trust	29.52	Academy converter - mainstream
+Lipson Co-operative Academy	25.97	Academy converter - mainstream
+Marine Academy Plymouth	16.21	Sponsored academy
+Notre Dame RC School	26.64	Academy converter - mainstream
+Plymouth College	36.79	Independent school
+Plymouth High School for Girls	33.35	Community school
+Plymouth Studio School	29.72	Free school - studio school
+Plymstock School	28.66	Academy converter - mainstream
+Ridgeway School	27.62	Academy converter - mainstream
+St Boniface's RC College	23.05	Sponsored academy
+Sir John Hunt Community Sports College	25.46	Foundation school
+Stoke Damerel Community College	23.77	Academy converter - mainstream
+Corfe Hills School	26.27	Academy converter - mainstream
+Magna Academy	25.9	Sponsored academy
+Parkstone Grammar School	39.07	Academy converter - mainstream
+Poole Grammar School	33.5	Academy converter - mainstream
+Poole High School	24.25	Foundation school
+St Aldhelm's Academy	29.72	Sponsored academy
+St Edward's Roman Catholic/Church of England School, Poole	27.79	Voluntary aided school
+The Bournemouth and Poole College	20.9	General Further Education College
+Canford School	43.46	Independent school
+Downside School	41.34	Independent school
+Frome Community College	30.85	Community school
+Heathfield Community School	52	Community school
+Holyrood Academy	27.57	Academy converter - mainstream
+Huish Episcopi Academy	31.92	Academy converter - mainstream
+The King Alfred School	28.67	Community school
+King's Bruton	36.72	Independent school
+King's College	36.4	Independent school
+The Kings of Wessex Academy	33.04	Academy converter - mainstream
+Mark College	29.72	Independent special school
+Millfield School	35.27	Independent school
+The Park School	30.76	Independent school
+Queen's College	35.71	Independent school
+Richard Huish College	32.3	Sixth Form College
+Sexey's School	35.16	Academy converter - mainstream
+Strode College	31.63	General Further Education College
+The Taunton Academy	29.72	Sponsored academy
+Taunton School	37.06	Independent school
+Wadham School	28.9	Voluntary controlled school
+Wellington School	37.91	Independent school
+Wells Cathedral School	38.65	Independent school
+West Somerset College	29.21	Academy converter - mainstream
+The Blue School	35.01	Academy converter - mainstream
+Yeovil College	24.03	General Further Education College
+Bridgwater and Taunton College	23.6	General Further Education College
+Bruton School for Girls	40.64	Independent school
+Brymore Academy	29.72	Sponsored academy
+The Castle School	29.72	Academy converter - mainstream
+Churston Ferrers Grammar School Academy	34.56	Academy converter - mainstream
+Devon Studio School	29.72	Free school - studio school
+EF Academy Torbay	29.35	Independent school
+Paignton Community and Sports Academy	13.03	Academy converter - mainstream
+St Cuthbert Mayne School	25.67	Voluntary aided school
+South Devon College	27.07	General Further Education College
+The Spires College	21.24	Foundation school
+Torquay Academy	18.93	Sponsored academy
+Torquay Boys' Grammar School	39.07	Academy converter - mainstream
+Torquay Girls Grammar School	42.5	Academy converter - mainstream
+Brixham College	22.88	Academy converter - mainstream
+Chew Valley School	30.11	Community school
+Hayesfield Girls School	33.39	Academy converter - mainstream
+The IKB Studio School	29.72	Free school - studio school
+King Edward's School	46.02	Independent school
+Kingswood School	44.12	Independent school
+Mendip Studio School	29.72	Free school - studio school
+Monkton Senior School	38.87	Independent school
+Norton Hill Academy	30.24	Academy converter - mainstream
+Oldfield School	24.56	Academy converter - mainstream
+Bath Academy	32.31	Independent school
+Bath College	29.72	General Further Education College
+Bath Community Academy	29.72	Sponsored academy
+The Bath Studio School	28.49	Free school - studio school
+Prior Park College	38.69	Independent school
+Ralph Allen School	32.58	Academy converter - mainstream
+Beechen Cliff School	30.25	Academy converter - mainstream
+Royal High School GDST	43.7	Independent school
+Saint Gregory's Catholic College	27.79	Voluntary aided school
+St Mark's CofE School	34.06	Voluntary aided school
+Oasis Academy Brightstowe	29.72	Sponsored academy
+Oasis Academy Brislington	29.72	Sponsored academy
+Oasis Academy John Williams	20.37	Sponsored academy
+Queen Elizabeth's Hospital	43.68	Independent school
+The Red Maids' School	41.05	Independent school
+Redland Green School	35.74	Academy converter - mainstream
+Redland High School for Girls	43.52	Independent school
+St Bede's Catholic College	28.86	Academy converter - mainstream
+MidKent College	19.34	General Further Education College
+Rainham Mark Grammar School	32.62	Academy converter - mainstream
+Rainham School for Girls	24.87	Academy converter - mainstream
+The Robert Napier School	18.05	Sponsored academy
+The Bourne Academy	18.27	Sponsored academy
+Bournemouth Collegiate School	33.6	Independent school
+Bournemouth School	35.51	Academy converter - mainstream
+Bournemouth School for Girls	38.69	Academy converter - mainstream
+Cornwall College	27.48	General Further Education College
+Falmouth School	30.16	Academy converter - mainstream
+Helston Community College	30.47	Foundation school
+Launceston College	30.18	Academy converter - mainstream
+Liskeard School and Community College	29.64	Foundation school
+Newquay Tretherras	29.94	Academy converter - mainstream
+Redruth School	23.56	Foundation school
+Saltash.net community school	28.39	Academy converter - mainstream
+Torpoint Community College	25.86	Foundation school
+Treviglas Community College	30.6	Community school
+Truro and Penwith College	34.32	General Further Education College
+Truro High School	40.59	Independent school
+Truro School	38.65	Independent school
+Wadebridge School	34.75	Academy converter - mainstream
+Bodmin College	26.37	Academy converter - mainstream
+Budehaven Community School	33.81	Foundation school
+Callington Community College	29.75	Academy converter - mainstream
+Camborne Science and International Academy	30.47	Academy converter - mainstream
+Clyst Vale Community College	29.42	Academy converter - mainstream
+Colyton Grammar School	44.97	Academy converter - mainstream
+Coombeshead Academy	23.45	Academy converter - mainstream
+Dartmouth Academy	18.59	Sponsored academy
+Exeter College	31.25	General Further Education College
+Exeter Mathematics School	43.35	Free school - 16-19
+Exeter School	43.59	Independent school
+Exeter Tutorial College	39.69	Independent school
+Exmouth Community College	27.89	Academy converter - mainstream
+Honiton Community College	22.51	Academy converter - mainstream
+The Ilfracombe Church of England Academy	25.58	Sponsored academy
+Ivybridge Community College	29.9	Academy converter - mainstream
+King Edward VI Community College	32.07	Foundation school
+The King's School	32.79	Academy converter - mainstream
+Kingsbridge Academy	34.4	Academy converter - mainstream
+Kingsley School	32.46	Independent school
+Atrium Studio School	29.72	Free school - studio school
+The Axe Valley Community College	23.51	Community school
+Magdalen Court School	29.72	Independent school
+The Maynard School	43.05	Independent school
+Mount Kelly	31.64	Independent school
+Newton Abbot College	29.03	Academy converter - mainstream
+Okehampton College	31.97	Foundation school
+Petroc	28.22	General Further Education College
+Queen Elizabeth's	30.66	Academy converter - mainstream
+Route 39 Academy	29.72	Free school - mainstream
+St John's International School	29.72	Independent school
+Bideford College	26.42	Foundation school
+Bideford College	29.72	Sponsored academy
+Shebbear College	32.97	Independent school
+Sidmouth College	27.23	Community school
+South Dartmoor Community College	31.69	Academy converter - mainstream
+South Devon UTC	29.72	Free school - UTC (university technical college)
+Stover School	28.35	Independent school
+Tavistock College	29.79	Foundation school
+Teign School	27.6	Academy converter - mainstream
+Teignmouth Community School, Exeter Road	28.73	Academy converter - mainstream
+Trinity School	28.63	Independent school
+West Buckland School	36.78	Independent school
+Blundell's School	38.56	Independent school
+Bramdean School	29.72	Independent school
+Clayesmore School	33.24	Independent school
+Dorset Studio School	29.72	Free school - studio school
+Ferndown Upper School	26.26	Community school
+Gillingham School	31.53	Voluntary controlled school
+The Grange School	29.72	Sponsored academy
+The Gryphon School	32.54	Academy converter - mainstream
+Highcliffe School	32.99	Academy converter - mainstream
+Isle of Portland Aldridge Community Academy	15	Sponsored academy
+Kingston Maurward College	29.72	Agriculture and Horticulture College
+Leweston School	41.59	Independent school
+Lytchett Minster School	29.79	Foundation school
+Milton Abbey School	21.48	Independent school
+Beaminster School	34.33	Voluntary controlled school
+The Purbeck School	28.12	Community school
+Queen Elizabeth's School	27.18	Academy converter - mainstream
+Ringwood Waldorf School	29.72	Independent school
+St Mary's School	41.2	Independent school
+Shaftesbury School	29.23	Academy converter - mainstream
+Sherborne School	41.35	Independent school
+Sherborne School for Girls	38.74	Independent school
+The Sir John Colfox School	23.47	Academy converter - mainstream
+The Thomas Hardye School	33.08	Academy converter - mainstream
+Twynham School	31.48	Academy converter - mainstream
+The Blandford School	28.59	Voluntary controlled school
+Weymouth College	23.54	General Further Education College
+The Woodroffe School	30.31	Foundation school
+Bryanston School	40.32	Independent school
+Budmouth College	26.45	Foundation school
+Tor Bridge High	22.51	Academy converter - mainstream
+UTC Plymouth	12.47	Free school - UTC (university technical college)
+The Judd School	44.6	Voluntary aided school
+Kent College (Canterbury)	40.78	Independent school
+Kent College Pembury	39.06	Independent school
+The King's School Canterbury	43.59	Independent school
+Astor College (A Specialist College for the Arts)	14.73	Academy converter - mainstream
+Knole Academy	26.77	Sponsored academy
+The Leigh Academy	19.83	Sponsored academy
+The Leigh UTC	20.77	Free school - UTC (university technical college)
+Longfield Academy	27.81	Sponsored academy
+Aylesford School - Sports College	16.89	Foundation school
+Maidstone Grammar School	35.89	Foundation school
+Maidstone Grammar School for Girls	34.54	Foundation school
+The Norton Knatchbull School	30.97	Academy converter - mainstream
+Oakwood Park Grammar School	32.32	Academy converter - mainstream
+Oasis Academy Hextable	13.33	Sponsored academy
+Oasis Academy Isle of Sheppey	18.95	Sponsored academy
+Barton Court Grammar School	33.65	Academy converter - mainstream
+Orchards Academy	29.72	Academy converter - mainstream
+Pent Valley Technology College	13.48	Foundation school
+Queen Elizabeth's Grammar School	32.36	Academy converter - mainstream
+Radnor House Sevenoaks	29.61	Independent school
+The Royal Harbour Academy	29.72	Foundation school
+Sackville School	31.38	Independent school
+Beechwood Sacred Heart School	33.03	Independent school
+St Anselm's Catholic School, Canterbury	20.58	Academy converter - mainstream
+St Augustine Academy	29.72	Sponsored academy
+St Edmund's Catholic School	14.27	Voluntary aided school
+St Edmund's Catholic School	29.72	Sponsored academy
+St Edmund's School Canterbury	36.45	Independent school
+St George's Church of England Foundation School	17.8	Foundation school
+Saint George's Church of England School	28.24	Academy converter - mainstream
+St Gregory's Catholic School	30.84	Academy converter - mainstream
+St John's Catholic Comprehensive	24.84	Voluntary aided school
+Benenden School	47.71	Independent school
+Bennett Memorial Diocesan School	31.88	Academy converter - mainstream
+St Lawrence College	33.19	Independent school
+Bethany School	29.44	Independent school
+St Simon Stock Catholic School	33.21	Academy converter - mainstream
+Sandwich Technology School	23.71	Academy converter - mainstream
+SchoolsCompany The Goodwin Academy	18.48	Sponsored academy
+Sevenoaks School	49.99	Independent school
+Simon Langton Girls' Grammar School	34.33	Voluntary controlled school
+Simon Langton Grammar School for Boys	35.49	Foundation school
+Sir Roger Manwood's School	35.03	Academy converter - mainstream
+Sittingbourne Community College	25.26	Sponsored academy
+Skinners' Kent Academy	24.83	Sponsored academy
+The Skinners' School	43.77	Academy converter - mainstream
+Spires Academy	29.72	Sponsored academy
+Sutton Valence School	38.84	Independent school
+Swadelands School	29.72	Community school
+Tonbridge Grammar School	44.97	Academy converter - mainstream
+Tonbridge School	48.34	Independent school
+Towers School and Sixth Form Centre	21.48	Academy converter - mainstream
+Trinity School	29.72	Free school - mainstream
+Tunbridge Wells Girls' Grammar School	42.02	Foundation school
+Tunbridge Wells Grammar School for Boys	32.42	Community school
+Ursuline College, Westgate-On-Sea	19.93	Academy converter - mainstream
+Valley Park School	26.46	Academy converter - mainstream
+Walthamstow Hall	43.2	Independent school
+Weald of Kent Grammar School	39.17	Academy converter - mainstream
+West Kent and Ashford College	20.97	General Further Education College
+Westlands School	27.03	Academy converter - mainstream
+Wilmington Academy	22.31	Sponsored academy
+Wilmington Grammar School for Boys	29.65	Academy converter - mainstream
+Wilmington Grammar School for Girls	31.53	Academy converter - mainstream
+Borden Grammar School	26.91	Academy converter - mainstream
+Wrotham School	25.01	Academy converter - mainstream
+Wye School	29.72	Free school - mainstream
+Brockhill Park Performing Arts College	20.01	Academy converter - mainstream
+Broomhill Bank School	29.72	Foundation special school
+The Canterbury Academy	19.11	Academy converter - mainstream
+Canterbury College	22.83	General Further Education College
+Chatham Grammar School for Boys	29.77	Academy converter - mainstream
+Chatham Grammar School for Girls	34.2	Academy converter - mainstream
+Fort Pitt Grammar School	29.84	Academy converter - mainstream
+Greenacre School	18.31	Academy converter - mainstream
+The Howard School	21.87	Academy converter - mainstream
+The Hundred of Hoo Academy	26.29	Sponsored academy
+King's School, Rochester	36.04	Independent school
+Medway UTC	29.72	Free school - UTC (university technical college)
+The Rochester Grammar School	42.7	Academy converter - mainstream
+Rochester Independent College	35.47	Independent school
+St John Fisher Catholic Comprehensive School	20.88	Voluntary aided school
+Sir Joseph Williamson's Mathematical School	38.23	Academy converter - mainstream
+Strood Academy	19.45	Sponsored academy
+The Thomas Aveling School	24.89	Academy converter - mainstream
+The Victory Academy	21.58	Sponsored academy
+Walderslade Girls' School	21.58	Academy converter - mainstream
+Brompton Academy	22.33	Sponsored academy
+PGW Partnership of Greenacre and Walderslade	20.49	
+Kings Bournemouth	42.19	Independent school
+LeAF Studio	24.25	Free school - studio school
+Avonbourne College	29.44	Academy converter - mainstream
+Oak Academy	16.23	Academy converter - mainstream
+Parkfield School	29.72	Free school - mainstream
+St Peter's Catholic Comprehensive School	28.26	Academy converter - mainstream
+The Bishop of Winchester Academy	23.43	Sponsored academy
+Talbot Heath School	36.45	Independent school
+Slindon College	29.72	Independent school
+Bishop Luffa School, Chichester	34.82	Academy converter - mainstream
+Steyning Grammar School	31.86	Voluntary controlled school
+Thomas Bennett Community College	21.47	Academy converter - mainstream
+Weald School, the	34.25	Community school
+Worth School	39.01	Independent school
+Worthing College	29.6	General Further Education College
+Burgess Hill Girls	43.66	Independent school
+Chichester High Schools Sixth Form	28.71	
+City College Brighton and Hove	32.66	General Further Education College
+Hove Park School and Sixth Form Centre	24.31	Community school
+King's School	29.72	Free school - mainstream
+Portslade Aldridge Community Academy	19.05	Sponsored academy
+Roedean School	44.11	Independent school
+Bellerbys College Brighton	36.21	Independent school
+Varndean College	34.22	Sixth Form College
+Blatchington Mill School and Sixth Form College	24.56	Community school
+Brighton Aldridge Community Academy	17.06	Sponsored academy
+Brighton and Hove High School	43.28	Independent school
+Claremont School	29.47	Independent school
+Eastbourne College	40.83	Independent school
+Gildredge House	29.72	Free school - mainstream
+Greenfields School	29.72	Independent school
+Hailsham Community College	31.86	Academy converter - mainstream
+Ark Helenswood Academy	31.46	Academy converter - mainstream
+Heathfield Community College	31.65	Community school
+Ark William Parker Academy	31.45	Sponsored academy
+Lewes Old Grammar School	30.41	Independent school
+Mayfield School	39.89	Independent school
+Michael Hall School	37.91	Independent school
+Moira House Girls' School	35.08	Independent school
+Battle Abbey School	35.48	Independent school
+Beacon Academy	27.57	Academy converter - mainstream
+Plumpton College	29.72	Agriculture and Horticulture College
+Bede's Senior School	41.49	Independent school
+Ringmer Community College	22.45	Academy converter - mainstream
+Rye Studio School	33.08	Free school - studio school
+Bexhill College	26.6	Sixth Form College
+Seaford Head School	28.53	Academy converter - mainstream
+Sussex Coast College Hastings	24.28	General Further Education College
+Sussex Downs College	28.95	General Further Education College
+Uckfield Community Technology College	31.85	Community school
+Uplands Community College	27.71	Community school
+UTC@harbourside	29.72	Free school - UTC (university technical college)
+Buckswood School	32.48	Independent school
+CATS Canterbury	29.41	Independent school
+The Charles Dickens School	18.28	Foundation school
+Chatham & Clarendon Grammar School	29.18	Academy converter - mainstream
+Cobham Hall	35.05	Independent school
+The Community College Whitstable	19.54	Community school
+Cornwallis Academy	24.53	Sponsored academy
+Cranbrook School	38.69	Academy converter - mainstream
+The Abbey School	17.2	Academy converter - mainstream
+Dane Court Grammar School	33.98	Academy converter - mainstream
+Dartford Grammar School	42.77	Academy converter - mainstream
+Dartford Grammar School for Girls	35.89	Foundation school
+Dartford Science & Technology College	26.38	Foundation school
+Dover Christ Church Academy	20.9	Sponsored academy
+Dover College	29.29	Independent school
+Dover Grammar School for Boys	28.83	Foundation school
+Dover Grammar School for Girls	35.29	Community school
+Duke of York's Royal Military School	22.76	Sponsored academy
+Earlscliffe (Sussex Summer Schools Ltd)	35.02	Independent school
+East Kent College	29.72	General Further Education College
+The Ebbsfleet Academy	29.72	Sponsored academy
+Focus School - Linton Park Campus	26.57	Independent school
+Folkestone Academy	26.63	Sponsored academy
+The Folkestone School for Girls	33.48	Academy converter - mainstream
+Fulston Manor School	23.26	Academy converter - mainstream
+Gravesend Grammar School	33.13	Academy converter - mainstream
+Hadlow College	29.72	Agriculture and Horticulture College
+The Archbishop's School	20.07	Foundation school
+Hartsdown Academy	12.38	Academy converter - mainstream
+The Harvey Grammar School	31.94	Academy converter - mainstream
+The Hayesbrook School	24.57	Academy converter - mainstream
+Herne Bay High School	21.87	Academy converter - mainstream
+High Weald Academy	19.7	Sponsored academy
+Highsted Grammar School	35.9	Academy converter - mainstream
+Highworth Grammar School	40.35	Academy converter - mainstream
+Hillview School for Girls	27.16	Academy converter - mainstream
+The Holmesdale School	16.82	Foundation school
+Homewood School and Sixth Form Centre	27.23	Academy converter - mainstream
+Hugh Christie Technology College	23.3	Foundation school
+Ashford School	40.32	Independent school
+Ifield School	29.72	Foundation special school
+Invicta Grammar School	36.65	Academy converter - mainstream
+The John Wallis Church of England Academy	20.42	Sponsored academy
+The Malling School	11.74	Foundation school
+The Maplesden Noakes School	23.66	Academy converter - mainstream
+The Marsh Academy	18.08	Sponsored academy
+Mascalls Academy	26.87	Academy converter - mainstream
+Mayfield Grammar School, Gravesend	31.13	Academy converter - mainstream
+Meopham School	25.22	Sponsored academy
+New Line Learning Academy	29.72	Sponsored academy
+North Kent College	29.72	General Further Education College
+The North School	21.37	Community school
+Northfleet School for Girls	20.15	Foundation school
+Northfleet Technology College	16.83	Foundation school
+Itchen College	27.5	Sixth Form College
+King Edward VI School	43.62	Independent school
+Richard Taunton Sixth Form College	24.41	Sixth Form College
+St Anne's Catholic School	24.53	Academy converter - mainstream
+Southampton City College	29.72	General Further Education College
+Bitterne Park School	26.88	Community school
+Frensham Heights School	34.09	Independent school
+Fullbrook School	31.07	Academy converter - mainstream
+George Abbot School	34.05	Academy converter - mainstream
+Glyn School	33.52	Academy converter - mainstream
+Godalming College	33.87	Sixth Form College
+Gordon's School	40.95	Academy converter - mainstream
+Greenacre School for Girls	38.2	Independent school
+Guildford College of Further and Higher Education	27.4	General Further Education College
+Guildford County School	34.55	Academy converter - mainstream
+Guildford High School	50.56	Independent school
+Halliford School	32.81	Independent school
+Heathside School	35.65	Academy converter - mainstream
+Hinchley Wood School	33.61	Academy converter - mainstream
+Hoe Valley School	29.72	Free school - mainstream
+The Ashcombe School	31.31	Community school
+Howard of Effingham School	32.89	Academy converter - mainstream
+Hurtwood House School	44.26	Independent school
+King Edward's School Witley	36.53	Independent school
+Kings College Guildford	13.24	Sponsored academy
+Lingfield Notre Dame	40.86	Independent school
+North East Surrey College of Technology	29.72	General Further Education College
+Notre Dame Senior School	37.32	Independent school
+Oxted School	30.78	Academy converter - mainstream
+The Beacon School	20.93	Academy converter - mainstream
+Prior's Field School	36.97	Independent school
+The Priory CofE Voluntary Aided School	29.44	Voluntary aided school
+Reeds School	39.26	Independent school
+Reigate College	31.68	Sixth Form College
+Reigate Grammar School	45.24	Independent school
+Rosebery School	35.35	Academy converter - mainstream
+Royal Alexandra and Albert School	31.27	Voluntary aided school
+Royal Grammar School	49.68	Independent school
+The Royal School	39.48	Independent school
+Rydens Enterprise School and Sixth Form College	26.8	Academy converter - mainstream
+St Andrew's Catholic School	38.06	Voluntary aided school
+St Bede's School	33.05	Voluntary aided school
+St Catherine's School	45.69	Independent school
+St George's College Weybridge	42.58	Independent school
+St James Senior Boys' School	36.77	Independent school
+St John the Baptist Catholic Comprehensive School, Woking	39.99	Voluntary aided school
+St John's School, Leatherhead	42.43	Independent school
+St Paul's Catholic College	30.16	Voluntary aided school
+St Peter's Catholic School	31.89	Voluntary aided school
+St Teresa's School	41.49	Independent school
+Salesian School, Chertsey	36.13	Voluntary aided school
+Sir William Perkins's School	41.46	Independent school
+Strode's College	27.8	Sixth Form College
+The Bishop Wand Church of England School	28.54	Academy converter - mainstream
+Therfield School	25.27	Community school
+Tomlinscote School and Sixth Form College	25.52	Academy converter - mainstream
+Tormead School	45.42	Independent school
+Blenheim High School	26.98	Academy converter - mainstream
+Warlingham School	26.51	Academy converter - mainstream
+Woking College	30.84	Sixth Form College
+Woldingham School	43.39	Independent school
+Woodfield School	29.72	Community special school
+Yehudi Menuhin School	44.92	Independent school
+Box Hill School	32.46	Independent school
+Brooklands College	15.98	General Further Education College
+Central Sussex College	28.61	General Further Education College
+Chichester College	27.78	General Further Education College
+Chichester Free School	29.72	Free school - mainstream
+Chichester High School for Boys	24.61	Academy converter - mainstream
+Chichester High School	32.68	Academy converter - mainstream
+Christ's Hospital	39.35	Independent school
+The College of Richard Collyer In Horsham	32.67	Sixth Form College
+The Angmering School	28.34	Community school
+Farlington School	32.36	Independent school
+Felpham Community College	28.63	Community school
+Ardingly College	43.11	Independent school
+Hazelwick School	32.82	Academy converter - mainstream
+Holy Trinity CofE Secondary School, Crawley	30.95	Voluntary aided school
+Hurstpierpoint College	43.97	Independent school
+Ifield Community College	22.48	Community school
+Imberhorne School	30.45	Community school
+Lancing College	40.7	Independent school
+The Littlehampton Academy	28.05	Sponsored academy
+Midhurst Rother College	30.07	Sponsored academy
+Northbrook College, Sussex	26.43	General Further Education College
+Oriel High School	27.22	Community school
+Our Lady of Sion School	39.04	Independent school
+The Regis School	25.36	Sponsored academy
+Sackville School	31.86	Community school
+St Paul's Catholic College	31.4	Voluntary aided school
+The St Philip Howard Catholic High School	30.71	Voluntary aided school
+St Wilfrid's Catholic Comprehensive School, Crawley	29.44	Voluntary aided school
+Seaford College	27.29	Independent school
+Shoreham Academy	25.63	Sponsored academy
+The Sir Robert Woodard Academy	25.75	Sponsored academy
+Brighton College	50.2	Independent school
+Brighton Hove and Sussex Sixth Form College	35.82	Sixth Form College
+Cardinal Newman Catholic School	30.22	Voluntary aided school
+Winchester College	48.22	Independent school
+Yateley School	27.7	Community school
+Brockenhurst College	28.79	General Further Education College
+Brockwood Park School	29.72	Independent school
+The Burgate School and Sixth Form	28.8	Academy converter - mainstream
+Christ The King College	28.93	Voluntary aided school
+Cowes Enterprise College	25.45	Sponsored academy
+The Isle of Wight College	27.27	General Further Education College
+Isle of Wight Studio School	29.72	Free school - studio school
+Medina College	27.16	Foundation school
+Priory School	29.72	Independent school
+Ryde Academy	18.91	Sponsored academy
+Ryde School with Upper Chine	39.7	Independent school
+Sandown Bay Academy	24.58	Sponsored academy
+Carisbrooke College	25.88	Foundation school
+Ark Charter Academy	29.72	Sponsored academy
+Highbury College	26.57	General Further Education College
+Portsmouth College	26.75	Sixth Form College
+The Portsmouth Grammar School	43.1	Independent school
+Portsmouth High School	40.64	Independent school
+St John's College	33.02	Independent school
+Caterham School	44.22	Independent school
+All Hallows Catholic School	35.37	Voluntary aided school
+Charterhouse	45.13	Independent school
+Christ's College, Guildford	22.88	Voluntary aided school
+City of London Freemen's School	44.56	Independent school
+Claremont Fan Court School	37.85	Independent school
+Cobham Free School	29.72	Free school - mainstream
+Collingwood College	29.33	Academy converter - mainstream
+Cranleigh School	39.84	Independent school
+Dunottar School	33.91	Independent school
+East Surrey College	29.72	General Further Education College
+Epsom and Ewell High School	24.36	Academy converter - mainstream
+Epsom College	45.05	Independent school
+Esher College	33.76	Sixth Form College
+Ewell Castle School	27.19	Independent school
+Focus School - Hindhead Campus	28.76	Independent school

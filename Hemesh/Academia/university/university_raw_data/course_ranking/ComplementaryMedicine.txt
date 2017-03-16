@@ -1,0 +1,8 @@
+1	1	Swansea University	329	4.00	3.49	 	100.0
+2	5	Glasgow Caledonian University	 	4.40	3.11	 	98.2
+3	4	Bournemouth University	346	4.17	2.56	95	95.8
+4	9	University of Westminster	 	4.08	2.75	90	95.0
+5	3	University of Greenwich	321	3.96	 	95	87.4
+6	6	University of South Wales	321	3.72	 	95	86.1
+7	11	Cardiff Metropolitan University	 	4.30	 	65	84.8
+8	14	Wrexham Glyndwr University	 	4.16	 	55	81.2

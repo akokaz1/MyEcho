@@ -1,0 +1,21 @@
+Rank 2017 - Reversed	Univeristy Name	Entery Standards	Student Satisfaction	Research Quality	Graducate Prospects	Overall Score
+20	Loughborough University	393	4.15	3.04	82	100.0
+19	Robert Gordon University	N/A	4.22	2.65	84	93.8
+18	University of Brighton	N/A	4.09	2.90	N/A	93.3
+17	University of Portsmouth	319	4.19	2.93	76	92.9
+16	Brunel University London	341	3.76	2.74	72	92.7
+15	University of Central Lancashire	N/A	3.93	2.79	82	92.6
+14	Northumbria University	347	3.94	2.45	66	92.4
+13	Bournemouth University	N/A	3.91	N/A	98	91.3
+12	University of Chester	N/A	4.08	N/A	88	89.4
+11	Manchester Metropolitan University	337	4.13	2.60	60	88.9
+10	Sheffield Hallam University	294	4.04	2.72	66	88.6
+9	De Montfort University	276	4.15	N/A	86	87.4
+8	Aberystwyth University	285	3.59	2.18	70	86.7
+7	Glasgow Caledonian University	N/A	4.05	2.64	54	86.7
+6	Leeds Beckett University	290	4.18	1.52	N/A	84.5
+5	University of Greenwich	351	3.72	N/A	54	84.1
+4	Nottingham Trent University	264	4.08	N/A	62	82.0
+3	University of Derby	229	4.24	N/A	68	81.7
+2	University of Wales Trinity Saint David	220	4.39	N/A	66	81.3
+1	London South Bank University	N/A	3.07	2.42	40	79.1
